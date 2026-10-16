@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "section": "oyun",
+  "publish_date": "2026-10-16",
+  "date": "16 Ekim 2026",
+  "issue": 1,
+  "ready": true,
+  "stories": [
+    {
+      "id": "d267f280c00aba9e",
+      "category": "OYUN DÜNYASI",
+      "title": "Sega, Yapay Zekâ Tepkilerinin Ardından Total War: Shogun 2 Remaster'ı Satıştan Kaldırdı",
+      "summary": "Sega ve Creative Assembly, oyunculardan gelen sert tepkilerin ardından Total War: Shogun 2 - Complete Edition'ı dijital mağazalardan çekerek yerine 2011'deki orijinal sürümü geri getirdi. 13 Ekim'de yayımlanan sürümde oyuncular, yapay zekâ ile çözünürlük yükseltmeden (AI-upscaling) kaynaklanan bozulmalar, arayüz sorunları ve çözülmemiş eski hatalar tespit etmişti. Steam'de yüzde 81'in üzerinde olumsuz yorum alan oyun için Sega, deneyimin standartların altında kaldığını kabul eden bir açıklama yaptı.",
+      "why": "Oyun sektöründe yapay zekâ destekli görsel yükseltme yöntemlerine ve özensiz yenilenen sürümlere karşı oyuncu tepkisinin somut bir geri adımla sonuçlanmasını gösteriyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/",
+      "source_published_at": "2026-10-15T17:10:28+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Shogun-2.jpg?w=300"
+    },
+    {
+      "id": "ca8fa7be4426e573",
+      "category": "OYUN SEKTÖRÜ",
+      "title": "Control Resonant Korsana Rağmen 1 Milyon Satışla Remedy Rekoru Kırdı",
+      "summary": "Remedy'nin yeni yapımı Control Resonant, 1 milyon satış adedine ulaşarak stüdyonun bugüne kadar en hızlı satan oyunu oldu. Yapım, Eylül ayındaki dijital lansmanının ardından sızdırılıp kırılmasına ve korsan olarak dağıtılmasına rağmen bu başarıyı yakaladı.",
+      "why": "Çıkış döneminde korsana yenik düşen yapımların dahi güçlü bir ticari ivme yakalayarak geliştiricisi adına rekor kırabileceğini kanıtlıyor.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
+      "source_published_at": "2026-10-15T23:04:38+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/10/controlthumb-1789054804916.png"
+    },
+    {
+      "id": "e000c1a8cfc7b77b",
+      "category": "KONSOL & SERVİSLER",
+      "title": "Call of Duty: Modern Warfare 4 İlk Günden Game Pass'e Gelmeyecek",
+      "summary": "Activision, 23 Ekim'de çıkacak olan Call of Duty: Modern Warfare 4'ün çıkış gününde Xbox Game Pass kütüphanesinde yer almayacağını hatırlattı. Oyun en az bir yıl boyunca 70 ila 100 dolar arasında değişen fiyatlarla bağımsız olarak satılacak ve Game Pass abonelerine ancak gelecek yılın sonunda sunulacak.",
+      "why": "Microsoft'un amiral gemisi Call of Duty yapımlarını doğrudan Game Pass'e dahil etme stratejisinden geri adım atarak gelir modelini yeniden yapılandırdığını gösteriyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/",
+      "source_published_at": "2026-10-15T19:21:10+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4NewGame.jpg?w=300"
+    },
+    {
+      "id": "bab84095a05b244d",
+      "category": "DİJİTAL HAKLAR",
+      "title": "ABD'de Dijital Oyun Mülkiyetini Güvenceye Alacak Yasa Tasarısı Sunuldu",
+      "summary": "Demokrat Kongre Üyesi Ritchie Torres, oyuncuların satın aldıkları dijital oyunların yalnızca kullanım lisansına değil, doğrudan mülkiyetine sahip olmalarını sağlamayı hedefleyen bir yasa tasarısı hazırladı.",
+      "why": "Dijital mağazalarda satın alınan içeriklerin lisans iptaliyle kaybolması riskine karşı oyuncu haklarını yasal düzeyde korumayı amaçlayan kritik bir girişimdir.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games",
+      "source_published_at": "2026-10-15T23:21:08+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/31/gettyimages-2186493403-1785487186283.jpg"
+    },
+    {
+      "id": "6d70e538f103b9f4",
+      "category": "STÜDYO & GELİŞTİRME",
+      "title": "Dan Houser, Rockstar'ın İptal Edilen Casusluk Oyunu Agent'ın Nedenini Açıkladı",
+      "summary": "Rockstar kurucularından Dan Houser, E3 2009'da duyurulan PlayStation'a özel açık dünya casusluk oyunu Agent'ın akıbetine dair ayrıntılar paylaştı. Houser, iki ila üç farklı ekiple denemeler yapılmasına ve iyi parçalar üretilmesine rağmen küresel casusluk deneyiminin açık dünya formülüyle bir türlü uyuşmadığını ve bu yüzden projeyi tamamlayamadıklarını belirtti.",
+      "why": "Oyun dünyasının en çok merak edilen iptal edilmiş projelerinden birinin perde arkasını doğrudan stüdyonun tepe isminden gelen somut gerekçelerle netleştiriyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/why-rockstar-canceled-its-playstation-exclusive-follow-up-to-gta-4/",
+      "source_published_at": "2026-10-15T19:23:16+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_Duval_10.jpg?w=300"
+    },
+    {
+      "id": "26ec03a4d3bc37c9",
+      "category": "PC OYUNLARI",
+      "title": "Blizzard, World of Warcraft: Forever ile Orijinal Evrene Kapsamlı Yenilikler Getiriyor",
+      "summary": "Blizzard, 4 Kasım'da çıkacak World of Warcraft: Forever için 1.000'den fazla yeni görev, dört yeni bölge ve Skyborne elfleri adlı daha önce görülmemiş yeni bir oynanabilir ırk hazırladı. Yapımcılar Clay Stone ve Holly Longdale, yapımın geçmişi sadece kopyalamak yerine orijinal Azeroth sınırları içinde kalarak büyük riskler ve yeni sistemler sunacağını açıkladı.",
+      "why": "Yirmi yılı aşkın geçmişe sahip klasik MMO deneyiminin sadece nostaljiye dayanmak yerine yepyeni genişleme ölçeğinde içeriklerle nasıl evrildiğini belgeliyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/how-wow-forever-is-pushing-the-envelope-and-what-comes-after-launch/",
+      "source_published_at": "2026-10-15T16:00:00+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Interview.jpg?w=300"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün sesli özeti",
+    "episode": 1,
+    "duration": 240.0,
+    "bytes": 1440144,
+    "sha256": "253bf86b07b3837585fa01740b7e7d415b4400b6077ceab50eb63c58f1dc45d9"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 1,
+    "duration": 247.6,
+    "bytes": 3962715,
+    "sha256": "5e8f54ae0049095117a07eb29a25989e059cc37ff908f7257c6060a17c86ca49"
+  }
+}
