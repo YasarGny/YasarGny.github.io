@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="tr" class="pulse-loading">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#080e1a" />
+    <meta
+      name="description"
+      content="Nextcloud için Collabora dahili CODE sunucusu uygulamasındaki kritik komut çalıştırma açığı aktif saldırılara maruz kalıyor. Saldırganlar web kabukları yüklerken, resmi CVE kaydının yamadan haftalar sonra yayımlanması yöneticilerin savunma almasını zorlaştırdı."
+    />
+    <title>Nextcloud İçin Sunulan Collabora Eklentisinde Kritik Açık İstismar Ediliyor · PULSE</title>
+    <link rel="canonical" href="https://yasargny.github.io/teknoloji/haber/d0b52638beda04f7/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:site_name" content="PULSE" />
+    <meta
+      property="og:title"
+      content="Nextcloud İçin Sunulan Collabora Eklentisinde Kritik Açık İstismar Ediliyor"
+    />
+    <meta
+      property="og:description"
+      content="Nextcloud için Collabora dahili CODE sunucusu uygulamasındaki kritik komut çalıştırma açığı aktif saldırılara maruz kalıyor. Saldırganlar web kabukları yüklerken, resmi CVE kaydının yamadan haftalar sonra yayımlanması yöneticilerin savunma almasını zorlaştırdı."
+    />
+    <meta property="og:url" content="https://yasargny.github.io/teknoloji/haber/d0b52638beda04f7/" />
+    <meta
+      property="og:image"
+      content="https://yasargny.github.io/assets/og.png?v=2"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="../../../assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="../../../assets/style.css?v=5" />
+    <script src="../../../assets/publication.js?v=4" defer></script>
+    <script src="../../../assets/printing.js" defer></script>
+    
+  </head>
+  <body data-design="editorial-v4" data-page="teknoloji" class="technology">
+    <noscript
+      ><main class="nojs">
+        <h1>PULSE</h1>
+        <p>
+          Yayın durumunu doğrulamak ve oynatıcıları kullanmak için JavaScript’i
+          etkinleştirin.
+        </p>
+      </main></noscript
+    >
+    <div class="site-shell">
+      <a class="skip" href="#main">İçeriğe geç</a>
+      <header class="nav">
+        <a class="brand" href="../../../" aria-label="PULSE ana sayfa"
+          >PULSE<span class="brand-dot">.</span></a
+        >
+        <nav aria-label="Ana menü">
+          <a href="../../../teknoloji/" aria-current="page">Teknoloji</a
+          ><a href="../../../oyun/">Oyun</a>
+        </nav>
+      </header>
+      <main id="main" class="detail-main"><a class="back" href="../../">← Günün gündemi</a>
+    <div class="detail-meta">16.10.2026 · Sayı 001 · SİBER GÜVENLİK</div>
+    <h1>Nextcloud İçin Sunulan Collabora Eklentisinde Kritik Açık İstismar Ediliyor</h1><article class="story"><figure><img class="story-image" src="https://www.bleepstatic.com/content/hl-images/2026/10/15/nextcloud.jpg" alt="Nextcloud İçin Sunulan Collabora Eklentisinde Kritik Açık İstismar Ediliyor" decoding="async"><figcaption>Görsel: BleepingComputer</figcaption></figure>
+    <div class="article-text"><p>Nextcloud platformunda isteğe bağlı olarak kullanılan Collabora Online dahili CODE sunucusu uygulamasında (richdocumentscode) kritik bir komut çalıştırma açığının istismar edildiği bildirildi. CVE-2026-110447 olarak tanımlanan güvenlik açığı, uygulamanın proxy.php uç noktasına kötü amaçlı istek gönderilerek işletim sistemi komutlarının tetiklenmesine yol açıyor. Saldırının başarılı olması için dahili sunucunun yeniden başlatma, çökme veya güncelleme gibi nedenlerle durdurulmuş olması gerekirken, herhangi bir kimlik doğrulaması ya da kullanıcı etkileşimi aranmıyor.</p><p>Sistem yöneticilerinin aktardığı raporlara göre saldırılar resmi güvenlik bülteni ve CVE kaydından yaklaşık bir ay önce, eylül ayı ortalarında başladı. Güvenlik açığını kullanan saldırganların sistemlere PHP tabanlı web kabukları yerleştirdiği; şifre veritabanları, parola yöneticisi kayıtları ve kripto para cüzdanlarını aradığı tespit edildi. Collabora, açığın yalnızca isteğe bağlı dahili CODE sunucusu uygulamasını kapsadığını; bağımsız sunucuların, Docker, RPM/DEB ve Nextcloud All-in-One kurulumlarının etkilenmediğini duyurdu.</p><p>Zafiyete ilişkin düzeltme 9 Eylül&#x27;de hazırlanıp 11 Eylül&#x27;de yayımlanan 26.4.303 sürümüyle sunulmasına rağmen, resmi CVE kaydı ve güvenlik duyurusu 14 Ekim&#x27;de açıklandı. Collabora, bildirimdeki gecikmeyi yapay zeka kaynaklı güvenlik raporlarının GitHub üzerindeki CVE işleme süreçlerinde yarattığı yoğunluğa bağladı. Uzmanlar, yöneticilere uygulamanın en az 26.4.303 sürümüne güncellenmesini ya da ihtiyaç duyulmuyorsa tamamen kaldırılmasını tavsiye ediyor.</p></div><div class="why"><strong>NEDEN ÖNEMLİ?</strong><p>CVE-2026-110447 kodlu açık, kimlik doğrulaması gerektirmeden sunucularda uzaktan komut çalıştırılmasına ve parola ile kripto para cüzdanlarının hedef alınmasına zemin hazırlıyor.</p></div>
+    <a class="source-link" href="https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/" target="_blank" rel="noopener noreferrer">BleepingComputer · Kaynağı oku →</a></article></main>
+      <footer class="foot">
+        <a class="policy-link" href="https://yasargny.github.io/gizlilik/"
+          >Gizlilik</a
+        >
+        <a class="brand" href="../../../" aria-label="PULSE ana sayfa"
+          >PULSE<span class="brand-dot">.</span></a
+        >
+      </footer>
+    </div>
+  </body>
+</html>
