@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "expanded-v1",
+  "section": "oyun",
+  "publish_date": "2026-10-17",
+  "date": "17 Ekim 2026",
+  "issue": 2,
+  "ready": true,
+  "stories": [
+    {
+      "id": "f32cd5ad3eae22bd",
+      "category": "SEKTÖR",
+      "title": "Control Resonant Remedy Tarihinin En Hızlı Satan Oyunu Oldu",
+      "summary": "Remedy Entertainment, Control Resonant'ın çıkışından yaklaşık üç hafta sonra 1 milyon satış barajını aştığını duyurdu. Yapım, stüdyonun 31 yıllık tarihindeki en hızlı satan oyun unvanını elde etti.",
+      "why": "Oyun, Remedy'nin bu ölçekte kendi yayımladığı ilk proje olması ve stüdyonun 31 yıllık geçmişinde Alan Wake 2 dahil tüm yapımları geride bırakarak en hızlı satan oyun unvanını alması açısından kritik önem taşıyor.",
+      "event_key": "remedy-control-resonant-rekor-satis",
+      "brief": "Remedy Entertainment, Control Resonant'ın çıkışının üçüncü haftasında 1 milyon satış sınırını aştığını duyurdu. 31 yıllık stüdyo tarihinin en hızlı satan yapımı olan oyun, yoğun rekabete rağmen Alan Wake 2 ve ilk Control'ün satış temposunu geride bıraktı.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/control-resonant-sales-remedy-entertainment",
+      "source_published_at": "2026-10-16T11:00:24+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/control-resonant-upside-down-new-york-shot-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Remedy Entertainment, son oyunu Control Resonant'ın çıkışının üzerinden yaklaşık üç hafta geçtikten sonra 1 milyon kopya satış barajını geride bıraktığını duyurdu. Bu başarıyla birlikte Resonant, Fin stüdyonun 31 yıllık geçmişinde en hızlı satan yapım unvanını elde etti. Geliştirici ekip, satışların dijital ve fiziksel dağılımını ya da en çok satan platformu paylaşmadı.",
+        "Şubat ayında şirketin liderliğini üstlenen Remedy CEO'su Jean-Charles Gaudechon, bu durumu son derece güçlü bir başlangıç olarak nitelendirdi. Gaudechon, Control Resonant'ın Remedy'nin bu ölçekte kendi yayımladığı ilk proje olduğunu ve sektörün devleriyle dolu yoğun bir takvimde piyasaya sürüldüğünü belirtti. Ayrıca stüdyonun Control ve Alan Wake serilerini geliştirmeye ve büyütmeye devam edeceğini yineledi.",
+        "Daha önceki verilere bakıldığında, orijinal Control oyunu piyasaya sürüldükten 15 ay sonra, 2020 sonunda 2 milyon satışa ulaşabilmişti. Önceki rekor sahibi Alan Wake 2 ise 2023 yılında 1 milyonluk satış barajına yaklaşık iki ayda ulaşmıştı. Control Resonant, daha düşük inceleme puanlarına rağmen bu süreyi üç haftaya indirerek her iki yapımı da geride bıraktı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "120645155933ed9ca04921bcc1798aaf34e7999d37b6b09f5e6060f4c90c54a3"
+    },
+    {
+      "id": "afa23467b7b9a0df",
+      "category": "MMORPG",
+      "title": "Jagex Yoğun Tepkilerin Ardından RuneScape Reignited Projesini İptal Etti",
+      "summary": "Jagex, duyurusunun üzerinden iki hafta bile geçmeden RuneScape: Reignited modunu iptal ettiğini açıkladı. Karar, mevcut oyuncu kitlesinin bölünme endişesiyle verdiği yoğun tepkiler sonucunda alındı.",
+      "why": "Yıllardır süregelen MMORPG'de yapılması planlanan köklü ekonomik ve yapısal değişikliğin, topluluktan gelen sert geri bildirimler üzerine Jagex tarafından hızla geri çekilmesini ve geçmiş hataların tekrarlanmaması yönündeki şirket tavrını gösteriyor.",
+      "event_key": "runescape-reignited-proje-iptali",
+      "brief": "Jagex, bu ay düzenlenen RuneFest etkinliğinde duyurduğu RuneScape Reignited modunu gelen sert tepkiler nedeniyle iki hafta geçmeden iptal etti. Oyuncular, bağımsız ekonomiye sahip yeni yapının topluluğu böleceğini ve eski hesapları olumsuz etkileyeceğini savundu.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
+      "source_published_at": "2026-10-16T09:07:10+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/runescape-reignited-logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "İngiliz oyun stüdyosu Jagex, köklü MMORPG oyunu için duyurduğu RuneScape: Reignited projesini tanıtılmasından iki haftadan kısa bir süre sonra iptal etti. Bu ayki RuneFest sırasında tanıtılan mod, yeni oyuncuların ilgisini çekmek amacıyla ayrı bir oyuncu ekonomisi ve sıfırdan başlangıç karakterleri sunmayı hedefliyordu.",
+        "Reignited hesaplarının normal hesaplarla boss mücadelelerine girmesi veya ticaret yapması kısıtlanmıştı. Ancak mevcut oyuncular bu duruma hızla ve sert biçimde tepki gösterdi. Oyuncuların temel endişesi, kitlenin ikiye bölünmesi, mevcut oyunun yeni oyuncu akışından mahrum kalması ve eski oyuncuların yeni deneyime geçmek için yılların emeğini çöpe atmak zorunda kalacak olmasıydı.",
+        "Jagex iptal kararını bir blog yazısı ve video ile duyurdu. Ortak Kreatif Direktör Mod Ryan, geçmişte oyuncu geri bildirimlerini dinlemediklerinde savaş sisteminin değiştiğini ve bu hatayı telafi etmenin on yıldan fazla sürdüğünü belirterek benzer hataları tekrarlamak istemediklerini ifade etti. Şirket, Aralık ayında oyuna Macera Rehberi güncellemesi ve ücretsiz deneme sunacağını, ayrıca etkinlikte RuneScape 4'ün de duyurulduğunu hatırlattı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9d9fdbad99824e95892f5f8becf056b3f8dfde3c3d60a933b11001c055889dbb"
+    },
+    {
+      "id": "458f6f7b2fb93e99",
+      "category": "GÜNCELLEME",
+      "title": "Battlefield Studios Battlefield 6'daki İstenmeyen XP Kısıtlamasını Geri Aldı",
+      "summary": "Battlefield 6'nın 5. Sezonu ile birlikte gelen ve oyuncuların tecrübe puanı kazanımını ciddi şekilde düşüren değişiklik geri alındı. Battlefield Studios, bu durumun arka plan kaynaklı istemsiz bir hata olduğunu açıkladı.",
+      "why": "Yeni sezon lansmanında ortaya çıkan ve oyuncuların tecrübe kazanımını kısıtlayarak paralı içeriklerle ilişkilendirilen büyük bir teknik sorunun stüdyo tarafından resmi olarak kabul edilip hızla çözüme kavuşturulmasını belgeliyor.",
+      "event_key": "battlefield-6-xp-degisikligi-geri-alindi",
+      "brief": "Battlefield Studios, Battlefield 6 Sezon 5 ile gelen tartışmalı XP kısıtlamasını iptal etti. Şirket, dakika başına 300 XP sınırı getiren ve tepki çeken durumun arka plan yapılandırmasındaki istenmeyen bir sorundan kaynaklandığını belirterek oranları eski seviyesine getirdi.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
+      "source_published_at": "2026-10-16T08:37:38+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/battlefield-6-season-5-vegas-shot-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Battlefield 6 için bu hafta yayımlanan 5. Sezon, yeni haritalar ve içeriklerle birlikte gelse de tecrübe puanı (XP) kazanımındaki sert düşüş nedeniyle tartışmalı başladı. Güncellemenin ardından oyuncular eskisine kıyasla çok daha az XP kazandıklarını fark etti. Yapılan testlerde kazanımın dakikada en fazla 300 XP ile sınırlandırıldığı tespit edildi.",
+        "Düşüşün, sınıfları, 28 silahı ve 8 aracı anında en üst seviyeye çıkaran 30 dolarlık 'Ultimate Shortcut Kit' paketiyle aynı dönemde gerçekleşmesi oyuncularda tepkiye yol açtı. Battlefield Studios, iki gün sonra yaptığı açıklamada durumun arka plan yapılandırmasındaki istenmeyen bir sorundan kaynaklandığını belirtti. Resmi Battlefield Comms hesabı, arka plan değişikliklerinin geri alındığını ve kazanım oranlarının eski düzeyine döndüğünü teyit etti.",
+        "Sezon başlangıcında ayrıca bazı içeriklerin üretken yapay zeka ile hazırlandığına dair şüpheler ve kolda yer alan armadaki yazım yanlışı gibi unsurlar da eleştirilmişti. Geliştirici ekip telemetri verilerini izlemeyi sürdürdüklerini belirterek sabırları için topluluğa teşekkür etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9698455f42ff6f7f2eaff5a6e3315d1b99d8d98a006a34d958ca7117a319c6b9"
+    },
+    {
+      "id": "3c847b82490b6fd7",
+      "category": "PLATFORM",
+      "title": "Valve Steam İçin Başarım Kümeleri Özelliğini Beta Sürümde Başlattı",
+      "summary": "Valve, genişleyen oyunlardaki başarımları kategorilere ayırmaya olanak tanıyan Başarım Kümeleri özelliğini Steam betasında kullanıma sundu. Yenilikle birlikte başarımlar sayfası da yenilendi.",
+      "why": "Geliştiricilere başarımları ayrıştırma imkanı sunarak, ek paketlerin oyunculardaki yüzde yüz tamamlama rozetlerini bozmasını engelleyen ve başarım takibini modüler hale getiren önemli bir Steam arayüzü güncellemesidir.",
+      "event_key": "valve-steam-achievement-sets-beta",
+      "brief": "Valve, oyunlardaki başarımların ana oyun, DLC ve sezonlara göre gruplandırılmasını sağlayan Başarım Kümeleri özelliğini Steam İstemci Betası'nda yayınladı. Güncelleme ayrıca filtrelenebilir ve yenilenmiş bir başarım sayfası sunuyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
+      "source_published_at": "2026-10-16T10:23:52+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/steam-achievement-sets-beta-rollout-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Valve, oyun içi başarımları eksiksiz tamamlamayı hedefleyen kullanıcılar için 'Başarım Kümeleri' (Achievement Sets) adını verdiği yeni özelliğini Steam istemci betasında kullanıma açtı. Sistem, geliştiricilerin ek paket veya sezonlarla sürekli genişleyen oyunlardaki başarımları farklı kategorilere bölmesine imkan tanıyor.",
+        "Yapılan açıklamada Valve, günümüzde oyunların yeni DLC'ler, genişleme paketleri ve sezonlarla uzun süre güncellendiğini hatırlattı. Yeni eklenen içeriklerin oyunu daha önce bitirmiş oyuncuların yüzde yüz tamamlama durumunu bozabildiği ve yeni başarımların fark edilmesini zorlaştırdığı, bu kümelerin söz konusu sorunları gidermek amacıyla tasarlandığı kaydedildi. Geliştiriciler tek oyunculu ve çok oyunculu içerikleri ayırabilecek ya da süresi geçen sezon başarımlarını arşivleyebilecek.",
+        "Güncellemeyle beraber Steam başarım sayfası da baştan tasarlandı. Yeni sayfada genel ilerleme özeti, her bir kümenin ilerleme çubuğu, ayrıntılı başarım bilgileri ve kilit durumuna göre filtreleme seçenekleri yer alıyor. Oyuncular ayrıca başarımlarını en fazla üç arkadaşıyla kıyaslayabiliyor. Özellikten yararlanmak için Steam İstemci Betası'na katılım gerekiyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "119d674ffece5a65ae9a05027b199526e8c1a51098a086f2e276da450ea8ade4"
+    },
+    {
+      "id": "746e2b9972c7f6e3",
+      "category": "PC OYUNCULUĞU",
+      "title": "Epic Games, Fortnite'ı Linux Platformuna Getirmek İçin Çalışıyor",
+      "summary": "Epic Games, Fortnite'ı ve Epic Games Store başlatıcısını Linux işletim sistemine taşımak için hazırlıklara başladı. Planın hayata geçmesi, Linux dağıtım geliştiricilerinin belirlenen güvenlik gereksinimlerini karşılamasına bağlı olacak.",
+      "why": "Gelişme, Easy Anti-Cheat sisteminin Linux korumasını Windows düzeyine yaklaştırmayı hedeflediği için Steam Deck ve SteamOS gibi platformlarda hile korumalı birçok oyunun önünü açma potansiyeli taşıyor.",
+      "event_key": "epic-fortnite-linux-destegi",
+      "brief": "Epic Games, popüler nişancı oyunu Fortnite'ı Linux platformuna getirmek için çalışmalara başladı. Geliştirici, sistem güvenliğini sağlamak amacıyla Linux dağıtımlarıyla iş birliği yapacak. Başarı sağlanırsa oyunun Steam Deck gibi el konsollarında ve diğer Linux sistemlerinde oynanmasının önü açılacak.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "source_published_at": "2026-10-16T13:46:23+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/fortnite-blitz-royale.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Epic Games, popüler nişancı oyunu Fortnite'ı ve Epic Games Store mağazasını Linux işletim sistemine taşımak üzere resmi çalışmalara başladığını duyurdu. Bu hamle, Valve'ın Arch Linux tabanlı SteamOS işletim sistemini kullanan Steam Deck ve Steam Machine gibi taşınabilir ve masaüstü donanımları da yakından ilgilendiriyor.",
+        "Fortnite'ın Linux'ta çalışabilmesi için dağıtım geliştiricilerinin Epic Games tarafından belirlenen güvenlik gereksinimlerini sağlaması gerekiyor. Şirket, imzalı çekirdek, imzalı çekirdek modülleri ve onaylı güvenli önyükleme gibi özellikleri kapsayan bu standartların belirli bir kritik dağıtım kitlesi tarafından karşılanması durumunda oyunun EGS başlatıcısı üzerinden erişime açılacağını belirtti. Belirlenen bu şartlar sağlanamasa dahi yapılan çalışmalar Linux'a oyun uyarlamak isteyen diğer geliştiricilere sunulacak.",
+        "Girişimin merkezinde, Fortnite'ın yanı sıra Apex Legends ve Elden Ring gibi çok sayıda yapımda kullanılan Easy Anti-Cheat yazılımı yer alıyor. Epic Games, Linux'taki hile koruma seviyesini Windows düzeyine getirmeyi hedeflerken, bu adımları ilk olarak Fortnite üzerinde test edecek. Sürece ilişkin henüz net bir takvim açıklanmadı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ec5c045f3e40cfc3e513db5951fa9cacf87f34f9ca2e51bf3b72ce423c14fb94"
+    },
+    {
+      "id": "aa0aed0ba1725792",
+      "category": "STÜDYO",
+      "title": "CD Projekt Red Yeni Projesi Hadar'ın Henüz Ön Yapım Aşamasında Olmadığını Açıkladı",
+      "summary": "CD Projekt Red, Hadar kod adlı yeni projesini bugüne kadarki en büyük çalışması olarak nitelendirdi. Birkaç yıllık çalışmaya rağmen oyunun henüz ön yapım aşamasına dahi geçmediği bildirildi.",
+      "why": "Stüdyonun The Witcher ve Cyberpunk dışındaki ilk bağımsız markası olması ve uzun vadeli üretim planlamasını göstermesi açısından önem taşıyor.",
+      "event_key": "cdpr-proje-hadar-aciklamasi",
+      "brief": "CD Projekt Red, tamamen yeni bir fikri mülk olan Hadar kod adlı oyununun henüz ön yapım aşamasına gelmediğini açıkladı. Şirket, küçük prototipler ve oynanış testleriyle temel vizyonu şekillendirmeyi sürdürüyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
+      "source_published_at": "2026-10-16T11:09:05+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/what-is-cdpr-hadar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "CD Projekt Red, kod adı Hadar olan yeni oyununu şimdiye kadarki en büyük projesi olarak tanımlasa da yapımın henüz ön yapım aşamasına dahi ulaşmadığını duyurdu. Şirketin eş CEO'su Michał Nowakowski, ekibin evren vizyonunu netleştirdiğini, şu anda Unreal Engine üzerinde küçük prototipler ve oynanış mekaniği testleri yürüttüklerini belirtti.",
+        "Hadar, stüdyonun Andrzej Sapkowski'nin eserlerine dayanan The Witcher ya da Mike Pondsmith imzalı Cyberpunk 2077 projelerinden farklı olarak tamamen bağımsız, özgün bir fikri mülk olma özelliğini taşıyor. Dört yıl önce duyurulan projede, 31 Temmuz itibarıyla 33 kişilik bir ekibin çalıştığı biliniyor. Karşılaştırma yapıldığında The Witcher 4 üzerinde 519, Cyberpunk 2 projesinde 184 ve Project Sirius üzerinde 84 kişinin görev aldığı görülüyor.",
+        "Nowakowski ayrıca stüdyonun 2028 yılı için hedeflenen The Witcher 4 çalışmaları hakkında da bilgi vererek yeni oyunun tür sınırlarını zorlayacağını ifade etti. Sony'nin 2028'den itibaren disk üretimini sonlandırma ihtimaline de değinen yönetici, konsol üreticilerinin fiziksel medyayı bırakması durumunda fiziksel sürümlerin sunulamayacağını hatırlattı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "da75d70218c983704e40b70b819e8d2d0bf04408a994d042d7ba87f207b5f1e3"
+    },
+    {
+      "id": "b556d411e0ccc8e8",
+      "category": "ÇIKIŞ",
+      "title": "Call of Duty: Modern Warfare 4 Hikaye Modu Süresi ve Görev Detayları Belli Oldu",
+      "summary": "Erken erişime açılan Call of Duty: Modern Warfare 4 senaryo modunun normal zorlukta yaklaşık 8 saat sürdüğü açıklandı. Toplam 16 görevden oluşan hikaye, çeşitli kozmetik eşyalar ve deneyim jetonları kazandırıyor.",
+      "why": "Yenilenen Modern Warfare serisinin sonunu getirmesi ve serinin önceki oyunlarına kıyasla daha uzun bir hikaye deneyimi sunması açısından önem taşıyor.",
+      "event_key": "cod-modern-warfare-4-hikaye-erken-erisim",
+      "brief": "Call of Duty: Modern Warfare 4'ün senaryo modu erken erişime açıldı. Serinin son oyunlarına kıyasla daha uzun olan ve yaklaşık 8 saat süren 16 görevlik hikaye modu, oyunculara çeşitli operatörler ve deneyim puanı ödülleri sunuyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/how-long-is-call-of-duty-modern-warfare-4s-campaign/",
+      "source_published_at": "2026-10-16T17:00:00+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4_CampaignKal_BRANDED.jpg?w=636",
+      "body": [
+        "Call of Duty: Modern Warfare 4'ün tek oyunculu hikaye modu erken erişim kapsamında oyuncularla buluştu. Infinity Ward tarafından yeniden başlatılan Modern Warfare serisini sonlandıran yapımın tam sürümü 23 Ekim tarihinde piyasaya sürülecek.",
+        "Normal zorluk seviyesinde yaklaşık sekiz saatlik bir oynanış sunan senaryo modu, son yıllarda ortalama beş ila altı saat süren serinin önceki yapımlarına göre daha uzun bir deneyim vadediyor. Oyunda serbest keşif imkanı tanıyan \"Stranded\" adlı açık dünya görevi dahil olmak üzere toplam 16 görev yer alıyor.",
+        "Her görevin tamamlanması oyunculara Modern Warfare 4 içerisinde kullanılabilecek ödüller sağlıyor. Bu ödüller arasında Cho, Dallas, Luca, Oh-ji, Kal, Dunn, West ve Park operatörlerinin yanı sıra çift deneyim jetonları, silah TP jetonları, kartvizitler, amblemler ve yükleme ekranları bulunuyor. Oyun; PlayStation 5, Xbox Series X|S, PC ve Switch 2 platformlarında çıkış yapacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ddb46cbcf951084c147c8f2b465e10ecf4a8f00ca27b634afcb58573d6bb04a1"
+    },
+    {
+      "id": "925bc2d86d4174bc",
+      "category": "ETKİNLİK",
+      "title": "World of Warcraft: Forever İçin Ücretsiz Sunucu Stres Testi Düzenleniyor",
+      "summary": "Blizzard, World of Warcraft: Forever için 19 Ekim'de ücretsiz bir sunucu stres testi gerçekleştirecek. Test süresince abonelik ya da beta paketi gerekmeyecek ancak oluşturulan karakterler daha sonra silinecek.",
+      "why": "Oyunun 4 Kasım tarihindeki resmi lansmanı öncesinde oyunculara 60 dolarlık paketi almadan oyunu sınırlı da olsa deneme ve sunucu yükünü test etme imkanı sağlıyor.",
+      "event_key": "wow-forever-stres-testi-duyurusu",
+      "brief": "Blizzard, World of Warcraft: Forever için 19 Ekim'de abonelik veya ücretli erişim paketi gerektirmeyen ücretsiz bir stres testi düzenliyor. Yalnızca birkaç saat sürecek testin ardından oluşturulan tüm karakterler silinecek.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
+      "source_published_at": "2026-10-16T18:45:44+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300",
+      "body": [
+        "Blizzard, yakında çıkış yapacak World of Warcraft: Forever için sınırlı süreli ücretsiz bir stres testi düzenleyeceğini duyurdu. 19 Ekim tarihinde Pasifik saatiyle 14.00'te (TSİ 00.00) başlayacak olan etkinliğe katılmak için oyun aboneliğine veya 60 dolarlık Skyborne Epic Pack paketine sahip olmak gerekmeyecek.",
+        "Geliştirici ekip, testin amacının resmi çıkış öncesinde sunucu altyapısını zorlamak ve olası sorunları tespit etmek olduğunu açıkladı. Battle.net başlatıcısı üzerinden indirilebilecek test yalnızca birkaç saat sürecek ve süreç boyunca mevcut kapalı beta çevrimdışı kalacak. Test tamamlandığında oyuncuların oluşturduğu tüm karakterler silinecek.",
+        "Mevcut beta süreci 21 Ekim'de sona erecek ve ardından 27 Ekim'de erken isim rezervasyonu başlayacak. Oyunun tam sürümü ise 4 Kasım'da yayımlanacak. Popülaritesiyle rekor kıran beta süreci, aynı zamanda yasa dışı altın alım satımına karşı getirilen kısıtlamalar ve PvP sunucularındaki tartışmalarla da gündeme gelmişti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ceb1056e804ff326bb756ad1a4d327915ec8b62b7844cd16b6618dbc52a1e615"
+    },
+    {
+      "id": "bb81f96931dd9c6a",
+      "category": "DONANIM",
+      "title": "Sony'den Yeni Kare Üretimi Patenti: PlayStation 6 İçin Denetleyici Verisi Kullanılabilir",
+      "summary": "Sony, PlayStation 6'ya yönelik olası bir kare üretimi teknolojisi için 'Generation Super Sampling' başlıklı yeni bir patent aldı. Sistem, geleneksel hareket vektörlerinin yanı sıra gecikmeyi azaltmak için oyun kumandası girdilerinden de faydalanıyor.",
+      "why": "Oyun konsollarında kare üretimi teknolojisinin gecikme sorunlarını çözmek için kumanda girdilerini dahil eden yeni bir yaklaşımı ortaya koyuyor.",
+      "event_key": "sony-ps6-frame-generation-patent",
+      "brief": "Sony, oyun kumandası verilerini kullanarak gecikmeyi önlemeyi hedefleyen yeni bir kare üretimi patenti aldı. Belgeler, teknolojinin tek bir kareyle sınırlı kalmayıp çoklu kare tahminlerini de destekleyebileceğine işaret ediyor.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/playstation-6-will-likely-have-sonys-own-take-on-frame-generation-according-to-latest-patent",
+      "source_published_at": "2026-10-16T20:02:57+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2022/07/11/untitled-3-1657552827336.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Sony, oyun dünyasında yaygınlaşan kare üretimi teknolojisine yönelik yeni bir patent başvurusunda bulundu. \"Generation Super Sampling\" (US-20260320740-A1) başlığıyla kayıtlara geçen patent, PlayStation 6 için planlanan olası görsel iyileştirme yöntemlerine dair teknik detaylar sunuyor. Sistem, geleneksel olarak işlenmiş bir kareden elde edilen bilgilerle ara kareler oluşturma prensibine dayanıyor.",
+        "Mevcut DLSS kare üretimi yöntemleri oyun motorundan gelen hareket vektörlerini kullanırken, Sony'nin önerdiği model sürece oyun kumandası verilerini de dahil ediyor. Patent notlarında, kontrolcü girdilerinin analiziyle hareket tahminlerinin daha isabetli yapılmasının hedeflendiği ve kareler arası takılma ile gecikmenin en aza indirilmesinin amaçlandığı belirtiliyor.",
+        "Belgelerde yer alan ayrıntılar, sistemin yalnızca bir sonraki kareyle sınırlı kalmayıp girdi görüntüsünden önce veya sonra birden fazla kareyi tahmin edebilecek şekilde eğitilebileceğini gösteriyor. Ancak patent kapsamındaki bu teknolojinin gelecekteki konsollarda kesin olarak yer alacağına dair resmi bir garanti bulunmuyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "805ceec113a542a455651fb683ff01f20cec0758720a956f6c657a27a125d104"
+    },
+    {
+      "id": "915e1616da4f31d7",
+      "category": "DONANIM",
+      "title": "Analogue, Mega Sg+ ve Super Nt+ Konsollarını Duyurdu",
+      "summary": "Retro odaklı konsol üreticisi Analogue, orijinal Sega ve Nintendo kartuşlarını çalıştıran Mega Sg+ ve Super Nt+ modellerini tanıttı. Cihazlar 219,99 dolar fiyat etiketiyle aralık ayında gönderilmeye başlanacak.",
+      "why": "Klasik Sega ve Nintendo kartuşlarını emülasyon olmadan, modern ekranlarda gecikmesiz ve yüksek uyumlulukla oynatma imkanı sağlıyor.",
+      "event_key": "analogue-mega-sg-super-nt-plus",
+      "brief": "Analogue, Sega ve Nintendo oyunlarını modern geliştirmelerle sunan Mega Sg+ ve Super Nt+ konsollarını tanıttı. Cihazlar 219,99 dolarlık fiyatla satışa çıkacak ve teslimatlar aralık ayında başlayacak.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "source_published_at": "2026-10-16T17:11:28+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Retro oyun donanımları üreten Analogue, eski Sega ve Nintendo kartuşlarını modern ekranlarda çalıştırmak üzere yenilediği Mega Sg+ ve Super Nt+ konsollarını duyurdu. Sıfırdan şirket içinde tasarlanan özel FPGA donanımına sahip cihazlar, emülasyon kullanmadan 1080p çözünürlükte 2D oyun deneyimi sunuyor.",
+        "Uyumluluk tarafında Mega Sg+, Sega Genesis, Mega Drive, Master System ve Game Gear dahil 2.180'den fazla kartuşu destekliyor. Super Nt+ ise 2.200'ün üzerinde Super Nintendo ve Super Famicom oyunuyla tam uyumlu çalışıyor. Konsollar Bluetooth ve 2,4 GHz kablosuz kumanda bağlantısını desteklerken, cihazı kapatmadan kartuş değiştirmeye ve kumanda üzerinden güç kontrolüne de imkan tanıyor.",
+        "Yenilenmiş endüstriyel tasarımla gelen konsollar için ön siparişler 19 Ekim'de firmanın internet sitesinde açılacak. Farklı kasa seçenekleriyle 219,99 dolar üzerinden satışa sunulan iki modelin teslimatlarına ise bu yılın aralık ayında başlanması planlanıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "db721bc6b5f78a52c72d9532f8c5a50742b0fc9f8112b1d1b57a68f05fbd64e4"
+    },
+    {
+      "id": "4ffa9057959edb3a",
+      "category": "ÇOK OYUNCULU",
+      "title": "Wardogs Geliştiricileri Takım Bonusu Deneyini Bir Gün Sonra İptal Etti",
+      "summary": "Wardogs geliştiricisi Bulkhead, Mavi Takım'ı teşvik etmek amacıyla başlattığı özel tecrübe puanı ve para bonusu sistemini ilk gününde sonlandırdı. Kararın gerekçesi olarak yüksek seviyeli oyuncuların aşırı gelir elde etmesi gösterildi.",
+      "why": "Oyun içi takım dengesini teşviklerle çözme girişiminin ekonomi ve maç eşleştirmeleri üzerinde yarattığı olumsuz sonuçları gösteriyor.",
+      "event_key": "wardogs-lonestar-bonus-iptali",
+      "brief": "Wardogs'un Sezon 2 kapsamında Mavi Takım'a sunduğu özel bonus uygulaması, oyun dengesini bozduğu gerekçesiyle bir gün sonra kaldırıldı. Geliştirici stüdyo, denge sorunları ve sunucu terkleri nedeniyle sistemi iptal etti.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
+      "source_published_at": "2026-10-16T16:30:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Erken erişimdeki çok oyunculu FPS oyunu Wardogs'un Sezon 2 güncellemesiyle hayata geçirilen tartışmalı deney sona erdi. Geliştirici Bulkhead, galibiyet oranları düşük olan Mavi Takım'ı desteklemek için bu fraksiyondaki oyunculara yüzde 5 nakit ve yüzde 2,5 tecrübe puanı bonusu vermeye başlamıştı.",
+        "Uygulamanın başlamasının ardından üst düzey oyuncuların beklenenden katbekat fazla gelir elde ettiği tespit edildi. Şirketin tepe yöneticisi Joe Brammer, sistemin ortalama oyuncuları aşırı etkilemeyeceğini düşündüklerini ancak deneyimli kitlelerin dengeyi bozacak düzeyde kazanç sağladığını belirterek hatayı kabul ettiklerini ve bonusu kaldırdıklarını duyurdu.",
+        "Ek ekonomik ödüller, oyuncuların maç başında Mavi Takım'a doluşmasına ve yer bulamayanların sunuculardan ayrılması nedeniyle maçların gecikmesine yol açtı. Şirket, bonus sistemini geri çekerken Bakuriani haritasındaki doğma noktalarını değiştirerek fraksiyon dengesini sağlama yoluna gitti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "de0b19382235c2d7dd7e58cd7f11d0b8df77f2a8265a42bc6bb098ef3ec4e9e4"
+    },
+    {
+      "id": "53903247f838e7e7",
+      "category": "GENİŞLEME PAKETİ",
+      "title": "Caves of Qud İçin Diaspora Genişleme Paketi Duyuruldu",
+      "summary": "Roguelike oyunu Caves of Qud'un ilk genişleme paketi 'Diaspora', 9 Aralık'ta erken erişime açılıyor. Yeni içerikle birlikte oyuncular çeşitli hayvan ve bitki türlerini kontrol edebilecek.",
+      "why": "Halihazırda tam sürüme ulaşmış başarılı bir roguelike oyununun ek paketi için erken erişim modelini benimsemesini temsil ediyor.",
+      "event_key": "caves-of-qud-diaspora-eklenti",
+      "brief": "Caves of Qud'un yeni genişlemesi Diaspora, 9 Aralık'ta erken erişim olarak yayımlanıyor. Paket, oyunculara hayvan ve bitki olarak oynama seçeneği sunarken harita algoritmalarında da yenilikler getiriyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
+      "source_published_at": "2026-10-15T16:30:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/caves-of-qud-diaspora.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Freehold Games, beğenilen roguelike oyunu Caves of Qud için hazırladığı ilk genişleme paketi olan 'Diaspora'yı duyurdu. Karmaşık oyun mekanikleri içeren eklenti, tıpkı ana oyunun ilk dönemlerinde olduğu gibi topluluk geri bildirimleriyle test edilmek üzere doğrudan erken erişim modeliyle sunulacak.",
+        "Genişleme paketinin en dikkat çekici özelliği, oyuncuların köpek, kedi, kurbağa ve bukalemun gibi hayvanların yanı sıra sarmaşık ve ağaç gibi bitkileri de yönetebilmesine imkan tanıması oldu. Bu yeni oynanabilir türlerle birlikte pençe, burun ve kuyruk gibi taze mutasyonlar ve farklı kültürel kalıntılar oyuna dahil ediliyor.",
+        "Yeni bir dünya oluşturma algoritmasıyla geliştirilen yol ve nehir ağlarını barındıran Diaspora, 9 Aralık'ta erken erişime çıkacak. Yapımcılar, 2027 yılı boyunca yeni görev serileri, kervanlar, yeraltı köyleri ve tilki ile salyangoz benzeri insansı ırkların da yer aldığı güncellemeleri aşamalı olarak sunmayı planlıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "23582233d9648ea7f2fe22443c2679a3a9cb34f44165abf63fe48c72e1dce19b"
+    },
+    {
+      "id": "3f8513ddc2a4d89d",
+      "category": "İÇERİK",
+      "title": "Fire Emblem: Fortune's Weave İçin Genişleme Paketi Duyuruldu",
+      "summary": "Nintendo ve Intelligent Systems, Fire Emblem: Fortune's Weave için üç bölümden oluşan bir genişleme paketi çıkardı. Bugünden itibaren başlayan içerik takvimi 2027 yılına kadar uzanacak.",
+      "why": "Genişleme paketi, erken dönemde yüksek satış rakamları ve olumlu eleştiriler alan oyunun içerik takvimini 2027 yılına kadar uzatarak yeni oynanış unsurları ve hikâyeler sunuyor.",
+      "event_key": "fire-emblem-fortunes-weave-expansion-pass",
+      "brief": "Nintendo ve Intelligent Systems, taktiksel rol yapma oyunu Fire Emblem: Fortune's Weave için üç aşamalı bir genişleme paketi yayınladı. Nintendo eShop üzerinde satışa çıkan paket, bugünden 2027 yılına kadar yeni silahlar, kıyafetler, müttefikler ve hikâyeler sunarak oyunu genişletecek.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
+      "source_published_at": "2026-10-15T13:48:43+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/FireEmblem_FortunesWeave_scrn_07.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Nintendo ve Intelligent Systems, taktiksel rol yapma oyunu Fire Emblem: Fortune's Weave için yeni bir genişleme paketi yayınladı. Bugünden başlayarak 2027 yılına kadar sürecek olan indirilebilir içerik serisini kapsayan paket, Nintendo eShop üzerinden 34,99 dolar ve 29,99 sterlin fiyatla satışa sunuldu.",
+        "Üç bölümden oluşan genişleme paketinin ilk aşamasını hemen satın alan oyuncular, oyun içinde kullanılabilecek belirli silahlara anında erişim sağlıyor. Paketin ikinci aşamasının bu yılın tatil sezonunda çıkması planlanıyor ve karakterler için ek kıyafetlerle birlikte Aurora, Smyrnos ve Jurah adlı üç yeni müttefiki oyuna dahil ediyor.",
+        "Genişleme paketinin en kapsamlı içeriği sunması beklenen son bölümü ise 2027 yılında yayınlanacak. Bu final içeriğinde yeni hikâyeler, yeni müttefikler, sınıflar ve ek ögeler yer alacak. Erken satışlarda yüksek başarı elde eden ve eleştirmenlerden övgü toplayan yapım, bu içeriklerle birlikte önümüzdeki yıllarda da genişlemeye devam edecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "704b8dd66e2a825bb07c8a18d0dbb2e0c044473bc2024e50d3d05afb13f0f0e6"
+    },
+    {
+      "id": "254f1bb9895c72a4",
+      "category": "UYARLAMA",
+      "title": "Cyberpunk Canlı Çekim Projesi Oyunun Hikâyesini Birebir Uyarlamayacak",
+      "summary": "CD Projekt Red eş CEO'su Michał Nowakowski, Paramount Pictures iş birliğiyle hazırlanan Cyberpunk canlı çekim projesinin oyun hikâyesini birebir aktarmayacağını açıkladı. Proje, oyunun kurgusunu kopyalamak yerine Cyberpunk dünyasında geçen farklı bir hikâyeyi anlatacak.",
+      "why": "Açıklama, CD Projekt Red ve Paramount Pictures ortaklığındaki yapımın oyundaki karakter ve olay örgüsünü doğrudan uyarlamak yerine aynı evrende bağımsız bir anlatı kuracağını doğruluyor.",
+      "event_key": "cyberpunk-2077-film-uyarlamasi-ozgun-hikaye",
+      "brief": "CD Projekt Red eş CEO'su Michał Nowakowski, Paramount Pictures ortaklığında geliştirilen canlı çekim Cyberpunk projesinin oyunun doğrudan bir uyarlaması olmayacağını açıkladı. Nowakowski, oyunun ana hikâyesini birebir aktarmak yerine Cyberpunk evreninde geçen farklı bir hikâye anlatmayı hedeflediklerini belirtti.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
+      "source_published_at": "2026-10-16T15:15:40+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-movie-seemingly-original-adventure-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "CD Projekt Red ile Paramount Pictures ortaklığında geliştirilen canlı çekim Cyberpunk projesine dair ayrıntılar netleşmeye başladı. CD Projekt Red eş CEO'su Michał Nowakowski, Polonya merkezli iş dünyası yayını PAP Biznes'e verdiği mülakatta, projenin oyun hikâyesinin doğrudan bir uyarlaması olmayacağını bildirdi.",
+        "Nowakowski, Anonymous Content ile yaptıkları sözleşmenin sona erdiğini ve bu süreçte Paramount Pictures ile iş birliği fırsatı doğduğunu belirtti. Canlı çekim Cyberpunk projesini yeni bir formülle hayata geçirme kararı aldıklarını kaydeden Nowakowski, oyunun hikâyesini birebir beyaz perdeye taşımak istemediklerini, temel amaçlarının Cyberpunk evreni içinde geçen bir hikâye sunmak olduğunu vurguladı.",
+        "Daha önce yapılan bilgilendirmede stüdyonun Paramount Pictures ortaklığından heyecan duyduğu ve şirketin yaratıcı vizyonu paylaştığı belirtilmişti. Nowakowski, proje hakkındaki diğer detayların uygun zamanda kamuoyu ile paylaşılacağını ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "24a6127dd2c9c772a40ae580abf39370b6031c86917a029ee8fcb8893667ce53"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün sesli özeti",
+    "episode": 2,
+    "duration": 247.8,
+    "bytes": 1486656,
+    "sha256": "f5c9188a9de71aefcd401031e726d09f6814ac557db13d92625e99334c9b355e"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 2,
+    "duration": 940.1,
+    "bytes": 15042395,
+    "sha256": "bf261cfb3c79ccf84f15ddaec93bd9c3837d1a6fb0d146929e3c838c5b731856"
+  },
+  "audio_revision": 4
+}
