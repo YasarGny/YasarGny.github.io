@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "publish_date": "2026-10-18",
+  "release_id": "2026-10-18-ab5c40cea89406f9",
+  "not_before": "2026-10-18T07:30:00+03:00",
+  "validated_at": "2026-10-18T12:22:49.890006+03:00",
+  "game_start": "2026-10-16",
+  "validation": "full-mp3-decode+sha256+content-v1",
+  "editions": {
+    "teknoloji": {
+      "file": "teknoloji.json",
+      "sha256": "77320a8d8f82d6cad8c808cbddbda2b74be091591f1fef1e6c770ffc093648cc",
+      "issue": 3
+    },
+    "oyun": {
+      "file": "oyun.json",
+      "sha256": "e4ec5a6a7e7be82b2c3d02117dead845167ca3bbf992dd0cdb08088c7e2ceb19",
+      "issue": 3
+    }
+  }
+}
