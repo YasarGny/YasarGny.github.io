@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "expanded-v1",
+  "section": "oyun",
+  "publish_date": "2026-10-18",
+  "date": "18 Ekim 2026",
+  "issue": 3,
+  "ready": true,
+  "stories": [
+    {
+      "id": "2fde6136d1a98568",
+      "category": "OYUN GELİŞTİRME",
+      "title": "Alliance Arts, Yapay Zekâ Klonlama Tehdidi Nedeniyle Halka Açık Demosunu İptal Etti",
+      "summary": "Alliance Arts, korku ve içki temalı oyunu Drunken Goddess Reflux'un 19 Ekim'de yayımlanması planlanan Steam demosunu iptal ettiğini duyurdu. Geliştirici, içeriğin yapay zekâ araçlarıyla kopyalanıp oyun çıkmadan piyasaya sürülmesinden çekindiği için kapalı testlere geçme kararı aldı.",
+      "why": "Bağımsız geliştiricilerin erken erişim ve demo içeriklerinin yapay zekâ araçlarıyla hızla kopyalanması riski, oyun sektöründe dağıtım stratejilerini ve halka açık deneme sürümlerini doğrudan etkilemektedir.",
+      "event_key": "drunken-goddess-reflux-demo-iptal",
+      "brief": "Alliance Arts, Drunken Goddess Reflux için planladığı Steam demosunu yapay zekâ ile klonlanma endişesiyle iptal etti. Geliştirici, halka açık deneme sürümü yerine sınırlı sayıda katılımcıyla kapalı çevrim içi test oturumları gerçekleştireceğini duyurdu.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+      "source_published_at": "2026-10-17T12:04:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/msJXstdyWiXzapZKKu9fWL-1920-80.jpg",
+      "body": [
+        "Oyun geliştiricisi Alliance Arts, korku ve içki temalı yeni oyunu Drunken Goddess Reflux için 19 Ekim'de Steam platformunda yayımlamayı planladığı halka açık demoyu iptal ettiğini açıkladı. Şirket, bu kararın ardından kamuya açık bir sürüm yerine sınırlı sayıda katılımcının yer alacağı kapalı çevrim içi oturumlar düzenleyeceğini duyurdu.",
+        "Geliştirici stüdyo, iptal kararına ilişkin gerekçesinde iki temel unsura dikkat çekti. İlk olarak, yayın ve video paylaşımlarına getirilmesi planlanan kısıtlamaların sağlıklı biçimde yönetilemeyeceği kanaatine varıldı. Bununla birlikte stüdyo, demo içeriğinin yapay zekâ veya benzeri araçlarla taklit edilerek oyunun asıl çıkışından önce piyasaya sürülmesi ihtimalinden duyduğu endişeyi dile getirdi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "37c7449ab2dd6cb10cb8dc6d24e2fa9649f2c3a1fdf2005bb9a22bc37f464f0d"
+    },
+    {
+      "id": "6ca1a81a0bb32994",
+      "category": "SEKTÖR",
+      "title": "Wizards of the Coast Sendika Taleplerini Gönüllü Olarak Tanımayacağını Duyurdu",
+      "summary": "Wizards of the Coast, bünyesindeki D&D ve Studio X çalışanlarının oluşturduğu sendikal örgütlenmeyi oylama öncesinde gönüllü olarak tanımayacağını açıkladı. Şirket çalışanlarla doğrudan çalışmayı tercih ettiğini belirtirken, sendika adil ücret ve iş güvencesi mücadelesini sürdürüyor.",
+      "why": "Yüksek kârlılık oranlarına sahip masaüstü ve dijital oyun birimlerinde çalışan personelin hak arayışı ve şirketin sendikalaşmaya karşı duruşu, sektör genelindeki iş gücü dengeleri açısından önem taşıyor.",
+      "event_key": "wizards-of-the-coast-sendika-ret",
+      "brief": "Wizards of the Coast, D&D ve Studio X çalışanlarının yer aldığı United Wizards of the Coast Union'ı oylama öncesinde tanımayacağını duyurdu. Çalışanlar adil ücret, uzaktan çalışma ve iş güvencesi talepleriyle seçim sürecine odaklanıyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+      "source_published_at": "2026-10-17T17:00:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xsmWYCrhjkzkM43jx4h8y9-1920-80.jpg",
+      "body": [
+        "United Wizards of the Coast Union (UWOTC-CWA), Wizards of the Coast'un yaklaşan oylama öncesinde D&D ve Magic: The Gathering kreatif ekibini kapsayan Studio X birimlerini gönüllü olarak tanımayacağını kendilerine bildirdiğini aktardı. Şirket yönetimi, çalışanlarla sendikalar üzerinden değil doğrudan iletişim kurarak çalışmayı yeğlediğini ifade ederken, çıkacak seçim sonuçlarına saygı göstereceğini açıkladı.",
+        "Haziran ayında Magic: The Gathering Arena ekibinin başlattığı sürece eklenen sendikal yapı; adil ücretlendirme, kariyer gelişimi, iş güvencesi, uzaktan çalışma hakları ve sürdürülebilir iş yükü talep ediyor. Ayrıca sağlık hizmetleri, yapay zekâya karşı koruma ve çalışanların şirket dışındaki şahsi kreatif projelerinin mülkiyet haklarını koruma maddeleri de müzakere hedefleri arasında yer alıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "49b291c2a60f3787f08a7f605334064b5fb5f3968c0be7b09815f2cd7aab4b80"
+    },
+    {
+      "id": "5411d09295ac57f7",
+      "category": "SEKTÖR",
+      "title": "Samson'ın Geliştiricisi Liquid Swords İflas Başvurusunda Bulundu",
+      "summary": "Açık dünya aksiyon oyunu Samson'ın geliştiricisi İsveç merkezli Liquid Swords, Stockholm Bölge Mahkemesi'nin kararıyla iflas etti. Maaşlarını en az iki aydır alamayan çalışanların başvurusu üzerine başlayan süreçte, ödenmeyen maaşları İsveç devleti karşılayacak.",
+      "why": "Eski Avalanche Studios kurucu ortağının yönettiği bir stüdyonun ilk oyununun ardından hızla iflasa sürüklenmesi, bağımsız oyun geliştirme süreçlerindeki finansal riskleri ve teknik sorunların ticari etkilerini somutlaştırıyor.",
+      "event_key": "liquid-swords-iflas-samson",
+      "brief": "İsveçli oyun geliştiricisi Liquid Swords, ilk oyunu Samson'ın çıkışından aylar sonra iflas etti. Stockholm Bölge Mahkemesi'nin iflas kararı aldığı stüdyoda çalışan yaklaşık 30 personelin ödenmeyen maaşlarını devlet karşılayacak.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+      "source_published_at": "2026-10-17T15:58:54+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/samson-liquid-swords-debt-racer-brawler-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "İsveçli oyun geliştiricisi Liquid Swords, ilk projesi olan açık dünya türündeki Samson'ı piyasaya sürmesinden yaklaşık altı ay sonra iflas etti. Stockholm Bölge Mahkemesi, 12 Ekim tarihinde geliştirici şirket hakkında resmi iflas kararını onayladı.",
+        "İsveç basınında yer alan bilgilere göre şirket bünyesinde görev yapan yaklaşık 30 çalışan, en az iki aydır maaş alamadıkları gerekçesiyle iflas sürecini bizzat talep etti. Ödenmeyen maaşların İsveç devleti tarafından güvence altına alınacağı bildirilirken, iflas yöneticisinin stüdyo için bir alıcı bulma konusunda umutlu olduğu ifade edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9481cde0d566eeb8c6ec939b65e88a02d5d6e26cc19267294c44972dbc089846"
+    },
+    {
+      "id": "56fd24903176652d",
+      "category": "DİJİTAL PLATFORM",
+      "title": "Ghostwire: Tokyo GOG Preservation Program Kapsamına Eklendi",
+      "summary": "Tango Gameworks tarafından geliştirilen Ghostwire: Tokyo, GOG Preservation Program listesine dahil edildi. Yeni sürüm, Bethesda.NET entegrasyonunu kaldırırken gelecekteki işletim sistemi değişimlerinde teknik kararlılık garantisi sunuyor.",
+      "why": "Modern oyunların harici çevrim içi servis bağımlılıklarından arındırılarak uzun vadeli işletim sistemi uyumluluklarının sağlanması, dijital oyun koruma çalışmaları açısından kritik bir adım teşkil ediyor.",
+      "event_key": "ghostwire-tokyo-gog-preservation",
+      "brief": "Ghostwire: Tokyo, dijital platform GOG'un koruma programına eklendi. Yapılan düzenlemeyle oyundan Bethesda.NET entegrasyonu tamamen çıkartıldı ve gelecekte ortaya çıkabilecek sistem uyumsuzluklarına karşı güncelleme sözü verildi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+      "source_published_at": "2026-10-17T15:45:38+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/53Kr6rdeGD9g3dh5KZW2fY-1920-80.jpg",
+      "body": [
+        "Tango Gameworks tarafından geliştirilen aksiyon macera oyunu Ghostwire: Tokyo, GOG platformunun oyunları uzun vadede koruma altına almayı amaçlayan Preservation Program listesine katıldı. Program kapsamında sunulan bu sürümle birlikte oyunun Bethesda.NET entegrasyonu tamamen kaldırıldı.",
+        "GOG, programa dahil edilen oyun için ilerleyen yıllarda işletim sistemleri ve donanımlar değiştikçe ortaya çıkabilecek kararlılık sorunlarını gelecekteki yamalarla gidereceğini taahhüt etti. Yayıncılığı Bethesda Softworks bünyesinde devam eden yapım, geçmişte altı milyondan fazla oyuncuya ulaşmıştı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "1942a8e03eb574b86a1b2dfa12a22316e9790da06d73cf6730ba5e267fd5f97c"
+    },
+    {
+      "id": "15b90d4d17d75853",
+      "category": "GÜNCELLEME",
+      "title": "The Blood of Dawnwalker İçin 1.1 Güncellemesi Duyuruldu",
+      "summary": "Rebel Wolves, The Blood of Dawnwalker için açıya dayalı hayvan sevme mekaniği ve dövüş destekli yeni bir hikâye modu getiren 1.1 güncellemesini duyurdu. Yamayla birlikte yetenek sıfırlama iksiri ve bini aşkın teknik düzenleme oyuna eklenecek.",
+      "why": "İlk üç gününde 1 milyon satan oyunun geniş kitlelere erişimini artırmak ve dövüş mekaniklerinden bağımsız olarak hikâyeye odaklanmak isteyen oyunculara esneklik sunmak açısından önem taşıyor.",
+      "event_key": "blood-of-dawnwalker-guncelleme-1-1",
+      "brief": "Rebel Wolves, The Blood of Dawnwalker RPG'sine 1.1 güncellemesiyle yön tabanlı hayvan sevme mekaniği ve dövüş desteği içeren yeni bir hikâye modu ekliyor. Paket ayrıca yetenek sıfırlama iksiri ve teknik iyileştirmeler içeriyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+      "source_published_at": "2026-10-17T13:53:20+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gZcA3cH5aHAhx4zCb2DDhg-1920-80.jpg",
+      "body": [
+        "Rebel Wolves, vampir temalı rol yapma oyunu The Blood of Dawnwalker için hazırlanan 1.1 güncellemesinin ayrıntılarını paylaştı. Yeni sürümün en dikkat çekici özelliklerinden biri, oyunun dövüş mekaniğinden esinlenen yön tabanlı hayvan sevme sistemi oldu. Geliştirici ekip, kedi ve köpeklerin farklı açılardan sevilmesine olanak tanıyan bu özelliğin yönlü çatışma yapısıyla harmanlandığını bildirdi.",
+        "Güncelleme ile birlikte anlatıya odaklanmak isteyen oyuncular için yeni bir 'Hikâye' modu da sunuluyor. Kılıç kullanımında ustalaşmak istemeyen kullanıcılara yönelik ek dövüş desteği içeren bu seviye, mevcut kolay seçeneğin yerini almayacak. Hâlihazırda oyunda bulunan hikâye modu, 'Forgiving' adıyla varlığını sürdürmeye devam edecek.",
+        "Karakter gelişimini esnetmek amacıyla oyuna Draught of Mind Rebirth adlı iksir dâhil ediliyor. Bu eşya, oyuncuların yetenek ağaçlarına harcadığı puanları geri alarak yeniden dağıtmasına imkân tanıyacak. Ayrıca hedef alma, haritada ilerleme, kamera açıları ve kare üretim teknolojilerine yönelik iyileştirmeleri kapsayan toplam 1100 değişiklik pakette yer alacak.",
+        "Satışa sunulduğu ilk üç günde 1 milyon kopya satarak devam oyunu için yeşil ışık yakan yapımda, tartışmalı zaman mekaniğine dair bir değişiklik ise bulunmuyor. Şirket, bu sistemin olası devam oyununda yer almayabileceğini belirtmekle yetindi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "54881e2221401106e934889f14073842fe0dfd2263b98a63a0e6f5b511dd4152"
+    },
+    {
+      "id": "1c6e2d9432f55339",
+      "category": "SEKTÖR",
+      "title": "Funcom Şirket İçi Yeniden Yapılanma ve İşten Çıkarma Sürecine Girdi",
+      "summary": "Dune: Awakening ve Conan Exiles geliştiricisi Funcom, mevcut hayatta kalma oyunlarına odaklanmak amacıyla işten çıkarmalara başladı. Yeniden yapılanma sürecinin tamamlanmasının ardından İcra Kurulu Başkanı Rui Casais görevinden ayrılacak.",
+      "why": "Büyük bütçeli bir hayatta kalma MMO'sunun çıkış sonrası operasyon modeline geçişinin stüdyo istihdamını ve üst yönetim kadrosunu doğrudan nasıl etkilediğini göstermektedir.",
+      "event_key": "funcom-isten-cikarma-ve-ceo-degisimi",
+      "brief": "Dune: Awakening ve Conan Exiles geliştiricisi Funcom, yeni projelere başlamak yerine mevcut oyunlarını desteklemek üzere yeniden yapılanma ve işten çıkarma süreci başlattı. Süreç bittiğinde CEO Rui Casais koltuğunu Scott Junior'a devredecek.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+      "source_published_at": "2026-10-17T10:32:05+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/irSvo2gYDFsSuExgb6RG5X-1920-80.jpg",
+      "body": [
+        "Dune: Awakening ve Conan Exiles'ın geliştiricisi Funcom, şirket genelinde işten çıkarmalarla sonuçlanacak bir yeniden yapılanma sürecine girdiğini duyurdu. Şirket, yeni projelere başlamak yerine tüm kaynaklarını mevcut hayatta kalma rol yapma oyunlarını desteklemeye kaydırma kararı aldı.",
+        "Açıklamada bulunan İcra Kurulu Başkanı Rui Casais, Dune: Awakening'in stüdyo tarihindeki en büyük proje olduğunu ve uzun vadeli operasyon evresine geçişin farklı bir kurumsal yapı gerektirdiğini belirtti. Üretimin zirve yaptığı dönemdeki personel hacminin bu aşamada korunamayacağını aktaran Casais, organizasyonel süreç bittiğinde görevini Scott Junior'a devredeceğini açıkladı.",
+        "Dune: Awakening, geçen yılın haziran ayında iki haftada bir milyon satarak stüdyonun en hızlı satan oyunu olmuştu. Ancak ilerleyen aylarda oyuncu sayısında düşüş yaşanmış, oyuncu geri bildirimleri doğrultusunda yapıma tek oyunculu ve yalnızca PvE içeren modlar eklenmişti. Şirket, geçtiğimiz ekim ayında da bir işten çıkarma dalgası gerçekleştirmişti.",
+        "Funcom, an itibarıyla başlayan yeniden yapılanma sürecinden kaç çalışanın etkilendiğini kamuoyuyla paylaşmadı. Şirket, çalışanlara saygı gerekçesiyle operasyon tamamlanana kadar ek ayrıntı verilmeyeceğini duyurdu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ea537bb7dec87309f15d1b01fe0115c81d19166fd0ba77a15145c6c778b5d7f8"
+    },
+    {
+      "id": "192dc13982af3f15",
+      "category": "GÜNCELLEME",
+      "title": "Wardogs 2. Sezondaki Mavi Takım Bonusları İlk Günde Geri Çekildi",
+      "summary": "Bulkhead Interactive, Wardogs'un ikinci sezonunda Mavi takımı dengelemek için getirdiği nakit ve tecrübe puanı teşviklerini iptal etti. Teşviklerin kazanma oranlarını aşırı derecede bozması üzerine geliştirici ekip geri adım attı.",
+      "why": "Rekabetçi çevrim içi oyunlarda denge kurma amacıyla sunulan küçük sayısal avantajların oyuncu davranışlarını ve eşleştirme kalitesini beklenenden çok daha sert biçimde saptırabileceğini belgeliyor.",
+      "event_key": "wardogs-sezon-2-denge-duzenlemesi",
+      "brief": "Bulkhead Interactive, Wardogs Season 2'de Mavi takıma sağlanan tecrübe ve nakit bonuslarını ilk günün ardından kaldırdı. Aşırı kazanma oranlarına yol açan bu sistemin yanı sıra haksız tank erişimi sağlayanlara 24 saatlik ban getirildi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
+      "source_published_at": "2026-10-16T19:42:52+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/k5RibPxese5kZiSt4xZbiV-1920-80.jpg",
+      "body": [
+        "Bulkhead Interactive, rekabetçi nişancı oyunu Wardogs'un ikinci sezonunun ilk gününde, Mavi takıma katılımı artırmak amacıyla duyurduğu teşvik programını yürürlükten kaldırdı. Yüzde 5 Lonestar nakit ve yüzde 2,5 tecrübe puanı desteğinden oluşan planın, Mavi takımın ezici bir galibiyet üstünlüğü kurmasına yol açtığı saptandı.",
+        "Bulkhead İcra Kurulu Başkanı Joe Brammer, yayımlanan videoda hata yaptıklarını kabul ederek Mavi takımın beklenenin çok ötesinde kazanmaya başladığını açıkladı. Küçük yüzdelerin ortalama oyuncular üzerinde sınırlı kaldığı, ancak üst düzey oyuncular tarafından büyük avantaja dönüştürüldüğü görüldü. Kurucu ortak Howard Philpott ise bonusların maç arama ve oyuna başlama süreçlerini olumsuz etkilediğini ifade etti.",
+        "Stüdyo, arka uç güncellemesiyle nakit ve puan bonuslarını kaldırırken Bakurani haritasındaki yeni doğma noktası düzenlemelerinin korunduğunu bildirdi. Paket kapsamında ayrıca sürücü ilerleme hataları giderildi ve oyuncuların tanklara erken erişmesine imkân tanıyan bir açık kapatıldı.",
+        "Geliştirici ekip, söz konusu tank açığından belirgin şekilde faydalanan bin kişiden az sayıdaki kullanıcıya 24 saatlik geçici uzaklaştırma cezası verdi. Bu oyuncuların haksız kazandıkları nakit ve tecrübe puanları da tamamen sıfırlandı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b74ec2ca4ab6a1ec98d0c757f57e56dad13fe657cf4c40d99c10152eefc59c68"
+    },
+    {
+      "id": "39a5c68d46601bff",
+      "category": "GÜNCELLEME",
+      "title": "World of Warcraft: Forever Irk Yeteneklerinde Kapsamlı Değişikliğe Gitti",
+      "summary": "Blizzard, 21 Ekim'de betası tamamlanacak WoW: Forever için ırklara özgü silah kısıtlamalarını kaldıran büyük bir güncelleme yayımladı. Yeni düzenlemeyle pasif bonuslar doğrudan kritik vuruş ve genel istatistiklere bağlandı.",
+      "why": "4 Kasım'da çıkacak oyunda ırk seçimlerinin belirli silahlara kilitlenmesini engelleyerek karakter oluşturma ve sınıf tercihlerindeki katılığı temelden değiştirmektedir.",
+      "event_key": "wow-forever-irksal-yetenek-degisimi",
+      "brief": "Blizzard, WoW: Forever betasında ırksal silah zorunluluklarını kaldırıp kritik vuruş bonuslarına dönüştürdü. Tauren, cüce ve Skyborne ırklarına güçlendirmeler yapılırken orkların yeteneklerinde zayıflatmaya gidildi.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
+      "source_published_at": "2026-10-16T18:01:39+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Ability-Changes.jpg?w=300",
+      "body": [
+        "Blizzard, 21 Ekim'de sona erecek olan World of Warcraft: Forever betası için kapsamlı bir ırk yetenekleri güncellemesi yayımladı. 4 Kasım tarihindeki resmî çıkış öncesinde yapılan bu düzenlemeyle, belirli silahlara bağlı olan geleneksel ırksal pasif güçlendirmeler yürürlükten kaldırıldı.",
+        "Yapılan revizyon doğrultusunda insanlar kılıç ve gürz, orklar balta, cüceler ise ateşli silah taşıma zorunluluğundan muaf tutuldu. Yeni sistemde silaha bakılmaksızın orklara yüzde 1, insanlara yüzde 2 kritik vuruş şansı verildi; cücelerin ise daimi olarak yüzde 2 daha fazla kritik hasar ve iyileştirme sağlaması kararlaştırıldı.",
+        "Güncelleme diğer ırkları da doğrudan etkiledi. Tauren ırkının Plainsrunning yeteneği binek hızını da yüzde 3 artıracak şekilde güncellendi; Cultivation ve War Stomp bekleme süreleri düşürüldü. Cücelerin Find Treasure pasifine sandıklardan ek eşya çıkarma şansı eklenirken, oyuna yeni katılan Skyborne ırkının Haste bonusu yüzde 3'e yükseltildi ve hareket hâlinde yetenek kullanabilmeleri sağlandı.",
+        "Öte yandan orklar bazı alanlarda zayıflatıldı. Orkların Blood Fury yeteneğinin bekleme süresi bir dakika uzatılırken, Shatter Curse pasifi artık büyü bağışıklığı yerine arındırma sağlayacak şekilde sınırlandırıldı ve büyü hasarı azaltma oranı yüzde 15'ten yüzde 5'e indirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "12c4b2e1783a67e4c81d43da9a6fc7b501ce21c904253e837643d3aab4b61f8a"
+    },
+    {
+      "id": "225bd2e83e15ebf2",
+      "category": "YAYIN VE ERİŞİM",
+      "title": "Modern Warfare 4 Çıkış Takvimi ve Erken Erişim Süreci Açıklandı",
+      "summary": "Call of Duty: Modern Warfare 4'ün çıkış takvimi ve erken erişim planı netleşti. Oyunu dijital olarak ön sipariş verenler hikaye moduna 16 Ekim'de, DMZ moduna ise 20 Ekim'de erişebilecek.",
+      "why": "Oyunseverlerin merakla beklediği Modern Warfare 4 ve DMZ modunun resmi açılış saatleri, erken erişim tarihleri ve 115 GB depolama gereksinimi netlik kazandı.",
+      "event_key": "modern-warfare-4-erken-erisim",
+      "brief": "Modern Warfare 4, 23 Ekim'de yerel saatle gece yarısı piyasaya çıkıyor. Dijital ön sipariş veren oyuncular hikaye moduna 16 Ekim'de, DMZ moduna ise 20 Ekim'de erken erişim sağlayabilecek. PC ön yüklemesi halihazırda erişilebilir durumda.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
+      "source_published_at": "2026-10-16T12:44:53+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FWTAmnRbksM8Lg3gqrnMUM-1920-80.jpg",
+      "body": [
+        "Call of Duty: Modern Warfare 4'ün çıkış süreci ve modlara özel erken erişim tarihleri duyuruldu. Yapılan açıklamaya göre oyunu dijital olarak ön sipariş veren kullanıcılar, hikaye moduna 16 Ekim'de, yeniden dönüş yapan tahliye tabanlı DMZ moduna ise 20 Ekim'de erken erişim hakkı kazanacak.",
+        "Oyunun tam sürümü 23 Ekim tarihinde, oyuncuların bulundukları bölgelerdeki yerel saatle gece yarısı resmi olarak çıkış yapacak. Activision, 16 Ekim'deki hikaye modu erken erişiminin kesin kilit açılma saatini ve 20 Ekim'deki DMZ erken erişim saatini henüz resmi olarak duyurmadı.",
+        "Bilgisayar platformunda oyunu oynamak isteyen kullanıcılar için PC ön yükleme süreci halihazırda başlamış durumda. Steam sayfasında sistem gereksinimleri yer alan oyunun kurulumu için 115 GB depolama alanı talep ediliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "34f6ec4cf07ea0406fd2a87d5b8fcf35f53978379a04c21b64dc565da8e28bcb"
+    },
+    {
+      "id": "c483d6673f73fa49",
+      "category": "OYUN DUYURUSU",
+      "title": "Psychic Software Yeni Hikaye Tabanlı RYO Oyunu The Lich Wars'ı Duyurdu",
+      "summary": "The Necromancer's Tale'in geliştiricisi Psychic Software, The Lich Wars isimli bağımsız öncül oyununu tanıttı. Yapım, alternatif bir 1700'ler dünyasında geçen anlatı odaklı bir RYO deneyimi sunuyor.",
+      "why": "The Necromancer's Tale ile başarı yakalayan bağımsız stüdyo, aynı evreni genişleten ve yeni görsel anlatı teknikleri içeren bağımsız öncül yapımını resmi olarak duyurdu.",
+      "event_key": "the-lich-wars-duyuru",
+      "brief": "Psychic Software, The Necromancer's Tale'in bağımsız öncülü The Lich Wars'ı duyurdu. Alternatif 1700'lerde geçen, kısmen seslendirilmiş hikaye tabanlı yapım, 30 yıllık bir silahşor kariyerini ve savaşları konu alıyor. Henüz kesinleşmiş bir çıkış tarihi bulunmuyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/the-creator-of-last-years-cult-hit-rpg-the-necromancers-tale-is-back-with-the-lich-wars-a-storybook-rpg-that-follows-30-years-of-undead-botheration",
+      "source_published_at": "2026-10-16T15:45:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/unnamed(3)_AMHotxZ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Psychic Software, övgü toplayan rol yapma oyunu The Necromancer's Tale'in bağımsız bir öncülü olan The Lich Wars'ı duyurdu. Yeni oyun, bir önceki yapımın 'kendi maceranı seç' tarzındaki başlangıç bölümünü temel alarak tam teşekküllü bir deneyim haline getiriyor.",
+        "Alternatif bir 1700'ler atmosferinde geçen yapım, oyuncuları 30 yıllık kariyerinde iki lich savaşı ve çeşitli geleneksel savaşlar boyunca mücadele eden bir silahşorun rolüne yerleştiriyor. Kısmen seslendirilen oyun; yetenekler, istatistikler, gelişen ilişkiler ve karakter ölümü ihtimali barındıran üç ana dallı bir anlatı sunuyor.",
+        "Görsel açıdan harita ve masaüstü unsurlarında 3D ögeler barındırsa da yapımın büyük kısmı el çizimi illüstrasyonlar ve yazılı paragraflardan oluşuyor. Oyuncular Venedik yakınlarındaki alternatif Rulsthen krallığını gezecek, Büyük Kuzey Savaşı ve İspanya Veraset Savaşı gibi çatışmalara katılabilecek. Steam sayfası açılan oyunun resmi çıkış tarihi henüz açıklanmadı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0baa79f2bc22a98b8f67ee018f3bf92b6b522b9287aad6612098ef935d814891"
+    },
+    {
+      "id": "903a98b623c57838",
+      "category": "OYUN KÜLTÜRÜ",
+      "title": "CD Projekt Red Doğruladı: Yeni Cyberpunk Filmi Oyunun Doğrudan Uyarlaması Olmayacak",
+      "summary": "CD Projekt Red, Paramount Pictures ortaklığıyla geliştirilen canlı aksiyon Cyberpunk filminin oyunun birebir uyarlaması olmayacağını açıkladı. Yapım, aynı evrende geçen bağımsız bir hikayeyi beyaz perdeye taşıyacak.",
+      "why": "Büyük bütçeli Cyberpunk evreninin Paramount Pictures iş birliğiyle sinemaya nasıl aktarılacağı ve oyun senaryosuna bağlı kalınıp kalınmayacağı en üst düzey şirket yetkilisi tarafından netleştirildi.",
+      "event_key": "cyberpunk-2077-film-uyarlamasi",
+      "brief": "CD Projekt Red Eş CEO'su Michał Nowakowski, Paramount Pictures ile hazırlanan canlı aksiyon Cyberpunk filminin oyunun birebir uyarlaması olmayacağını açıkladı. Film, evrende geçen bağımsız bir hikayeyi anlatacak. Gösterim tarihi ise henüz kesinleşmedi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+      "source_published_at": "2026-10-16T22:02:23+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RrKWBQLDZb3WHTmZP4Ha9a-1920-80.jpg",
+      "body": [
+        "CD Projekt Red, sinemaya taşınacak Cyberpunk projesi hakkında yeni ayrıntılar paylaştı. Şirketin Eş CEO'su Michał Nowakowski, Anonymous Content ile olan sözleşmelerinin sona ermesinin ardından Paramount Pictures ile yeni bir iş birliği fırsatı doğduğunu ve canlı aksiyon Cyberpunk projesini yeni bir formülle hayata geçirme kararı aldıklarını belirtti.",
+        "Nowakowski, planlanan yapımın kesinlikle Cyberpunk 2077 oyununun birebir bir film uyarlaması olmayacağını vurguladı. Şirket, doğrudan oyunun hikayesini aktarmak yerine Cyberpunk dünyasında geçen özgün bir anlatı sunmayı amaçlıyor.",
+        "Film projesinin ne zaman vizyona gireceğine dair kesin bir takvim belirtilmezken, Cyberpunk evreninde geçen animasyon serisi Cyberpunk: Edgerunners'ın ikinci sezonunun 20 Ekim'de Netflix'te yayınlanacağı hatırlatıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "181bd9b6c1bb9804a32079d730f9e8b40551749eb03bd3e2b97c2368bf21831f"
+    },
+    {
+      "id": "c2271ff19a7fd32a",
+      "category": "ESPOR",
+      "title": "Super Smash Bros. Oyuncusu Mew2King Sağlık Endişeleri Gerekçesiyle Turnuvadan Men Edildi",
+      "summary": "Profesyonel oyuncu Jason 'Mew2King' Zimmerman, evindeki böcek ısırıklarına dair paylaşımlarının ardından XFS 2026 turnuvasından çıkarıldı. Oyuncu, tepkiler üzerine kapsamlı bir açıklama metni yayımladı.",
+      "why": "Espor dünyasında tanınan bir oyuncunun kişisel sağlık paylaşımlarının ardından bulaşma ve hijyen endişeleriyle resmi bir turnuvadan ihraç edilmesi toplulukta geniş yankı buldu.",
+      "event_key": "mew2king-turnuva-yasagi",
+      "brief": "Super Smash Bros. oyuncusu Jason 'Mew2King' Zimmerman, böcek ısırıklarıyla ilgili paylaşımları nedeniyle Xtreme Fighters Showdown turnuvasından men edildi. Oyuncu, paylaştığı fotoğrafların eski olduğunu ve tahtakurusu değil kedi piresi şüphesi taşıdığını belirterek açıklama yaptı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "source_published_at": "2026-10-16T21:54:09+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Profesyonel Super Smash Bros. oyuncusu Jason 'Mew2King' Zimmerman, sosyal medyada evindeki böcek istilası ve cildindeki yaralara dair yaptığı paylaşımların ardından mücadele edeceği Xtreme Fighters Showdown (XFS 2026) turnuvasından ihraç edildi. Turnuva yönetimi, katılımcıların sağlık ve güvenliğini koruma gerekçesiyle oyuncunun davetinin iptal edildiğini duyurdu.",
+        "Zimmerman, 15 Ekim'de ellerindeki şişlikleri aşırı antrenmana veya evindeki böceklere bağladığı, bacağındaki kızarık ısırık izlerini sergilediği paylaşımlar yapmıştı. Toplulukta tahtakurusu endişelerinin büyümesi ve seyahat etmemesi yönündeki uyarıların ardından XFS CEO'su M333 imzalı bir açıklamayla men kararı ilan edildi.",
+        "Gelen tepkiler ve ihraç kararının ardından Zimmerman, 17 Ekim 2026'da 3.000 kelimeyi aşan bir açıklama metni yayımladı. Paylaştığı fotoğrafların üç ay öncesine ait olduğunu ve öfkeyle hatalı paylaşımlar yaptığını belirten oyuncu, evinde sekiz kedi ve iki köpekle yaşadığını, gördüğü tek böceğin kedilerden gelen pireler olduğunu savundu. Zimmerman, bir süre yayın yapmayacağını da sözlerine ekledi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9ce6a662ec8a3c8ae6465b32ceb3e167c694a0036f457790bed471dc46d49fef"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 3,
+    "duration": 211.9,
+    "bytes": 1271376,
+    "sha256": "cfd5ea8b14c9120b74225088413e58ea35bc711e024e6a1e4f20f681bc695335"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 3,
+    "duration": 936.3,
+    "bytes": 14980537,
+    "sha256": "dd7a6ea92202101d4991ba3d6f80c46c3e6571ac407db5b80ddd27988991ff8f"
+  },
+  "audio_revision": 4
+}
