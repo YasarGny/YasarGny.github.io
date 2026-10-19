@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "0fa76581f11d144d94605f945d90b81f35c847eb87728ff45d33080b997aefc7",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 11.98,
+      "title": "Anthropic'in Kamu Fonu ve METR Dış Denetimi Hamlesi"
+    },
+    {
+      "start": 187.74,
+      "title": "Character.AI'ın İflası ve Disney'in Mühendis Kadrosunu Alması"
+    },
+    {
+      "start": 283.56,
+      "title": "Google Yapay Zekâ Tespit Aracı SynthID Detector'ı Erişime Açtı"
+    },
+    {
+      "start": 386.66,
+      "title": "Meta'nın Veri Kazıma ve Yapay Zekâ Eğitimi Şartlarındaki Değişiklik"
+    },
+    {
+      "start": 436.92,
+      "title": "MIT'den Kristal Malzemeleri Anlayan Çok Modlu Yapay Zekâ"
+    },
+    {
+      "start": 539.92,
+      "title": "Altermanyetizmayı Tanımlayan Fizikçilere 2026 Europhysics Ödülü"
+    },
+    {
+      "start": 651.62,
+      "title": "Aşırı Soğuk Sezyum Atomlarıyla Kesirli Fermi Denizi Keşfi"
+    },
+    {
+      "start": 737.98,
+      "title": "Nancy Grace Roman Uzay Teleskobu'nun Optik Başarısı"
+    },
+    {
+      "start": 814.52,
+      "title": "Mrk 501 Galaksisinde Birleşme Yolundaki Süper Kütleli Kara Delikler"
+    },
+    {
+      "start": 923.24,
+      "title": "Japonya'nın MMX Görevi ve Phobos'tan Numune Getirme Planı"
+    },
+    {
+      "start": 1033.56,
+      "title": "Kırmızı Etteki Neu5Gc Şekeri ve Tip 2 Diyabet Riski"
+    },
+    {
+      "start": 1164.66,
+      "title": "TIMP2 Proteini ve Yaşlanan Beyin Bağışıklığı"
+    },
+    {
+      "start": 1261.5,
+      "title": "Kapanış"
+    }
+  ]
+}
