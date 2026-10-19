@@ -9,43 +9,47 @@
     },
     {
       "start": 11.98,
-      "title": "Anthropic'in Kamu Fonu ve METR Dış Denetimi Hamlesi"
+      "title": "Anthropic'in Kamu Yararı Fonu ve Meşruiyet Hamleleri"
+    },
+    {
+      "start": 96.3,
+      "title": "METR'in Bağımsız Güvenlik Denetimi"
     },
     {
       "start": 187.74,
-      "title": "Character.AI'ın İflası ve Disney'in Mühendis Kadrosunu Alması"
+      "title": "Character.AI'ın İflası ve Disney'in Transfer Hamlesi"
     },
     {
       "start": 283.56,
-      "title": "Google Yapay Zekâ Tespit Aracı SynthID Detector'ı Erişime Açtı"
+      "title": "Google'ın SynthID Detector Aracı"
     },
     {
       "start": 386.66,
-      "title": "Meta'nın Veri Kazıma ve Yapay Zekâ Eğitimi Şartlarındaki Değişiklik"
+      "title": "Meta'nın Veri Kullanım Şartları Tartışması"
     },
     {
       "start": 436.92,
-      "title": "MIT'den Kristal Malzemeleri Anlayan Çok Modlu Yapay Zekâ"
+      "title": "MIT'den Kristal Malzemeler İçin Çok Modlu Yapay Zekâ"
     },
     {
       "start": 539.92,
-      "title": "Altermanyetizmayı Tanımlayan Fizikçilere 2026 Europhysics Ödülü"
+      "title": "Altermanyetizmanın Keşfi ve 2026 Europhysics Ödülü"
     },
     {
       "start": 651.62,
-      "title": "Aşırı Soğuk Sezyum Atomlarıyla Kesirli Fermi Denizi Keşfi"
+      "title": "Kesirli Fermi Denizi Kuantum Durumu"
     },
     {
       "start": 737.98,
-      "title": "Nancy Grace Roman Uzay Teleskobu'nun Optik Başarısı"
+      "title": "Nancy Grace Roman Uzay Teleskobu'nun Optik Performansı"
     },
     {
       "start": 814.52,
-      "title": "Mrk 501 Galaksisinde Birleşme Yolundaki Süper Kütleli Kara Delikler"
+      "title": "Mrk 501 Galaksisindeki Birleşen Kara Delikler"
     },
     {
       "start": 923.24,
-      "title": "Japonya'nın MMX Görevi ve Phobos'tan Numune Getirme Planı"
+      "title": "Japonya'nın Mars Uydusu Phobos Görevi (MMX)"
     },
     {
       "start": 1033.56,
@@ -53,11 +57,86 @@
     },
     {
       "start": 1164.66,
-      "title": "TIMP2 Proteini ve Yaşlanan Beyin Bağışıklığı"
+      "title": "TIMP2 Proteini ve Beyin Yaşlanması"
     },
     {
       "start": 1261.5,
       "title": "Kapanış"
     }
-  ]
+  ],
+  "story_ranges": [
+    {
+      "story_id": "b93423fcf928cc5e",
+      "start": 19.24,
+      "end": 30.16
+    },
+    {
+      "story_id": "b93423fcf928cc5e",
+      "start": 77.98,
+      "end": 87.38
+    },
+    {
+      "story_id": "796bbd796e414573",
+      "start": 96.3,
+      "end": 186.88
+    },
+    {
+      "story_id": "35cd62faf12b8e71",
+      "start": 187.74,
+      "end": 283.04
+    },
+    {
+      "story_id": "64d07b3de96bb69b",
+      "start": 283.56,
+      "end": 385.88
+    },
+    {
+      "story_id": "7dd27ee4e856d38c",
+      "start": 386.66,
+      "end": 436.52
+    },
+    {
+      "story_id": "9692486eeb77934b",
+      "start": 436.92,
+      "end": 539.32
+    },
+    {
+      "story_id": "3b6ba45cf29bd2f5",
+      "start": 539.92,
+      "end": 651.02
+    },
+    {
+      "story_id": "e302a5e0a1fa9708",
+      "start": 651.62,
+      "end": 737.26
+    },
+    {
+      "story_id": "64eec3307d023ba2",
+      "start": 737.98,
+      "end": 814.52
+    },
+    {
+      "story_id": "f1ae5149412df8d3",
+      "start": 814.52,
+      "end": 922.28
+    },
+    {
+      "story_id": "e76126b0ebbf01e0",
+      "start": 923.24,
+      "end": 1033.18
+    },
+    {
+      "story_id": "cdb1230967f020df",
+      "start": 1033.56,
+      "end": 1164.08
+    },
+    {
+      "story_id": "e6865713e68836f7",
+      "start": 1164.66,
+      "end": 1261.5
+    }
+  ],
+  "section": "teknoloji",
+  "clips_reviewed": true,
+  "stories_sha256": "a5c3e020fb22964f648cf032ba36b9af38afb04fd55a82a27cf0f28eab304762"
 }

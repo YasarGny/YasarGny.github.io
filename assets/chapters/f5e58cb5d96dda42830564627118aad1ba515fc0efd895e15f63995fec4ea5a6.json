@@ -9,15 +9,15 @@
     },
     {
       "start": 28.22,
-      "title": "Total War: Shogun 2 - Complete Edition'ın Satıştan Çekilmesi"
+      "title": "Sega, Total War: Shogun 2 - Complete Edition'ı Satıştan Çekti"
     },
     {
       "start": 150.38,
-      "title": "Konami Başkanı Hayakawa ve Oyun Geliştirmede İnsan Faktörü"
+      "title": "Konami Başkanı Hayakawa: İyi Oyun Üretiminde Asıl Önemli Olan İnsan Faktörüdür"
     },
     {
       "start": 240.04,
-      "title": "Drunken Goddess Reflux Demosunun İptali ve Klonlama Endişesi"
+      "title": "Drunken Goddess Reflux Demosunun İptali ve Yapay Zeka Klonu Endişesi"
     },
     {
       "start": 345.84,
@@ -25,23 +25,72 @@
     },
     {
       "start": 447.6,
-      "title": "God of War Laufey Koleksiyoncu Kutusunda Oyun Bulunmaması"
+      "title": "God of War Laufey Koleksiyoncu Kutusunda Oyun Yer Almayacak"
     },
     {
       "start": 532.84,
-      "title": "Liquid Swords Stüdyosunun İflası"
+      "title": "Samson'ın Geliştiricisi Liquid Swords'un İflası"
     },
     {
       "start": 643.74,
-      "title": "Steam Başarım Kümeleri Özelliği"
+      "title": "Steam, Başarım Kümeleri Özelliğini Beta Olarak Başlattı"
     },
     {
       "start": 749.68,
       "title": "Dark Souls 2 Dosyalarında Keşfedilen Erken Dönem Kolezyum Seviyesi"
     },
     {
+      "start": 844.31,
+      "title": "Genel Değerlendirme"
+    },
+    {
       "start": 893.68,
       "title": "Kapanış"
     }
-  ]
+  ],
+  "story_ranges": [
+    {
+      "story_id": "d87461b97762fc44",
+      "start": 28.22,
+      "end": 150.08
+    },
+    {
+      "story_id": "fc915268f65a4eda",
+      "start": 150.38,
+      "end": 239.56
+    },
+    {
+      "story_id": "bbe3a58b89e8ecb9",
+      "start": 240.04,
+      "end": 345.0
+    },
+    {
+      "story_id": "5cbc39bbe967837b",
+      "start": 345.84,
+      "end": 447.16
+    },
+    {
+      "story_id": "c6c48da08c8057e3",
+      "start": 447.6,
+      "end": 532.62
+    },
+    {
+      "story_id": "d44aa28bb0cc00d1",
+      "start": 532.84,
+      "end": 643.38
+    },
+    {
+      "story_id": "711c846a275a05fe",
+      "start": 643.74,
+      "end": 749.1
+    },
+    {
+      "story_id": "af184f5d861298ae",
+      "start": 749.68,
+      "end": 843.42
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "0b2f8212c9fff5f06c9694576225425b1da472ccc5a1ea3fe8e9606ad21b0266"
 }
