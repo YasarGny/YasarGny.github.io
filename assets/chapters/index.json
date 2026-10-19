@@ -1,1 +1,49 @@
-{}
+{
+  "f5e58cb5d96dda42830564627118aad1ba515fc0efd895e15f63995fec4ea5a6": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "f5e58cb5d96dda42830564627118aad1ba515fc0efd895e15f63995fec4ea5a6",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 28.22,
+        "title": "Total War: Shogun 2 - Complete Edition'ın Satıştan Çekilmesi"
+      },
+      {
+        "start": 150.38,
+        "title": "Konami Başkanı Hayakawa ve Oyun Geliştirmede İnsan Faktörü"
+      },
+      {
+        "start": 240.04,
+        "title": "Drunken Goddess Reflux Demosunun İptali ve Klonlama Endişesi"
+      },
+      {
+        "start": 345.84,
+        "title": "Bloober Team ve Fiziksel Oyun Formatının Geleceği"
+      },
+      {
+        "start": 447.6,
+        "title": "God of War Laufey Koleksiyoncu Kutusunda Oyun Bulunmaması"
+      },
+      {
+        "start": 532.84,
+        "title": "Liquid Swords Stüdyosunun İflası"
+      },
+      {
+        "start": 643.74,
+        "title": "Steam Başarım Kümeleri Özelliği"
+      },
+      {
+        "start": 749.68,
+        "title": "Dark Souls 2 Dosyalarında Keşfedilen Erken Dönem Kolezyum Seviyesi"
+      },
+      {
+        "start": 893.68,
+        "title": "Kapanış"
+      }
+    ]
+  }
+}
