@@ -1,0 +1,415 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "expanded-v1",
+  "section": "teknoloji",
+  "publish_date": "2026-10-20",
+  "date": "20 Ekim 2026",
+  "issue": 5,
+  "ready": true,
+  "stories": [
+    {
+      "id": "c67da6c0eaa5eec1",
+      "category": "YAPAY ZEKÂ",
+      "title": "ABD, Çinli DeepSeek'in Federal Kurumlarda Kullanımını Yasakladı",
+      "summary": "ABD İç Güvenlik Bakanlığı, Çinli yapay zeka şirketi DeepSeek'in modellerinin ve bu modellerle geliştirilen teknolojilerin sivil federal kurumlarda kullanımını yasakladı. Karar Hazine, Dışişleri ve Adalet bakanlıkları gibi sivil kurumları kapsarken Savunma Bakanlığı kapsam dışında bırakıldı. Pazartesi günü duyurulan yasak, temmuz ayı sonundan itibaren yürürlüğe girdi.",
+      "why": "Açık kaynaklı ve düşük maliyetli yapay zeka modelleriyle ABD'li rakiplerini zorlayan Çinli bir şirketin federal sistemlerden çıkarılması, iki ülke arasındaki teknoloji rekabetini ve kurumsal güvenlik önlemlerini yansıtmaktadır.",
+      "event_key": "abd-dhs-deepseek-yasagi",
+      "brief": "ABD İç Güvenlik Bakanlığı, Çinli DeepSeek şirketine ait yapay zeka teknolojilerinin sivil devlet kurumlarında kullanımını yasakladı. Temmuz sonunda yürürlüğe giren karar, Hazine ve Dışişleri gibi bakanlıkları kapsarken Savunma Bakanlığı muaf tutuldu. Yasaklama kararı, Çinli firmalara yönelik güvenlik endişeleri ve rekabet iddialarının ardından geldi.",
+      "source_name": "BBC Technology",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "source_published_at": "2026-10-19T18:21:54+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
+      "body": [
+        "ABD İç Güvenlik Bakanlığı (DHS), Çinli yapay zeka şirketi DeepSeek tarafından geliştirilen tüm teknolojilerin ve bu modeller yardımıyla üretilen sistemlerin sivil federal kurumlardan kaldırılması talimatını verdi. Pazartesi günü kamuoyuna açıklanan bu yasak, temmuz ayı sonu itibarıyla yürürlüğe girdi. Düzenleme; Hazine, Dışişleri ve Adalet bakanlıkları dahil sivil kurumları kapsarken Savunma Bakanlığı bünyesindeki kurumlar yasaktan muaf tutuldu.",
+        "Bakanlık bildiriminde spesifik güvenlik gerekçeleri detaylandırılmasa da karar, Trump yönetiminin ve Amerikan şirketlerinin Çin menşeli yapay zeka girişimlerine yönelik eleştirilerini takip etti. Beyaz Saray teknoloji lideri Michael Kratsios kurum içi bir notta Amerikan firmalarının Çinli rakiplerce istismar edildiğini belirtmişti. Halka arza hazırlanan Anthropic ve OpenAI da modellerinin DeepSeek gibi Çinli şirketler tarafından kopyalandığını öne sürmüştü.",
+        "Açık kaynaklı yapısıyla düşük maliyetli bir alternatif sunan DeepSeek, 2025'teki ilk çıkışından bu yana büyük ilgi görüyor. Modelinin ilk sürümünü 6 milyon dolara eğittiğini açıklayan şirket; Snowflake, Vercel ve OpenRouter gibi ABD'li teknoloji şirketlerince de kullanılıyor. Geçtiğimiz hafta yeni sürümü yayımlanan DeepSeek'in uygulaması, uygulama mağazalarında en çok indirilenler arasında yer alıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d996ca047fa6338100c2bbc539c56d21b4df5096c36fb7e84a4848b3935bb239"
+    },
+    {
+      "id": "4de91e1540639e75",
+      "category": "SİBER GÜVENLİK",
+      "title": "Microsoft'tan Yapay Zeka Ajanlarına Karşı Yeni Güvenlik Önlemleri",
+      "summary": "Microsoft, kurumsal sistemlerde kullanılan yapay zeka ajanlarını denetlemek amacıyla Guardian Agents adlı yeni güvenlik özelliğini tanıttı. Şirket CEO'su Satya Nadella ve güvenlik yöneticileri, öncü yapay zeka modellerinin öngörülemez olduğunu belirterek ajanların kurum içi bir tehdit gibi izlenmesi gerektiğini vurguladı.",
+      "why": "Yapay zeka ajanlarının kurumsal sistemlerde kritik verilere erişim sağlaması ve tahmin edilemez davranışlar sergileme riski, kurumsal güvenlik yazılımlarında bağımsız denetim mekanizmalarını zorunlu kılıyor.",
+      "event_key": "microsoft-guardian-agents-guvenlik",
+      "brief": "Microsoft, kurumsal sistemlerde çalışan yapay zeka ajanlarını denetlemek için Guardian Agents güvenlik özelliğini duyurdu. Şirket yönetimi, öncü modellerin iç tehdit oluşturabileceğini ve bağımsız biçimde izlenmesi gerektiğini belirtti. Sistem, çalışanların iş yerine getirdiği altmış farklı ajan türünü tespit edebilecek araçları da içeriyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source_published_at": "2026-10-19T22:04:28+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "body": [
+        "Microsoft, şirketleri yapay zeka ajanlarının oluşturduğu risklerden korumak amacıyla yeni güvenlik araçlarını duyurdu. Haziran ayında sunulan Project Perception kapsamına eklenen Guardian Agents özelliği, kurumların kullandığı yapay zeka ajanlarını takip edip denetlemeyi hedefliyor. Sistem; saldırı yapan, açıkları tespit eden ve bunları onaran farklı ajan sınıflarını bünyesinde barındırıyor.",
+        "Microsoft CEO'su Satya Nadella, şirketlerin bizzat satın alıp yetkilendirdiği ajanların kötü niyetli çalışanlar gibi iç tehdit oluşturabileceği uyarısında bulundu. Nadella, model sağlayıcılarının güvenlik vaatlerine güvenilmemesi gerektiğini ve zekanın tedariki ile bunun üzerindeki denetim yetkisinin birbirinden ayrılması gerektiğini belirtti. Güvenlik yöneticisi Hayete Gallot ise öncü modellerin kötü niyetli olmaktan ziyade öngörülemez olmaları sebebiyle güvenilmez kabul edilmesi gerektiğini kaydetti.",
+        "Bu adımlara ek olarak Microsoft Defender'a; Claude Code, Codex ve OpenClaw dahil 60 farklı yapay zeka ajanı türünü tespit etme yeteneği kazandırıldı. Sistem, ajanların verilere erişimini sınırlandırıp riskli kararlarda insan onayı isteyebiliyor. Microsoft ayrıca Nvidia'nın donanım tabanlı durdurma anahtarı işlevi gören Açık Ajan Güvenliği Platformu'na da katılım sağladı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f6d94cdee15d4ea2895130dbd2603fa953b19033c4eca63a7073ba58794b976d"
+    },
+    {
+      "id": "ea3b81d8158f7d03",
+      "category": "YAPAY ZEKÂ",
+      "title": "Nvidia, Kurumsal ve Kişisel Kullanım İçin Yeni Açık Yapay Zeka Modellerini Tanıttı",
+      "summary": "Nvidia, kesintisiz çalışan yapay zeka ajanları ve uç bilişim için yeni açık ağırlıklı modellerini piyasaya sürdü. Şirket, kurumlara yönelik 120 milyar parametreli Nemotron 3.5 Super VL modelinin yanı sıra bilgisayarlarda yerel çalışabilen hafif Bolt serisini duyurdu.",
+      "why": "Yapay zeka modellerinin bulut yerine yerel donanımlarda ve şirketlerin kendi altyapılarında çalıştırılması, veri gizliliğini korurken tescilli kapalı modellere bağımlılığı azaltma olanağı sunuyor.",
+      "event_key": "nvidia-nemotron-super-vl-bolt-modelleri",
+      "brief": "Nvidia, kurumsal kullanım ve yapay zeka destekli bilgisayarlar için yeni açık ağırlıklı modellerini duyurdu. Yüz yirmi milyar parametreli Nemotron 3.5 Super VL kurumlara hitap ederken, Bolt serisi modeller yerel cihazlarda çalışacak şekilde tasarlandı. Modellerin bir kısmı hemen kullanıma sunulurken en küçük sürüm ay sonunda çıkacak.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source_published_at": "2026-10-19T15:37:09+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+      "body": [
+        "Nvidia, perşembe günü kurumsal sistemlerde ve yerel bilgisayarlarda kesintisiz görev alacak yapay zeka ajanlarına yönelik yeni açık ağırlıklı modellerini tanıttı. Şirket, işletmeler için 120 milyar parametreli Nemotron 3.5 Super VL modelini sundu. Nvidia, bu modelin talimat takibi ve araç kullanımı gibi görevlerde Anthropic ve OpenAI'ın rakip modellerinden daha hızlı sonuç verdiğini bildirdi. Modeli kullanan kurumlar arasında Skydance, EY, Crowdstrike ve Salesforce yer alıyor.",
+        "Şirket aynı zamanda yerel cihazlarda çalışmak üzere iki hafif Bolt modeli duyurdu. Nvidia RTX Spark yongalı yapay zeka bilgisayarlarında ve DGX Spark iş istasyonlarında çalışacak şekilde tasarlanan bu modeller, kullanıcıların verilerini buluta göndermeden günlük görevleri yerel olarak yürütmelerini amaçlıyor. Bu bilgisayarlar, Microsoft ve Dell gibi iş ortakları aracılığıyla piyasaya sürülüyor.",
+        "Bolt serisinde yer alan 74 milyar parametreli Nemotron 3.5 Bolt 74B-A9B; çok adımlı muhakeme, araç çağırma ve web tarama görevlerini dengeliyor. Sohbet odaklı en küçük model olan Bolt E4B'nin ise ay sonuna doğru çıkacağı belirtildi. Nemotron 3.5 Super VL ve Bolt 74B modelleri duyuruyla birlikte erişime açıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "dcc09fbde52f1a7c882fab1d54929b3b5f6484add8c3344172073c3355f86ae3"
+    },
+    {
+      "id": "c1dfee28d50b17ef",
+      "category": "BULUT BİLİŞİM",
+      "title": "Amazon, Trainium Yongaları İçin TorchNeuron Aracını Kullanıma Sundu",
+      "summary": "Amazon Web Services (AWS), yapay zeka uygulamalarının tek satırlık yapılandırmayla Amazon'un Trainium yongalarına taşınmasını sağlayan TorchNeuron aracını yayımladı. Girişim, PyTorch ekosisteminde Nvidia'nın donanım hakimiyetini azaltmayı ve geliştiricileri AWS bulut altyapısına çekmeyi amaçlıyor.",
+      "why": "Yapay zeka pazarında Nvidia'nın CUDA yazılımı ve çiplerine olan bağımlılığın kırılması, geliştiricilere alternatif donanım ve maliyet avantajları sağlama potansiyeli taşıyor.",
+      "event_key": "amazon-aws-torchneuron-trainium",
+      "brief": "Amazon Web Services, yapay zeka uygulamalarını kendi Trainium çiplerine aktaran TorchNeuron aracını çıkardı. PyTorch tabanlı uygulamaların tek bir satır değişiklikle çalışmasını sağlayan araç, geliştiricilerin kod yeniden yazma ihtiyacını ortadan kaldırıyor. Amazon, bu adımla sektördeki Nvidia donanım bağımlılığını azaltmayı hedefliyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source_published_at": "2026-10-19T20:09:24+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+      "body": [
+        "Amazon Web Services (AWS), pazartesi günü yapay zeka girişimlerinin uygulamalarını şirketin kendi yapay zeka çipi Trainium'a kolayca taşımasını sağlayan TorchNeuron adlı geliştirici aracını piyasaya sürdü. Yeni araç, yapay zeka uygulamalarının yaklaşık yüzde 85'inde kullanılan açık kaynaklı PyTorch kütüphanesiyle uyumlu çalışıyor ve kodun yeniden yazılmasına gerek kalmadan tek bir yapılandırma satırıyla Trainium üzerinde çalışmasına imkan tanıyor.",
+        "Nvidia, CUDA yazılımı sayesinde PyTorch üzerinde uzun yıllardır donanım standardı konumunda bulunuyordu. AWS Annapurna Labs yöneticisi Colin Brace, Trainium'un hem model eğitimi hem de çıkarım işlemlerini aynı yongada gerçekleştirdiğini ve tam iş yüklerinde maliyet avantajı sağladığını belirtti. Brace, ses uygulamaları geliştiren Deepgram şirketinin Trainium'a geçerek dolar başına yüzde 70 daha fazla ses işlediğini aktardı.",
+        "Amazon sadece kendi donanımına geçişi kolaylaştırmakla kalmayıp PyTorch projesinin ana kod tabanına katkı sunarak yazılımın belirli yongalara bağımlılığını kaldırmayı hedefliyor. Şirket, kütüphaneyi donanımdan bağımsız hale getirerek geliştiricilerin Nvidia ekosistemine olan kilitlenmesini kırmayı amaçlıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "eac50eaaca687102b717241a330f6a23168abac98aa8403c4ac3c3a1126d574b"
+    },
+    {
+      "id": "2b9227ae1c18986a",
+      "category": "DONANIM",
+      "title": "Tenstorrent 1,5 Milyar Dolarlık Yatırımla Değerlemesini 6,2 Milyar Dolara Çıkardı",
+      "summary": "Yapay zeka çıkarım çipleri geliştiren Tenstorrent, 1,5 milyar dolarlık yeni yatırım turunu tamamlayarak değerlemesini 6,2 milyar dolara ulaştırdı. Trace Capital ve Innovation X liderliğindeki turdan elde edilen kaynak, açık ağırlıklı yapay zeka modelleri ve video üretimi odaklı çiplerin ölçeklendirilmesinde kullanılacak.",
+      "why": "Nvidia'nın pazar hakimiyetine meydan okuyan donanım girişimlerinin artan sermaye gücünü ve açık ağırlıklı yapay zeka modellerine yönelik özel çip talebini göstermesi açısından önem taşıyor.",
+      "event_key": "tenstorrent-1-5-milyar-dolar-yatirim",
+      "brief": "Yapay zeka çip girişimi Tenstorrent, 1,5 milyar dolarlık yeni yatırımla değerlemesini 6,2 milyar dolara yükseltti. Şirket, elde ettiği kaynağı açık ağırlıklı yapay zeka modelleri ve video üretimine yönelik çiplerini ölçeklendirmek için harcayacak.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source_published_at": "2026-10-19T18:37:27+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+      "body": [
+        "Yapay zeka çıkarım (inference) donanımları geliştiren Tenstorrent, 6,2 milyar dolar değerleme üzerinden 1,5 milyar dolar tutarında yeni bir yatırım sağladı. Şirket, bu yatırımla birlikte 2024 sonlarında elde ettiği 2,6 milyar dolarlık değerlemesini iki katından fazla artırmış oldu. Bu gelişme, Intel ve Qualcomm'un yaklaşık 5 milyar dolarlık satın alma ilgisi gösterdiği iddialarından beş ay sonra gerçekleşti.",
+        "Yatırım turuna Trace Capital ile Innovation X liderlik etti. Finansman turunda ayrıca Cadence Ventures, Eclipse, Fidelity, SanDisk ve T. Rowe Price gibi yatırımcılar da yer aldı. On yıllık bir geçmişe sahip olan girişim, Nvidia'nın pazardaki hakimiyetine alternatif donanım üretmeyi hedefleyen şirketler arasında yer alıyor.",
+        "Tenstorrent Üst Yöneticisi (CEO) ve mikroișlemci mühendisi Jim Keller, Galaxy sunucularının DeepSeek modellerini çalıştırabildiğini kanıtlamalarının ardından şirketi bağımsız tutma ve yeni sermaye toplama kararı aldıklarını belirtti. Toplanan yeni finansmanın açık ağırlıklı yapay zeka modelleri ve video üretimi için optimize edilmiş çiplerin ölçeklendirilmesi amacıyla kullanılacağı kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "a26008a31cae40f3365f8583991e11defb2c8d4c19c83064c3ba70227ceb51b0"
+    },
+    {
+      "id": "f649037fa8e9c17e",
+      "category": "SİBER GÜVENLİK",
+      "title": "Açık Kaynak Kod Aracı OpenCode Sistemine Siber Saldırı Düzenlendi",
+      "summary": "Yapay zeka kodlama aracı OpenCode, Console platformundaki eski bir sisteme yapılan siber saldırı nedeniyle kullanıcılarının yüzde 1,4'ünün etkilendiğini açıkladı. Ele geçirilen API anahtarları sebebiyle geliştiricilerin hesaplarında yetkisiz harcamalar oluşurken güvenlik korumaları savunma süreçlerini zorlaştırdı.",
+      "why": "Yapay zeka güvenlik filtrelerinin siber savunma ekiplerinin zararlı kod analizlerini engelleyebildiğini ve API güvenliğinin geliştiriciler açısından yarattığı mali riskleri somut olarak ortaya koyuyor.",
+      "event_key": "opencode-guvenlik-ihlali-api-anahtari",
+      "brief": "Açık kaynaklı yapay zeka kodlama aracı OpenCode, konsol sistemine yapılan saldırıda kullanıcıların yüzde 1,4'ünün etkilendiğini bildirdi. Sızan API anahtarları yüksek harcamalara yol açarken, güvenlik filtreleri savunma analizlerini aksattı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source_published_at": "2026-10-19T19:28:34+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
+      "body": [
+        "Açık kaynaklı yapay zeka kodlama platformu OpenCode, OpenCode Console altyapısındaki eski bir sisteme gece saatlerinde siber saldırı düzenlendiğini bildirdi. Şirket, yaşanan olayın konsol kullanıcılarının yüzde 1,4'ünü etkilediğini ve etkilenen kişilere e-posta ile bildirim gönderildiğini açıkladı. Açık kaynaklı uygulama ve komut satırı aracının olaydan etkilenmediği belirtildi.",
+        "Saldırının ardından sistemde kayıtlı API anahtarlarının ele geçirilmesiyle birlikte geliştiriciler, OpenAI, Anthropic ve Google hesaplarında yetkisiz kullanım uyarıları almaya başladı. Kullanıcılar yüzlerce dolardan 1.000 doların üzerine çıkan harcamalar bildirirken, Anthropic ve Google şüpheli anahtarları engelledi. OpenAI ve OpenCode ise etkilenen kullanıcıların harcamalarını iade etme sürecini başlattı.",
+        "OpenCode kurucu ortağı Dax Raad, saldırganların 48 saat boyunca sistemlere erişmeye çalıştığını ve savunma analizi için kullanılan ticari yapay zeka modellerinin güvenlik filtreleri nedeniyle zararlı kodları incelemeyi reddettiğini aktardı. Şirket, bu engeli aşabilmek için OpenAI'ın güvenlik incelemelerine olanak tanıyan Daybreak Blue programına dahil edildi. Saldırganların eski sisteme nasıl eriştiği ve verilerin nasıl saklandığı henüz tam olarak açıklanmazken olayın devam ettiği kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "77ae99cbfec9e5b389a7f46f332bf74c8056d6fe9d7aaf76cc98eb0379ecb6cf"
+    },
+    {
+      "id": "733cc19037e01703",
+      "category": "SİBER GÜVENLİK",
+      "title": "OpenAI Ofisine Dinleme Cihazı Yerleştirmekle Suçlanan Eski Çalışana Suudi Desteği İddiası",
+      "summary": "OpenAI'ın toplantı odasına dinleme cihazı yerleştirdiği iddiasıyla tutuklanan eski çalışan Abdulrahman Alfozan'ın Suudi hükümetinden destek aldığı ileri sürüldü. Mahkeme belgelerine göre Alfozan'ın ailesinin kaçış masrafları bir Suudi askeri yetkili tarafından karşılandı ve şüphelinin kefalet talebi reddedildi.",
+      "why": "Yapay zeka şirketlerinin gizli görüşmelerine yönelik fiziksel casusluk girişimlerini ve yabancı devlet bağlantısı iddialarının yarattığı ulusal güvenlik risklerini gösteriyor.",
+      "event_key": "openai-casusluk-suclamasi-alfozan",
+      "brief": "OpenAI toplantı odasına ses kayıt cihazı yerleştirmekle suçlanan eski çalışan Abdulrahman Alfozan'ın Suudi hükümetiyle bağlantılı olduğu iddia edildi. Kaçma şüphesi bulunan zanlının kefalet talebi federal mahkemece reddedildi.",
+      "source_name": "BBC Technology",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "source_published_at": "2026-10-19T21:12:30+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
+      "body": [
+        "ABD'de savcılar, OpenAI şirketinin toplantı odasına gizlice ses kayıt cihazı yerleştirmekle suçlanan Suudi Arabistan vatandaşı eski çalışan Abdulrahman Alfozan'ın Suudi hükümetinden ciddi destek aldığını öne sürdü. Kaliforniya'daki mahkeme belgelerinde, 35 yaşındaki Alfozan'ın Suudi kraliyet ailesinden bir isimle sık sık iletişim kurduğu ve bir askeri yetkilinin zanlının ailesine tek yön uçak bileti sağladığı aktarıldı.",
+        "OpenAI, 30 Eylül'de bir konferans odasındaki televizyonun arkasına tuvalet kağıdıyla gizlenmiş ses kayıt cihazını tespit etti. Odaya yerleştirilen güvenlik kamerası kayıtlarında, 5 Ekim'de Alfozan'ın odaya girip cihazın bulunduğu televizyonun arkasını kontrol ettiği görüldü. Alfozan, 9 Ekim'de Federal Soruşturma Bürosu (FBI) tarafından gözaltına alındı ve şirketle olan sözleşmesi feshedildi.",
+        "Savcılık belgelerinde, üst düzey teknoloji yöneticilerinin o günlerde devlet yetkilileriyle aynı odada toplantılar yapması nedeniyle bu eylemin ABD ulusal güvenliği açısından risk doğurduğu belirtildi. Alfozan'ın eşi ve çocuğunun, gözaltıdan bir gün sonra bir Suudi askeri yetkilinin aldığı biletle Katar aktarmalı olarak ülkeden ayrıldığı kaydedildi. Yargıç Alex Tse, kaçma şüphesi yüksek olduğu gerekçesiyle zanlının kefaletle serbest bırakılma talebini reddetti. Suçlu bulunması halinde Alfozan beş yıla kadar hapis cezası alabilecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8810999e84ef8f50db27323a387ad1bd65fd153dda8722574adc4cbfcaba4eb4"
+    },
+    {
+      "id": "df6c27a6432a6d4d",
+      "category": "UZAY",
+      "title": "Rus Askeri Uydusu Ukrayna'nın Kullandığı ICEYE Aracına Tehlikeli Şekilde Yaklaştı",
+      "summary": "Rusya'ya ait Kosmos 2612 askeri uydusu, Ukrayna ordusunun da görüntü aldığı ICEYE-X36 uydusuna alçak Dünya yörüngesinde 500 metreden daha az bir mesafeye kadar yaklaştı. Uzmanlar, onay alınmaksızın gerçekleşen bu manevranın yörüngede bir ilk olduğunu ifade etti.",
+      "why": "Alçak Dünya yörüngesinde ilk kez ticari bir uyduya izinsiz ve kontrollü bir askeri yakınlaşma gerçekleştirilmesi, uzaydaki sivil ve askeri altyapı güvenliği açısından yeni bir risk aşamasına işaret ediyor.",
+      "event_key": "kosmos-2612-iceye-x36-yakin-manevra",
+      "brief": "Rus askeri uydusu Kosmos 2612, Ukrayna'nın istihbarat amaçlı kullandığı ICEYE-X36 uydusuna alçak Dünya yörüngesinde 500 metreden fazla yaklaştı. İki uydu arasındaki bu izinsiz yakınlaşmanın stratejik bir mesaj olduğu değerlendiriliyor.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "source_published_at": "2026-10-19T20:54:17+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
+      "body": [
+        "Yörünge istihbarat şirketi LeoLabs, Rusya'ya ait Kosmos 2612 askeri uydusunun ABD merkezli ICEYE US tarafından işletilen ICEYE-X36 ticari radar uydusuna alçak Dünya yörüngesinde benzeri görülmemiş bir şekilde yaklaştığını bildirdi. Yüzlerce kilometre uzaktan kontrollü manevralarla hedefine doğru ilerleyen Rus uydusunun hafta sonu boyunca ICEYE-X36 ile arasındaki mesafeyi 500 metrenin altına indirdiği açıklandı.",
+        "Nisan ayında Soyuz roketiyle fırlatılan Rus uzay aracının belirli bir süredir ICEYE uydusuyla aynı yörünge çizgisine yerleştiği gözlemlenmişti. Hafta sonu boyunca ICEYE-X36'nın önünde ve arkasında manevralar yapan Kosmos 2612, radarlarda iki uydunun birbirinden ayırt edilmesini dahi zorlaştıracak seviyede yakın konumlarda kaldı. Astrofizikçiler ve uzmanlar, alçak Dünya yörüngesinde taraflardan birinin rızası olmadan aktif bir uyduya bu düzeyde yaklaşılmasının ilk kez yaşandığını kaydetti.",
+        "Radar teknolojisiyle bulut ve karanlık koşullarında da görüntü alabilen Finlandiya merkezli ICEYE şirketi, 2022'den bu yana Ukrayna ordusuna istihbarat amaçlı görüntü sağlıyor. Rusya 2022 yılında Ukrayna'ya destek veren sivil uyduları meşru hedef ilan etmişti. Pazartesi günü itibarıyla Kosmos 2612 uydusunun saatte yaklaşık 17 kilometre hızla ICEYE-X36'dan uzaklaşmaya başladığı ve ticari uyduda herhangi bir fiziksel hasar oluşmadığı belirtildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "bb4f777d22fe767160f4f8a161cea5a2cfa7d565e5e76237ee676ffc0d7fddca"
+    },
+    {
+      "id": "ced358144305e848",
+      "category": "TELEKOMÜNİKASYON",
+      "title": "Avrupalı Dört Telekom Operatöründen Doğrudan Cihaza Uydu Hizmeti Girişimi",
+      "summary": "Deutsche Telekom, Orange, Telefónica ve Vodafone, SpaceX'in Starlink hizmetine rakip olacak doğrudan cihaza uydu iletişimi geliştirmek amacıyla niyet mektubu imzaladı. Ortaklık kapsamında operatörler yer altyapısını kurmayı planlarken, uydu filosunu harici bir ortak sağlayacak. Girişim, yetersiz kapsama alanlarında hizmet sunmayı ve kamu iletişimini korumayı amaçlıyor.",
+      "why": "Avrupa'nın önde gelen telekom operatörlerinin Starlink'e karşı doğrudan cihaza uydu hizmeti sunmak için güçlerini birleştirmesi, kıtadaki telekomünikasyon altyapısı ve spektrum paylaşımları açısından önem taşımaktadır.",
+      "event_key": "avrupa-operatorleri-starlink-rakibi-uydu-ortakligi",
+      "brief": "Dört büyük Avrupalı telekom operatörü, doğrudan cihaza uydu hizmeti sunmak amacıyla ortak spektrum teklifini değerlendiren bir niyet mektubu imzaladı. Şirketler yer altyapısını üstlenecek, uydu takımyıldızını ise harici bir ortak sağlayacak. Bu adımla yetersiz kapsama alanlarının desteklenmesi ve kamu ağlarının güçlendirilmesi hedefleniyor.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
+      "source_published_at": "2026-10-19T10:24:42-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "body": [
+        "Deutsche Telekom, Orange, Telefónica ve Vodafone, SpaceX'in Starlink projesine Avrupa merkezli bir alternatif oluşturmak amacıyla doğrudan cihaza uydu iletişimi alanında ortaklık planlarını duyurdu. Dört telekomünikasyon operatörü, bu hizmeti destekleyecek frekans spektrumu için ortak bir teklif vermeyi değerlendirdiklerini belirten bir niyet mektubuna imza attı.",
+        "Açıklanan plana göre operatörler, doğrudan bir uydu takımyıldızına yatırım yapmak yerine Avrupa'daki temel yer ağı altyapısını kuracak ve kritik koordinasyon ile izleme görevlerini yürütecek. İhtiyaç duyulan uydu filosu ise henüz seçilmemiş olan harici bir uydu işletmecisi tarafından temin edilecek. Proje; kapsama alanı yetersiz olan bölgelerdeki talebi karşılamayı, kamu ağlarının dayanıklılığını artırmayı ve kritik iletişimi güvenceye almayı hedefliyor.",
+        "Benzer bir spektrum paylaşımı modeli daha önce ABD'de AT&T, T-Mobile ve Verizon arasında kırsal bölgeler için açıklanmıştı. Avrupa Birliği de mayıs ayında 2 GHz bandının bir kısmını yerel uydu hizmetlerine tahsis etmeyi gündeme getirmiş, bu plan Ukrayna'daki hizmetleri olumsuz etkileyeceği gerekçesiyle SpaceX tarafından eleştirilmişti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b2e8b70a0e74846bae2c9043217fd73833fef80d79cd8136b1098bca45de8d8b"
+    },
+    {
+      "id": "aeb3467d580527c4",
+      "category": "ENERJİ",
+      "title": "Amazon, Indiana'da 12 Küçük Modüler Nükleer Reaktörün Kurulumunu Fonluyor",
+      "summary": "Amazon, Indiana'da yıkılan bir kömür santralinin bulunduğu sahada planlanan 960 megavatlık nükleer tesisin geliştirilmesini fonlayacağını açıkladı. Projede X-energy tasarımı 12 adet küçük modüler reaktör kullanılacak ve işletmeyi American Electric Power üstlenecek. Üretilen enerji kamu şebekesine verilecek ve Amazon'un veri merkezlerine aktarılacak.",
+      "why": "Büyük teknoloji şirketlerinin veri merkezlerinin artan enerji talebini karşılamak için kamu şebekesine bağlı küçük modüler nükleer santral yatırımlarına yönelmesi açısından kritik bir örnektir.",
+      "event_key": "amazon-indiana-smr-nukleer-santral",
+      "brief": "Amazon, Indiana'da yıkılan bir kömür santralinin yerine kurulacak 960 megavatlık nükleer projeyi fonlayacağını açıkladı. X-energy üretimi 12 küçük modüler reaktörden oluşacak santral, American Electric Power tarafından işletilecek. Enerji kamu şebekesine verilecek ve şirketin veri merkezlerini besleyecek.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "source_published_at": "2026-10-19T16:55:56+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?resize=1200,792",
+      "body": [
+        "Amazon, ABD'nin Indiana eyaletinde Terre Haute'un güneyinde yer alan ve daha önce yıkılan bir kömür santrali sahasında 960 megavatlık nükleer enerji santrali kurulması projesini fonlayacağını bildirdi. Tesisin işletmeciliğini American Electric Power (AEP) yürütürken, reaktörlerin tedarikini küçük modüler reaktör (SMR) üreticisi X-energy sağlayacak.",
+        "Proje çerçevesinde 12 adet Xe-100 küçük modüler reaktörün kurulması hedefleniyor. Bu anlaşma, Amazon ile X-energy arasındaki ikinci ticari sözleşme olma özelliğini taşırken, iki yıl önce duyurulan ilk anlaşmanın üç katı büyüklüğe sahip bulunuyor. Kamu elektrik şebekesine bağlanacak santralden elde edilen enerjinin ilk alıcısı Amazon olacak ve bu güç veri merkezlerinin kullanımına tahsis edilecek. İki şirket, 2039'a kadar ABD'de toplam 5 gigavatlık yeni nükleer kapasite oluşturmayı hedefliyor.",
+        "Şirketlerin belirlediği takvim, X-energy'nin Teksas Seadrift'teki Dow Chemical tesisinde planladığı ilk nükleer kurulumu tamamlamasına bağlı bulunuyor. Dört reaktör içerecek Seadrift sahası, atık ve su yönetmelikleri gerekçesiyle Teksas eyaleti tarafından açılan bir davaya konu olurken; projenin inşaat izni ABD Nükleer Düzenleme Komisyonu'nun nihai inceleme sürecinde bulunuyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "af52f59852f785b856718f957b9780a084d2b262296664b923c0fee30ae158ff"
+    },
+    {
+      "id": "6300767178137d15",
+      "category": "SİBER GÜVENLİK",
+      "title": "F5, Kritik NGINX Güvenlik Açıkları İçin Acil Yamalar Yayınladı",
+      "summary": "F5, NGINX web sunucusu yazılımlarını etkileyen ve uzaktan kod yürütülmesine olanak tanıyan üç kritik güvenlik açığı için plan dışı güvenlik güncellemesi yayımladı. ngx_http_v3_module modülü ve map yönergesinde bulunan hatalar sistemlerin çökmesine yol açabiliyor. Henüz kötüye kullanımı tespit edilmeyen açıklar için geçici hafifletme yolları da paylaşıldı.",
+      "why": "Dünya çapında çok sayıda sunucuda çalışan NGINX yazılımlarında yetkisiz kişilerin kod çalıştırmasına imkan veren kritik açıkların kapatılması küresel sunucu güvenliği açısından önem taşımaktadır.",
+      "event_key": "f5-nginx-kritik-guvenlik-yamalari",
+      "brief": "F5, NGINX web sunucularını hedef alan ve uzaktan kod çalıştırmaya imkan tanıyan üç kritik güvenlik açığını kapatmak için acil güncellemeler yayınladı. Yetkisiz saldırganların hizmet kesintisi yapabilmesine yol açan kusurlar için yama uygulayamayan sistem yöneticilerine geçici yapılandırma önlemleri sunuldu.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "source_published_at": "2026-10-19T09:49:24-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/19/F5-headpic.jpg",
+      "body": [
+        "F5, NGINX web sunucusu yazılımlarında saldırganların uzaktan kod çalıştırmasına izin verebilecek üçü kritik seviyede olmak üzere çeşitli güvenlik açıkları için plan dışı güvenlik yamaları çıkardı. Etkilenen ürünler arasında NGINX Plus, NGINX Open Source, NGINX Ingress Controller, NGINX Gateway Fabric ve NGINX Instance Manager yer alıyor.",
+        "Kritik güvenlik kusurlarının ikisi 'ngx_http_v3_module' modülünde (CVE-2026-15176 ve CVE-2026-97205), diğeri ise NGINX 'map' yönergesinde (CVE-2026-93479) saptandı. Ayrıcalıksız uzaktan saldırganlar, varsayılan olmayan yapılandırmalarda bu açıkları kullanarak hizmet reddi (DoS) oluşturabiliyor ya da bellek yönetimi hataları yoluyla NGINX çalışan süreçlerinin çökmesine yol açabiliyor. Adres Alanı Düzeni Rastgeleleştirmesi (ASLR) koruması kapalı veya atlatılabilir durumdaki sistemlerde kod çalıştırılabileceği belirtiliyor.",
+        "F5, bu güvenlik açıklarının henüz fiili saldırılarda kullanıldığına dair bir tespit olmadığını bildirdi. Yamaları hemen kuramayan yöneticilere, 'alias' yönergesinden kaçınma, eşzamansız dosya G/Ç (AIO) özelliğini devre dışı bırakma ve adlandırılmış yakalamalar kullanma gibi geçici yapılandırma yöntemleri tavsiye edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "009e68f5043e7a4d8a8ceafbae79a53f8c4edf09b05e37b24364129f9631f62a"
+    },
+    {
+      "id": "d0d6e449ab456aa2",
+      "category": "YAZILIM",
+      "title": "Ekim Windows Server Güncellemeleri Exchange E-Posta Akışında Sorunlara Yol Açtı",
+      "summary": "Microsoft, Windows Server için yayımlanan Ekim 2026 güncellemelerinin bazı yerel Exchange Server sistemlerinde OWA oturum açma ve posta iletim hatalarına neden olduğunu bildirdi. Sorunun arama çağrılarını sınırlayan Endpoint Mapper bellek kısıtlamasından kaynaklandığı belirtildi. Şirket, Exchange güvenlik paketlerinin kaldırılmaması gerektiğini belirterek geçici bir çözüm yolu sundu.",
+      "why": "Kurumsal e-posta altyapılarını yöneten Windows Server ve Exchange sistemlerinde iş akışını durduran bağlantı ve teslimat sorunlarının kaynağını ve çözüm adımlarını açıklaması açısından önemlidir.",
+      "event_key": "windows-server-ekim-guncellemesi-exchange-sorunu",
+      "brief": "Microsoft, Ekim 2026 Windows Server güncellemelerinin Exchange sistemlerinde e-posta gönderimini ve OWA oturumlarını aksattığını duyurdu. Endpoint Mapper eşzamanlı çağrı limitinin yetersiz kalmasından doğan sorun için kayıt defteri düzenlemesi önerildi; güncellemenin kaldırılmaması tavsiye edildi.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "source_published_at": "2026-10-19T04:58:41-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/19/Microsoft-Exchange-Server.jpg",
+      "body": [
+        "Microsoft, Windows Server 2019 ve sonraki sürümler için dağıtılan Ekim 2026 güvenlik güncellemelerinin ardından bazı yerel Exchange Server altyapılarında e-posta erişimi ve gönderim sorunları yaşandığını açıkladı. Güncellemeyi yükleyen müşterilerin Outlook Web App (OWA) oturumu açamadığı, giden postaların Giden Kutusu'nda takılı kaldığı ve posta kutusu kopyalama süreçlerinde aksamalar oluştuğu aktarıldı.",
+        "Yapılan incelemelere göre sorun, Ekim 2026 güncellemesiyle Endpoint Mapper bileşenine getirilen bellek kullanım sınırından kaynaklanıyor. Sistemde varsayılan olarak tanımlanan 512 eşzamanlı arama çağrısı limiti, Exchange Server gibi yoğun iş yükü barındıran ortamlarda yetersiz kalarak 'MapiExceptionMdbOffline' ve 'Event ID 1006' hatalarına yol açıyor.",
+        "Microsoft, aksaklığın Exchange için çıkarılan güncellemeden kaynaklanmadığını ve Exchange güvenlik yamalarının kesinlikle kaldırılmaması gerektiğini vurguladı. Sorunun çözümü için kalıcı bir yama üzerinde çalışılırken, yöneticilere kayıt defteri üzerinden çağrı sınırını artıran bir komut çalıştırmaları ve ardından sunucuyu yeniden başlatmaları önerildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9d226a95762b103d13d92eee2ef68719c93a2223515807b170f69f77fe509209"
+    },
+    {
+      "id": "b027e601f57288d7",
+      "category": "SİBER GÜVENLİK",
+      "title": "WordPress Eklentisi Rank Math PRO’da Tedarik Zinciri Saldırısı",
+      "summary": "WordPress arama motoru optimizasyonu eklentisi Rank Math PRO'nun resmi web sitesinden indirilen belirli sürümlerine kötü amaçlı yazılım bulaştığı açıklandı. Üretici, 15-16 Ekim tarihlerindeki 11 saatlik sürede indirilen sürümün arka kapı barındırdığını bildirerek temiz sürümü kullanıma sundu.",
+      "why": "Geniş kullanıcı tabanına sahip bir WordPress eklentisinin resmi dağıtım kanalının ele geçirilmesi, web sunucularının veritabanı bilgilerini ve harici servis anahtarlarını doğrudan riske atan kritik bir tedarik zinciri tehdididir.",
+      "event_key": "rank-math-pro-tedarik-zinciri-saldirisi",
+      "brief": "Rank Math PRO'nun 15-16 Ekim tarihleri arasında resmi siteden indirilen 3.0.123 sürümünde gizli arka kapı yerleştiren kötü amaçlı yazılım tespit edildi. Üretici, etkilenen dosyaları kaldırıp temiz 3.0.124 sürümünü yayımlarken, kullanıcıları veritabanı ve şifre sıfırlama adımları konusunda uyardı.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "source_published_at": "2026-10-19T17:24:51-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/06/18/WordPress.jpg",
+      "body": [
+        "Popüler WordPress SEO eklentisi Rank Math PRO'nun resmi web sitesi üzerinden sunulan indirme dosyalarında kötü amaçlı yazılım tespit edildi. Geliştirici ekibin paylaştığı bilgilere göre, 15 Ekim 20:02 UTC ile 16 Ekim 07:12 UTC arasındaki 11 saatlik zaman diliminde 3.0.123 sürümünü indiren sınırlı sayıdaki kullanıcının siteleri, eklentinin etkinleştirilmesiyle birlikte tehlikeye girdi. WordPress.org üzerinden dağıtılan ve 4 milyondan fazla sitede bulunan ücretsiz sürümün ise bu durumdan etkilenmediği açıklandı.",
+        "Söz konusu zararlı yazılım, sunucularda kalıcı erişim sağlayarak 'rank1cdn[.]com' adresiyle iletişim kuruyor ve site her ziyaret edildiğinde arka kapıları yeniden oluşturuyor. Bu süreçte veritabanı kimlik bilgileri, API anahtarları ve sunucuda saklanan diğer gizli verilerin sızdırılma riski bulunuyor. Güvenlik araştırmalarında, komut yürütme, WordPress veritabanlarını değiştirme ve AWS, Cloudflare, Google Cloud, Azure gibi platformlara ait kimlik bilgileri ile SSH anahtarlarını çalma yeteneğine sahip ilişkili bir PHP betiği de incelendi.",
+        "Üretici, etkilenen dosyaları derhal yayından kaldırarak temizlenen 'Rank Math PRO v3.0.124' sürümünü erişime açtı. Tehlikeli sürümü yükleyip etkinleştiren site yöneticilerinin yalnızca güncelleme yapmasının yeterli olmayacağı, sistem dosyalarının temiz bir yedekten geri yüklenmesi, tüm şifrelerin ve güvenlik anahtarlarının değiştirilmesi ve zararlı alan adına yönelik çıkış bağlantılarının engellenmesi gerektiği bildirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6aee5508715ae278b67876963b4eaffac6f61841e8c2cc4436177dc64c0af53e"
+    },
+    {
+      "id": "fd5ecf2bcb290e58",
+      "category": "SİBER GÜVENLİK",
+      "title": "AOMEI Güncelleme Sunucuları Kötü Amaçlı Yazılım Dağıtımı İçin Kullanıldı",
+      "summary": "Siber saldırganların AOMEI Backupper yazılımının tanıtım ve güncelleme altyapısını ele geçirerek arka kapı yazılımları dağıttığı ortaya çıktı. UNC7017 olarak adlandırılan grubun, tespit edilmemek için sunuculardaki yapılandırma dosyalarını geçici sürelerle değiştirdiği belirlendi.",
+      "why": "Yedekleme ve kurtarma amacıyla binlerce kurumda kullanılan güvenilir bir masaüstü yazılımının altyapısının hedef alınması, doğrudan kullanıcı etkileşimi gerekmeden zararlı kod yürütülmesine zemin hazırlamıştır.",
+      "event_key": "aomei-backupper-sunucu-ele-gecirme",
+      "brief": "Saldırganlar, AOMEI Backupper yazılımının güncelleme ve tanıtım dosyalarını geçici olarak değiştirerek CROSSROAD ve SHINYROAD adlı zararlıları dağıttı. Araştırmacılar; ABD, Avustralya, İspanya ve Hindistan'daki kurumları hedef alan tedarik zinciri saldırısının sunucu yapılandırmasındaki dakikalar süren manipülasyonlarla gerçekleştiğini açıkladı.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "source_published_at": "2026-10-19T15:40:58-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/19/backupper-supply-chain-attack.jpg",
+      "body": [
+        "AOMEI firmasının Windows tabanlı yedekleme yazılımı AOMEI Backupper'ın güncelleme ve bildirim sistemlerinin siber saldırganlarca manipüle edildiği belirlendi. ManageEngine, Google Tehdit İstihbarat Grubu ve Mandiant tarafından yürütülen incelemelerde, 'UNC7017' olarak izlenen grubun altyapıya sızarak CROSSROAD isimli indirici ve SHINYROAD adlı arka kapı yazılımını hedef sistemlere yüklediği tespit edildi.",
+        "Araştırmacılar, saldırganların sunuculardaki dosyaları kalıcı olarak değiştirmek yerine, güncelleme adreslerini ve bildirim mekanizmalarını kontrol eden 'down_html.ini' ve 'Notifycfg.ini' yapılandırma dosyalarını dakikalar süren kısa aralıklarla tahrif ettiğini ortaya çıkardı. Bu yöntemle yazılımın kötü amaçlı arşivleri indirmesi ve kullanıcı onayı gerekmeden çalıştırması sağlandı. ABD, Avustralya, Hindistan, Singapur, İspanya ve İsviçre'deki telekomünikasyon, BT hizmetleri ve yükseköğretim sektörlerine ait sistemler etkilenen hedefler arasında yer aldı.",
+        "ManageEngine, saldırganların sistemde Radmin bileşenlerini kullandığını ve bazı aşamalarda NTLM kimlik doğrulama özetlerini çalmayı amaçladığını aktardı. AOMEI, sunucularını güncellediğini ve CTO liderliğinde dahili bir soruşturma başlattığını belirtirken; güvenlik uzmanları sunucu tarafındaki düzeltmelerin daha önce sistemlere yerleştirilmiş olan arka kapıları temizlemeyeceğini, yerel taramaların yapılması gerektiğini vurguladı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "284edafc74c46cfca3c552d0c4177eb7466f3eac330aae4ffb7a467309550cf7"
+    },
+    {
+      "id": "0de158413b07a5b4",
+      "category": "ROBOTİK",
+      "title": "Agility Robotics Depo Görevleri İçin Tasarlanan Digit 5’i Duyurdu",
+      "summary": "Agility Robotics, ağır depo işlerini vardiyalar boyunca yerine getirmek amacıyla tasarlanan yeni insansı robotu Digit 5'i tanıttı. Robot, 23 kilogramlık kasaları yüksek raflara kaldırma kapasitesi ve hızlı şarj özellikleriyle endüstriyel üretime odaklanıyor.",
+      "why": "Robotik araştırmalarında laboratuvar ölçeğindeki teorik hareket modellerinden doğrudan yüksek hacimli endüstriyel üretime ve fiziksel depo iş gücüne geçişi temsil etmektedir.",
+      "event_key": "agility-robotics-digit-5-insansi-robot",
+      "brief": "Agility Robotics, depolar için geliştirdiği insansı robot Digit 5'i resmen tanıttı. 23 kilogramlık kasaları kaldırma kapasitesine ve 9 dakikalık şarjla 90 dakika çalışma süresine sahip model, çalışanlar için fiziksel açıdan yıpratıcı veya monoton depo görevlerini üstlenmeyi hedefliyor.",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "source_published_at": "2026-10-19T13:00:03+00:00",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=68441166&width=1200&height=600&coordinates=0%2C1537%2C0%2C1538",
+      "body": [
+        "Oregon Eyalet Üniversitesi bünyesindeki robotik laboratuvarından doğan Agility Robotics, ticari ölçekte iş yapabilecek biçimde geliştirdiği yeni insansı robot modeli Digit 5'i kamuoyuna sundu. Robot, çalışanlar açısından fiziksel olarak yıpratıcı veya monoton nitelikteki ağır depo işlerini üstlenmek amacıyla tasarlandı.",
+        "Açıklanan teknik detaylara göre Digit 5, 23 kilogramlık kasaları yüksek raflara kaldırabilecek biçimde tasarlandı. Cihazın batarya altyapısı, yalnızca 9 dakikalık bir şarj süresinin ardından 90 dakika boyunca kesintisiz çalışma imkânı sunuyor. Şirketin Salem, Oregon'da bulunan 70 bin fitkarelik RoboFab tesisi, yılda 10 binden fazla Digit 5 üretme kapasitesine sahip bulunuyor.",
+        "Şirketin kurucuları, ilk dönemlerde geliştirilen araştırma amaçlı ATRIAS ve Cassie modellerindeki akıcı hareket modellerinden, ticari gereksinimler doğrultusunda daha hantal ancak işlevsel gövde ve kol mekanizmalarına evrildiklerini ifade ediyor. Digit 5, laboratuvar düzeyindeki deneysel yürüyüş konseptlerini endüstriyel ölçekte pratik uygulamalara dönüştürme hedefini taşıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "3c71c043011b36dad0e3c6192ff2a716d4dadbc9ec7482cb01bedeed789bd455"
+    },
+    {
+      "id": "31008b86b22b3f7b",
+      "category": "HAVACILIK",
+      "title": "Sceye'ın Stratosferik Hava Gemisi Pasifik Aşırı Uçuşla Hücresel İletişimi Test Etti",
+      "summary": "ABD'li Sceye şirketi, New Mexico'dan Japonya'ya uzanan gidiş-dönüş uçuşuyla stratosferik hava gemisinin gökyüzünde bir baz istasyonu gibi görev yapabileceğini kanıtladı. SoftBank ortaklığıyla Japonya'da yapılan testlerde acil durum mobil iletişim senaryoları başarıyla tamamlandı.",
+      "why": "Doğal afetlerde veya denizaltı fiberoptik kablolarının kesildiği durumlarda, uydulara kıyasla daha yakın mesafeden kesintisiz ve yüksek hızlı alternatif mobil iletişim altyapısı sunulabilmesini doğrulamaktadır.",
+      "event_key": "sceye-stratosferik-zeplin-pasifik-ucusu",
+      "brief": "Sceye şirketinin insansız hava gemisi, New Mexico'dan Japonya'ya gerçekleştirdiği 30 günlük uçuşunu tamamlayarak stratosferden mobil iletişim sağladı. SoftBank ortaklığıyla yürütülen denemelerde, afet simülasyonu kapsamında 4G LTE kapsama alanı oluşturularak ses, mesajlaşma, video akışı ve dron kontrolleri başarıyla gerçekleştirildi.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+      "source_published_at": "2026-10-19T11:05:49+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Sceye-ST1-Launch-from-outside-2560x1440.jpg",
+      "body": [
+        "ABD merkezli havacılık şirketi Sceye tarafından geliştirilen insansız hava gemisi, New Mexico'dan Japonya'ya uzanan yaklaşık 30 bin kilometrelik gidiş-dönüş uçuşunu tamamladı. 'Service Test 1' adı verilen ve 30 gün süren misyon kapsamında helyumla yükselen, elektrik motorlu pervanesi, güneş panelleri ve bataryalarıyla stratosferde sabit kalabilen hava gemisinin, gökyüzünde bir baz istasyonu olarak çalışma yeteneği denendi.",
+        "Yaklaşık 54 bin fit irtifada gerçekleştirilen testler, Japon telekomünikasyon şirketi SoftBank iş birliğiyle Şikoku adası üzerinde yürütüldü. Karasal hücresel yayının kapatıldığı afet simülasyonunda hava gemisine yerleştirilen 4G LTE baz istasyonu devreye sokuldu. Sistem üzerinden akıllı telefonlar ve dizüstü bilgisayarlarla sesli görüşmeler, mesajlaşma, video akışı sağlanırken, acil durum uyarı mesajları ile LTE donanımlı dronların uzaktan kontrolü açık alan, ormanlık bölge ve bina içinde başarıyla test edildi.",
+        "Misyonda ayrıca uç platformdaki bir sunucu aracılığıyla uç bilişim denemesi gerçekleştirilerek gecikme süresinde standart bulut işlemelerine kıyasla düşüş gözlendi ve yer istasyonlarıyla lazer tabanlı optik kablosuz iletişim testleri yapıldı. Şirket yetkilileri, sistemin gelecekte afet durumlarında acil kapsama sağlamanın yanı sıra altyapısı yetersiz bölgelere yönelik daha uzun süreli görevlerde kullanılmasını planlıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "1441fef7181e40c2721aa37605e8deb58b37919fe2bb2b26f4a115a64b690672"
+    },
+    {
+      "id": "819de344fba50e5e",
+      "category": "DONANIM",
+      "title": "Apple, 28 Ekim'de 'Pro and Tell' Etkinliği Düzenleyeceğini Duyurdu",
+      "summary": "Apple, akıllı ev odaklı tanıtımının ardından sezonun üçüncü ürün etkinliğini 28 Ekim'de Los Angeles'ta gerçekleştireceğini açıkladı. Basına iletilen davetiyeye göre \"Pro and Tell\" adını taşıyan tüm güne yayılan etkinlikte dokunmatik ekranlı Mac'ler, M6 çipli yeni cihazlar ve OLED ekranlı iPad mini'nin tanıtılması bekleniyor.",
+      "why": "Apple'ın dokunmatik ekranlı ilk Mac modellerini tanıtma ihtimali, M6 çip mimarisine sahip yeni cihazlar ve OLED ekranlı iPad mini ile Mac ve iPad serilerini kapsamlı şekilde güncellemesi bekleniyor.",
+      "event_key": "apple-pro-and-tell-etkinligi-macbook",
+      "brief": "Apple, 28 Ekim'de Los Angeles'ta \"Pro and Tell\" başlıklı yeni bir ürün etkinliği düzenleyecek. Tüm gün sürecek etkinlikte dokunmatik ekranlı MacBook modelleri, M6 çipli Mac'ler ve OLED ekranlı iPad mini'nin tanıtılması öngörülüyor.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/",
+      "source_published_at": "2026-10-19T16:09:26+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/apple-pro-and-tell-event-october-28-announcement/l-intro-1792426206.jpg",
+      "body": [
+        "Apple, akıllı ev odaklı tanıtımının hemen ardından sezonun üçüncü ürün etkinliğini resmen doğruladı. Şirket, yeni cihazlarını ilk kez sergilemek üzere basın mensuplarını ve içerik üreticilerini 28 Ekim'de Los Angeles'a davet etti. Davetiyede etkinliğin adı \"Pro and Tell\" olarak belirtildi.",
+        "Tüm güne yayılacağı ifade edilen etkinliğin Mac ve iPad ürün gruplarına odaklanması bekleniyor. Bloomberg'den Mark Gurman'ın aktardığı bilgilere göre Apple, bu tanıtımda dokunmatik ekranlı MacBook modellerini, M6 çipli yeni Mac'leri ve OLED ekrana sahip bir iPad mini modelini görücüye çıkaracak.",
+        "Sektör kaynakları, dokunmatik ekranlı MacBook'ların M5 Pro ve M5 Max yonga setleriyle geleceğini, 14 inç ve 16 inç boyutlarında sunulacağını aktarıyor. Mevcut Pro modellerine kıyasla belirgin şekilde daha hafif olacağı ve OLED ekran taşıyacağı belirtilen bu cihazların yanı sıra, ilk kez ağustos ayında Mac mini'de yer alan M6 çipiyle yenilenmiş 14 inç MacBook Pro ve iMac modellerinin de duyurulması hedefleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "52898d1f1aa23d82d248912d01d66c5c13da556d872c1c6e4cf0064e0531cffb"
+    },
+    {
+      "id": "f206d1912eabe30e",
+      "category": "BİLİM",
+      "title": "Denizaltı Jeotermal Enerji Santrali İlk Testini Gerçekleştirdi",
+      "summary": "Seattle merkezli girişim Endurance Energy, Kuzeydoğu Pasifik'teki Axial Seamount sualtı yanardağında ilk denizaltı jeotermal santral prototipini test etti. Sistem, yaklaşık 8,7 saniye net pozitif elektrik üreterek konseptin teknik uygulanabilirliğini kanıtladı.",
+      "why": "Deniz tabanındaki aktif hidrotermal kaynaklardan enerji üretilebileceğini teknik olarak kanıtlayan ilk çalışma olması ve ada ülkelerinin fosil yakıt bağımlılığını azaltma potansiyeli taşıması bakımından önem taşıyor.",
+      "event_key": "endurance-energy-denizalti-volkan-jeotermal",
+      "brief": "Endurance Energy, Kuzeydoğu Pasifik'teki aktif bir denizaltı yanardağında dünyanın ilk denizaltı jeotermal santral prototipi Adélie'yi test etti. Sistem, yaklaşık 8,7 saniye boyunca tükettiğinden fazla elektrik üretti.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "source_published_at": "2026-10-19T19:27:24+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg",
+      "body": [
+        "Seattle merkezli Endurance Energy, dünyanın ilk denizaltı jeotermal enerji santrali denemesini Kuzeydoğu Pasifik Okyanusu'ndaki aktif Axial Seamount yanardağında gerçekleştirdi. Okyanus yüzeyinin yaklaşık 1.524 metre altında üç hafta süren testte, 3 tonluk \"Adélie\" adlı prototip santral kullanıldı.",
+        "Test sırasında Ocean Guardian gemisinden indirilen sondaj ünitesiyle deniz tabanına yaklaşık 16 metre derinliğinde ve 5 santimetre çapında iki kuyu açıldı. Kuyulardan yaklaşık 260 santigrat derece sıcaklıkta hidrotermal akışkan çıkışı sağlansa da açılan kuyunun santrali çalıştırmaya yetecek debiyi sağlayamaması üzerine ekip, santrali 281 santigrat derecelik doğal bir hidrotermal bacaya bağladı.",
+        "27 Eylül'de yapılan denemede santralin türbini 26.000 devir/dakikaya ulaşarak jeneratörün 60 vat-saat elektrik üretmesini sağladı. Adélie, yaklaşık 8,7 saniye boyunca kendi tükettiğinden fazla enerji üreterek net pozitif eşiğini aştı; ortalama 2 kilovat, anlık zirvede ise 16,5 kilovat net güce ulaştı. Ancak batarya modülündeki anlık akım sıçraması yazılımın koruma amaçlı kapanmasına yol açtı; yeniden başlatma sırasında ise soğutucu pompasının güç kablosuna deniz suyu sızması sebebiyle test sonlandırıldı.",
+        "Şirket, deniz tabanındaki tüp solucanları, salyangozlar, yengeçler ve bakteriyel örtüyü sürekli izleyip numuneleri bağımsız laboratuvarlara göndererek çevresel etkiyi takip ettiğini açıkladı. Bir sonraki aşamada \"Gentoo\" adı verilen yükseltilmiş sistemin 2026-2027 kışında denenmesi, 2027'de ise şebekesi ithal dizele bağımlı olan Tonga Krallığı'na 2 megavatlık konteyner boyutunda ticari jeneratörlerin kurulması planlanıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ae3c26704e0c92fe01880a5c3dd25a3be97c197e8c559d1ae36c38400ed0e11b"
+    },
+    {
+      "id": "820876c7f3cb0963",
+      "category": "SAĞLIK TEKNOLOJİSİ",
+      "title": "Yapay Zeka Destekli E(3)-Pose Fetal Beyin MR Taramalarını İyileştiriyor",
+      "summary": "MIT, Boston Çocuk Hastanesi ve Inria araştırmacıları, anne karnındaki fetüsün hareketinden kaynaklanan görüntü bozulmalarını önlemek için E(3)-Pose adlı derin öğrenme modelini geliştirdi. Fiziksel simetri ilkelerini doğrudan mimarisine dahil eden model, yüksek çözünürlüklü fetal beyin MR incelemelerine olanak tanıyor.",
+      "why": "Fetal MR sırasında fetüsün hareket etmesiyle oluşan veri kayıplarını ve teşhis hatalarını önleyerek, beyin anomalilerinin doğum öncesinde erken ve güvenilir şekilde tespit edilmesini sağlıyor.",
+      "event_key": "mit-e3-pose-fetus-beyin-mr-yapay-zeka",
+      "brief": "MIT ve ortaklarınca geliştirilen E(3)-Pose adlı yapay zeka modeli, anne karnındaki fetüs hareket halindeyken yüksek çözünürlüklü beyin MR görüntüleri oluşturuyor. Sistem, kafa yapısındaki simetriyi kullanarak teşhis hatalarını azaltmayı hedefliyor.",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source_published_at": "2026-10-19T14:20:00-04:00",
+      "image_url": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg",
+      "body": [
+        "Rutin ultrason taramalarında şüphelenilen fetal beyin anomalileri ileri inceleme için manyetik rezonans (MR) görüntülemeye yönlendiriliyor; ancak fetüsün hareket etmesi iki boyutlu görüntü kesitlerinin farklı açılardan kaydedilmesine ve nihai üç boyutlu modelde boşluklara yol açarak teşhis hatalarına neden olabiliyor.",
+        "Bu sorunu aşmak amacıyla MIT, Boston Çocuk Hastanesi ve Inria bünyesindeki araştırmacılar, hareket halindeki fetüsün başını takip edebilen \"E(3)-Pose\" adlı derin öğrenme modelini geliştirdi. Çalışmaya ilişkin makale 2026 Avrupa Bilgisayarlı Görü Konferansı'nda (ECCV) sunuldu.",
+        "Fizik kurallarını veriden öğrenmek yerine doğrudan ağ mimarisine entegre eden model, fetal başın sol-sağ simetrisini kullanarak beynin uzamsal yönelimini hassas şekilde tespit ediyor. MIT doktora öğrencisi Ramya Muthukrishnan'ın öncülüğünde yürütülen projede, Harvard Tıp Fakültesi ve Boston Çocuk Hastanesi'nden araştırmacıların katkılarıyla donanım testleri ve gönüllü taramaları gerçekleştirildi.",
+        "Mevcut aşamada ağırlıklı olarak üçüncü trimesterdeki fetüsler üzerinde eğitilen E(3)-Pose'un, rahimde daha fazla hareket eden ikinci trimester fetüsleri kapsayacak şekilde genişletilmesi amaçlanıyor. Sistemin ayrıca görüntülenmesi zor diğer anatomik yapılar ile otonom sürüşteki gürültülü üç boyutlu nesne takibi alanlarında da kullanılabileceği belirtiliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "94ac0fd8268d5422f020f0027358d3069606b22cb1f3c781611df27430b6c46e"
+    }
+  ],
+  "summary": {
+    "file": "teknoloji/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 5,
+    "duration": 401.7,
+    "bytes": 2410272,
+    "sha256": "abe9e150457c3e0d78abe318f8e67154743cda3d6c8df2c580f8da1612d8a5c6"
+  },
+  "podcast": {
+    "file": "teknoloji/podcast.mp3",
+    "title": "Yeni Sekme",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 5,
+    "duration": 1192.1,
+    "bytes": 19073611,
+    "sha256": "26590c134c03dca228832d5982126743e6125f2f7eaf1933c2369d937c718c11"
+  },
+  "audio_revision": 5
+}
