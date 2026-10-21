@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "983162a406b80473f17b6cfcc93b6a890cab3c5a32e27d78d83e78db599a511c",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Giriş"
+    },
+    {
+      "start": 52.12,
+      "title": "PHP İçin Kritik Güvenlik Açığı Uyarısı"
+    },
+    {
+      "start": 207.72,
+      "title": "eMudhra Sertifikalarında Zayıf Anahtar Krizi"
+    },
+    {
+      "start": 375.54,
+      "title": "Google Cloud Londra Kesintisi ve Etkileri"
+    },
+    {
+      "start": 539.8,
+      "title": "Google TorchTPU Hamlesi ve Nvidia Rekabeti"
+    },
+    {
+      "start": 699.56,
+      "title": "Tesla ve SpaceX Birleşme Planları"
+    },
+    {
+      "start": 903.04,
+      "title": "Quantinuum'un Kuantum Hata Düzeltme Başarısı"
+    },
+    {
+      "start": 1070.92,
+      "title": "Ukrayna'da Ağır Dronla Yaralı Asker Tahliyesi"
+    },
+    {
+      "start": 1220.26,
+      "title": "Değerlendirme ve Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "c16b7dbd6314982f",
+      "start": 52.12,
+      "end": 207.26
+    },
+    {
+      "story_id": "c75006974e5b06b1",
+      "start": 207.72,
+      "end": 374.88
+    },
+    {
+      "story_id": "1a9bb903c0ede720",
+      "start": 375.54,
+      "end": 539.46
+    },
+    {
+      "story_id": "61ce75599c83f81b",
+      "start": 539.8,
+      "end": 699.56
+    },
+    {
+      "story_id": "3dc6f12e33fbdf3f",
+      "start": 699.56,
+      "end": 902.62
+    },
+    {
+      "story_id": "c387ce8f27c245be",
+      "start": 903.04,
+      "end": 1069.96
+    },
+    {
+      "story_id": "7b93b8c0d8e313e1",
+      "start": 1070.92,
+      "end": 1219.72
+    }
+  ],
+  "section": "teknoloji",
+  "clips_reviewed": true,
+  "stories_sha256": "e1a6d710470e48af36ea185b68d286e0a630215b2c7f12041a14f1e17d147009"
+}

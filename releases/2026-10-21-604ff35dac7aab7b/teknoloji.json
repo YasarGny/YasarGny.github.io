@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "expanded-v1",
+  "section": "teknoloji",
+  "publish_date": "2026-10-21",
+  "date": "21 Ekim 2026",
+  "issue": 6,
+  "ready": true,
+  "stories": [
+    {
+      "id": "c16b7dbd6314982f",
+      "category": "Siber Güvenlik",
+      "title": "PHP Geliştiricileri Kritik Açıklar İçin Acil Güvenlik Güncellemesi Hazırlığında",
+      "summary": "PHP güvenlik ekibi, sızdırılan iki kritik uzaktan kod yürütme zafiyetini kapatmak amacıyla acil güncellemeler yayımlayacağını duyurdu. Sistem yöneticilerine yamaları vakit kaybetmeden uygulama çağrısı yapıldı.",
+      "why": "Web siteleri ve e-ticaret platformlarının altyapısını oluşturan PHP'de keşfedilen açıklar, sistem yöneticilerinin acil önlem almasını gerektiren ciddi bir güvenlik riski barındırıyor.",
+      "event_key": "php-kritik-rce-guvenlik-yamasi",
+      "brief": "PHP güvenlik ekibi, sızdırılan iki kritik uzaktan kod yürütme açığı nedeniyle acil yama yayımlayacağını duyurdu. Yöneticilere yamaları hızla kurmaları tavsiye edilirken, resmi güvenlik detaylarının güncellemeyle eşzamanlı olarak paylaşılacağı açıklandı.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "source_published_at": "2026-10-20T16:56:43-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2021/03/29/PHP-headpic.jpg",
+      "body": [
+        "PHP güvenlik ekibi, iki kritik güvenlik açığına karşı sistem yöneticilerini acil güvenlik güncellemelerine hazırlanmaları konusunda uyardı. Planlanan açıklama takviminden önce sızdırılan açıklar için geliştirici ekip, yamaları Çarşamba günü saat 14:00 UTC'de yayımlamayı planlıyor. Güvenlik duyurusunda, her iki zafiyetin CVSS v4.0 puanı 9.2 olarak derecelendirildi ve bilgilerin kamuoyuna sızması durumunda yamaların daha erken yayımlanabileceği belirtildi.",
+        "Güvenlik araştırmacıları, CVE-2026-109618 ve CVE-2026-109619 olarak takip edilen zafiyetlerin uzaktan kod yürütme (RCE) açığı olduğunu ve PHP 5, 6, 7 ve 8 sürümlerini etkilediğini ifade ediyor. Ancak resmi PHP ekibi hangi sürümlerin etkilendiğini ve teknik istismar ayrıntılarını henüz açıklamadı. Bu detayların güncellemelerin yayımlanmasıyla birlikte resmi olarak paylaşılacağı bildirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b19f648a243f927f1612e6c874d1522cc7c165f1707a9931e0ce5e747322ad23"
+    },
+    {
+      "id": "c75006974e5b06b1",
+      "category": "Siber Güvenlik",
+      "title": "Zayıf Özel Anahtarlar Nedeniyle eMudhra Sertifikaları Engellendi",
+      "summary": "Sertifika otoritesi eMudhra, kolayca çözülebilen zayıf özel anahtarlara sahip sekiz ara sertifikasını iptal etti. Mozilla, Google ve Apple gibi devler söz konusu sertifikaları derhal engelledi.",
+      "why": "Zayıf şifrelenmiş sertifikalar, saldırganların sahte güvenli bağlantılar kurarak kullanıcıların şifreli iletişimlerini ele geçirmesine yol açabilecek kritik bir tehdit oluşturuyor.",
+      "event_key": "emudhra-zayif-tls-sertifikalari-engellendi",
+      "brief": "Sertifika otoritesi eMudhra, kolaylıkla çözülebilen zayıf özel anahtarlara sahip sekiz ara sertifikayı iptal etti. Mozilla, Google ve Apple sistemlerinde engellemeler uygularken, kullanıcılara ve sistem yöneticilerine yazılım güncellemelerini yükleme çağrısı yapıldı.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "source_published_at": "2026-10-20T20:46:42-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/20/certificate.jpg",
+      "body": [
+        "Sertifika otoritesi eMudhra, araştırmacıların özel anahtarların son derece zayıf olduğunu tespit etmesi üzerine sekiz ara sertifikasını iptal etti. Nisan 2025'te oluşturulan P-384 anahtarlarının değerlerinin 256'dan küçük olması sebebiyle sadece 256 denemeyle ele geçirilebildiği belirlendi. Hatta bir araştırmacı, bir sertifikanın özel anahtar değerinin sadece 4 olduğunu göstererek anahtarı GitHub üzerinde yayımladı.",
+        "eMudhra hatanın betik kaynaklı bir yanlışlıktan doğduğunu ve sertifikaların üretimde kullanılmadığını açıklasa da teknoloji devleri önlem aldı. Mozilla sertifikaları OneCRL üzerinden engelledi ve Firefox 158.0.1 güncellemesini çıkardı. Google Chrome ve Apple da engelleme uygularken, Go ekibi yeni sürümler yayımladı. Güvenlik uzmanları, yerleşik sertifika depoları güncellenmeyen yazılımların risk altında kalabileceği uyarısında bulundu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "71977ea14790c251482c35bfa8e4211b146b490bb0ccea85c80212a48639bf38"
+    },
+    {
+      "id": "3dc6f12e33fbdf3f",
+      "category": "Dijital Dünya",
+      "title": "Elon Musk Tesla ve SpaceX Şirketlerinin Birleşmesini Değerlendiriyor",
+      "summary": "Elon Musk, Tesla ve SpaceX şirketlerinin tek çatı altında birleşmesi fikrine sıcak baktığını ve sürecin değerlendirildiğini açıkladı. Birleşme için her iki şirkette özel komiteler kuruldu.",
+      "why": "1,5 trilyon dolarlık Tesla ile 2 trilyon dolarlık SpaceX'in bir araya gelmesi, kurumsal yapay zeka ve çip üretiminde tarihin en büyük şirket birleşmelerinden birine yol açabilir.",
+      "event_key": "tesla-spacex-olasi-birlesme-komiteleri",
+      "brief": "Elon Musk, Tesla ve SpaceX şirketlerinin birleşme fikrinin aktif olarak değerlendirildiğini açıkladı. Süreç için her iki şirkette özel komiteler kurulurken, olası anlaşmanın kesinleşmesi için en az yüzde 50 Tesla hissedar onayının gerekeceği bildirildi.",
+      "source_name": "BBC Science",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source_published_at": "2026-10-20T23:24:47+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+      "body": [
+        "Elon Musk, yönettiği iki büyük şirket olan Tesla ve SpaceX'in birleşmesi fikrini olumlu bulduğunu ve konunun aktif olarak incelendiğini duyurdu. SpaceX'in çeyrek dönem finansal sonuçları toplantısında konuşan Musk, her iki şirkette de süreci ele almak üzere özel komitelerin oluşturulduğunu söyledi. Ancak komitelerin henüz herhangi bir şart üzerinde uzlaşmaya varmadığını ve nihai bir garanti olmadığını vurguladı.",
+        "Tesla yaklaşık 1,5 trilyon dolar, SpaceX ise 2 trilyon dolar değerlemeye sahip bulunuyor. Birleşmenin gerçekleşmesi halinde tarihin en büyük şirket evliliklerinden biri gerçekleşmiş olacak. Musk, her iki şirketin icra kurulu başkanı olması nedeniyle bu komitelerde yer almadığını ve kararın en az yüzde 50 Tesla hissedar onayından geçmesi gerektiğini belirtti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "1e21659ddca7f151095ad7071bdabc2ca2d478e52632e7da1b7f6634462c7df5"
+    },
+    {
+      "id": "61ce75599c83f81b",
+      "category": "Yazılım",
+      "title": "Google TorchTPU Projesiyle Nvidia'nın Yapay Zeka Hakimiyetine Meydan Okuyor",
+      "summary": "Google, PyTorch uygulamalarını kendi yapay zeka çipleri olan TPU'lara taşımayı sağlayan TorchTPU'yu açık kaynak olarak duyurdu. Şirket, Amazon'un ardından Nvidia'nın pazar gücünü kırmayı hedefliyor.",
+      "why": "Yapay zeka modellerinin büyük kısmı Nvidia donanımlarında çalıştırılırken, bulut devlerinin hamleleri sektördeki çip tekelleşmesini ve altyapı maliyetlerini doğrudan etkileyebilir.",
+      "event_key": "google-torchtpu-acik-kaynak",
+      "brief": "Google, PyTorch uygulamalarının kendi çiplerinde kod değişikliği olmadan çalışmasını sağlayan TorchTPU'yu açık kaynak yaptı. Amazon'un benzer adımının ardından gelen bu hamle, yapay zeka geliştiricilerini Nvidia donanımlarına bağımlı olmaktan kurtarmayı hedefliyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source_published_at": "2026-10-20T18:38:24+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "body": [
+        "Google, popüler yapay zeka geliştirme kütüphanesi PyTorch'un kendi çiplerine uyarlanmış sürümü olan TorchTPU'yu açık kaynak olarak yayımladı. Bu araç sayesinde geliştiriciler, mevcut PyTorch uygulamalarını herhangi bir kod değişikliği yapmadan doğrudan Google'ın Tensor Processing Unit (TPU) donanımlarına ve Google Cloud platformuna taşıyabilecek.",
+        "Bu adım, Amazon'un kendi Trainium çipleri için TorchNeuron'u duyurmasının hemen ardından geldi. Meta tarafından geliştirilen PyTorch, yapay zeka uygulamalarının yaklaşık yüzde 85'inde kullanılıyor ve geleneksel olarak Nvidia GPU'ları üzerinde çalışacak biçimde optimize ediliyordu. Google, Meta ve Hugging Face gibi ortaklarla çalışarak TPU uyumunu artırdığını ve geçiş sürecini kolaylaştıracak TPU Agent Suite aracını da kullanıma sunduğunu açıkladı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e43d7afd241808f731ec3815e8cd57d46b8729c9dedcdd7a91b9e74d02e7d586"
+    },
+    {
+      "id": "ee4eca66507ae100",
+      "category": "Siber Güvenlik",
+      "title": "Meta, Gizlilik Açığı Nedeniyle Muse Sohbet Paylaşım Özelliğini Askıya Aldı",
+      "summary": "Meta, yapay zeka platformu Muse'da paylaşılan sohbetlerin internete sızmasına yol açan bir güvenlik açığının ardından sohbet paylaşım özelliğini durdurdu. Araştırmacılar, pasif DNS aramalarıyla 6 bin 800 paylaşılan bağlantıya ve kullanıcılara ait hassas kurumsal ile kişisel verilere ulaştı.",
+      "why": "Yapay zeka asistanlarında paylaşılan görüşmelerin alan adı yapılandırması yüzünden herkese açık hale gelmesi, kullanıcıların bankacılık ve şirket içi hassas verilerinin doğrudan internete sızmasına yol açabileceğini gösteriyor.",
+      "event_key": "meta-muse-sohbet-paylasim-guvenlik-acigi",
+      "brief": "Meta, yapay zeka platformu Muse üzerindeki sohbet paylaşım özelliğini durdurdu. Güvenlik araştırmacıları, bağlantı yapısındaki açık nedeniyle binlerce özel görüşmenin pasif DNS sorgularıyla herkes tarafından erişilebilir hale geldiğini tespit etti.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
+      "source_published_at": "2026-10-20T20:00:43+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/l-intro-1792526399.jpg",
+      "body": [
+        "Meta'nın geçtiğimiz ay kullanıma sunduğu Muse adlı yapay zeka platformunda ciddi bir gizlilik açığı tespit edildi. Kullanıcıların sohbetlerini bir bağlantı oluşturarak paylaşmalarına yarayan özellik, söz konusu bağlantıların internet üzerinden herkes tarafından bulunabilir olduğunun anlaşılması üzerine şirket tarafından askıya alındı.",
+        "Güvenlik firması Claroc araştırmacıları, paylaşılan tüm adreslerin aynı alan adını kullandığını ve konuşma başlığını alt alan adına eklediğini belirledi. Muse platformunun her paylaşıma konuşma başlığını verip bunu genel DNS kayıtlarına yazması nedeniyle, pasif DNS aramaları yoluyla binlerce sohbet bağlantısının bir içindekiler tablosu gibi listelendiği kaydedildi.",
+        "Claroc, bu yöntemle 6 bin 800 sohbet bağlantısına ulaşarak kurumsal ve kişisel kullanımı içeren gizli bilgilere erişti. Açığa çıkan veriler arasında bir yapay zeka laboratuvarıyla yapılan toplantı saatleri, küçük işletme kredi başvurusu, hesap detaylarını barındıran banka dolandırıcılığı uyarısı, bir şirketin tatil takvimi ve kurum içi belgeler yer aldı.",
+        "Meta, konuya ilişkin açıklamasında raporu incelediklerini ve bağlantıların nasıl keşfedilebileceğine yönelik değişiklikleri değerlendirirken özelliği durdurduklarını bildirdi. Güvenlik araştırmacıları da Meta'nın güncellemesinin ardından daha önce eriştikleri bağlantıların bir kısmına artık ulaşılamadığını doğruladı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0275fa1343b75fba82e9fbe8eef584fc5c4c1f438654fd4b63b922b565b8a32b"
+    },
+    {
+      "id": "7a44093bc311d4a6",
+      "category": "Yapay Zekâ",
+      "title": "Google, Gemini Kişisel Zeka Özelliğini Android Auto ve Araçlara Taşıyor",
+      "summary": "Google, Gemini asistanını ve Kişisel Zeka özelliğini Android Auto ile dahili Google sistemli araçlara getirdi. İsteğe bağlı çalışan sistem; Gmail, Haritalar ve Fotoğraflar gibi uygulamalardan bilgi toplayarak sürücülere kişiselleştirilmiş yanıtlar veriyor.",
+      "why": "Sürücülerin gözlerini yoldan ayırmadan karmaşık kişisel verilerine güvenli ve sesli komutlarla erişebilmesi, araç içi yapay zeka entegrasyonunda yeni bir aşamaya işaret ediyor.",
+      "event_key": "google-gemini-kisisel-zeka-android-auto",
+      "brief": "Google, Gemini yapay zeka asistanını Android Auto ve dahili Google sistemine sahip araçlarda küresel olarak kullanıma sundu. Kişisel Zeka özelliği, sürücülerin e-posta ve takvim verilerini kullanarak yolculuk sırasında özel yanıtlar üretiyor.",
+      "source_name": "Google Blog",
+      "source_url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+      "source_published_at": "2026-10-20T20:00:00+00:00",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.width-1300.png",
+      "body": [
+        "Google, yapay zeka asistanı Gemini'yi Android Auto ve Google yerleşik sistemine sahip araçlarda küresel olarak kullanıma sundu. Sürücülerin araç kullanırken ellerini direksiyondan ayırmadan işlemlerini yürütmesini hedefleyen sistem, doğal konuşma diliyle yön bulma ve soru yanıtlama desteği sağlıyor.",
+        "Kullanıcı iznine bağlı olarak çalışan Kişisel Zeka özelliği; Gmail, Google Takvim, Google Fotoğraflar, Haritalar, YouTube ve Arama verilerini birbirine bağlıyor. Bu sayede asistan, kayıtlı bir e-postadan veya fotoğraftan detayları çekerek ve birden fazla karmaşık kaynağı birleştirerek sürücüye özel cevaplar üretebiliyor.",
+        "Gizlilik kontrollerinin tamamen kullanıcının tercihine bırakıldığı platformda, özellik Gemini ayarlarından istenildiği zaman kapatılabiliyor. Kişisel Zeka kullanılmadığında da navigasyon, müzik ve temel soru-cevap işlevleri genel yanıtlarla çalışmayı sürdürüyor. Dahili Google sistemine sahip araçlarda ise yanıtlar yalnızca kullanıcının telefonu araca bağlıyken paylaşılıyor.",
+        "Kişisel Zeka özelliği Android Auto üzerinde bugünden itibaren, dahili Google sistemli araçlarda ise önümüzdeki aylarda yayına girecek. 18 yaş ve üzeri uygun bireysel Google hesaplarına açılan bu özellik; Avrupa Ekonomik Alanı, İsviçre, Birleşik Krallık ve Nijerya'da sunulmazken Workspace kurumsal ve eğitim hesaplarını da kapsamıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "abc14ef9afa0fba45c2cd953ca581bfafb0955441e2177e8e715e7a806958252"
+    },
+    {
+      "id": "f837ca4d2bd2675e",
+      "category": "Yapay Zekâ",
+      "title": "ChatGPT Sohbetleri Dört Haneli PIN Koduyla Kilitlenebilecek",
+      "summary": "OpenAI, ChatGPT kullanıcılarının sohbetlerini dört haneli PIN veya biyometrik doğrulama ile korumasına olanak tanıyan kilitli sohbetler özelliğini kademeli olarak başlattı. Özellik yerel gizlilik sağlasa da uçtan uca şifreleme niteliği taşımıyor ve PIN sıfırlanırsa kilitli içerikler tamamen siliniyor.",
+      "why": "Kullanıcıların cihazlarını başkalarıyla paylaştığı durumlarda yapay zeka geçmişinin meraklı gözlerden korunmasını sağlayan pratik bir güvenlik katmanı ekleniyor.",
+      "event_key": "openai-chatgpt-kilitli-sohbetler",
+      "brief": "OpenAI, ChatGPT için hassas görüşmeleri 4 haneli PIN veya biyometrik kimlik doğrulamayla gizleyen kilitli sohbetler özelliğini duyurdu. Özellik, sohbet geçmişini meraklı gözlerden korurken uçtan uca şifreleme sağlamıyor.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
+      "source_published_at": "2026-10-20T21:05:00+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792535723.jpg",
+      "body": [
+        "OpenAI, ChatGPT görüşmelerini meraklı gözlerden korumak amacıyla \"kilitli sohbetler\" özelliğini kullanıma sunmaya başladı. Yeni özellikle birlikte kullanıcılar, belirledikleri geçmiş konuşmaların genel sohbet geçmişinde, sabitlenenlerde veya arama sonuçlarında görünmesini engelleyebilecek.",
+        "Kilitlenen görüşmeler, \"Kilitli sohbetler\" adlı yeni bir proje alanı altında toplanıyor ve bu alana erişmek için dört haneli bir PIN kodu girilmesi gerekiyor. iPhone ve Android kullanıcıları, PIN yerine Face ID gibi biyometrik doğrulama sistemlerini de tercih edebiliyor. Ayrıca mobil cihazlarda ses modu kilitli sohbetlerle birlikte çalışabiliyor, ancak Codex konuşmaları kilitlenemiyor.",
+        "OpenAI, kilitli sohbetlerin bir uçtan uca şifreleme sunmadığını ve yasal yükümlülükleri ortadan kaldırmadığını belirtti. Destek sayfasında paylaşılan bilgilere göre bu özellik, model eğitim ayarlarını ya da OpenAI'ın veri saklama sürelerini değiştirmiyor. Olası bir PIN sıfırlama işleminde ise tüm kilitli sohbetler ve yüklenen dosyalar kalıcı olarak siliniyor ve OpenAI Destek ekibi tarafından geri getirilemiyor.",
+        "Kademeli olarak dağıtılan özellik; ücretsiz hesapların yanı sıra Go, Plus ve Pro aboneliklerine de sunuluyor. Şirket, seçeneğin tüm kullanıcıların hesaplarına ulaşmasının birkaç gün sürebileceğini bildirdi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4d45277faaa63bb907e04da880ac186da9a8bd80b6b1ba6079a068a99da8c8de"
+    },
+    {
+      "id": "4c1ba1c175622d22",
+      "category": "Siber Güvenlik",
+      "title": "UpdraftCentral Anahtarları Çalındı: WordPress Sitelerine Arka Kapı Bulaştırıldı",
+      "summary": "TeamUpdraft'ın müşteri veritabanına yapılan yetkisiz erişim sonrası çalınan bağlantı anahtarları, WordPress sitelerine arka kapı eklentileri yüklemek için kullanıldı. Güvenlik açığının 400 bin kadar web sitesini etkileyebileceği bildirilirken yöneticilere eklentiyi güncelleme ve anahtarları silme çağrısı yapıldı.",
+      "why": "Popüler bir yedekleme aracının merkezi yönetim anahtarlarının ele geçirilmesi, saldırganların güvenlik duvarlarını aşarak yüz binlerce WordPress sitesinde tam yönetici yetkisi elde etmesine imkan tanıdı.",
+      "event_key": "updraftcentral-calinan-anahtarlar-wordpress-arka-kapi",
+      "brief": "TeamUpdraft altyapısına düzenlenen siber saldırıda UpdraftCentral bağlantı anahtarları çalındı. Saldırganlar, ele geçirdikleri geçerli yönetim anahtarlarıyla yaklaşık 400 bin WordPress sitesine arka kapı yerleştirmeye başladı.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "source_published_at": "2026-10-20T21:01:50-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/09/03/wordpress.jpg",
+      "body": [
+        "Popüler WordPress yedekleme eklentisi UpdraftPlus'ın geliştiricisi TeamUpdraft, web sitesi altyapısına 17-18 Ekim hafta sonunda yetkisiz erişim sağlandığını duyurdu. Saldırganların müşteri, fatura ve sipariş geçmişi bilgilerini içeren veritabanına ulaştığı ve bağlı web sitelerine uzaktan komut gönderebilen UpdraftCentral anahtarlarını ele geçirdiği bildirildi.",
+        "Geliştirici firma, ödeme bilgilerinin sistemde saklanmadığını, eklenti indirme dosyalarının ve bağımsız barındırılan UpdraftCentral sunucularının saldırıdan etkilenmediğini açıkladı. Ancak UpdraftPlus kullanan sitelerin yaklaşık yüzde 10'unun UpdraftCentral veya Migrator anahtarı bulundurduğu, bunun da yaklaşık 400 bin siteyi doğrudan hedef haline getirdiği ifade edildi.",
+        "Patchstack araştırmacıları, 18 Ekim saat 15.32 UTC itibarıyla saldırganların çalınan anahtarlarla rastgele kod çalıştırdığını ve tam yönetici yetkisine sahip hesaplar açtığını saptadı. Saldırılarda, aralarında \"Site Health Cache\" gibi isimlerin de bulunduğu bakım aracı kılığında en az 99 farklı zararlı arka kapı eklentisi tespit edildi. Güvenlik firması Nethemba da kendi sitelerinin UpdraftCentral üzerinden geçerli anahtarlarla hedef alındığını aktardı.",
+        "TeamUpdraft'ın anahtarları silmek için çıkardığı ilk sürümdeki yazılım hatası nedeniyle, kullanıcıların UpdraftPlus eklentisini 1.26.13 (ücretsiz) veya 2.26.13 (Premium) sürümlerine acilen yükseltmesi istendi. Yöneticilerin eklenti ayarlarından mevcut UpdraftCentral anahtarlarını manuel olarak silmeleri, hesap şifrelerini ve oturumlarını sıfırlayarak sunucu kayıtlarını incelemeleri tavsiye ediliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "00e69fcfd31b6bac8b02a1c78aafa9a8e1e210ef51421e6b076016a83effeb7a"
+    },
+    {
+      "id": "1a9bb903c0ede720",
+      "category": "Bulut Bilişim",
+      "title": "Google Cloud'daki Güç Kesintisi İngiltere'de Bankaları ve Kamu Hizmetlerini Vurdu",
+      "summary": "Google Cloud'un Londra merkezli veri merkezinde yaşanan elektrik sorunu, Birleşik Krallık genelinde bankacılık, yargı ve kargo sistemlerinde saatlerce aksamaya yol açtı. Şirket sorunun giderildiğini belirterek bir teknik analiz yayımlayacağını duyurdu.",
+      "why": "Kesinti, kritik kamu ve finans altyapılarının az sayıdaki küresel bulut bilişim sağlayıcısına olan yüksek bağımlılığını ve bu sistemlerdeki tek bir arızanın yarattığı operasyonel riskleri gözler önüne seriyor.",
+      "event_key": "google-cloud-londra-guc-kesintisi-kesinti",
+      "brief": "Google Cloud'un Londra'daki veri merkezinde yaşanan güç arızası, İngiltere'de Lloyds, HSBC ve Revolut dahil birçok banka ile kamu hizmetlerini felç etti. Kesintinin çözüldüğü ve ayrıntılı bir teknik raporun paylaşılacağı bildirildi.",
+      "source_name": "BBC Technology",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "source_published_at": "2026-10-20T18:03:19+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg",
+      "body": [
+        "Google Cloud, Birleşik Krallık'taki bulut altyapısında meydana gelen ve bankalardan işletmelere kadar geniş bir kesimi etkileyen teknik arızanın giderildiğini bildirdi. Şirketin Londra'daki \"europe-west2\" veri merkezi kompleksinde salı günü erken saatlerde birden fazla servisi kapsayan sorunlar kaydedildi. Yapılan incelemeler, teknik aksaklığın \"europe-west2-b\" adlı alt bölgedeki bir güç olayından kaynaklandığını ortaya koydu.",
+        "Kesintiden Revolut, HSBC ve Lloyds Banking Group bünyesindeki bankaların yanı sıra kargo şirketleri ve mahkeme süreçleri de etkilendi. İngiltere ve Galler Mahkemeler Servisi, uzaktan duruşmalarda yararlanılan video platformunda teknik sorun yaşandığını aktardı. Banka müşterileri fonlara erişimde ve emlak işlemlerinde güçlük çekerken, The Veg Box Company gibi işletmeler çevrim içi sipariş sistemlerinin çökmesi nedeniyle doğrudan maddi kayıp yaşadı.",
+        "Google Cloud sözcüsü, salı akşamı yaptığı açıklamada üçüncü taraf bir tesiste yaşanan güç olayına bağlı hizmet kesintisinin çözüldüğünü duyurarak müşterilerden özür diledi. Olayın teknik analizinin şirket kontrol panelinde paylaşılacağı belirtildi. Revolut gibi hizmet sağlayıcıları servislerinin tamamen normale döndüğünü ve kullanıcı verileri ile bakiyelerinin süreç boyunca güvende kaldığını teyit etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0b05d4343aba1feb7f33fab4e9864363f97fb62c2cf6b9af112f15e236152587"
+    },
+    {
+      "id": "2d2caae98728dfe7",
+      "category": "Yapay Zekâ",
+      "title": "Anthropic'ten Yapay Zekaya Katı Sınırlar Getiren Yasa Tasarısı Teklifi",
+      "summary": "Yapay zeka girişimi Anthropic, kitlesel ölüm veya devasa maddi kayıp riski taşıyan modellerin dağıtımının yargı yoluyla durdurulmasını öngören bir federal yasa taslağı hazırladı. Taslak, federal kurumların doğrudan engelleme yetkisini sınırlandırıyor.",
+      "why": "Yapay zeka güvenliğinde teknoloji şirketlerinin doğrudan yasal çerçeve önermesi ve idari kurumların keyfi müdahalesini sınırlayıp yargı denetimine işaret etmesi açısından önemli bir düzenleme girişimidir.",
+      "event_key": "anthropic-yapay-zeka-guvenlik-yasa-tasarisi",
+      "brief": "Anthropic, 50'den fazla kişinin ölümü ya da 1 milyar doları aşan zarar riski taşıyan yapay zeka modellerinin dağıtımını D.C. mahkemesi kararıyla durdurmayı amaçlayan bir yasa tasarısı taslağını Kongre'ye sundu.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source_published_at": "2026-10-20T23:01:23+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "body": [
+        "Yapay zeka şirketi Anthropic, sektörün güvenliğini sağlamaya yönelik bir federal yasa tasarısı taslağını ABD Kongresi üyelerinin değerlendirmesine sundu. Politico tarafından aktarılan taslak, bir modelin dağıtımının durdurulabilmesi için \"öngörülebilir ve yakın bir felaket riski\" barındırmasını şart koşuyor. Bu risk eşiği, en az 50 kişinin hayatını kaybetmesi veya 1 milyar doları aşan maddi zararın meydana gelmesi olarak belirlendi.",
+        "Metne göre söz konusu felaket potansiyelinin biyolojik silah üretimi, modelin geliştirici kontrolünden çıkması veya siber saldırı gibi senaryolardan doğması gerekiyor. Tasarı, modellerin değerlendirilmesi için ABD Ticaret Bakanlığı'na kayıtlı bağımsız denetçilerin devreye girmesini öngörüyor. Laboratuvarlar tarafından finanse edilebilecek olan bu denetçilerin ücretlerinin değerlendirme sonuçlarına bağlı olmaması şartı getiriliyor.",
+        "Tasarıda öngörülen mekanizmaya göre, yakın bir felaket riski saptandığında bağımsız denetçilerin durumu 72 saat içinde Ticaret Bakanlığı'na bildirmesi gerekiyor. Bakanlık doğrudan dağıtımı durdurma yetkisine sahip olamayacak; bunun yerine Washington D.C.'deki bir yargıçtan modelin durdurulmasını talep etmek zorunda kalacak. Anthropic sözcüsü, taslağın haziran ayından bu yana savunulan Gelişmiş Yapay Zeka Çerçevesi kapsamındaki önerileri yansıttığını doğruladı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f109faaa60ed196507c4dd584afd3e607d2776a075caa4ca8b4fb3a21f36a68f"
+    },
+    {
+      "id": "fb5a585d63d0a7f5",
+      "category": "Yapay Zekâ",
+      "title": "OpenAI Biyoteknoloji Girişimi Orchestra Bio'yu Satın Aldı",
+      "summary": "OpenAI, ilaç geliştirme süreçlerini optimize eden yapay zeka araçları üreten dört yıllık girişim Orchestra Bio'yu bünyesine kattığını açıkladı. Satın almanın mali detayları kamuoyuyla paylaşılmadı.",
+      "why": "Yapay zeka devlerinin biyoteknoloji ve ilaç geliştirme gibi yüksek uzmanlık gerektiren kritik sektörlerdeki doğrudan varlığını ve pazar hâkimiyetini pekiştirmesi bakımından önem taşıyor.",
+      "event_key": "openai-orchestra-bio-satin-almasi",
+      "brief": "OpenAI, ilaç keşif süreçlerini otomatikleştiren Orchestra Bio'yu satın aldı. Dört yıllık girişimin ekibi ve teknolojisi, OpenAI'ın yaşam bilimleri araştırmaları için geliştirdiği Rosalind modeline entegre edilecek.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source_published_at": "2026-10-20T20:35:10+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+      "body": [
+        "Yapay zeka alanında faaliyet gösteren OpenAI, biyoteknoloji yazılımları üreten dört yıllık Orchestra Bio girişimini satın aldığını resmi internet sitesi aracılığıyla duyurdu. Finansal ayrıntıları açıklanmayan girişimin, 2025 yılı itibarıyla Andreessen Horowitz, Atria ve 8VC gibi yatırımcılardan yaklaşık 20 milyon dolar fon topladığı biliniyordu.",
+        "Orchestra Bio, ilaç keşif operasyonlarının ayrıntılarını yönetmek, klinik araştırmaların takvim sorunlarını çözmek ve finansal akışları takip etmek amacıyla yapay zeka ajanları geliştiriyor. OpenAI, girişimin ekibini ve sahip olduğu teknolojiyi yaşam bilimleri araştırmaları için tasarlanan Rosalind yapay zeka modeline dahil edecek.",
+        "Satın alınan teknoloji ayrıca araştırmacıların deney planlamasına ve sonuç analizine yardımcı olan Rosalind Workbench platformunda kullanılacak. OpenAI, aralarında Moderna ve Novo Nordisk'in de bulunduğu önde gelen ilaç şirketlerini Rosalind ürününün mevcut müşterileri arasında gösteriyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4740c037af00e2f3eefb2b26f3b7375cc31cda0294c11435f3be293a63ae32ba"
+    },
+    {
+      "id": "7b93b8c0d8e313e1",
+      "category": "Havacılık ve Savunma",
+      "title": "Ukrayna Ordusu Yaralı Askeri Ağır Dronla Cepheden Tahliye Etti",
+      "summary": "Ukrayna ordusu, çatışma hattında mahsur kalan yaralı bir askeri altı rotorlu ağır kargo dronu kullanarak güvenli bölgeye taşıdı. Operasyon, insansız hava araçlarının muharebe tahliyesinde doğrudan kullanımında kritik bir adım olarak kayda geçti.",
+      "why": "Geleneksel kara robotları veya helikopterlerin yüksek risk taşıdığı modern cephe koşullarında, dron tabanlı personel tahliyesinin operasyonel bir gerçekliğe dönüştüğünü somut biçimde kanıtlıyor.",
+      "event_key": "ukrayna-iha-ile-yarali-asker-tahliyesi",
+      "brief": "Ukrayna ordusu, yoğun ateş altındaki bir mevzide yaralanan askeri altı rotorlu AYUDAG 6 dronuyla tahliye etti. Yaklaşık 62 kilometrelik hava tahliyesi, türünün ilk örneği olarak kayıtlara geçti.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "source_published_at": "2026-10-20T18:22:54+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-drone-evacuation-1152x648.jpg",
+      "body": [
+        "Ukrayna Silahlı Kuvvetleri, cephe hattında kara araçlarıyla ulaşılması mümkün olmayan yaralı bir askeri ağır kargo dronu aracılığıyla başarılı bir operasyonla tahliye etti. Kara mayınları ve karşı dron tehditleri nedeniyle tekerlekli robotların kullanılamadığı bölgede gerçekleştirilen kurtarma faaliyeti, Ukrayna ordusu tarafından yayımlanan video kayıtlarıyla kamuoyuna duyuruldu.",
+        "Tahliye operasyonunda, Ukraynalı üretici Gurzuf Defence tarafından 92. Ayrı Taarruz Tugayı'na temin edilen altı motorlu \"Heavy Shot AYUDAG 6\" modeli heksakopter kullanıldı. 30. Ayrı Mekanize Tugay mensubu olan askere önce özel karabinalar ulaştırıldı. Asker, vinç tertibatına sahip ve 90 kilograma kadar taşıma kapasitesi bulunan insansız hava aracına kendisini bağlayarak güvenli alana nakledildi.",
+        "Toplam 1 saat 14 dakika süren uçuş kapsamında yaklaşık 62 kilometrelik mesafe katedildi. Gurzuf Defence kurucu ortaklarından Pavlo Feldblium, hava yoluyla dron tahliyesinin yaralılar için riskler barındırdığını ve yalnızca son çare olarak uygulanması gerektiğini belirtti. Ukrayna'da ayrıca sedye bölmesine ve Starlink bağlantısına sahip SkyFall üretimi StarGate dronunun da cephe denemelerine başladığı bildirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "359771ada92c2fb2867077a5b5c666c967fa61456d728fbe8cc67202c75e0544"
+    },
+    {
+      "id": "c387ce8f27c245be",
+      "category": "Kuantum Bilişim",
+      "title": "Quantinuum Kuantum Hata Düzeltmede Başabaş Noktasını Aştığını Duyurdu",
+      "summary": "Quantinuum, Helios donanımı üzerinde renk kodları kullanarak mantıksal kübitlerdeki hata oranını her mesafe artışında yaklaşık 12 kat azalttığını açıkladı. Sistem, kuantum belleği koruma testlerinde ve iki kübitlik kapı işlemlerinde başabaş noktasının ötesine geçen performans sergiledi.",
+      "why": "Kuantum hata düzeltmede donanım büyüdükçe hataların iki kat yerine yaklaşık 12 kat azalması, karmaşık algoritmaları çalıştırmak için gereken fiziksel kübit sayısını önemli ölçüde düşürme potansiyeli taşır.",
+      "event_key": "quantinuum-kuantum-hata-duzeltme-basarisi",
+      "brief": "Quantinuum, Helios kuantum işlemcisinde hata düzeltme kodlarının boyutunu büyüterek mantıksal hata oranını her adımda yaklaşık 12 kat düşürmeyi başardı. Şirket, bellek koruma ve iki kübitlik kapı işlemlerinde başabaş noktasının belirgin şekilde aşıldığını bildirdi.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+      "source_published_at": "2026-10-20T18:08:57+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg",
+      "body": [
+        "Quantinuum, Helios adlı tuzaklanmış iyon kuantum işlemcisini kullanarak kuantum hata düzeltmede başabaş noktasının belirgin şekilde ötesine geçtiğini duyurdu. Karmaşık algoritmaların yürütülmesi için fiziksel kübitlerin bir araya getirilmesiyle oluşturulan mantıksal kübitler kullanılırken, her büyüme adımında mantıksal hata oranının yaklaşık 12 kat azaldığı bildirildi.",
+        "Helios işlemcisinde renk kodları kullanılarak mesafe üç için 13, mesafe beş için 37 ve mesafe yedi için 73 fiziksel kübit ayrıldı. Kuantum belleği durumunu koruma deneylerinde hata oranları mesafe üçte 5 x 10^-4, mesafe beşte 4 x 10^-5 ve mesafe yedide 5 x 10^-6 olarak ölçüldü. Bu süreçte sendrom verilerini analiz etmek için standart bir algoritma, bir evrişimli yapay sinir ağı ve transformer tabanlı bir sinir ağı gerçek zamanlı olarak çalıştırıldı.",
+        "Şirket ayrıca lazer manipülasyonuyla sızıntı hatalarını 6,5 kat bastıran bir yöntem ve sızan veri kübitlerini ölçüm kübitleriyle değiştiren bir yazılım uyguladı. İki kübitlik kapı işlemlerinde doğrudan donanım kullanımı yaklaşık 10^-3 hata oranı verirken, mesafe beş kodu bu oranı 7 x 10^-5 seviyesine indirdi. Helios donanımının aynı anda yalnızca bir adet mesafe yedi mantıksal kübit barındırabilmesi ise mevcut sınırlılıklar arasında yer alıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "964c0cfdf033bd3e7066b14e755002d007cc98a55d7fafa8cbcd8dbfd0a1a972"
+    },
+    {
+      "id": "a6071b39af0b080a",
+      "category": "Siber Güvenlik",
+      "title": "OVHcloud CLI Sürümlerine Gizli Bilgileri Çalan Zararlı Yazılım Eklendi",
+      "summary": "Fransız bulut sağlayıcısı OVHcloud, GitHub üzerindeki komut satırı arayüzü aracının bir geliştirici hesabının ele geçirilmesiyle tahrif edildiğini bildirdi. 0.11.0 ile 0.15.0 arasındaki sürümlere diskteki gizli bilgileri çalmayı hedefleyen zararlı yazılım yerleştirildi.",
+      "why": "Bulut ortamlarını yöneten yetkili komut satırı araçlarının ele geçirilmesi, sistem yöneticilerine ait kimlik bilgilerinin ve diskteki gizli verilerin doğrudan saldırganların eline geçmesine yol açabilir.",
+      "event_key": "ovhcloud-cli-github-arka-kapi-saldirisi",
+      "brief": "OVHcloud, GitHub üzerindeki CLI aracının v0.11.0 ile v0.15.0 arasındaki sürümlerinin bir geliştirici hesabının ele geçirilmesiyle tahrif edildiğini duyurdu. Yetkililer, etkilenen kullanıcıların sistemlerini temizlemesini ve tüm gizli anahtarlarını değiştirmesini istedi.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "source_published_at": "2026-10-20T07:31:22-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/20/ovhcloud.jpg",
+      "body": [
+        "Fransız bulut ve barındırma sağlayıcısı OVHcloud, geliştiriciler ve sistem yöneticileri tarafından kullanılan açık kaynaklı komut satırı arayüzü (CLI) deposunun GitHub üzerinde güvenliğinin ihlal edildiğini açıkladı. Bir geliştirici hesabının ele geçirilmesi sonucu aracın 0.11.0 ile 0.15.0 arasındaki sürümlerine diskteki gizli verileri toplamayı amaçlayan zararlı bir yazılım eklendi.",
+        "OVHcloud CEO'su Octave Klaba, tahrif edilmiş sürümün 19 Ekim günü saat 14.47'de yayımlandığını, bir müşteri bildirimi üzerine 16.21'de tespit edilerek engellendiğini belirtti. Klaba, GitHub'ın sürüm değişmezliği ayarının kapalı olması nedeniyle CI/CD denetimlerine takılmadan mevcut sürümlerin değiştirilebildiğini, ancak entegrasyon hatlarının doğrudan zarar görmediğini aktardı. Şirket, ayarı yeniden devreye alarak olayı çözüme kavuşturduğunu ve 0.10.0 ile 0.16.0 sürümlerinin temiz olduğunu bildirdi.",
+        "OpenSourceMalware araştırmacıları, saldırının GlassWorm operasyonunun bir parçası olabileceğini ve kullanılan GitHub hesabının altı aydan uzun süredir ele geçirilmiş durumda bulunduğunu raporladı. Zararlı ikili dosyaların macOS (Intel ve ARM), Linux (x86_64 ve ARM64) ile Windows x86-64 platformlarını etkilediği, kaynak kod derlemeleri ve Docker imajlarının ise zarar görmediği teyit edildi. Etkilenen kullanıcılara disklerindeki tüm gizli anahtarları ve kimlik bilgilerini yenilemeleri çağrısı yapıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f7b2ab0e0b0e69c04186b3ccad7e1715232d638092588af8d59d8950f84bcfb3"
+    }
+  ],
+  "summary": {
+    "file": "teknoloji/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 6,
+    "duration": 241.2,
+    "bytes": 1446912,
+    "sha256": "f0a65fc8473b06703e50101b702a67b4167c96454a4435ab13f7bdc64c9d87aa"
+  },
+  "podcast": {
+    "file": "teknoloji/podcast.mp3",
+    "title": "Yeni Sekme",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 6,
+    "duration": 1294.0,
+    "bytes": 20704906,
+    "sha256": "983162a406b80473f17b6cfcc93b6a890cab3c5a32e27d78d83e78db599a511c"
+  },
+  "audio_revision": 5
+}

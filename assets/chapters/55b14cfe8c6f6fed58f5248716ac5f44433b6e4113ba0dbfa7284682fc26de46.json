@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "55b14cfe8c6f6fed58f5248716ac5f44433b6e4113ba0dbfa7284682fc26de46",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Giriş"
+    },
+    {
+      "start": 11.72,
+      "title": "Avrupa'da Ganimet Kutuları Olan Oyunlara PEGI 16 Sınırı"
+    },
+    {
+      "start": 177.94,
+      "title": "CS2 Oyuncusu Aleksib Ağırlaştırılmış Vergi Kaçakçılığı İddiasıyla Mahkemeye Çıktı"
+    },
+    {
+      "start": 308.0,
+      "title": "Don't Nod Finansal Zorluklar Nedeniyle Fransa'da Koruma Prosedürü Başlattı"
+    },
+    {
+      "start": 426.72,
+      "title": "Xbox Game Pass İçin Kapsamlı Değişiklik Planı Gündemde"
+    },
+    {
+      "start": 542.72,
+      "title": "AMD ve Microsoft İşbirliğiyle FSR 4.1 Xbox Series X|S ve Yeni Nesil Konsola Geliyor"
+    },
+    {
+      "start": 663.38,
+      "title": "Sony ve Take-Two Yöneticilerinden Oyun Geliştirmede Yapay Zeka Değerlendirmesi"
+    },
+    {
+      "start": 781.5,
+      "title": "Helldivers 2 Yeni Hile Korumasına Geçti: Modlar Risk Altında"
+    },
+    {
+      "start": 898.86,
+      "title": "Origame Digital Yeni Oyunu Penguin Colony'nin İsrail'de Satışını Yasakladı"
+    },
+    {
+      "start": 1015.48,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "c95a53fe84852073",
+      "start": 11.72,
+      "end": 176.88
+    },
+    {
+      "story_id": "92b8be4b406b8f5b",
+      "start": 177.94,
+      "end": 307.34
+    },
+    {
+      "story_id": "e67d1ba14be66581",
+      "start": 308.0,
+      "end": 426.24
+    },
+    {
+      "story_id": "fcf21eaad55fe109",
+      "start": 426.72,
+      "end": 542.18
+    },
+    {
+      "story_id": "473c98188f7a29bd",
+      "start": 542.72,
+      "end": 662.46
+    },
+    {
+      "story_id": "c2b2da70f5b7768c",
+      "start": 663.38,
+      "end": 780.98
+    },
+    {
+      "story_id": "e53fb7f965d7b8dc",
+      "start": 781.5,
+      "end": 898.2
+    },
+    {
+      "story_id": "07a1d58cb7e50e9c",
+      "start": 898.86,
+      "end": 1015.48
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "77f852b1a2fa03d29e0f29becd26d0d23a5b626ca66f237a15b648a7132e0623"
+}

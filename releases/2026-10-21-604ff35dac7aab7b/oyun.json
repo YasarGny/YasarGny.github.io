@@ -1,0 +1,373 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "expanded-v1",
+  "section": "oyun",
+  "publish_date": "2026-10-21",
+  "date": "21 Ekim 2026",
+  "issue": 6,
+  "ready": true,
+  "stories": [
+    {
+      "id": "524e6657c4db50d8",
+      "category": "GÜNCELLEME",
+      "title": "Cyberpunk 2077 İçin 2.5 Güncellemesi Duyuruldu",
+      "summary": "CD Projekt Red, Cyberpunk 2077 için 2.5 yamasını duyurdu. Güncelleme yeni siber donanım özelleştirmeleri ve çift silah kullanma oynanış tarzı getirecek.",
+      "why": "Cyberpunk 2077'ye uzun süredir beklenen çift silah kullanımı ve yeni donanım özelleştirmeleri ekleniyor; güncellemenin tüm detayları ve çıkış takvimi netleşti.",
+      "event_key": "cyberpunk-2077-yama-2-5-cift-silah",
+      "brief": "CD Projekt Red, Cyberpunk 2077 için 2.5 yamasını duyurdu. Yeni güncelleme siber donanım özelleştirmeleri ve çift silah kullanımını oyuna ekleyecek. Detaylar 21 Ekim tarihindeki yayında açıklanacak, yama ise 22 Ekim'de yayımlanacak.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
+      "source_published_at": "2026-10-20T14:46:51+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RrKWBQLDZb3WHTmZP4Ha9a-1920-80.jpg",
+      "body": [
+        "CD Projekt Red, Cyberpunk 2077 için 2.5 numaralı yeni bir yama hazırladığını duyurdu. Yeni güncellemeye dair ayrıntıların 21 Ekim'de yapılacak bir canlı yayında açıklanacağı ve yamanın 22 Ekim tarihinde indirmeye sunulacağı belirtildi.",
+        "Geliştirici stüdyonun paylaştığı ilk bilgilere göre 2.5 yaması, siber donanım özelleştirmeleriyle ilgili yeni içerikler barındıracak. Ayrıca güncelleme, oyuna oyuncuların iki silahı aynı anda kullanabilmesine olanak tanıyan yeni bir çift silah oynanış tarzı kazandıracak.",
+        "Daha önce oyunda yer alan Jackie Welles'in çift tabancaları gibi silahlar elde tutulduğunda tek bir silaha dönüşüyordu ve doğrudan çift silah kullanımına izin verilmiyordu. Yeni yama ile birlikte bu mekanik ilk kez resmi olarak oyuna dahil edilmiş olacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "64b32895c4bd213ebfd45f58df0b0a42c5fa2e6f761791b7be7f9b95a9061d57"
+    },
+    {
+      "id": "e53fb7f965d7b8dc",
+      "category": "GÜVENLİK",
+      "title": "Helldivers 2 Yeni Hile Korumasına Geçti: Modlar Risk Altında",
+      "summary": "Arrowhead Game Studios, Helldivers 2'de GameGuard yerine Easy Anti-Cheat sistemine geçtiğini duyurdu. Değişikliğin zararsız modları da bozabileceği uyarısı Steam'de olumsuz inceleme dalgasına yol açtı.",
+      "why": "Arrowhead'in hilelerle mücadele amacıyla Easy Anti-Cheat'e geçişi, topluluk tarafından geliştirilen zararsız modların çalışmasını engelleyebileceği için oyuncuların kitlesel tepkisine neden oldu.",
+      "event_key": "helldivers-2-easy-anti-cheat-gecisi",
+      "brief": "Arrowhead, Helldivers 2'de hile korumasını GameGuard'dan Easy Anti-Cheat sistemine geçirdi. Zararsız modların da etkilenebileceği uyarısı üzerine oyuncular Steam'de tepki gösterdi ve oyuna yüzlerce olumsuz yorum yağdı.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
+      "source_published_at": "2026-10-20T18:19:34+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/d2G3Bk4aeGhA3RpjmYJQ6g-1920-80.png",
+      "body": [
+        "Arrowhead Game Studios, 20 Ekim itibarıyla Helldivers 2'nin hile koruma sistemini GameGuard'dan Easy Anti-Cheat sistemine taşıdığını açıkladı. Stüdyo, son dönemde hile modlarında artış görüldüğünü ve GameGuard'ın yeterince etkili olmaması nedeniyle sektör standardı olan EAC'ye geçildiğini bildirdi.",
+        "Helldivers 2'de resmi mod desteği bulunmuyor ancak topluluk tarafından geliştirilen çok sayıda görsel ve işitsel mod kullanılıyor. Arrowhead, yeni güvenlik adımlarının oynanışa etkisi olmayan kozmetik modları da devre dışı bırakabileceği konusunda uyardı. Mod kullanımının oyuncuların kendi sorumluluğunda olduğu vurgulanırken, sorun yaşayanların Zendesk destek kanalına başvurabileceği ve asıl çözümün mod yapımcılarının güncellemelerinde yattığı ifade edildi.",
+        "Bu duyuru ve potansiyel mod kısıtlamaları oyuncu topluluğunda tepkiyle karşılandı. Kararın ardından Steam tartışma başlığında 1.500'den fazla yanıt paylaşıldı. Ayrıca duyuru gününde 846 olumsuz kullanıcı incelemesi yapılırken, olumlu inceleme sayısı 146'da kaldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "dbd1947a3829f2f2c1e5b1ad007daf5ff50b39130efcaa3b8301415669504439"
+    },
+    {
+      "id": "c95a53fe84852073",
+      "category": "SEKTÖR",
+      "title": "Avrupa'da Ganimet Kutuları Olan Oyunlara PEGI 16 Sınırı",
+      "summary": "Avrupa oyun derecelendirme kuruluşu PEGI, paralı rastgele eşya içeren oyunların yaş sınırını PEGI 16'ya yükseltmeye başladı. EA Sports FC 27 bu kapsamda 16 yaş sınırı aldı.",
+      "why": "Oyun içi satın alımlar ve ganimet kutularına yönelik Avrupa'daki yaş derecelendirme kuralları sertleştirildi; bu durum popüler spor oyunlarının yaş sınırlarının doğrudan PEGI 16'ya yükselmesine yol açıyor.",
+      "event_key": "pegi-ganimet-kutusu-yas-siniri-16",
+      "brief": "PEGI, paralı rastgele eşya ve ganimet kutusu içeren oyunların yaş sınırını 16'ya çıkarma kararı aldı. Bu değişiklik nedeniyle daha önce PEGI 3 alan serinin yeni oyunu EA Sports FC 27, doğrudan PEGI 16 olarak derecelendirildi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+      "source_published_at": "2026-10-20T21:56:37+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mP3XJFwniKnvoJxghGbLCP-1920-80.jpg",
+      "body": [
+        "Avrupa oyun derecelendirme kuruluşu PEGI, ücretli rastgele eşya içeren oyunlara yönelik yaş sınırlarını artırmaya başladı. Birleşik Krallık Oyun Derecelendirme Otoritesi Politika Müdürü Connor Hindle, haziran ayından bu yana oyunların interaktif riskleri kapsayan genişletilmiş kriterlere göre değerlendirildiğini ve mevcut dijital ürünlere de bu uygulamanın getirildiğini açıkladı.",
+        "Mart ayında duyurulan yeni kriterler; oyun içi içerik satın alımları, paralı rastgele eşyalar, iletişim özellikleri ve oyuncuları oynamaya teşvik eden mekanikleri barındırıyor. Bu kapsamda içinde ganimet kutusu yer alan oyunlar varsayılan olarak PEGI 16 derecesi alıyor. Örneğin önceki oyunları ve EA Sports FC 25 sürümü PEGI 3 olan seride, EA Sports FC 27 bünyesindeki puanlar, sezon bileti ve oyuncu paketleri nedeniyle doğrudan PEGI 16 olarak sınıflandırıldı.",
+        "Kuzey Amerika derecelendirme kuruluşu ESRB ise bu politikayı takip etmeyeceğini duyurdu. ESRB yetkilileri araştırmalarının içerikle doğrudan ilişkili olmayan unsurların derecelendirmeye eklenmesinin ebeveynlerin kafasını karıştırabileceğini gösterdiğini belirtti. Bu doğrultuda EA Sports FC 27, ESRB tarafından kullanıcı etkileşimi ve oyun içi satın alma notuyla 'E' (Herkes İçin) olarak derecelendirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "255d70c9766a8a1cde167639d59d0a9f564a3359e2f8423a3445b641c476e768"
+    },
+    {
+      "id": "fcf21eaad55fe109",
+      "category": "İŞ DÜNYASI",
+      "title": "Xbox Game Pass İçin Kapsamlı Değişiklik Planı Gündemde",
+      "summary": "Fortune'un haberine göre Microsoft, Xbox Game Pass aboneliğini isteğe bağlı özelliklerin seçilebildiği modüler bir yapıya dönüştürmeyi planlıyor.",
+      "why": "Microsoft'un ana abonelik hizmeti Game Pass'te kademeli ve seçmeli bir modele geçmeyi planlaması, şirketin gelir modelinde ve oyun dağıtım politikasında önemli bir değişikliğe işaret ediyor.",
+      "event_key": "xbox-project-helix-fiyat-ve-game-pass-revizyonu",
+      "brief": "Microsoft, Xbox Game Pass için abonelerin yalnızca konsol, bulut veya çok oyunculu gibi istedikleri özellikleri seçebileceği yeni bir sistem planlıyor. Şirket içi satış dengesizliklerinin bu revizyonda etkili olduğu belirtiliyor.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options",
+      "source_published_at": "2026-10-20T19:40:15+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/image-2-1792525205185.png?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Fortune dergisinde yer alan bir profile göre Microsoft, Xbox Game Pass hizmetinde köklü bir revizyona gitmeyi planlıyor. Yeni sistemle birlikte abonelerin sadece ihtiyaç duydukları özellikleri seçebileceği 'alacarte' bir yapıya geçilmesi hedefleniyor.",
+        "Stratejiye yakın kaynaklara dayandırılan bilgilere göre planlanan kademeli sistem; sadece konsol oyunları, bulut oyunculuğu ve çok oyunculu mod gibi modüllerin bağımsız eklentiler olarak seçilmesine imkan tanıyacak. Hizmetin büyümesine karşın şirket içinde birinci parti oyunların lansman dönemlerindeki satışlarını olumsuz etkilediği ve abonelik gelirleri ile mağaza gelirleri arasında ekipler arası hedef çelişkileri doğurduğu ifade ediliyor.",
+        "Haberde ayrıca Xbox'ın yeni nesil el konsolu ile Project Helix kod adlı konsolunun, Microsoft maliyet sübvansiyonu uygulamadığı takdirde yüksek bir fiyat etiketine sahip olacağı öne sürülüyor. Üst yönetimde altı aydır görev yapan Asha Sharma'nın daha önce Game Pass Ultimate fiyatını indirdiği ve stüdyo operasyonlarında çeşitli yapısal adımlar attığı hatırlatılıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6f3af8295e149aa03345498baa89f671ab642195ae5c1255d9a67b58cdeae8bd"
+    },
+    {
+      "id": "473c98188f7a29bd",
+      "category": "DONANIM",
+      "title": "AMD ve Microsoft İşbirliğiyle FSR 4.1 Xbox Series X|S ve Yeni Nesil Konsola Geliyor",
+      "summary": "Microsoft ve AMD, makine öğrenimi tabanlı görüntü yükseltme teknolojisi FSR 4.1'in yakında Xbox Series X|S konsollarına geleceğini açıkladı. Teknoloji ayrıca Project Helix kod adlı yeni nesil Xbox konsolu ile belirli PC donanımları ve el konsollarında da desteklenecek.",
+      "why": "Mevcut nesil Xbox konsollarının donanımsal sınırlamalarına rağmen yapay zeka destekli görüntü yükseltme teknolojisiyle grafik ve performans iyileştirmesi alacak olması ve bunun yeni nesil Xbox'a da aktarılacak olması açısından önem taşıyor.",
+      "event_key": "amd-fsr-4-1-xbox-series-destegi",
+      "brief": "AMD ve Microsoft, makine öğrenimi temelli görüntü yükseltme teknolojisi FSR 4.1'in yakında Xbox Series X|S konsollarına geleceğini duyurdu. İki şirket teknolojiyi Project Helix adlı yeni nesil konsola ve belirli el cihazları ile PC donanımlarına da taşımak için çalışıyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/xbox-series-xs-is-getting-a-surprise-graphics-boost-from-amd/",
+      "source_published_at": "2026-10-20T17:51:08+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Series-X.jpg?w=300",
+      "body": [
+        "Microsoft ve AMD, makine öğrenimi tabanlı zamansal görüntü yükseltme ve yeniden yapılandırma teknolojisi FidelityFX Super Resolution (FSR) 4.1'in Xbox Series X|S konsollarına geleceğini duyurdu. Oyunları daha düşük çözünürlükte işleyip yüksek çözünürlüğe yükselten bu teknoloji, donanım düzeyinde yapay zeka birimi barındırmayan Xbox Series X|S konsollarında grafik kalitesi ve performans artışı sağlamayı hedefliyor.",
+        "Xbox Teknolojiden Sorumlu Başkanı Scott Van Vliet, AMD ile yirmi yılı aşkın süredir işbirliği yaptıklarını belirterek FSR 4.1'in Xbox Series X|S için 'yakında' sunulacağını açıkladı. Van Vliet ayrıca iki şirketin bu teknolojiyi Project Helix kod adlı yeni nesil Xbox konsoluna entegre etmek üzere de çalıştığını ifade etti.",
+        "FSR 4.1'in mevcut oyunlara otomatik olarak yansımayacağı, geliştiricilerin bu teknolojiyi kendi yapımlarına yamalarla manuel olarak eklemeleri gerekeceği bildirildi. Teknoloji, konsolların yanı sıra Radeon RX 6000 serisi ekran kartları, Gorgon Halo ve Strix Halo Ryzen 9 dizüstü bilgisayarlar ile Z2 Extreme ve Z2A yongalarını kullanan Asus ROG Xbox Ally gibi taşınabilir oyun cihazlarında da desteklenecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "12501255a89847eb3f750377fca27167ad85bc71402891f7dabc54687d62d07f"
+    },
+    {
+      "id": "e67d1ba14be66581",
+      "category": "STÜDYO",
+      "title": "Don't Nod Finansal Zorluklar Nedeniyle Fransa'da Koruma Prosedürü Başlattı",
+      "summary": "Life is Strange ve Jusant'ın geliştiricisi Don't Nod, süregelen mali sıkıntılar nedeniyle Fransa'da koruma prosedürü sürecine girdi. Şirket, borçlarını yeniden yapılandırmak için 6 ila 18 aylık bir gözlem süresi elde etti.",
+      "why": "Başarılı yapımlara imza atan köklü bir bağımsız stüdyonun finansman erişimi sıkıntıları ve düşük oyun satışları yüzünden iflas koruma benzeri yasal bir sürece girmesi ve ciddi istihdam kaybıyla yüzleşmesi sektör açısından kritik bir gelişmedir.",
+      "event_key": "dont-nod-borc-yapilandirma-koruma-sureci",
+      "brief": "Oyun stüdyosu Don't Nod, operasyonlarını sürdürebilmek ve borçlarını yapılandırabilmek amacıyla Fransa'da koruma prosedürü başlattı. 6 ila 18 ay sürecek gözlem döneminde alacaklı takipleri askıya alınırken, stüdyoda 85 kişinin işini kaybedebileceği belirtiliyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
+      "source_published_at": "2026-10-20T20:43:59+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/m98kX697UeNiMHNEFt6Zk5-1920-80.jpg",
+      "body": [
+        "Life is Strange serisinin ilk iki oyunu ile Jusant ve Banishers: Ghosts of New Eden gibi yapımların arkasındaki Don't Nod stüdyosu, nakit sıkıntısını aşabilmek için Fransa'da koruma prosedürü (safeguard proceedings) başlattı. Şirket, kısa bir süre önce Ocak 2027'ye kadar yetecek nakdi bulunmayabileceğini ve 90'a yakın çalışanın işten çıkarılma riskiyle karşı karşıya olduğunu açıklamıştı.",
+        "Fransa'daki yasalara göre henüz temerrüde düşmemiş ancak tek başına aşamayacağı zorluklarla karşılaşan şirketlerin başvurduğu bu süreç, borçluya 6 ila 18 aylık bir gözlem dönemi tanıyor. Bu süre boyunca alacaklı takipleri durdurulurken, borçların 10 yıla kadar vadeli olarak yeniden yapılandırılması için plan hazırlanıp mahkeme onayına sunuluyor. Don't Nod CEO'su ve Yönetim Kurulu Başkanı Oskar Guilbert, sektör genelinde finansmana erişimin oldukça zorlaştığını ve mevcut nakit durumlarının projeleri sürdürmeye yetmediğini ifade etti.",
+        "Mali tablonun kötüleşmesinde Jusant, Banishers: Ghosts of New Eden ve son çıkan üçüncü şahıs bilimkurgu aksiyon oyunu Aphelion'un satışlarının beklentilerin altında kalması etkili oldu. Stüdyonun Fransa'daki operasyonlarını tek bir üretim hattı çevresinde toplama planı doğrultusunda 85 kişinin işini kaybedebileceği kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "a867e4c9c8c1a943aa303cdbcec4dd00e4f4d82fb67581020689e827f56f2eb0"
+    },
+    {
+      "id": "ff1dbd930ccbedca",
+      "category": "DUYURU",
+      "title": "Electronic Arts Boks Serisi Fight Night'ın Geri Döndüğünü Duyurdu",
+      "summary": "Electronic Arts, uzun süredir sessiz kalan boks simülasyonu serisi Fight Night'ın geri döneceğini resmi olarak açıkladı. Projeye dair geliştirici ekip veya çıkış tarihi gibi teknik detaylar henüz paylaşılmadı.",
+      "why": "EA'in spor oyunları portföyünde yıllardır beklenen köklü bir boks simülasyonu serisinin yeniden canlandırılacağını doğrulaması oyun dünyası açısından önemli bir duyurudur.",
+      "event_key": "ea-fight-night-serisi-geri-donuyor",
+      "brief": "Electronic Arts, uzun süredir uykuda olan popüler boks simülasyonu serisi Fight Night'ın geri döneceğini resmen duyurdu. Yeni proje için sosyal medya hesapları açılırken, çıkış dönemi ve yapımcı ekip bilgileri henüz açıklanmadı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back",
+      "source_published_at": "2026-10-20T20:17:37+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/12/fnr3-blogroll-1786523335779.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Electronic Arts, uzun süredir yeni oyunu çıkmayan popüler boks simülasyonu serisi Fight Night için yeni sosyal medya hesapları oluşturarak serinin geri döneceğini duyurdu. Paylaşılan ilk iletide serinin hayranlarına hitaben 'Köşemizde kalan herkese: Fight Night geri dönüyor' ifadelerine yer verildi.",
+        "Resmi duyuruda boks ringi üzerinde asılı duran boks eldivenlerinin yer aldığı bir görsel kullanılırken 'Dövüş asla bitmez' mesajı paylaşıldı. Duyuruda projenin yeni bir oyun mu yoksa bir yeniden yapım mı olduğu, hedef konsol nesli, çıkış dönemi ya da geliştirici stüdyonun kimliği hakkında ayrıntı verilmedi.",
+        "Fight Night serisinin pasif kaldığı dönemde EA, dövüş sporları tarafındaki kaynaklarını UFC serisine yönlendirmiş ve bu serinin en son oyunu UFC 6 bu yılın başlarında piyasaya sürülmüştü."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "c870414d7e594edbf0dd7c4e84b393b7a1c269768ed82c7062e345176cf84980"
+    },
+    {
+      "id": "c2b2da70f5b7768c",
+      "category": "SEKTÖR",
+      "title": "Sony ve Take-Two Yöneticilerinden Oyun Geliştirmede Yapay Zeka Değerlendirmesi",
+      "summary": "Sony Group CEO'su Hiroki Totoki ve Take-Two CEO'su Strauss Zelnick, Paley Uluslararası Zirvesi'nde yapay zekanın oyun sektöründeki rolünü değerlendirdi. Yöneticiler, teknolojinin yaratıcılık gerektiren alanlarda insanların yerini alamayacağını vurguladı.",
+      "why": "Oyun sektörünün en büyük iki şirketinin liderlerinin, sektör genelinde tartışma yaratan yapay zeka kullanımının sınırları ve insan yaratıcılığının vazgeçilmezliği üzerine doğrudan tutum bildirmesi önem taşımaktadır.",
+      "event_key": "sony-take-two-yapay-zeka-ve-insan-yaraticiligi",
+      "brief": "Sony Group CEO'su Hiroki Totoki ve Take-Two CEO'su Strauss Zelnick, yapay zekanın oyun dünyasındaki yaratıcılığın ve insanların yerini alamayacağını belirterek teknolojinin sadece geçmiş verilere dayalı bir destek aracı olduğunu ifade ettiler.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/playstation-boss-creativity-is-for-humans-not-ai/",
+      "source_published_at": "2026-10-20T16:40:48+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/playstation-Large.jpeg?w=300",
+      "body": [
+        "Paley Uluslararası Zirvesi'nde konuşan Sony Group Başkanı ve CEO'su Hiroki Totoki ile Take-Two CEO'su Strauss Zelnick, oyun geliştirme süreçlerinde yapay zekanın geleceğine dair görüşlerini paylaştı. Hiroki Totoki, yaratıcılığın yapay zekaya değil insanlara ait olduğunu belirterek ekiplerini teknolojiyi belirli sınırlar içinde kullanmaya teşvik ederken sanatçıların ve hak sahiplerinin haklarını korumaya özen gösterdiklerini kaydetti.",
+        "Take-Two yöneticisi Strauss Zelnick ise yapay zekanın tek başına bir geliştiricinin yerini alamayacağını, ancak bu teknolojiyi benimsemeyen kişilerin benimseyenlerle rekabette geride kalabileceğini dile getirdi. Zelnick, yapay zekanın veri kümeleri ve büyük dil modellerinden ibaret olduğunu, bu kümelerin doğası gereği geçmişe odaklandığını, gerçek yaratıcılığın ise tamamen ileriye dönük ve beklenmedik tercihlerden doğduğunu vurguladı.",
+        "Zelnick geçmiş yöneticilik deneyimlerinden Evde Tek Başına (Home Alone) filmini örnek göstererek beklenmedik başarıların algoritmalar tarafından üretilemeyeceğini söyledi. Hem PlayStation hem de Take-Two üretim süreçlerinde bu teknolojiden faydalanırken, Take-Two'nun merakla beklenen yeni oyunu GTA 6'da yapay zeka kullanılmadığı doğrulandı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4a9f8ddbae042c40351b7a25a0105cce28cb369307fc48a8eafacc9f3785cee1"
+    },
+    {
+      "id": "cd74695a3320f806",
+      "category": "DUYURU",
+      "title": "Shrek 2 Remastered Kasım Ayında Çıkış Yapacak",
+      "summary": "2004 çıkışlı film uyarlaması Shrek 2, yenilenmiş sürümüyle 10 Kasım'da oyuncularla buluşuyor. Aspyr Media tarafından hazırlanan yapım, çok oyunculu eşli oyun modunu da beraberinde getiriyor.",
+      "why": "2004 yılına ait sevilen bir animasyon uyarlamasının modern donanımlara çevrim içi eşli oyun desteği eklenerek yeniden uyarlanmasını duyurmaktadır.",
+      "event_key": "shrek-2-remastered-duyuruldu",
+      "brief": "Aspyr Media tarafından hazırlanan Shrek 2 Remastered, 10 Kasım'da oyuncularla buluşacak. 2004 tarihli konsol sürümünü temel alan 3D platform oyununda dört oyunculu yerel ve çevrim içi iş birliği desteğiyle birlikte on bir farklı seviye yer alıyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
+      "source_published_at": "2026-10-21T02:08:18+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3HW8nLc9jo2YSnSxonNNV6-1920-80.jpg",
+      "body": [
+        "2004 yılında yayımlanan video oyunu uyarlaması Shrek 2'nin yenilenmiş versiyonu Shrek 2 Remastered duyuruldu. Yapılan açıklamaya göre oyun, 10 Kasım tarihinde çıkış yapacak. Projenin uyarlama sürecini, daha önce The Lord of the Rings: War in the North ve Neverwinter Nights 2'nin yenilenmiş sürümlerinde çalışan Aspyr Media üstleniyor.",
+        "Oyun, PlayStation 2 sürümünün bir uyarlaması olarak öne çıkıyor. O dönemde PC sürümünün zayıf görsel özellikleri ve sığ oynanışıyla konsol versiyonlarından ayrışması, Steam topluluğunda bazı tartışmalara yol açmıştı. Yeni yapım ise konsol temelini koruyarak dört karakter arasında anlık geçiş imkanı sağlayan bir 3D platform deneyimi sunuyor.",
+        "Shrek 2 Remastered, filmdeki sahneleri yansıtan on bir farklı seviyeyi bünyesinde barındırıyor. Orijinal sürümde yalnızca yerel olarak sunulan çok oyunculu yapı bu kez genişletilerek, en fazla dört kişiye kadar hem yerel hem de çevrim içi eşli oyun desteği sisteme dahil edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4c44403b4c975f7d01b33f7b44a7a245d86667cb4afdc2e89e3b7d77f5b7a414"
+    },
+    {
+      "id": "92b8be4b406b8f5b",
+      "category": "E-SPOR",
+      "title": "CS2 Oyuncusu Aleksib Ağırlaştırılmış Vergi Kaçakçılığı İddiasıyla Mahkemeye Çıktı",
+      "summary": "Finlandiyalı profesyonel CS2 oyuncusu Aleksi 'Aleksib' Virolainen, Valve'dan elde ettiği çıkartma gelirlerini beyan etmediği gerekçesiyle hapis cezası istemiyle karşı karşıya kaldı. Savcılık, oyuncu için dört aylık tecilli hapis cezası talep ediyor.",
+      "why": "Dünyaca ünlü bir espor yıldızının oyun içi gelirleri ve espor ekosistemindeki dijital ürün telifleri nedeniyle ciddi yasal suçlamalarla karşılaşmasını açıklamaktadır.",
+      "event_key": "cs2-aleksib-vergi-kacakciligi-davasi",
+      "brief": "Finlandiyalı Counter-Strike 2 profesyoneli Aleksi 'Aleksib' Virolainen, 2020 yılındaki oyun içi çıkartma gelirlerini beyan etmediği gerekçesiyle mahkemeye çıktı. Savcılık dört aylık tecilli hapis cezası talep ederken, duruşmada suçsuz olduğunu savunan oyuncu hakkındaki karar ileri bir tarihte verilecek.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
+      "source_published_at": "2026-10-20T22:45:55+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/cs2-pro-aleksib-charged-aggravated-tax-fraud-1792536150894.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Finlandiyalı profesyonel Counter-Strike 2 oyuncusu Aleksi \"Aleksib\" Virolainen, Doğu Uusimaa Bölge Mahkemesi'nde ağırlaştırılmış vergi kaçakçılığı suçlamasıyla hakim karşısına çıktı. 16 Ekim Cuma günü okunan iddianamede, oyuncunun oyun içi çıkartma satışlarından Valve aracılığıyla 2020 yılında elde ettiği 53.000 avroluk geliri beyan etmediği öne sürüldü. Savcılık, bu durum nedeniyle yaklaşık 28.000 avro verginin ödenmediğini belirterek dört aylık tecilli hapis cezası istedi.",
+        "İddia edilen suçun 19 Mayıs 2020 ile 22 Eylül 2020 tarihleri arasında Finlandiya'nın Vantaa kentinde gerçekleştiği bildirildi. İncelemelere göre Virolainen, 2019 yılına ait önceden doldurulmuş vergi beyannamesini teslim etmedi ve Valve'dan gelen geliri bildirmedi. Mahkemede suçlamaları kabul etmeyen Virolainen, o dönem 22 yaşında olduğunu ve vergi sisteminin işleyişini tam olarak anlamadığını ifade etti. Savunma makamı, genel gelirinden vergiler kesildiği için yükümlülüklerinin tamamlandığını düşündüğünü ve kasıtlı bir mali çıkar amacı taşımadığını aktardı.",
+        "Şu anda 29 yaşında olan ve Natus Vincere takımında aktif kariyerine devam eden Aleksib, iddialara konu olan dönemde ENCE formasıyla iki büyük turnuvada yarışmıştı. Duruşmada suçsuz olduğunu belirten oyuncu hakkında henüz kesinleşmiş bir mahkumiyet kararı bulunmuyor. Bölge mahkemesi, nihai kararını ilerleyen bir tarihte açıklayacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d1ee1f85837415e4aa3872f494685465e1b9689f2fbdffe0276d4e3d2281134e"
+    },
+    {
+      "id": "631f365d83e31071",
+      "category": "GÜNCELLEME",
+      "title": "Subnautica 2 Erken Erişim 2.0 Güncellemesi Korku Temalı Yeni Bir Bölge Getiriyor",
+      "summary": "Unknown Worlds, Subnautica 2 için planlanan 'Erken Erişim 2.0' güncellemesini tanıttı. Güncelleme, oyuna yeni biyomlar, genişletilmiş bir hikaye ve serinin en karanlık bölgelerinden birini ekleyecek.",
+      "why": "Erken erişim sürecindeki popüler bir hayatta kalma oyununun bugüne kadarki en kapsamlı içerik güncellemesinin detaylarını duyurmaktadır.",
+      "event_key": "subnautica-2-erken-erisim-2-0-guncellemesi",
+      "brief": "Subnautica 2, Erken Erişim 2.0 güncellemesiyle genişlemeye hazırlanıyor. Geliştirici stüdyo Unknown Worlds, oyuna karanlık ve tehditkar yeni bir bölgenin yanı sıra çeşitli biyomlar, yeni hikaye unsurları, gelişmiş canavar mekanikleri ve oynanış değişiklikleri ekleneceğini duyurdu.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
+      "source_published_at": "2026-10-20T10:32:58+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/G64Co2aW6rnhoz5ijTMFmK-1920-80.jpg",
+      "body": [
+        "Hayatta kalma temalı su altı oyunu Subnautica 2, erken erişim sürecindeki bir sonraki aşamaya geçiş yapmaya hazırlanıyor. Geliştirici Unknown Worlds tarafından başlatılan yeni video günlüğü serisinde konuşan kreatif direktör Anthony Gallegos, yapımın 'Erken Erişim 2.0' safhasına geçeceğini ve bunun geçen mayıs ayından bu yana yayımlanan en kapsamlı güncelleme olacağını bildirdi.",
+        "Yeni güncelleme, içerisinde birden fazla biyom barındıran tamamen yeni ve oynanabilir bir bölgeyi oyuna dahil edecek. Gallegos bu bölgeyi hem karanlık ve tehditkar hem de görsel olarak etkileyici olarak nitelendirirken, şimdiye kadar tasarladıkları en korkutucu alanlardan biri olduğunu ifade etti. Bunun yanında, Cicada gemisinin kolonistlerini ve oyundaki diğer varlıkları konu alan hikaye unsurları ile öldürülmeyen yeni yaratıklar da oyuna eklenecek.",
+        "Güncelleme ayrıca yaratık davranışlarında ve ekipmanlarda mekanik değişiklikler sunuyor. Collector Leviathan'ın davranışı daha korkutucu olacak şekilde güncellenirken; oyunculara kollar ve bacaklar sağlayan 'kurbağa şasisi' adlı yeni bir Tadpole şasisi verilecek. Hareket yeteneği olan atılma (dash) mekaniği ise aktif bir biyomod olmaktan çıkarılıp doğrudan yüzgeçlere entegre edilecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "bece46526da23ab280c3be9cd53cfbbae3fa7cba750ae4dcfbd08c98b9b68bc1"
+    },
+    {
+      "id": "fe71b0d5d57150f8",
+      "category": "GÜNCELLEME",
+      "title": "Bungie Destiny 2'nin Kaldırılan İçeriklerine Dair Planlarını Açıklamaya Hazırlanıyor",
+      "summary": "Bungie, Destiny 2'den daha önce kaldırılan içeriklerin geri dönüş sürecine ilişkin ilk ayrıntıları ekim ayı sonunda paylaşacak. Geleneksel yol haritası yerine aşamalı bir ilerleme çubuğu yaklaşımı benimsenecek.",
+      "why": "Destiny 2'den yıllar içinde kaldırılan ana içeriklerin dönüş planı hakkında ilk resmi zamanlamanın ve kapsam sınırlarının duyurulmasını ele almaktadır.",
+      "event_key": "bungie-destiny-2-icerik-kurtarma-plani",
+      "brief": "Bungie, Destiny 2'den çıkarılan içeriklerin oyuna dönüş süreci hakkındaki ilk detayları ekim ayı sonunda açıklayacak. Geleneksel yol haritaları yerine bir ilerleme modeli kullanılacak; kaldırılan senaryolar ve baskınlar geri dönerken süresi dolmuş canlı sezonlar dahil edilmeyecek.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/destiny-2-unvaulting-bungie-date-details",
+      "source_published_at": "2026-10-20T10:54:59+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Geçtiğimiz ay Destiny 2'den yıllar içinde kaldırılan senaryo görevlerini ve diğer içerikleri geri getirme niyetini açıklayan Bungie, konuyla ilgili ayrıntıları paylaşmaya hazırlanıyor. Stüdyonun ürün sorumlusu Josh Deane, geri getirme sürecinin nasıl, ne şekilde ve ne zaman işleyeceğine dair ilk somut açıklamaların ekim ayının sonunda yapılacağını bildirdi.",
+        "Deane, bu sürecin zaman alacağını ve bilinçli adımlarla yürütüleceğini ifade etti. Geliştirme sürecine ilişkin bilgilendirmenin geleneksel bir yol haritası biçiminde olmayacağını belirten Deane, bunun yerine geliştirme kilometre taşlarını ve karşılaşılan zorlukları şeffaf bir şekilde aktaran bir \"ilerleme çubuğu\" yaklaşımı izleyeceklerini açıkladı. Bu sayede çıkış tarihi paylaşıldığında beklentilerin netleşmesi hedefleniyor.",
+        "Yayımlanan raporlara göre stüdyo; kaldırılan seferleri, baskınları (raid) ve mekanları oyuna geri döndürmeyi planlarken, süresi dolmuş canlı sezon içerikleri bu kapsama alınmayacak. Bungie, haziran ayında nişancı-MMO türündeki yapımın aktif geliştirme sürecini sonlandırdığını duyurmuş ve oyuna veda niteliğinde büyük bir güncelleme sunmuştu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "17fa16b2a6fa31f4bfe4e89b1db5cc6849bf903f0470c49f990e728d5145e9cb"
+    },
+    {
+      "id": "237643aa79047509",
+      "category": "YOL HARİTASI",
+      "title": "Abiotic Factor İçin İkinci Yıl Yol Haritası ve Ücretli Genişleme Paketi Duyuruldu",
+      "summary": "Geliştirici Deep Field, bilim kurgu hayatta kalma oyunu Abiotic Factor için 2027 yılına kadar uzanan ikinci yıl yol haritasını paylaştı. Plan kapsamında resmi mod desteği, kış güncellemesi ve Entropic Break adlı ücretli bir DLC yer alıyor.",
+      "why": "Oyunun topluluk modları için resmi araçlar kazanacağını ve 2027 yılına kadar yeni oynanış alanları, mekanikler ve ücretli genişleme paketiyle destekleneceğini doğrulamaktadır.",
+      "event_key": "abiotic-factor-ikinci-yil-yol-haritasi",
+      "brief": "Abiotic Factor geliştiricisi Deep Field, 2027'ye kadar sürecek ikinci yıl yol haritasını açıkladı. Güncellemeler resmi mod desteği, kış temalı ücretsiz içerikler ve Leaf Test Facility bölgesini ekleyen Entropic Break adlı ücretli genişleme paketini kapsıyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
+      "source_published_at": "2026-10-20T11:00:28+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Abiotic-Factor-scientist.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Temmuz ayındaki 1.0 sürümünün ardından güncellemelerini sürdüren bilim kurgu hayatta kalma oyunu Abiotic Factor, geliştirici stüdyo Deep Field tarafından açıklanan ikinci yıl yol haritasıyla yeni içerik planlarını duyurdu. Planlanan içerik desteğinin 2027 yılına kadar devam edeceği ve oyuna tam mod desteği, bir kış güncellemesi ile 'Entropic Break' adını taşıyan ücretli bir genişleme paketinin ekleneceği bildirildi.",
+        "Resmi mod desteği 'Community Update 5' paketiyle sunulacak. Bu güncellemeyle birlikte oyuna özel bir mod başlatıcı, mod hazırlama araçları ve modlu oturumları yönetmeyi sağlayan bir tarayıcı dahil edilecek. Oyuncular eşyalar, silahlar, teçhizatlar, düşmanlar ve evcil hayvanlar üzerinde değişiklik yapabilecek. Ayrıca aynı güncellemeyle 'foggy friend' isimli yeni bir evcil hayvan, görevleri günlüğe toplayan çoklu görev sistemi ve denge düzenlemeleri gelecek.",
+        "Daha küçük ölçekli olan kış güncellemesi ise toprak parsellerinde ağaç yetiştirme, elma tarımı, mevsime uygun yeni tarifler ve demleme tezgahını oyuna getirecek. Ücretli ek paket 'Entropic Break' ise oyuncuları Leaf Test Facility bölgesine taşıyacak. Bu paketle birlikte yeni eşyalar, yan görevler, balıkçılık, tekneler, 'Mystery Flesh Pit National Park' benzeri et temalı bir boyutun da yer aldığı yeni portal dünyaları ve çeşitli ortaklıklar oyunculara sunulacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "05d5f1ed15ff34b31cb857abb67405e60459af98a5f899796e7732be8e3b74a9"
+    },
+    {
+      "id": "07a1d58cb7e50e9c",
+      "category": "KÜLTÜR",
+      "title": "Origame Digital Yeni Oyunu Penguin Colony'nin İsrail'de Satışını Yasakladı",
+      "summary": "Umurangi Generation'ın geliştiricisi Origame Digital, yeni oyunu Penguin Colony'yi İsrail'de satışa sunmayacağını duyurdu. Yapım, kapanış ekranında oyun sektörünün Filistin konusundaki sessizliğini eleştiren bir mesaja yer veriyor.",
+      "why": "Bağımsız bir oyun stüdyosunun ve yayıncısının, İsrail'deki satışları durdurarak ve oyun içine doğrudan eleştirel mesaj yerleştirerek siyasi boykot kararını uygulamaya koyduğunu göstermektedir.",
+      "event_key": "origame-digital-penguin-colony-israil-satisi-yasagi",
+      "brief": "Origame Digital, yeni oyunu Penguin Colony'nin İsrail'de satışını durdurduğunu açıkladı. Oyun, kapanış jeneriğinde yer alan mesajla oyun endüstrisinin Filistin'deki duruma yönelik sessizliğini eleştiriyor ve BDS hareketine destek veriyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/penguin-colony-is-not-messing-around-with-its-statement-on-the-palestinian-genocide-banning-sale-in-israel-and-calling-out-the-games-industry-in-game",
+      "source_published_at": "2026-10-20T10:27:07+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Penguin-Colony-header-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Umurangi Generation yapımıyla tanınan Māori menşeili stüdyo Origame Digital, yeni yayımlanan oyunu Penguin Colony üzerinden siyasi bir duruş sergiledi. Yapımcı stüdyo, Lovecraft temalı bir yürüyüş simülasyonu olan oyunda İsrail'in Filistin'e yönelik saldırılarını ve oyun endüstrisinin bu konudaki tutumunu doğrudan eleştiren unsurlara yer verdi.",
+        "Wurundjeri Woiwurrung topraklarında geliştirildiği belirtilen ve Avustralya yerlilerine yönelik anma mesajıyla açılan oyun, jenerik bölümünün ardından oyun sektörüne yönelik bir ifadeyle son buluyor. Kapanışta, 'İsrail'in Filistin'deki soykırımı sırasında oyun sektörünün sergilediği korkaklık, ürettiği sanat tarafından kaydedilecektir' ifadesi yer alıyor.",
+        "Oyunun İsrail sınırları içinde satışı yasaklanırken, yayıncı Fellow Traveller tarafından Steam üzerinden yapılan açıklamada, daha kapsamlı yaptırımların yokluğunda bu kararın Filistin ile dayanışma gösterme amacıyla alındığı ve stüdyonun kararının tam olarak desteklendiği ifade edildi. Geliştirici Naphtali Faulkner da diğer oyun geliştiricilerine benzer adımlar atma çağrısında bulundu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ac804f928df2070e842bddf43020337f2f994661912ee0214d0f0dda3f34f6a4"
+    },
+    {
+      "id": "ccefc3d34256992c",
+      "category": "GÜNCELLEME",
+      "title": "Mortal Shell 2 İçin Rotten Autumn Güncellemesi Yayımlandı",
+      "summary": "Soulslike türündeki Mortal Shell 2 için 15 yeni zindan, fotoğraf modu ve alternatif müzikler içeren Rotten Autumn güncellemesi çıktı. Güncelleme görsel ve işitsel birçok yenilik getiriyor.",
+      "why": "Ağustos ayında çıkan yapımın zindan çeşitliliğini artıran ve oyuna müzik ile fotoğraf modu gibi önemli teknik ve kozmetik içerikler ekleyen ikinci büyük güncellemesini detaylandırmaktadır.",
+      "event_key": "mortal-shell-2-rotten-autumn-guncellemesi",
+      "brief": "Mortal Shell 2, Rotten Autumn adlı yeni güncellemesini aldı. Pakette 15 yeni zindan, fotoğraf modu, Rotting Christ grubundan Sakis Tolis imzalı alternatif müzikler ve çeşitli özelleştirme seçenekleri yer alıyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/steady-yourself-mortal-shell-2s-rotten-autumn-update-comes-packed-with-15-new-dungeons-a-photo-mode-an-alternative-soundtrack-and-a-neat-pumpkin-helmet",
+      "source_published_at": "2026-10-20T16:03:25+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/mortal-shell-2-rotten-autumn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Ağustos ayında çıkış yapan Soulslike oyunu Mortal Shell 2 için 'Rotten Autumn' başlıklı yeni sezonluk güncelleme kullanıma sunuldu. Düşman seviyeleme sistemine odaklanan ilk güncellemenin ardından gelen bu paket, oyuna oynanış ve görsel ağırlıklı çeşitli içerikler ekliyor.",
+        "Güncelleme kapsamında oyuncuların keşfedebileceği 15 yeni zindan, toplanabilecek 10 yeni katran taşı (tarstone) ve koyunlara özel bir taş türü oyuna dahil edildi. Görsel tarafta ise oyuncuların görüntü alabilmesi için bir fotoğraf modu, 'overkill' grafik ayarları ve Gece Modu için yeni aydınlatma ön ayarları getirildi.",
+        "Kozmetik ve işitsel eklemeler arasında yeni gövde özelleştirmeleri, metal kabak miğfer, 'Impervious Lute' görünümü ve yeni lavta parçaları bulunuyor. Ayrıca oyuna Rotting Christ grubundan Sakis Tolis tarafından bestelenen alternatif bir müzik listesi eklendi. Güncelleme hata düzeltmelerinin yanı sıra gizemli notlar sunan kayıp bir Shell hayaletini de içeriyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "de174ab1900b3f6c454fba17c42e01d1cf6b1f0bd4bbc7f6211713d3e2df22e3"
+    },
+    {
+      "id": "4ca1ef702527d033",
+      "category": "SERVİS",
+      "title": "Xbox Game Pass'in Yeni Dönem Oyunları Açıklandı",
+      "summary": "Xbox Game Pass'in ekim ayı sonu ve kasım başı takvimi belli oldu. Final Fantasy VII Remake Intergrade'in başı çektiği listede bağımsız ve eşli oyunculu çeşitli yapımlar yer alıyor.",
+      "why": "Abonelik hizmetinin ekim ve kasım dönemi içerik takvimini, öne çıkan büyük yapımları ve platforma ilk günden eklenecek oyunları tarihlerine göre listelemektedir.",
+      "event_key": "xbox-game-pass-ekim-2026-ikinci-dalga",
+      "brief": "Xbox Game Pass'in yeni dönem oyun takvimi açıklandı. 29 Ekim'de Final Fantasy VII Remake Intergrade kütüphaneye katılırken, kasım başına kadar Sandustry, The Séance of Blake Manor ve Terrible Lizards gibi yapımlar da abonelere sunulacak.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure/",
+      "source_published_at": "2026-10-20T16:12:33+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/FF7-Remake-Intergrade.jpg?w=300",
+      "body": [
+        "Xbox Game Pass abonelik servisine ekim ayının ikinci yarısında ve kasım başında eklenecek yeni oyunlar duyuruldu. Yeni dönemin öne çıkan oyunu, ana oyunun yanı sıra Yuffie genişlemesini de bünyesinde barındıran Final Fantasy VII Remake Intergrade oldu.",
+        "Açıklanan takvime göre 21 Ekim'de Sandustry (Game Preview), 22 Ekim'de bulmaca odaklı Dodo Duckie ve 26 Ekim'de çevrim içi aksiyon RYO'su Scramble Knights Online kütüphaneye dahil ediliyor. Dedektiflik macerası The Séance of Blake Manor 27 Ekim'de abonelere açılacak.",
+        "Final Fantasy VII Remake Intergrade 29 Ekim'de bulut, konsol ve PC için erişilebilir hale gelecek. Aynı gün Plants vs. Zombies: Replanted ve korku-parkur oyunu Terrible Lizards sisteme eklenecek. Kasım ayı ise 3 Kasım'da çevrim içi korku ve eşli oyunculu macera yapımı Pit of Goblin ile başlayacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0b0f752e11be765ee24838b65b4240d645524f8ede4efb85b236c9d1ece80eed"
+    },
+    {
+      "id": "2e322074a8a90e47",
+      "category": "DONANIM",
+      "title": "Intel, Valve'ın Proton Katmanına XMX Destekli XeSS Teknolojisini Getiriyor",
+      "summary": "Intel, Valve'ın Proton uyumluluk katmanına XeSS ölçeklendirme teknolojisini entegre etmek üzere talepte bulundu. Bu adım, Intel grafik işlemcilerindeki özel XMX çekirdeklerinin Linux ve SteamOS üzerinde daha yüksek performansla çalışmasını hedefliyor.",
+      "why": "Intel donanımlı el bilgisayarlarının ve Linux sistemlerin, Proton üzerinde XeSS'in hızlı XMX yolunu kullanarak performans düşüşü olmadan daha yüksek oyun deneyimi elde etmesini sağlayacak.",
+      "event_key": "intel-proton-xess-xmx-destegi",
+      "brief": "Intel, oyunların Linux'ta çalışmasını sağlayan Valve'ın Proton katmanına XeSS desteği eklemek için talep açtı. Bu hamle, Intel GPU'larındaki XMX çekirdeklerini kullanarak Windows tabanlı el konsollarının performans kaybı yaşamadan SteamOS ve Linux işletim sistemine geçebilmesine imkân tanıyacak.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/intel-bringing-faster-upscaler-to-valves-proton-xmx-accelerated-xess-could-come-to-steamos-in-boost-to-future-intel-powered-handheld-gaming-pcs/",
+      "source_published_at": "2026-10-20T09:57:43+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9MJHAQihCEJpovFPTVxFoR-2560-80.jpg",
+      "body": [
+        "Intel, mobil oyun yongalarının Linux işletim sistemindeki performansını artırmak amacıyla Valve'ın Proton uyumluluk katmanına XeSS desteği eklenmesi için talep açtı. Windows için geliştirilen oyunların Linux üzerinde çalışmasını sağlayan Proton katmanı, Steam Deck ve SteamOS ekosisteminin başarısında temel bir rol oynuyor.",
+        "Intel mühendisi Damian Tomczak'ın aktardığı bilgilere göre hazırlanan talep, yerleşik bir libxess.dll dosyası ekleyerek XeSS D3D12 çağrılarını Linux tarafındaki libxess.so kütüphanesine yönlendiriyor. D3D12 nesneleri vkd3d-proton arayüzü üzerinden Vulkan'a dönüştürülüyor; böylece Proton altında Intel'in kendi grafik işlemcilerinde yavaş çalışan DP4a yedek yolu yerine daha hızlı olan XMX çekirdekleri devreye giriyor.",
+        "Geçmişte SteamOS tarafında ağırlıklı olarak AMD donanımlarına odaklanılsa da Valve bu yıl yayımladığı sürümlerle hem AMD hem de Intel'in güncel platformlarıyla uyumluluğu artırdı. MSI Claw 8 EX AI+ gibi Intel Arc G3 Extreme işlemcili Windows el konsollarının, bu adımlarla birlikte performans kaybı yaşamadan Linux ve SteamOS ortamına geçiş yapabilmesi hedefleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ef0126b9d7354bcbd2ab844e9a1ee6f8346425e44fc38a3665c1575b746ca8d7"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 6,
+    "duration": 307.0,
+    "bytes": 1841904,
+    "sha256": "dc7d98c3adad183b7974077a5ff8fe47dc00db342ad5edbf342eb4966bb01000"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 6,
+    "duration": 1087.3,
+    "bytes": 17396759,
+    "sha256": "55b14cfe8c6f6fed58f5248716ac5f44433b6e4113ba0dbfa7284682fc26de46"
+  },
+  "audio_revision": 5
+}

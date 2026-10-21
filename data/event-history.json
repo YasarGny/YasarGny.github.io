@@ -1029,6 +1029,223 @@
       "event_key": "windows-server-ekim-guncellemesi-exchange-sorunu",
       "title": "Ekim Windows Server Güncellemeleri Exchange E-Posta Akışında Sorunlara Yol Açtı",
       "brief": "Microsoft, Ekim 2026 Windows Server güncellemelerinin Exchange sistemlerinde e-posta gönderimini ve OWA oturumlarını aksattığını duyurdu. Endpoint Mapper eşzamanlı çağrı limitinin yetersiz kalmasından doğan sorun için kayıt defteri düzenlemesi önerildi; güncellemenin kaldırılmaması tavsiye edildi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "abiotic-factor-ikinci-yil-yol-haritasi",
+      "title": "Abiotic Factor İçin İkinci Yıl Yol Haritası ve Ücretli Genişleme Paketi Duyuruldu",
+      "brief": "Abiotic Factor geliştiricisi Deep Field, 2027'ye kadar sürecek ikinci yıl yol haritasını açıkladı. Güncellemeler resmi mod desteği, kış temalı ücretsiz içerikler ve Leaf Test Facility bölgesini ekleyen Entropic Break adlı ücretli genişleme paketini kapsıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "amd-fsr-4-1-xbox-series-destegi",
+      "title": "AMD ve Microsoft İşbirliğiyle FSR 4.1 Xbox Series X|S ve Yeni Nesil Konsola Geliyor",
+      "brief": "AMD ve Microsoft, makine öğrenimi temelli görüntü yükseltme teknolojisi FSR 4.1'in yakında Xbox Series X|S konsollarına geleceğini duyurdu. İki şirket teknolojiyi Project Helix adlı yeni nesil konsola ve belirli el cihazları ile PC donanımlarına da taşımak için çalışıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "bungie-destiny-2-icerik-kurtarma-plani",
+      "title": "Bungie Destiny 2'nin Kaldırılan İçeriklerine Dair Planlarını Açıklamaya Hazırlanıyor",
+      "brief": "Bungie, Destiny 2'den çıkarılan içeriklerin oyuna dönüş süreci hakkındaki ilk detayları ekim ayı sonunda açıklayacak. Geleneksel yol haritaları yerine bir ilerleme modeli kullanılacak; kaldırılan senaryolar ve baskınlar geri dönerken süresi dolmuş canlı sezonlar dahil edilmeyecek."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "cs2-aleksib-vergi-kacakciligi-davasi",
+      "title": "CS2 Oyuncusu Aleksib Ağırlaştırılmış Vergi Kaçakçılığı İddiasıyla Mahkemeye Çıktı",
+      "brief": "Finlandiyalı Counter-Strike 2 profesyoneli Aleksi 'Aleksib' Virolainen, 2020 yılındaki oyun içi çıkartma gelirlerini beyan etmediği gerekçesiyle mahkemeye çıktı. Savcılık dört aylık tecilli hapis cezası talep ederken, duruşmada suçsuz olduğunu savunan oyuncu hakkındaki karar ileri bir tarihte verilecek."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "cyberpunk-2077-yama-2-5-cift-silah",
+      "title": "Cyberpunk 2077 İçin 2.5 Güncellemesi Duyuruldu",
+      "brief": "CD Projekt Red, Cyberpunk 2077 için 2.5 yamasını duyurdu. Yeni güncelleme siber donanım özelleştirmeleri ve çift silah kullanımını oyuna ekleyecek. Detaylar 21 Ekim tarihindeki yayında açıklanacak, yama ise 22 Ekim'de yayımlanacak."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "dont-nod-borc-yapilandirma-koruma-sureci",
+      "title": "Don't Nod Finansal Zorluklar Nedeniyle Fransa'da Koruma Prosedürü Başlattı",
+      "brief": "Oyun stüdyosu Don't Nod, operasyonlarını sürdürebilmek ve borçlarını yapılandırabilmek amacıyla Fransa'da koruma prosedürü başlattı. 6 ila 18 ay sürecek gözlem döneminde alacaklı takipleri askıya alınırken, stüdyoda 85 kişinin işini kaybedebileceği belirtiliyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "ea-fight-night-serisi-geri-donuyor",
+      "title": "Electronic Arts Boks Serisi Fight Night'ın Geri Döndüğünü Duyurdu",
+      "brief": "Electronic Arts, uzun süredir uykuda olan popüler boks simülasyonu serisi Fight Night'ın geri döneceğini resmen duyurdu. Yeni proje için sosyal medya hesapları açılırken, çıkış dönemi ve yapımcı ekip bilgileri henüz açıklanmadı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "helldivers-2-easy-anti-cheat-gecisi",
+      "title": "Helldivers 2 Yeni Hile Korumasına Geçti: Modlar Risk Altında",
+      "brief": "Arrowhead, Helldivers 2'de hile korumasını GameGuard'dan Easy Anti-Cheat sistemine geçirdi. Zararsız modların da etkilenebileceği uyarısı üzerine oyuncular Steam'de tepki gösterdi ve oyuna yüzlerce olumsuz yorum yağdı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "intel-proton-xess-xmx-destegi",
+      "title": "Intel, Valve'ın Proton Katmanına XMX Destekli XeSS Teknolojisini Getiriyor",
+      "brief": "Intel, oyunların Linux'ta çalışmasını sağlayan Valve'ın Proton katmanına XeSS desteği eklemek için talep açtı. Bu hamle, Intel GPU'larındaki XMX çekirdeklerini kullanarak Windows tabanlı el konsollarının performans kaybı yaşamadan SteamOS ve Linux işletim sistemine geçebilmesine imkân tanıyacak."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "mortal-shell-2-rotten-autumn-guncellemesi",
+      "title": "Mortal Shell 2 İçin Rotten Autumn Güncellemesi Yayımlandı",
+      "brief": "Mortal Shell 2, Rotten Autumn adlı yeni güncellemesini aldı. Pakette 15 yeni zindan, fotoğraf modu, Rotting Christ grubundan Sakis Tolis imzalı alternatif müzikler ve çeşitli özelleştirme seçenekleri yer alıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "origame-digital-penguin-colony-israil-satisi-yasagi",
+      "title": "Origame Digital Yeni Oyunu Penguin Colony'nin İsrail'de Satışını Yasakladı",
+      "brief": "Origame Digital, yeni oyunu Penguin Colony'nin İsrail'de satışını durdurduğunu açıkladı. Oyun, kapanış jeneriğinde yer alan mesajla oyun endüstrisinin Filistin'deki duruma yönelik sessizliğini eleştiriyor ve BDS hareketine destek veriyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "pegi-ganimet-kutusu-yas-siniri-16",
+      "title": "Avrupa'da Ganimet Kutuları Olan Oyunlara PEGI 16 Sınırı",
+      "brief": "PEGI, paralı rastgele eşya ve ganimet kutusu içeren oyunların yaş sınırını 16'ya çıkarma kararı aldı. Bu değişiklik nedeniyle daha önce PEGI 3 alan serinin yeni oyunu EA Sports FC 27, doğrudan PEGI 16 olarak derecelendirildi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "shrek-2-remastered-duyuruldu",
+      "title": "Shrek 2 Remastered Kasım Ayında Çıkış Yapacak",
+      "brief": "Aspyr Media tarafından hazırlanan Shrek 2 Remastered, 10 Kasım'da oyuncularla buluşacak. 2004 tarihli konsol sürümünü temel alan 3D platform oyununda dört oyunculu yerel ve çevrim içi iş birliği desteğiyle birlikte on bir farklı seviye yer alıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "sony-take-two-yapay-zeka-ve-insan-yaraticiligi",
+      "title": "Sony ve Take-Two Yöneticilerinden Oyun Geliştirmede Yapay Zeka Değerlendirmesi",
+      "brief": "Sony Group CEO'su Hiroki Totoki ve Take-Two CEO'su Strauss Zelnick, yapay zekanın oyun dünyasındaki yaratıcılığın ve insanların yerini alamayacağını belirterek teknolojinin sadece geçmiş verilere dayalı bir destek aracı olduğunu ifade ettiler."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "subnautica-2-erken-erisim-2-0-guncellemesi",
+      "title": "Subnautica 2 Erken Erişim 2.0 Güncellemesi Korku Temalı Yeni Bir Bölge Getiriyor",
+      "brief": "Subnautica 2, Erken Erişim 2.0 güncellemesiyle genişlemeye hazırlanıyor. Geliştirici stüdyo Unknown Worlds, oyuna karanlık ve tehditkar yeni bir bölgenin yanı sıra çeşitli biyomlar, yeni hikaye unsurları, gelişmiş canavar mekanikleri ve oynanış değişiklikleri ekleneceğini duyurdu."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "xbox-game-pass-ekim-2026-ikinci-dalga",
+      "title": "Xbox Game Pass'in Yeni Dönem Oyunları Açıklandı",
+      "brief": "Xbox Game Pass'in yeni dönem oyun takvimi açıklandı. 29 Ekim'de Final Fantasy VII Remake Intergrade kütüphaneye katılırken, kasım başına kadar Sandustry, The Séance of Blake Manor ve Terrible Lizards gibi yapımlar da abonelere sunulacak."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-21",
+      "event_key": "xbox-project-helix-fiyat-ve-game-pass-revizyonu",
+      "title": "Xbox Game Pass İçin Kapsamlı Değişiklik Planı Gündemde",
+      "brief": "Microsoft, Xbox Game Pass için abonelerin yalnızca konsol, bulut veya çok oyunculu gibi istedikleri özellikleri seçebileceği yeni bir sistem planlıyor. Şirket içi satış dengesizliklerinin bu revizyonda etkili olduğu belirtiliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "anthropic-yapay-zeka-guvenlik-yasa-tasarisi",
+      "title": "Anthropic'ten Yapay Zekaya Katı Sınırlar Getiren Yasa Tasarısı Teklifi",
+      "brief": "Anthropic, 50'den fazla kişinin ölümü ya da 1 milyar doları aşan zarar riski taşıyan yapay zeka modellerinin dağıtımını D.C. mahkemesi kararıyla durdurmayı amaçlayan bir yasa tasarısı taslağını Kongre'ye sundu."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "emudhra-zayif-tls-sertifikalari-engellendi",
+      "title": "Zayıf Özel Anahtarlar Nedeniyle eMudhra Sertifikaları Engellendi",
+      "brief": "Sertifika otoritesi eMudhra, kolaylıkla çözülebilen zayıf özel anahtarlara sahip sekiz ara sertifikayı iptal etti. Mozilla, Google ve Apple sistemlerinde engellemeler uygularken, kullanıcılara ve sistem yöneticilerine yazılım güncellemelerini yükleme çağrısı yapıldı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "google-cloud-londra-guc-kesintisi-kesinti",
+      "title": "Google Cloud'daki Güç Kesintisi İngiltere'de Bankaları ve Kamu Hizmetlerini Vurdu",
+      "brief": "Google Cloud'un Londra'daki veri merkezinde yaşanan güç arızası, İngiltere'de Lloyds, HSBC ve Revolut dahil birçok banka ile kamu hizmetlerini felç etti. Kesintinin çözüldüğü ve ayrıntılı bir teknik raporun paylaşılacağı bildirildi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "google-gemini-kisisel-zeka-android-auto",
+      "title": "Google, Gemini Kişisel Zeka Özelliğini Android Auto ve Araçlara Taşıyor",
+      "brief": "Google, Gemini yapay zeka asistanını Android Auto ve dahili Google sistemine sahip araçlarda küresel olarak kullanıma sundu. Kişisel Zeka özelliği, sürücülerin e-posta ve takvim verilerini kullanarak yolculuk sırasında özel yanıtlar üretiyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "google-torchtpu-acik-kaynak",
+      "title": "Google TorchTPU Projesiyle Nvidia'nın Yapay Zeka Hakimiyetine Meydan Okuyor",
+      "brief": "Google, PyTorch uygulamalarının kendi çiplerinde kod değişikliği olmadan çalışmasını sağlayan TorchTPU'yu açık kaynak yaptı. Amazon'un benzer adımının ardından gelen bu hamle, yapay zeka geliştiricilerini Nvidia donanımlarına bağımlı olmaktan kurtarmayı hedefliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "meta-muse-sohbet-paylasim-guvenlik-acigi",
+      "title": "Meta, Gizlilik Açığı Nedeniyle Muse Sohbet Paylaşım Özelliğini Askıya Aldı",
+      "brief": "Meta, yapay zeka platformu Muse üzerindeki sohbet paylaşım özelliğini durdurdu. Güvenlik araştırmacıları, bağlantı yapısındaki açık nedeniyle binlerce özel görüşmenin pasif DNS sorgularıyla herkes tarafından erişilebilir hale geldiğini tespit etti."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "openai-chatgpt-kilitli-sohbetler",
+      "title": "ChatGPT Sohbetleri Dört Haneli PIN Koduyla Kilitlenebilecek",
+      "brief": "OpenAI, ChatGPT için hassas görüşmeleri 4 haneli PIN veya biyometrik kimlik doğrulamayla gizleyen kilitli sohbetler özelliğini duyurdu. Özellik, sohbet geçmişini meraklı gözlerden korurken uçtan uca şifreleme sağlamıyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "openai-orchestra-bio-satin-almasi",
+      "title": "OpenAI Biyoteknoloji Girişimi Orchestra Bio'yu Satın Aldı",
+      "brief": "OpenAI, ilaç keşif süreçlerini otomatikleştiren Orchestra Bio'yu satın aldı. Dört yıllık girişimin ekibi ve teknolojisi, OpenAI'ın yaşam bilimleri araştırmaları için geliştirdiği Rosalind modeline entegre edilecek."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "ovhcloud-cli-github-arka-kapi-saldirisi",
+      "title": "OVHcloud CLI Sürümlerine Gizli Bilgileri Çalan Zararlı Yazılım Eklendi",
+      "brief": "OVHcloud, GitHub üzerindeki CLI aracının v0.11.0 ile v0.15.0 arasındaki sürümlerinin bir geliştirici hesabının ele geçirilmesiyle tahrif edildiğini duyurdu. Yetkililer, etkilenen kullanıcıların sistemlerini temizlemesini ve tüm gizli anahtarlarını değiştirmesini istedi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "php-kritik-rce-guvenlik-yamasi",
+      "title": "PHP Geliştiricileri Kritik Açıklar İçin Acil Güvenlik Güncellemesi Hazırlığında",
+      "brief": "PHP güvenlik ekibi, sızdırılan iki kritik uzaktan kod yürütme açığı nedeniyle acil yama yayımlayacağını duyurdu. Yöneticilere yamaları hızla kurmaları tavsiye edilirken, resmi güvenlik detaylarının güncellemeyle eşzamanlı olarak paylaşılacağı açıklandı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "quantinuum-kuantum-hata-duzeltme-basarisi",
+      "title": "Quantinuum Kuantum Hata Düzeltmede Başabaş Noktasını Aştığını Duyurdu",
+      "brief": "Quantinuum, Helios kuantum işlemcisinde hata düzeltme kodlarının boyutunu büyüterek mantıksal hata oranını her adımda yaklaşık 12 kat düşürmeyi başardı. Şirket, bellek koruma ve iki kübitlik kapı işlemlerinde başabaş noktasının belirgin şekilde aşıldığını bildirdi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "tesla-spacex-olasi-birlesme-komiteleri",
+      "title": "Elon Musk Tesla ve SpaceX Şirketlerinin Birleşmesini Değerlendiriyor",
+      "brief": "Elon Musk, Tesla ve SpaceX şirketlerinin birleşme fikrinin aktif olarak değerlendirildiğini açıkladı. Süreç için her iki şirkette özel komiteler kurulurken, olası anlaşmanın kesinleşmesi için en az yüzde 50 Tesla hissedar onayının gerekeceği bildirildi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "ukrayna-iha-ile-yarali-asker-tahliyesi",
+      "title": "Ukrayna Ordusu Yaralı Askeri Ağır Dronla Cepheden Tahliye Etti",
+      "brief": "Ukrayna ordusu, yoğun ateş altındaki bir mevzide yaralanan askeri altı rotorlu AYUDAG 6 dronuyla tahliye etti. Yaklaşık 62 kilometrelik hava tahliyesi, türünün ilk örneği olarak kayıtlara geçti."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-21",
+      "event_key": "updraftcentral-calinan-anahtarlar-wordpress-arka-kapi",
+      "title": "UpdraftCentral Anahtarları Çalındı: WordPress Sitelerine Arka Kapı Bulaştırıldı",
+      "brief": "TeamUpdraft altyapısına düzenlenen siber saldırıda UpdraftCentral bağlantı anahtarları çalındı. Saldırganlar, ele geçirdikleri geçerli yönetim anahtarlarıyla yaklaşık 400 bin WordPress sitesine arka kapı yerleştirmeye başladı."
     }
   ]
 }
