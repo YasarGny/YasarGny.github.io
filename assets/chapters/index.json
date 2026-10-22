@@ -1,1 +1,258 @@
-{}
+{
+  "f1eebd94bcd5b4113e818f8bc72b8978241473d189db5d89c178ef44a2503f3e": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "f1eebd94bcd5b4113e818f8bc72b8978241473d189db5d89c178ef44a2503f3e",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 19.54,
+        "title": "OpenAI Ajanlarının Güvenlik Mekanizmalarını Devre Dışı Bırakması"
+      },
+      {
+        "start": 152.96,
+        "title": "Anthropic'in Kişisel Ajanı Claude Duet"
+      },
+      {
+        "start": 227.32,
+        "title": "Recursive'in Açık Kaynaklı Flint Modeli"
+      },
+      {
+        "start": 284.46,
+        "title": "OpenAI Modellerinin Google Cloud'a Eklenmesi"
+      },
+      {
+        "start": 337.66,
+        "title": "PHP'deki Kritik PHP2Shell Güvenlik Açıkları"
+      },
+      {
+        "start": 385.68,
+        "title": "Plex Media Server İçin Acil Güvenlik Uyarısı"
+      },
+      {
+        "start": 417.28,
+        "title": "Lazarus Grubunun Kuantum Sonrası Şifreleme Kullanımı"
+      },
+      {
+        "start": 466.92,
+        "title": "Onamae Bulut Altyapısına Siber Saldırı"
+      },
+      {
+        "start": 503.58,
+        "title": "Meta'ya New Mexico Mahkemesinden 25 Milyar Dolar Ceza"
+      },
+      {
+        "start": 546.1,
+        "title": "Meta'nın Oy Hakkı Bulunmayan Yeni Hisse Planı"
+      },
+      {
+        "start": 590.86,
+        "title": "Tesla'nın Optimus Üretimi ve Düşen Kâr Marjı"
+      },
+      {
+        "start": 631.96,
+        "title": "SpaceX Starship'in 15. Test Uçuşu Hedefleri"
+      },
+      {
+        "start": 668.32,
+        "title": "Perseverance Aracının Dünya Dışı Sürüş Rekoru"
+      },
+      {
+        "start": 714.56,
+        "title": "Bonn Üniversitesi'nin Hücre Gençleştirme Çalışması"
+      },
+      {
+        "start": 766.06,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "ed4ad11dc3da0c9d",
+        "start": 19.54,
+        "end": 147.54
+      },
+      {
+        "story_id": "5c87ba15cbac86d2",
+        "start": 152.96,
+        "end": 216.9
+      },
+      {
+        "story_id": "b1ec87d705753567",
+        "start": 227.32,
+        "end": 283.74
+      },
+      {
+        "story_id": "7b066c33c960e613",
+        "start": 284.46,
+        "end": 328.28
+      },
+      {
+        "story_id": "f86121e76c16bc50",
+        "start": 337.66,
+        "end": 385.16
+      },
+      {
+        "story_id": "a299ef36c76884d0",
+        "start": 385.68,
+        "end": 416.94
+      },
+      {
+        "story_id": "2484f295e9c43c28",
+        "start": 417.28,
+        "end": 466.34
+      },
+      {
+        "story_id": "db964fc55da08520",
+        "start": 466.92,
+        "end": 503.18
+      },
+      {
+        "story_id": "f4bb20e26bd1e8b3",
+        "start": 503.58,
+        "end": 546.1
+      },
+      {
+        "story_id": "c456f043e53d43f8",
+        "start": 546.1,
+        "end": 590.54
+      },
+      {
+        "story_id": "37cae458eee7a8f7",
+        "start": 590.86,
+        "end": 625.74
+      },
+      {
+        "story_id": "b9cc9712c5189f90",
+        "start": 631.96,
+        "end": 667.92
+      },
+      {
+        "story_id": "ba8e540eda04d6ca",
+        "start": 668.32,
+        "end": 713.98
+      },
+      {
+        "story_id": "4e826f0c9c9c64a6",
+        "start": 714.56,
+        "end": 751.88
+      }
+    ],
+    "section": "teknoloji",
+    "clips_reviewed": true,
+    "stories_sha256": "c5e83167f2a577e0fabe99c35baeb88790b01fadfa38c38bb40ea5cf13800dd3"
+  },
+  "2302022fbab2ce13f232253c2a656e78381288aca5a1b1de341a6a85096d2200": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "2302022fbab2ce13f232253c2a656e78381288aca5a1b1de341a6a85096d2200",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 9.98,
+        "title": "Electronic Arts BioWare'i Kapatıyor ve Yeni Mass Effect İptal Edildi"
+      },
+      {
+        "start": 62.4,
+        "title": "BioWare Kapanırken Mass Effect Dizisinin Geliştirilmesi"
+      },
+      {
+        "start": 98.16,
+        "title": "Electronic Arts Portföyünde Kapsamlı Küçülme"
+      },
+      {
+        "start": 155.42,
+        "title": "Call of Duty: Modern Warfare 4 İçin BIOS Güncellemesi Şartı"
+      },
+      {
+        "start": 251.98,
+        "title": "Nvidia RTX Kartlara Gelişmiş Gölgelendirici Desteği"
+      },
+      {
+        "start": 308.54,
+        "title": "Amanita Design'dan Yapay Zekâ Videosuna Tepki"
+      },
+      {
+        "start": 359.18,
+        "title": "SonicFox Yapay Zekâ Kullanımı Nedeniyle Nexcon Sözleşmesini Feshetti"
+      },
+      {
+        "start": 400.12,
+        "title": "Valor Mortis İlk Haftasında Maliyetini Karşıladı"
+      },
+      {
+        "start": 467.0,
+        "title": "Football Manager 27 Çıkış Öncesi Beş Gün Ücretsiz Oluyor"
+      },
+      {
+        "start": 527.38,
+        "title": "Serious Sam: The Third Encounter Erken Geliştirme Sürecinde"
+      },
+      {
+        "start": 570.18,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "94d58f9da939287f",
+        "start": 9.98,
+        "end": 61.74
+      },
+      {
+        "story_id": "eed455c2ec8fc971",
+        "start": 62.4,
+        "end": 97.68
+      },
+      {
+        "story_id": "a034581f8205b3d9",
+        "start": 98.16,
+        "end": 155.12
+      },
+      {
+        "story_id": "5fba47885a08e989",
+        "start": 155.42,
+        "end": 251.86
+      },
+      {
+        "story_id": "097a2fa51c58cf1c",
+        "start": 251.98,
+        "end": 307.74
+      },
+      {
+        "story_id": "805d67592ab96e20",
+        "start": 326.3,
+        "end": 359.12
+      },
+      {
+        "story_id": "c50e61bb19c56742",
+        "start": 359.18,
+        "end": 399.54
+      },
+      {
+        "story_id": "bc6f1120732463f5",
+        "start": 400.12,
+        "end": 466.54
+      },
+      {
+        "story_id": "c58de005a7d9cedc",
+        "start": 467.0,
+        "end": 526.98
+      },
+      {
+        "story_id": "f6bbf17e43334c16",
+        "start": 527.38,
+        "end": 569.56
+      }
+    ],
+    "section": "oyun",
+    "clips_reviewed": true,
+    "stories_sha256": "5e4c7622860ed6c2b0ed3c6483d8578b5895d71299fd1dc1975f6f7372dcbd89"
+  }
+}

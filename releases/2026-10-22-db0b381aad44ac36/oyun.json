@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "oyun",
+  "publish_date": "2026-10-22",
+  "date": "22 Ekim 2026",
+  "issue": 7,
+  "ready": true,
+  "stories": [
+    {
+      "id": "94d58f9da939287f",
+      "category": "OYUN STÜDYOLARI",
+      "title": "Electronic Arts BioWare Stüdyosunu Kapatıyor ve Yeni Mass Effect Oyununu İptal Ediyor",
+      "summary": "Yayıncı Electronic Arts, RPG stüdyosu BioWare'i kapatma ve şirket genelinde 400 kişiyi işten çıkarma kararı aldı. Bu doğrultuda erken geliştirme aşamasındaki yeni Mass Effect projesi ile The Sims serisine bağlı Project Lotus iptal edildi.",
+      "why": "Oyun dünyasının köklü RPG stüdyolarından BioWare'in kapatılması, geliştirilmekte olan bir sonraki Mass Effect oyununun iptal edilmesi ve şirket genelinde yüzlerce personelin işine son verilmesi sektör açısından kritik bir gelişmedir.",
+      "event_key": "ea-bioware-kapanis-mass-effect-iptal",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "BioWare stüdyosunun kapatılması, yeni Mass Effect oyununun iptali ve şirket genelinde 400 çalışanın işten çıkarılması doğrudan şirket açıklaması ve Bloomberg raporuyla doğrulanmaktadır."
+      },
+      "brief": "Electronic Arts, bünyesindeki BioWare stüdyosunu kapatma kararı aldı. Şirket genelindeki toplam iş gücünün yüzde üçünü etkileyen bu adımla erken geliştirme aşamasındaki yeni Mass Effect oyunu iptal edildi, 400 çalışan işten çıkarıldı.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/",
+      "source_published_at": "2026-10-21T17:12:53+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/mass-effect-image.jpg?w=300",
+      "body": [
+        "Yayıncı Electronic Arts, Baldur's Gate, Star Wars: Knights of the Old Republic, Dragon Age ve Mass Effect gibi yapımlarla tanınan ünlü Kanada merkezli stüdyosu BioWare'i kapatma kararı aldı. Stüdyonun kapatılmasıyla birlikte BioWare bünyesinde görev yapan yaklaşık 50 çalışan ve şirket genelindeki diğer departmanlardan 350 personel işten çıkarılıyor. Bloomberg'e konuşan bir kaynak, bu son işten çıkarma dalgasının şirketin toplam iş gücünün yaklaşık yüzde 3'ünü etkilediğini bildirdi.",
+        "EA Operasyon Direktörü David Tinson ve Stüdyolar Direktörü Cam Weber tarafından çalışanlara gönderilen bilgilendirme mektubunda, şirketin iş süreçlerini ayrıntılı şekilde incelediği belirtildi. Alınan kararlar sonucunda, BioWare bünyesinde erken geliştirme sürecinde olan bir sonraki Mass Effect oyunu ile The Sims serisine ait \"Project Lotus\" kod adlı proje iptal edildi. Project Lotus'a ayrılan kaynakların \"Project Evergreen\" kod adlı başka bir yapıma aktarılacağı açıklandı.",
+        "Öte yandan EA, mevcut bazı serilerine yatırım yapmayı sürdüreceğini duyurdu. Full Circle ekibi küçülmeye gidecek olsa da Skate projesine devam edecek. Şirketin spor oyunları, Apex Legends, Battlefield, bir sonraki Star Wars Jedi oyunu ve Iron Man temalı yeni yapım ise geliştirilmeye devam edecek. 1995 yılında kurulan BioWare, yakın dönemde 2019 çıkışlı Anthem ve 2024 çıkışlı Dragon Age: The Veilguard yapımlarıyla beklentileri karşılayamamıştı. Bu tasarruf kararları, Suudi Arabistan Kamu Yatırım Fonu liderliğindeki 55 milyar dolarlık satın almanın ardından geldi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e1ae9810f7317679e902dd9d58da96ddaae97c0cd3dc202b3837ea54eb65973f"
+    },
+    {
+      "id": "a034581f8205b3d9",
+      "category": "OYUN PROJELERİ",
+      "title": "Electronic Arts Portföyünde Kapsamlı Küçülmeye Gidiyor",
+      "summary": "Electronic Arts, BioWare'in kapatılması ve 400 personelin işten çıkarılmasının yanı sıra The Sims bağlantılı bir projeyi durdurduğunu duyurdu. Şirket, Respawn ile DICE stüdyolarını ortak bir proje için bir araya getiriyor.",
+      "why": "Büyük oyun yayıncılarından EA'in portföy önceliklerini daraltması, birden fazla projenin durdurulması ve stüdyolar arasındaki yapısal birleşmeler yayıncılık stratejilerindeki sert değişimi yansıtmaktadır.",
+      "event_key": "ea-project-lotus-durduruldu-sims-projesi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "EA yönetiminin yayımladığı şirket içi not ve Bloomberg raporu, işten çıkarmaları, iptal edilen projeleri ve stüdyo birleşmelerini kanıtlamaktadır."
+      },
+      "brief": "Electronic Arts, BioWare stüdyosunu kapatıp 400 çalışanı işten çıkarırken The Sims bağlantılı Project Lotus'u durdurdu. Skate ekibinin küçültüleceği belirtilirken Respawn ve DICE stüdyolarının ortak bir projede birleştirileceği açıklandı.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "source_published_at": "2026-10-21T19:01:46+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/the-sims-coach-collab.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Electronic Arts yöneticileri David Tinson ve Cam Weber tarafından paylaşılan şirket içi bilgilendirme metnine göre, şirket çapında kapsamlı bir yeniden yapılanmaya gidiliyor. Planlanan maliyet kesintileri doğrultusunda yaklaşık 400 çalışanın işine son verilecek ve BioWare stüdyosu kapatılacak. Yönetim, değişen sektör şartları ve artan rekabet ortamında kaynakların daha odaklı projelere yönlendirileceğini kaydetti.",
+        "Yeni strateji kapsamında The Sims serisiyle bağlantılı \"Project Lotus\" kod adlı oyunun geliştirme süreci durduruldu. Yayıncı, kaynakları \"Project Evergreen\" projesine öncelik tanıyacak şekilde yeniden yönlendireceğini bildirdi. Erken erişim aşamasındaki Skate oyununun yapımcı ekibi de daha odaklı ve küçük bir ekip hâline getirilecek. Buna karşılık Marvel's Iron Man oyunu ve üçüncü Star Wars Jedi oyunu planlandığı gibi sürdürülecek.",
+        "EA ayrıca Apex Legends ve Battlefield serilerine olan bağlılığını teyit ederken, Respawn ve DICE stüdyolarının gelecekteki ortak bir proje için bir araya getirileceğini duyurdu. EA Sports bünyesinde ise mevcut spor simülasyonlarının yanı sıra Fight Night serisinin dönüşü ve \"Project Gridiron\" kod adlı Amerikan futbolu odaklı yeni bir açık dünya deneyimi önümüzdeki aylarda tanıtılacak projeler arasında yer alıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e580a4aadbaa35ed7b7a9e9ca8dc48464df52d582008cf8dd509b570a5a03d29"
+    },
+    {
+      "id": "097a2fa51c58cf1c",
+      "category": "PC DONANIM",
+      "title": "Nvidia Sürücü Güncellemesiyle Gelişmiş Gölgelendirici Desteği Başladı",
+      "summary": "Nvidia, 621.01 sürüm numaralı yeni ekran kartı sürücüsüyle Microsoft'un Advanced Shader Delivery teknolojisini RTX ve RTX Spark kullanıcılarına sundu. Önceden derlenmiş gölgelendiricileri indirerek bekleme sürelerini azaltan bu sistem şu an iki oyunda destekleniyor.",
+      "why": "PC oyuncularının kurulum ve güncelleme sonrasında karşılaştığı uzun gölgelendirici derleme bekleme süreleri, önceden derlenmiş dosyaların indirilmesiyle büyük oranda ortadan kalkıyor.",
+      "event_key": "nvidia-surucu-advanced-shader-delivery",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Nvidia'nın 621.01 sürücüsüyle ASD desteğini başlatması, desteklenen iki oyun ve teknolojinin çalışma prensibi kaynakta ayrıntılı olarak yer almaktadır."
+      },
+      "brief": "Nvidia, yayımladığı 621.01 sürücüsüyle PC oyunlarında gölgelendirici derleme sürelerini düşüren Advanced Shader Delivery teknolojisini RTX ekran kartı modellerine sundu. Önceden derlenmiş dosyaları indiren bu sistem, şimdilik sadece iki büyük yapımda destekleniyor ve oyunların ilk açılış bekleme sürelerini belirgin şekilde kısaltmayı hedefliyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/nvidia-latest-driver-update-targets-one-of-pc-gaming-biggest-headaches/",
+      "source_published_at": "2026-10-21T17:44:12+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Long-wait.jpg?w=300",
+      "body": [
+        "Nvidia, 621.01 sürüm numaralı yeni ekran kartı sürücüsünü yayımlayarak PC oyuncularının sıklıkla karşılaştığı gölgelendirici derleme bekleme sürelerine yönelik yeni bir adım attı. Güncellemeyle birlikte Microsoft'un Advanced Shader Delivery (ASD) teknolojisi Nvidia RTX ve RTX Spark grafik kartı sahiplerinin kullanımına açıldı. Benzer bir desteği bir süredir sunan AMD'nin ardından Nvidia'nın da katılımıyla bu teknoloji geniş bir kullanıcı kitlesine ulaşmış oldu.",
+        "ASD teknolojisi, önceden derlenmiş gölgelendiricileri doğrudan indirerek kurulum veya yeni sürücü yüklemeleri sonrasında oyunların ilk açılışında yaşanan uzun bekleme sürelerini kısaltıyor. Sistem, yeni sürücüler yüklendiğinde gölgelendiricilerin tekrar derlenmesini önlemek için tasarlanan Nvidia Otomatik Gölgelendirici Derleme özelliğiyle birlikte çalışıyor. Konsollar tek bir donanım yapılandırmasına sahip olduğu için bu sorunu yaşamazken, çoklu donanım seçenekleri sunan PC platformunda gölgelendirici derleme süreci gerekiyordu.",
+        "Teknoloji şu an için yalnızca iki oyunda destekleniyor: Gears of War: E-Day ve Call of Duty: Modern Warfare 4. ASD; AMD, Intel ve Qualcomm destekli cihazlar dahil olmak üzere çeşitli donanımlarda çalışabilse de elde edilen sonuçlar sistemden sisteme farklılık gösterebiliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6e1e9c41220f6d5a1ce0053f36eab24b8595f4cc3525daefb53296134d064add"
+    },
+    {
+      "id": "7e77cef1f387ab68",
+      "category": "BULUT OYUN",
+      "title": "Xbox Insiders İçin Game Pass Şartı Olmayan Bulut Oyun Süresi Teste Açıldı",
+      "summary": "Microsoft, Xbox Insiders kullanıcılarının Game Pass aboneliği olmadan bulut oyun süresi satın alarak oyun akışı gerçekleştirebileceği yeni bir özelliği test etmeye başladı. Sistemin kasım ayında geniş kitlelere sunulması planlanıyor.",
+      "why": "Bulut oyun hizmetinin geleneksel abonelik zorunluluğundan ayrılarak saatlik veya paket bazlı satın alım modelleriyle test edilmesi erişilebilirlik açısından önemli bir adımdır.",
+      "event_key": "xbox-cloud-gaming-saatlik-paketler",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Resmi Xbox blog kanalı üzerinden yapılan duyuru, test sürecini, sistem gereksinimlerini ve kasım ayı planını somut biçimde belgelemektedir."
+      },
+      "brief": "Xbox Insiders kullanıcıları, Game Pass aboneliği bulunmasa bile doğrudan bulut oyun süresi satın alarak oyun akışı gerçekleştirebilecekleri yeni bir modeli test etmeye başladı. Uygulamanın kasım ayında genel kullanıma sunulması hedefleniyor.",
+      "source_name": "Xbox Wire",
+      "source_url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+      "source_published_at": "2026-10-21T18:00:03+00:00",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
+      "body": [
+        "Microsoft, Xbox Insiders programındaki kullanıcıların aktif bir Game Pass aboneliği bulunmadan bulut üzerinden oyun oynamalarına olanak tanıyan \"Cloud Playtime\" özelliğini ön izlemeye sundu. Test sürecine katılan kullanıcılar, desteklenen cihazlarda oyun akışı gerçekleştirmek için doğrudan bulut oyun süresi satın alabiliyor.",
+        "Ön izleme kapsamında sunulan bulut oyun paketleri, reklamsız akış deneyimi, daha kısa bekleme süreleri ve yüksek yayın kalitesi vadediyor. Satın alınan kullanım süreleri ise tamamen harcanana kadar hesapta geçerliliğini koruyor. Katılımcıların sisteme erişebilmesi için bulut destekli oyunlara sahip olması ya da seçili oynaması ücretsiz oyunları kullanması gerekiyor.",
+        "Özellikten yararlanmak için desteklenen bir cihaz ve uygun bir ön izleme halkasında yer almak şart koşuluyor. Hizmetin kullanılabilirliği ve satın alma seçenekleri bölgesel olarak farklılık gösterebiliyor. Bu yeni modelin geri bildirimlerin ardından kasım ayında daha geniş bir kullanıcı kitlesine ulaştırılması hedefleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "3b6ecfe70083a000e303278281236a1e248107f5f81f115c2a6ee3f5bc0c4ea8"
+    },
+    {
+      "id": "c58de005a7d9cedc",
+      "category": "OYUN DUYURULARI",
+      "title": "Football Manager 27 Çıkış Öncesinde Beş Gün Ücretsiz Oynanabilecek",
+      "summary": "Sports Interactive, Football Manager 27'nin tam sürümünden önce PC ve Mac kullanıcılarına tüm modları içeren beş günlük ücretsiz erişim hakkı tanıyacağını duyurdu. 29 Ekim'de başlayacak bu süreç boyunca yapılan kayıtlar tam oyuna ve Game Pass sürümüne aktarılabilecek.",
+      "why": "Yıllık spor oyunu serilerinde tüm modların çıkış öncesi ücretsiz açılması sektörde bir ilk niteliği taşırken, önceki oyunun ardından oyuncu güvenini yeniden tesis etmeyi hedefliyor.",
+      "event_key": "football-manager-27-ucretsiz-deneme-donemi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Geliştirici stüdyonun basın açıklamasıyla duyurulan ücretsiz erişim takvimi, indirim koşulları ve platform bilgileri doğrulanmış verilerle aktarılmıştır."
+      },
+      "brief": "Sports Interactive, Football Manager 27'yi 29 Ekim ile 3 Kasım tarihleri arasında PC ve Mac platformlarında beş gün boyunca ücretsiz oynanabilir hale getirecek. Tüm modların açık olacağı dönemde elde edilen kayıt dosyaları tam oyuna doğrudan aktarılabilecek.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
+      "source_published_at": "2026-10-21T11:00:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Sports Interactive, Football Manager 27 için seride ve türünde bir ilk olarak nitelendirilen bir kampanya duyurdu. PC ve Mac platformlarındaki oyuncular, oyunun tam sürümü yayımlanmadan önce beş gün boyunca yapıma ücretsiz olarak erişebilecek. Ücretsiz oynama süreci 29 Ekim günü saat 18.00 GMT'de başlayacak ve 3 Kasım tarihine kadar devam edecek.",
+        "Bu ücretsiz dönemde oyunun tüm modları açık olacak. Beş günlük sürecin sona ermesiyle birlikte, oyunu ön sipariş veren kullanıcılara yönelik geleneksel ücretli lansman ön izleme dönemi başlayacak ve oyun 10 Kasım'da tam çıkışını gerçekleştirecek. Ücretsiz dönem boyunca ön siparişler yüzde 10 indirimle sunulacak. Ayrıca kullanıcıların bu süreçte oluşturduğu kayıt dosyaları hem tam sürüme hem de Xbox Game Pass sürümüne kesintisiz olarak aktarılabilecek.",
+        "Geliştirici stüdyo, Unity oyun motoruna geçiş yapılan ve birçok özelliğin eksikliği ile kullanıcı arayüzü nedeniyle Steam'de 'Çoğunlukla Olumsuz' değerlendirme alan FM26'nın ardından FM27 ile toparlanmayı hedefliyor. Yeni oyunda daha sezgisel bir arayüzün yanı sıra geri dönen kenar talimatlarını tamamlayan Taktiksel Düzenlemeler gibi yeni sistemler yer alacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8eafb90fd5d3082c44fca43d05e54dd8dfc9b88bc12b42c58f2d3f4333ffc303"
+    },
+    {
+      "id": "f6bbf17e43334c16",
+      "category": "OYUN DUYURULARI",
+      "title": "Serious Sam: The Third Encounter Erken Geliştirme Sürecinde",
+      "summary": "Croteam ve Devolver Digital, serinin yeni ana oyunu Serious Sam: The Third Encounter'ın geliştirilmekte olduğunu duyurdu. Oyun, Serious Sam: The Second Encounter'ın bıraktığı yerden hikâyeyi devam ettirecek.",
+      "why": "Uzun soluklu birinci şahıs nişancı serisinin doğrudan devam halkasının geliştirilmeye başlanması serinin takipçileri için önemli bir resmi duyurudur.",
+      "event_key": "serious-sam-the-third-encounter-duyuruldu",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Croteam ve Devolver Digital tarafından yapılan resmi duyuru ve oyunun kronolojik konumuna dair bilgiler kaynak metinde açıkça bulunmaktadır."
+      },
+      "brief": "Croteam ve Devolver Digital, Serious Sam: The Third Encounter oyununun erken geliştirme aşamasında olduğunu duyurdu. Yapım, Serious Sam: The Second Encounter hikâyesini doğrudan sürdürecek.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/",
+      "source_published_at": "2026-10-22T00:12:03+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tkfnHjrqia3q7vTGtgBdz4-1920-80.jpg",
+      "body": [
+        "Geliştirici Croteam ve yayıncı Devolver Digital, Serious Sam serisinin yeni üyesi Serious Sam: The Third Encounter'ın resmi olarak erken geliştirme aşamasında olduğunu açıkladı. Yapım, serinin adlandırma geçmişi ve kronolojik yapısı nedeniyle ana serinin yedinci oyunu olma özelliğini taşıyor.",
+        "Geliştirici ekip, yeni oyunun bir yan hikâye olmadığını ve doğrudan 2002 yılında yayımlanan Serious Sam: The Second Encounter'ın kaldığı yerden devam eden gerçek bir sürdürme niteliği taşıyacağını belirtti. Oyuncular, ana karakter Sam'in düşman Mental'in ordusuna karşı verdiği mücadeleyi deneyimleyecek.",
+        "Klasik tarzda yoğun çatışma mekaniklerine odaklanacağı ifade edilen yapımın henüz erken geliştirme safhasında olduğu ve yakın bir zamanda piyasaya sürülmesinin beklenmediği açıklandı. Çıkış tarihi veya hedeflenen platformlara dair başka bir ayrıntı verilmedi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8644fb77b8019d99c74818836e0b7cff9165693f6986444c92f51ba819d6cb42"
+    },
+    {
+      "id": "5fba47885a08e989",
+      "category": "PC TEKNİK",
+      "title": "Call of Duty: Modern Warfare 4 Çevrim İçi Modları İçin BIOS Güncellemesi Şartı Getirildi",
+      "summary": "Activision, Call of Duty: Modern Warfare 4'ün çevrim içi modlarında TPM 2.0 ve Secure Boot zorunluluğu getirdi. Eski TPM ürün yazılımı sürümlerine sahip kullanıcıların çok oyunculu ve DMZ modlarına erişebilmek için anakart BIOS'larını güncellemesi gerekecek.",
+      "why": "PC oyuncularının çevrim içi modlara erişimini doğrudan engelleyebilecek donanım ve yazılım tabanlı güvenlik gereksinimlerini açıklamaktadır.",
+      "event_key": "cod-mw4-pc-icin-bios-tpm-sarti",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Activision'ın çevrim içi modlar için getirdiği TPM 2.0, Secure Boot ve belirli PTT/fTPM sürüm gereksinimleri teknik detaylarıyla doğrulanmıştır."
+      },
+      "brief": "Call of Duty: Modern Warfare 4'te çevrim içi modlara erişim için Secure Boot ve güncel TPM zorunluluğu getirildi. Belirli eski Intel PTT ve AMD fTPM yazılım sürümlerine sahip oyuncuların oyunu açabilmek için anakart BIOS güncellemesi yapması gerekiyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/call-of-duty/dont-get-hit-with-the-bios-update-hammer-for-cod-mw4-like-my-colleagues-heres-how-to-ensure-you-can-play-multiplayer-and-dmz/",
+      "source_published_at": "2026-10-21T15:55:30+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iYY3uQANVgcy93LGuHQK2d-1916-80.jpg",
+      "body": [
+        "Activision, Call of Duty: Modern Warfare 4'ün çok oyunculu ve DMZ gibi çevrim içi modlarını oynamak isteyen PC kullanıcıları için TPM 2.0 ve Secure Boot şartı koydu. Şirket, hile karşıtı önlemler kapsamında yalnızca bu özelliklerin açık olmasını yeterli bulmuyor; aynı zamanda anakart üzerindeki donanım yazılımlarının da güncel olmasını talep ediyor.",
+        "Açıklanan teknik sınırlamalara göre Intel sistemlerde 302.1.2.X veya 303.1.2.X sürümüne sahip PTT yazılımları ile AMD sistemlerdeki 3.X.0.X sürümlü fTPM yapılandırmaları uyumsuz kabul ediliyor. Bu sürümlere sahip kullanıcıların çevrim içi sistemlere bağlanabilmesi için anakart üreticilerinin resmî internet sitelerinden güncel BIOS dosyalarını indirip kurulum yapması gerekiyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d95e37fba372c9929eef54d18f3898d232f3cd5439cd0dd599c2fb9ea48bdab9"
+    },
+    {
+      "id": "77822722fcb27902",
+      "category": "OYUN DUYURULARI",
+      "title": "Dragon Ball Xenoverse 3 Çıkış Tarihi 2027'nin İkinci Yarısı Olarak Daraltıldı",
+      "summary": "Bandai Namco, oyuncu geri bildirimlerinin ardından Dragon Ball Xenoverse 3'ün çıkış aralığını 2027'nin ikinci yarısı olarak güncelledi. Yapımcı Masayuki Hirano, dövüş özelleştirmeleri ve PvE görevlerinde iyileştirmeler yapacaklarını açıkladı.",
+      "why": "2016'da çıkan popüler oyunun merakla beklenen devamı için 12 aylık geniş çıkış aralığının altı aya indirilmesi ve oyuncu taleplerine göre geliştirmelerin planlanması serinin takipçileri için belirleyici bir takvim sunuyor.",
+      "event_key": "dragon-ball-xenoverse-3-cikis-araligi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Oyunun yapımcısı Masayuki Hirano'nun doğrudan açıklamaları, oyuncu anketleri ve daraltılan çıkış penceresi kaynakta açık biçimde sunulmuştur."
+      },
+      "brief": "Bandai Namco, toplanan oyuncu geri bildirimleri ve anketlerin ardından Dragon Ball Xenoverse 3'ün çıkış dönemini 2027'nin ikinci yarısı olarak belirledi. Yapımcı Masayuki Hirano, dövüş ve PvE alanlarında yapılacak iyileştirmelerle birlikte hedeflenen çıkış deneyimini sağlamak için bu takvimin kararlaştırıldığını açıkladı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+      "source_published_at": "2026-10-22T00:41:48+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/dbz-1792630322966.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Bandai Namco, çok oyunculu dövüş oyunu Dragon Ball Xenoverse 3 için daha önce duyurulan çıkış penceresini daralttığını açıkladı. 2016 yapımı oyunun devamı niteliğindeki yapımın daha önce yalnızca 2027 yılı içerisinde çıkacağı duyurulmuştu. Yayıncı şirket, bu 12 aylık aralığı altı aya indirerek oyunun 2027'nin ikinci yarısında piyasaya sürüleceğini duyurdu.",
+        "Yapımcı Masayuki Hirano, dövüş özelleştirmeleri ve PvE görevlerine ilişkin detayların paylaşılmasının ardından toplanan oyuncu anketleri ve geri bildirimlerin geliştirme ekibiyle masaya yatırıldığını söyledi. Hirano, bu doğrultuda oyunda iyileştirmeler yapılması kararlaştırılan alanların belirlendiğini ifade etti.",
+        "Seriyi oyuncularla birlikte inşa ettiklerini belirten Hirano, hem çıkış dönemindeki hedefleri yakalamak hem de çıkış sonrası destek planlarını tam olarak hayata geçirmek adına 2027'nin ikinci yarısına odaklandıklarını vurguladı. Yapım ekibinin bir sonraki güncellemeye kadar bir süre sessiz kalabileceği ancak çalışmaların kararlılıkla sürdürüldüğü bildirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "fc29526aed30ae4cc9919ad7a2f0f2f2491803b4fb88c944c8c410548e9c4106"
+    },
+    {
+      "id": "805d67592ab96e20",
+      "category": "OYUN KÜLTÜRÜ",
+      "title": "Amanita Design'dan Machinarium İçin Yapılan Yapay Zekâ Videosuna Sert Tepki",
+      "summary": "Nura Studios yöneticisi tarafından Machinarium temasıyla paylaşılan yapay zekâ videosuna oyunun geliştiricisi Amanita Design sert tepki gösterdi. Tepkilerin ardından video silindi ve şirket yöneticisi özür diledi.",
+      "why": "Orijinal oyun varlıklarının ve sanatsal içeriklerin üretici yapay zekâ araçlarında izinsiz işlenmesine yönelik bağımsız stüdyoların tepkilerini yansıtması açısından dikkat çekicidir.",
+      "event_key": "amanita-design-machinarium-yapay-zeka-tepkisi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Amanita Design'ın sert kınama mesajı, Nura Studios CEO'su Sylvio Drouin'in özrü ve paylaşımın silindiği bilgisi kaynakta yer almaktadır."
+      },
+      "brief": "Nura Studios yöneticisinin Machinarium için paylaştığı yapay zekâ üretimi video, oyunun geliştiricisi Amanita Design'ın sert tepkisine yol açtı. Video silinerek özür mesajı yayımlanırken, Çek stüdyonun henüz bu özrü kamuoyu önünde kabul etmediği bildirildi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
+      "source_published_at": "2026-10-21T22:26:41+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1920-80.png",
+      "body": [
+        "Yapay zekâ odaklı hikâye anlatımı şirketi Nura Studios'un CEO'su Sylvio Drouin, 20 Ekim tarihinde Amanita Design'ın 2009 yapımı klasiği Machinarium için yapay zekâ ile üretilmiş bir saygı videosu paylaştı. Çekya merkezli oyun stüdyosu Amanita Design, videonun yayımlanmasının ardından sosyal medya üzerinden sert bir kınama yayımladı.",
+        "Stüdyo, Machinarium varlıklarının yapay zekâya beslenerek niteliksiz animasyonlar üretilmesini ve buna sevgi mektubu denmesini eleştirdi; çalışmanın kendi sanatlarıyla hiçbir ilgisi olmadığını ifade etti. Tepkilerin ardından paylaşımı silen Drouin, niyetlerinin bir saygı duruşu olduğunu belirterek özür diledi. Bu ayın başlarında Machinarium 2'yi duyuran stüdyo, özür mesajına kamuya açık bir onay vermedi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9ae008ea56baaf3538271c03d628e9e073522451d358691ca87b1b90ddf33b9c"
+    },
+    {
+      "id": "bc6f1120732463f5",
+      "category": "OYUN ENDÜSTRİSİ",
+      "title": "Valor Mortis Çıkışının İlk Haftasında Geliştirme Maliyetini Çıkardı",
+      "summary": "Ghostrunner serisiyle tanınan One More Level'ın yeni birinci şahıs Soulslike oyunu Valor Mortis, piyasaya sürülmesinden sonraki yedi gün içinde başa baş noktasına ulaştı. Yapım, yoğun bir yayın takviminde ve 40 dolarlık fiyat etiketiyle kâra geçmeyi başardı.",
+      "why": "Oyun sektöründeki yoğun çıkış takvimine rağmen yeni bir yapımın ilk haftasında üretim masraflarını karşılayıp kâra geçmesi ticari açıdan önemli bir göstergedir.",
+      "event_key": "valor-mortis-bir-haftada-karda",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Geliştirici One More Level, oyunun ilk yedi günde başa baş noktasına geldiğini ve üretim masraflarını amorti ettiğini sosyal medya üzerinden doğrulamıştır."
+      },
+      "brief": "One More Level tarafından geliştirilen birinci şahıs Soulslike oyunu Valor Mortis, çıkışından sonraki yedi gün içinde üretim maliyetini karşılayarak kâra geçti. Oyun; PC, PS5, Xbox Series X/S ve Game Pass platformlarında yer alıyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
+      "source_published_at": "2026-10-21T16:43:42+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Valor-Mortis_nqM7WPG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Ghostrunner serisinin geliştiricisi One More Level, yeni birinci şahıs Soulslike oyunu Valor Mortis'in piyasaya sürülmesinden sadece yedi gün sonra başa baş noktasına ulaştığını duyurdu. Stüdyo, sosyal medyadan yaptığı açıklamada oyunun üretim masraflarını çıkardığını ve hedefe ulaşıldığını kutlayarak topluluğa teşekkür etti. Bu aşamadan sonra elde edilecek satış gelirlerinin stüdyo ve yayıncı Lyrical Games için doğrudan kâr oluşturacağı belirtildi.",
+        "Yapım; PC, PlayStation 5, Xbox Series X/S platformlarında ve Game Pass kütüphanesinde yerini aldı. Stüdyo, yoğun oyun takvimini göz önünde bulundurarak oyunun fiyatını 40 dolar olarak belirlemiş ve çıkış tarihini Control Resonant ile Silent Hill Townfall ile aynı döneme denk gelen 24 Eylül'den ertelemişti. Ekip, gelecekteki yamalar ve indirilebilir içerikler sorulduğunda ise çalışmaların sürdüğünü ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "dbbf9940eda6aa9c56dabafbf4f31947d669812024d9c9ea8fc2b9857fcc70e3"
+    },
+    {
+      "id": "c50e61bb19c56742",
+      "category": "ESPOR",
+      "title": "Dövüş Oyunu Şampiyonu SonicFox Tanıtım Afişinde Yapay Zekâ Kullanılması Nedeniyle Etkinlik Sözleşmesini Feshetti",
+      "summary": "Dövüş oyunları oyuncusu SonicFox, Norman'da düzenlenecek Nexcon etkinliğinin tanıtım afişinde maskot karakterinin yapay zekâ ile üretilmesi üzerine etkinlikle olan sözleşmesini feshetti. Oyuncu, görsel benzerliğinin rızası dışında kullanılmasını saygısızlık olarak nitelendirdi.",
+      "why": "Profesyonel espor oyuncularının görsel haklarının izinsiz şekilde üretici yapay zekâ modellerine aktarılması ve sektördeki sözleşme fesihleri telif ve etik açısından önem taşımaktadır.",
+      "event_key": "sonicfox-nexcon-yapay-zeka-sozlesme-fesih",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "SonicFox'un sözleşmesini feshettiğine dair açıklamaları ve Nexcon internet sitesinden oyuncunun bilgilerinin kaldırıldığı olgusal olarak doğrulanmıştır."
+      },
+      "brief": "Başarılı dövüş oyunu oyuncusu SonicFox, Nexcon etkinliğinin tanıtım afişinde maskot karakterini yapay zekâ ile üretmesi nedeniyle sözleşmesini feshetti. Oyuncunun ayrılık kararının ardından ismi ve görselleri organizasyonun resmî internet sitesinden tamamen kaldırıldı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster",
+      "source_published_at": "2026-10-21T22:19:55+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/sonicfox-terminates-contract-with-convention-over-ai-poster-1792621080202.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Başarılı dövüş oyunu oyuncularından SonicFox, Oklahoma'nın Norman kentinde 14-15 Kasım tarihlerinde gerçekleştirilmesi planlanan Nexcon etkinliğindeki özel konuk sözleşmesini tek taraflı olarak feshetti. Karar, organizatörlerin SonicFox'un furry maskot karakterinin çizimlerini üretici yapay zekâya aktararak bir tanıtım afişi hazırladığının 20 Ekim'de sosyal medyada ortaya çıkması üzerine alındı.",
+        "SonicFox, kendi görsel benzerliğinin yapay zekâ ile üretilmesini kesin bir dille reddettiğini belirterek katılım niyetinin tamamen sona erdiğini ve durumu saygısızca bulduğunu açıkladı. Ertesi gün resmî olarak artık etkinliğe katılmayacağını duyuran oyuncunun profili ve adı, Nexcon'un internet sitesinden kaldırıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f922d3856c7ddf749d73f962e9a9c70b4adebbc936ad415f66627a7c7225d968"
+    },
+    {
+      "id": "eed455c2ec8fc971",
+      "category": "OYUN UYARLAMALARI",
+      "title": "BioWare Kapanmasına Rağmen Mass Effect Dizisinin Geliştirme Süreci Sürüyor",
+      "summary": "BioWare'in kapanmasının ardından Prime Video kaynakları, Mass Effect televizyon dizisi projesinin Amazon MGM Studios bünyesinde geliştirilmeye devam ettiğini bildirdi. Yaratıcı ekibin projede kaldığı ve dizinin oyun üçlemesinin sonrasını anlatacağı ifade ediliyor.",
+      "why": "Oyun serisinin geleceği BioWare'in kapanması ve Mass Effect 5'in iptaliyle belirsizliğe girmişken, yapımın televizyon uyarlamasının aktif kalması projenin devamlılığı açısından önem taşıyor.",
+      "event_key": "mass-effect-dizisi-bioware-sonrasi-suruyor",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Haber Prime Video şirket içi kaynaklarına dayanmakta olup yaratıcı ekip kadrosu, yapım takvimi ve projenin mevcut durumu doğrulanmış verilerle aktarılmıştır."
+      },
+      "brief": "Prime Video kaynakları, BioWare'in kapanışına rağmen Mass Effect televizyon dizisinin Amazon MGM Studios'ta aktif kaldığını doğruladı. Dizi sorumlusu Doug Jung ve senarist Daniel Casey liderliğindeki yaratıcı ekip projeye devam ediyor ancak henüz belirlenmiş bir vizyon tarihi bulunmuyor.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure",
+      "source_published_at": "2026-10-21T22:06:29+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "BioWare'in faaliyetlerine son verilmesinin ardından bilimkurgu serisi Mass Effect'in ekran geleceğine dair belirsizlikler sürerken, Prime Video cephesinden projeye dair yeni bilgiler geldi. Prime Video bünyesindeki kaynaklar, Mass Effect televizyon dizisinin Amazon MGM Studios çatısı altında geliştirilmeye devam ettiğini doğruladı. Projeye bağlı tüm yaratıcı kadronun görevlerinin başında olduğu aktarıldı.",
+        "Ağustos 2025 itibarıyla projenin dizi sorumluluğunu Doug Jung üstlenirken senaryoyu Daniel Casey kaleme alıyor. Yapım ekibinde ayrıca Jessica Jones idari yapımcısı Karim Zreik, BioWare'den Mike Gamble ve eski Marvel Studios yöneticisi Ari Arad yer alıyor. Resmi olarak 2024'ten bu yana Prime Video'da bulunan projenin, Komutan Shepard'ın köken hikayesini tekrar etmek yerine orijinal üçlemenin sonrasındaki dönemi konu alacağı belirtilmişti.",
+        "Dizi için bir dönem 2026'nın son çeyreğinde çekimlere başlanması hedeflenmiş olsa da yapım için şu an belirlenmiş resmi bir yayın tarihi bulunmuyor. BioWare'in kapanması ve Mass Effect 5 projesinin rafa kalkması sonrasında televizyon uyarlaması serinin devam eden tek projesi konumunda yer alıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "092d7c8ad17fe27bafdc81355704e5117f65d405b40212d60860ba55557ceda0"
+    },
+    {
+      "id": "04293c8361c850f3",
+      "category": "KONSOL GÜNCELLEME",
+      "title": "Once Human'ın Isles of Abyss Genişlemesi PlayStation 5'e Çıkıyor",
+      "summary": "Once Human için hazırlanan ücretsiz Isles of Abyss genişlemesi PlayStation 5 konsolunda oyuncularla buluşuyor. Güncelleme, oyunculara beş yeni okyanus bölgesinde hayatta kalma ve hareketli deniz kaleleri inşa etme imkânı sunuyor.",
+      "why": "Popüler hayatta kalma oyununun konsol sürümüne eklenen kapsamlı ve ücretsiz yeni içeriğin detaylarını iletmektedir.",
+      "event_key": "once-human-isles-of-abyss-ps5",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "PlayStation Blog üzerinden doğrudan paylaşılan resmi stüdyo duyurusu ve genişleme paketinin teknik detaylarına dayanmaktadır."
+      },
+      "brief": "Once Human'ın yeni ücretsiz genişlemesi Isles of Abyss, PlayStation 5 platformunda yayımlanıyor. Genişleme; beş farklı okyanus bölgesi, özelleştirilebilir deniz kaleleri, su altı keşif katmanı ve DualSense kontrolcüsü desteğiyle yeni bir hayatta kalma deneyimi getiriyor.",
+      "source_name": "PlayStation Blog",
+      "source_url": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/",
+      "source_published_at": "2026-10-21T17:00:37+00:00",
+      "image_url": "https://blog.playstation.com/tachyon/2048/10/f2ff502c85c0fd0edcbde91530d5d80c510658a4.jpg",
+      "body": [
+        "Once Human'ın şimdiye kadarki en büyük ücretsiz genişlemesi olan Isles of Abyss, PlayStation 5 kullanıcıları için çıkış yapıyor. Genişleme paketi, oyundaki karada hayatta kalma yapısını deniz ortamına taşıyarak oyuncuları keşfedilmemiş sulara yönlendiriyor.",
+        "Yeni içerikte okyanus, \"The Sunken Lord\" adlı yaşayan ve bilinçli bir varlık olarak kurgulandı. Oyuncular başlangıç adasından yola çıkarak toplam beş yeni deniz bölgesini istedikleri sırayla keşfedebilecek. Bu süreçte gizemli sisler, siyah gelgitler ve zamansal ateş yağmuru gibi dinamik bölgesel tehlikelerle mücadele edilmesi gerekecek.",
+        "Genişleme, ahşap bir salla başlayan yolculuğun hareketli bir \"Deniz Kalesi\"ne dönüştürülmesine olanak tanıyor. Oyuncular gemilerini korsan gemisi, endüstriyel sondaj kulesi veya bilim kurgu tarzı uçak gemisi şeklinde inşa edebilecek. Ayrıca kara ve deniz kaynaklarının birbirini beslediği bir ilerleme döngüsüyle birlikte batık kalıntıların aranabileceği bir su altı keşif katmanı oyuna dahil edildi. PlayStation 5 sürümünde DualSense kontrolcüsünün dokunsal geri bildirimi, uyarlanabilir tetikleyicileri ve hızlı SSD yükleme desteği sunuluyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ab9ed092ee9563e7c0c8f1fefd38ab6727008469312b500b9d53cc12cfb61d95"
+    },
+    {
+      "id": "1d1fc100d47ba42d",
+      "category": "OYUN GÜNCELLEMELERİ",
+      "title": "Grounded 2 İçin Rot and Ruin Güncellemesi Duyuruldu",
+      "summary": "Grounded 2 için bu sonbaharda çıkacak Rot and Ruin güncellemesi, Brookhollow Park'a yeni Woodpile bölgesini ve kırkayak boss dövüşünü ekliyor. Güncelleme ayrıca Potato Beetle Buggy aracını, yapı boyama mekaniğini ve Bizmut ile eşya geliştirme sistemini getiriyor. Oyunun 1.0 tam sürümünün 2027 yılında çıkacağı açıklandı.",
+      "why": "Erken erişim sürecindeki Grounded 2'nin içerik kapsamını yeni bir bölge, yaratıklar, araç ve inşa özelleştirmeleriyle genişleterek 1.0 tam sürümünün 2027 takvimini belirlemektedir.",
+      "event_key": "grounded-2-rot-and-ruin-guncellemesi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 2,
+        "evidence": 4,
+        "reason": "Kaynak metinde Grounded 2'nin Rot and Ruin güncellemesine dair Woodpile bölgesi, yeni boss, binek aracı, Bizmut yükseltmeleri ve 2027 tam sürüm takvimi gibi ayrıntılı ve doğrulanmış olgular yer almaktadır."
+      },
+      "brief": "Grounded 2 için duyurulan Rot and Ruin güncellemesi bu sonbaharda yeni Woodpile alanını, kırkayak boss'unu ve termitleri oyuna getiriyor. Güncelleme ayrıca Potato Beetle Buggy binek aracını, Splotcher boya tabancasını ve Bizmut ile teçhizat yükseltme sistemini içeriyor. Tam sürüm ise 2027'de çıkacak.",
+      "source_name": "Xbox Wire",
+      "source_url": "https://news.xbox.com/en-us/2026/10/20/grounded-2-rot-and-ruin/",
+      "source_published_at": "2026-10-20T19:00:00+00:00",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/g2-HERO-env-woodpile-max-002-62ab2edb0d25e588218a.jpg",
+      "body": [
+        "Brookhollow Park alanını genişleten Grounded 2'nin yeni Rot and Ruin güncellemesi bu sonbaharda oyuncularla buluşuyor. Güncellemeyle oyuna devasa yapılar ve dolambaçlı geçitler barındıran Woodpile adlı yeni bir keşif alanı ekleniyor. Bu bölgede işçi, asker, Termit Kralı ve yeni O.G.R.R. varyantlarından oluşan termitlerin yanı sıra topluluğun talep ettiği kırkayak (Centipede) boss'u yer alıyor.",
+        "Güncelleme oynanışa yeni bir binek ve yardımcı araç olan Potato Beetle Buggy'yi dahil ediyor. Ladybug Buggy modelinden daha büyük olan ve yakın dövüş odaklı tasarlanan bu araç mermi fırlatabilme, iyileştirici kükreme (Healing Roar) yapabilme ve inşaat projelerine kaynak taşıyabilme özelliklerine sahip. Ayrıca oyuncular, Splotcher adı verilen boya tabancasıyla ürettikleri boyaları kullanarak duvar, zemin, çatı, merdiven ve kapı gibi yapı parçalarını renklendirebilecek.",
+        "Teçhizat tarafında ise Raw Science güçleriyle bağlantılı yeni Bizmut madeni oyuna giriyor. Oyuncular Bizmut'u toplayıp işleyerek yeni Yoking Press istasyonunda silah ve zırhlarını daha yüksek seviyelere yükseltebilecek. Yeni SCA.B temaları, minyatürler ve istasyonlar da içeren oyun halihazırda Xbox Game Preview, Game Pass, Steam Erken Erişim ve PlayStation 5 üzerinden oynanabiliyor. Grounded 2'nin 1.0 sürümünün ise 2027 yılında yayımlanacağı belirtildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0cc5faab2f0eeb35f6cbefdc3d932a31f9587079673ff6cd97a401cbe826d7e6"
+    },
+    {
+      "id": "69cd7deb231151ab",
+      "category": "OYUN KÜLTÜRÜ",
+      "title": "Kaliforniya'da FedEx Aracından Yaklaşık 1 Milyon Dolarlık Kart Çalındı",
+      "summary": "Güney Kaliforniya'da derecelendirme şirketi PSA'nın yakınında park halindeki bir FedEx kamyonu soyuldu. İçinde Pokemon ve spor kartlarının bulunduğu iki tam palet ile üçüncü bir paletin parçaları çalınırken kayıp bedelinin 963 bin dolar olduğu tahmin ediliyor.",
+      "why": "Yüksek değere sahip koleksiyon kartlarının hedef alındığı büyük çaplı bir hırsızlık vakasını, resmi polis verilerini ve etkilenen müşterilerin tazmin sürecini aktarmaktadır.",
+      "event_key": "pokemon-karti-fedex-soygunu-psa",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Olay Santa Ana Polis Departmanı raporu ile FedEx ve PSA'nın çatı şirketi Collectors'ın doğrudan açıklamalarına dayanmaktadır."
+      },
+      "brief": "Kaliforniya'da park halindeki FedEx aracından yüzlerce koleksiyon kartı çalındı. Polis, Pokemon ve spor kartlarını içeren soygunun 963 bin dolar değerinde olduğunu bildirdi. Derecelendirme şirketi kayıp kartların sertifikalarını iptal ederek tazminat sürecini başlattı.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/another-day-another-pokemon-card-heist-worth-nearly-1-million/",
+      "source_published_at": "2026-10-21T17:50:47+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/teamrocket-image.jpg?w=300",
+      "body": [
+        "Amerika Birleşik Devletleri'nin Güney Kaliforniya bölgesinde, koleksiyon kartı sektörünü hedef alan büyük bir hırsızlık olayı gerçekleşti. Santa Ana Polis Departmanı tarafından aktarılan bilgilere göre, 13 Ekim tarihinde Professional Sports Authenticator (PSA) adlı derecelendirme ve doğrulama merkezinin yakınında park halinde bulunan bir FedEx kamyonuna girildi.",
+        "Yetkililer, araçtan yüzlerce kartın çalındığını ve soygunun tahmini değerinin 963 bin dolar olduğunu bildirdi. Hırsızların iki tam palet dolusu kartı alıp üçüncü bir paleti de açarak içindeki paketleri boşalttığı saptandı. Sevkiyat paletlerinde spor kartları ve Pokemon kartları başta olmak üzere çeşitli koleksiyon ürünlerinin bulunduğu belirtilirken, kesin toplam değerin belirlenmesi için çalışmalar sürüyor.",
+        "Çalınan kartların, derecelendirilmek üzere ülke genelindeki koleksiyonculardan PSA'ya gönderilen ürünler olduğu açıklandı. PSA'nın çatı şirketi olan Collectors, kaybolan kartlara ait sertifikaların devre dışı bırakıldığını ve pazar yerlerindeki diğer birimlerin uyarıldığını duyurdu. Şirket, zarara uğrayan müşterilerle irtibata geçildiğini ve piyasa değerine uygun tazminat düzenlemelerinin yapıldığını kaydetti. FedEx ise yerel kolluk kuvvetleriyle iş birliği içinde soruşturmayı sürdürdüklerini açıkladı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "c684b5792fc21bd53fe37244a6e4ce4b146720a8bb924474774702f142ea7353"
+    },
+    {
+      "id": "4033aeea4d764444",
+      "category": "OYUN GÜNCELLEMELERİ",
+      "title": "Deadlock'ta Kahraman Oylaması Tamamlandı: Nurse Harrow Kadroya Katıldı",
+      "summary": "Deadlock'un \"City Never Sleeps\" etkinliği kapsamındaki kahraman oylama süreci sonuçlandı. Toplam 110 milyon oyun kullanıldığı etkinlikte son sırayı alan Nurse Harrow oyuna eklenen son karakter oldu.",
+      "why": "Deadlock'un topluluk etkinliği sonuçlarını, kadroya eklenen yeni kahramanı ve Valve tarafından açıklanan resmi oyuncu istatistiklerini bildirmektedir.",
+      "event_key": "deadlock-nurse-harrow-katilimi",
+      "editorial_priority": {
+        "impact": 1,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Valve tarafından paylaşılan resmi oylama verileri ve karakter ekleme sonuçlarına dayanmaktadır."
+      },
+      "brief": "Valve'ın geliştirdiği Deadlock'ta City Never Sleeps oylaması tamamlandı. 110 milyon oyun kullanıldığı maratonda son sırayı alan Nurse Harrow kadroya katıldı. Verilere göre tek bir oyuncu bu karaktere tam bin oy verdi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/moba/110-million-votes-later-nurse-harrow-has-finally-made-it-into-deadlock-with-special-thanks-to-a-particularly-dedicated-player-who-cast-exactly-1-000-votes-for-her/",
+      "source_published_at": "2026-10-21T11:14:04+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6Xif6ynDnq7ZnAKsu32MzK-1920-80.png",
+      "body": [
+        "Deadlock'ta \"City Never Sleeps\" güncellemesi kapsamında yürütülen kahraman oylama süreci sona erdi. Rat King, Baba, Solomon, Deadman Danny ve Violet'in ardından sıra dışı yöntemlere sahip bir destek karakteri olan Nurse Harrow da oyuna dahil edildi.",
+        "Valve tarafından açıklanan verilere göre, etkinlik süresince toplam 110 milyon oy kullanıldı. Oylama genelinde son sırada kalan Nurse Harrow için yalnızca 22 bin 194 oyuncu münhasıran oy kullandı. Paylaşılan dikkat çekici ayrıntılar arasında, tek bir oyuncunun Nurse Harrow için tam 1.000 oy kullandığı bilgisi yer aldı.",
+        "Geliştirici ekip, Nurse Harrow'a oy veren kitlenin diğer tüm kahraman seçmenlerine kıyasla daha yüksek bir kazanma oranına sahip olduğunu belirtti. Oylama sürecinde en çekişmeli rekabet ikincilik için Baba ve Solomon arasında yaşandı. Ayrıca 36 bin 236 oyuncunun her turda oy verip kazananı hiçbir turda tutturamadığı, her turda doğru tahminde bulunan oyuncu sayısının ise yalnızca 847 olduğu açıklandı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "bf206c4dc9d922fb106071f10698175fd47cc54539ae77d65636eb415600c912"
+    },
+    {
+      "id": "9b26b6d5be358e6c",
+      "category": "OYUN ÇIKIŞLARI",
+      "title": "Mycopunk 1.0 Tam Sürümü Yeni Sınıf ve Görevlerle Çıktı",
+      "summary": "Mantar temalı eşli nişancı oyunu Mycopunk, 1.0 sürümüne ulaştı. Güncelleme oyuna Mycologist isimli yeni karakter sınıfını, yeni görevleri, özel bir bölgeyi ve çeşitli silahları dahil ediyor.",
+      "why": "Bağımsız bir çevrim içi eşli nişancı oyununun erken erişim sürecini tamamlayıp tam sürüme geçişini ve beraberinde getirdiği içerikleri aktarmaktadır.",
+      "event_key": "mycopunk-1-0-tam-surum",
+      "editorial_priority": {
+        "impact": 1,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Geliştiricilerin Steam duyurusu ve resmi sürüm notlarında yer alan somut 1.0 içeriklerine dayanmaktadır."
+      },
+      "brief": "Mantar ordularına karşı mücadele edilen çevrim içi eşli nişancı oyunu Mycopunk, 1.0 tam sürümünü yayımladı. Güncellemeyle birlikte yeni Mycologist sınıfı, X11-B bölgesi, yeni silahlar ve başarım sistemi oyuna eklendi.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/i-know-you-probably-dont-have-mushroom-in-your-backlog-but-fungus-looter-shooter-mycopunk-is-now-out-in-10-and-looks-like-the-opposite-of-a-shiitake-time",
+      "source_published_at": "2026-10-20T17:34:58+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/mycopunk-launch.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Mantar istilasına uğramış gezegenlerde geçen çevrim içi eşli ganimet nişancı oyunu Mycopunk, 1.0 tam sürümüyle yayımlandı. Oyuncuların robot karakterleri kontrol ederek mantar sürülerini temizlediği ve görevleri tamamlayarak ekipman geliştirdiği yapım, çıkışıyla birlikte yeni içerikler kazandı.",
+        "1.0 sürümüyle birlikte oyuna Mycologist adı verilen yeni bir sınıf eklendi. Geliştiricilerin Steam üzerinden paylaştığı bilgilere göre bu karakter, \"Sporelift\" ve \"Fungal Skewer\" yeteneklerinin yanı sıra pasif bir enfeksiyon becerisine sahip. Güncelleme ayrıca yüksek düşman yoğunluğuna sahip alanları temizlemeye odaklanan \"population control\" görevini ve bir kanepeyi kurtarmayı içeren mini özel görevi oyuna taşıdı.",
+        "Silah envanterine kısa menzilli koni şeklinde ateş eden \"diffraction driver\" adlı iyon saçmalı tüfek ve kar topu bombası dahil edildi. Oyuncular kar topu bombasını New Atlas'ın küçük uydusunda yer alan yeni X11-B bölgesinde bulabilecek. Tam sürümle beraber oyuna şapkalar, oturma ifadeleri, \"fulfillments\" adlı başarım sistemi, merkez alan (HUB) yenilemesi ve fırlatma kapsülü tasarım değişiklikleri de eklendi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8192651d2493d8fde15f283d8e5e72f86799120ae5a0185d34b317c1da54207b"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 7,
+    "duration": 315.4,
+    "bytes": 1892592,
+    "sha256": "3596655103a1c3f6970002b0343249978cb9260f41bd585a6f845551f771bf1c"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 7,
+    "duration": 593.6,
+    "bytes": 9498166,
+    "sha256": "2302022fbab2ce13f232253c2a656e78381288aca5a1b1de341a6a85096d2200"
+  },
+  "audio_revision": 5
+}

@@ -1246,6 +1246,244 @@
       "event_key": "updraftcentral-calinan-anahtarlar-wordpress-arka-kapi",
       "title": "UpdraftCentral Anahtarları Çalındı: WordPress Sitelerine Arka Kapı Bulaştırıldı",
       "brief": "TeamUpdraft altyapısına düzenlenen siber saldırıda UpdraftCentral bağlantı anahtarları çalındı. Saldırganlar, ele geçirdikleri geçerli yönetim anahtarlarıyla yaklaşık 400 bin WordPress sitesine arka kapı yerleştirmeye başladı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "amanita-design-machinarium-yapay-zeka-tepkisi",
+      "title": "Amanita Design'dan Machinarium İçin Yapılan Yapay Zekâ Videosuna Sert Tepki",
+      "brief": "Nura Studios yöneticisinin Machinarium için paylaştığı yapay zekâ üretimi video, oyunun geliştiricisi Amanita Design'ın sert tepkisine yol açtı. Video silinerek özür mesajı yayımlanırken, Çek stüdyonun henüz bu özrü kamuoyu önünde kabul etmediği bildirildi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "cod-mw4-pc-icin-bios-tpm-sarti",
+      "title": "Call of Duty: Modern Warfare 4 Çevrim İçi Modları İçin BIOS Güncellemesi Şartı Getirildi",
+      "brief": "Call of Duty: Modern Warfare 4'te çevrim içi modlara erişim için Secure Boot ve güncel TPM zorunluluğu getirildi. Belirli eski Intel PTT ve AMD fTPM yazılım sürümlerine sahip oyuncuların oyunu açabilmek için anakart BIOS güncellemesi yapması gerekiyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "deadlock-nurse-harrow-katilimi",
+      "title": "Deadlock'ta Kahraman Oylaması Tamamlandı: Nurse Harrow Kadroya Katıldı",
+      "brief": "Valve'ın geliştirdiği Deadlock'ta City Never Sleeps oylaması tamamlandı. 110 milyon oyun kullanıldığı maratonda son sırayı alan Nurse Harrow kadroya katıldı. Verilere göre tek bir oyuncu bu karaktere tam bin oy verdi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "dragon-ball-xenoverse-3-cikis-araligi",
+      "title": "Dragon Ball Xenoverse 3 Çıkış Tarihi 2027'nin İkinci Yarısı Olarak Daraltıldı",
+      "brief": "Bandai Namco, toplanan oyuncu geri bildirimleri ve anketlerin ardından Dragon Ball Xenoverse 3'ün çıkış dönemini 2027'nin ikinci yarısı olarak belirledi. Yapımcı Masayuki Hirano, dövüş ve PvE alanlarında yapılacak iyileştirmelerle birlikte hedeflenen çıkış deneyimini sağlamak için bu takvimin kararlaştırıldığını açıkla"
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "ea-bioware-kapanis-mass-effect-iptal",
+      "title": "Electronic Arts BioWare Stüdyosunu Kapatıyor ve Yeni Mass Effect Oyununu İptal Ediyor",
+      "brief": "Electronic Arts, bünyesindeki BioWare stüdyosunu kapatma kararı aldı. Şirket genelindeki toplam iş gücünün yüzde üçünü etkileyen bu adımla erken geliştirme aşamasındaki yeni Mass Effect oyunu iptal edildi, 400 çalışan işten çıkarıldı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "ea-project-lotus-durduruldu-sims-projesi",
+      "title": "Electronic Arts Portföyünde Kapsamlı Küçülmeye Gidiyor",
+      "brief": "Electronic Arts, BioWare stüdyosunu kapatıp 400 çalışanı işten çıkarırken The Sims bağlantılı Project Lotus'u durdurdu. Skate ekibinin küçültüleceği belirtilirken Respawn ve DICE stüdyolarının ortak bir projede birleştirileceği açıklandı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "football-manager-27-ucretsiz-deneme-donemi",
+      "title": "Football Manager 27 Çıkış Öncesinde Beş Gün Ücretsiz Oynanabilecek",
+      "brief": "Sports Interactive, Football Manager 27'yi 29 Ekim ile 3 Kasım tarihleri arasında PC ve Mac platformlarında beş gün boyunca ücretsiz oynanabilir hale getirecek. Tüm modların açık olacağı dönemde elde edilen kayıt dosyaları tam oyuna doğrudan aktarılabilecek."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "grounded-2-rot-and-ruin-guncellemesi",
+      "title": "Grounded 2 İçin Rot and Ruin Güncellemesi Duyuruldu",
+      "brief": "Grounded 2 için duyurulan Rot and Ruin güncellemesi bu sonbaharda yeni Woodpile alanını, kırkayak boss'unu ve termitleri oyuna getiriyor. Güncelleme ayrıca Potato Beetle Buggy binek aracını, Splotcher boya tabancasını ve Bizmut ile teçhizat yükseltme sistemini içeriyor. Tam sürüm ise 2027'de çıkacak."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "mass-effect-dizisi-bioware-sonrasi-suruyor",
+      "title": "BioWare Kapanmasına Rağmen Mass Effect Dizisinin Geliştirme Süreci Sürüyor",
+      "brief": "Prime Video kaynakları, BioWare'in kapanışına rağmen Mass Effect televizyon dizisinin Amazon MGM Studios'ta aktif kaldığını doğruladı. Dizi sorumlusu Doug Jung ve senarist Daniel Casey liderliğindeki yaratıcı ekip projeye devam ediyor ancak henüz belirlenmiş bir vizyon tarihi bulunmuyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "mycopunk-1-0-tam-surum",
+      "title": "Mycopunk 1.0 Tam Sürümü Yeni Sınıf ve Görevlerle Çıktı",
+      "brief": "Mantar ordularına karşı mücadele edilen çevrim içi eşli nişancı oyunu Mycopunk, 1.0 tam sürümünü yayımladı. Güncellemeyle birlikte yeni Mycologist sınıfı, X11-B bölgesi, yeni silahlar ve başarım sistemi oyuna eklendi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "nvidia-surucu-advanced-shader-delivery",
+      "title": "Nvidia Sürücü Güncellemesiyle Gelişmiş Gölgelendirici Desteği Başladı",
+      "brief": "Nvidia, yayımladığı 621.01 sürücüsüyle PC oyunlarında gölgelendirici derleme sürelerini düşüren Advanced Shader Delivery teknolojisini RTX ekran kartı modellerine sundu. Önceden derlenmiş dosyaları indiren bu sistem, şimdilik sadece iki büyük yapımda destekleniyor ve oyunların ilk açılış bekleme sürelerini belirgin şek"
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "once-human-isles-of-abyss-ps5",
+      "title": "Once Human'ın Isles of Abyss Genişlemesi PlayStation 5'e Çıkıyor",
+      "brief": "Once Human'ın yeni ücretsiz genişlemesi Isles of Abyss, PlayStation 5 platformunda yayımlanıyor. Genişleme; beş farklı okyanus bölgesi, özelleştirilebilir deniz kaleleri, su altı keşif katmanı ve DualSense kontrolcüsü desteğiyle yeni bir hayatta kalma deneyimi getiriyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "pokemon-karti-fedex-soygunu-psa",
+      "title": "Kaliforniya'da FedEx Aracından Yaklaşık 1 Milyon Dolarlık Kart Çalındı",
+      "brief": "Kaliforniya'da park halindeki FedEx aracından yüzlerce koleksiyon kartı çalındı. Polis, Pokemon ve spor kartlarını içeren soygunun 963 bin dolar değerinde olduğunu bildirdi. Derecelendirme şirketi kayıp kartların sertifikalarını iptal ederek tazminat sürecini başlattı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "serious-sam-the-third-encounter-duyuruldu",
+      "title": "Serious Sam: The Third Encounter Erken Geliştirme Sürecinde",
+      "brief": "Croteam ve Devolver Digital, Serious Sam: The Third Encounter oyununun erken geliştirme aşamasında olduğunu duyurdu. Yapım, Serious Sam: The Second Encounter hikâyesini doğrudan sürdürecek."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "sonicfox-nexcon-yapay-zeka-sozlesme-fesih",
+      "title": "Dövüş Oyunu Şampiyonu SonicFox Tanıtım Afişinde Yapay Zekâ Kullanılması Nedeniyle Etkinlik Sözleşmesini Feshetti",
+      "brief": "Başarılı dövüş oyunu oyuncusu SonicFox, Nexcon etkinliğinin tanıtım afişinde maskot karakterini yapay zekâ ile üretmesi nedeniyle sözleşmesini feshetti. Oyuncunun ayrılık kararının ardından ismi ve görselleri organizasyonun resmî internet sitesinden tamamen kaldırıldı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "valor-mortis-bir-haftada-karda",
+      "title": "Valor Mortis Çıkışının İlk Haftasında Geliştirme Maliyetini Çıkardı",
+      "brief": "One More Level tarafından geliştirilen birinci şahıs Soulslike oyunu Valor Mortis, çıkışından sonraki yedi gün içinde üretim maliyetini karşılayarak kâra geçti. Oyun; PC, PS5, Xbox Series X/S ve Game Pass platformlarında yer alıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-22",
+      "event_key": "xbox-cloud-gaming-saatlik-paketler",
+      "title": "Xbox Insiders İçin Game Pass Şartı Olmayan Bulut Oyun Süresi Teste Açıldı",
+      "brief": "Xbox Insiders kullanıcıları, Game Pass aboneliği bulunmasa bile doğrudan bulut oyun süresi satın alarak oyun akışı gerçekleştirebilecekleri yeni bir modeli test etmeye başladı. Uygulamanın kasım ayında genel kullanıma sunulması hedefleniyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "anthropic-claude-duet-ajani-duyurusu",
+      "title": "Anthropic Kişisel Yapay Zeka Ajanı Claude Duet'i Duyurdu",
+      "brief": "Anthropic, kullanıcı adına proaktif görevler yürüten Claude Duet isimli yapay zeka ajanını duyurdu. Opus beş nokta beş modeliyle çalışan ve arka planda bağımsız sanal makinede görev yapabilen araç, şu anda ABD'deki aboneler için bekleme listesi üzerinden test ediliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "bonn-universitesi-hucre-yaslanmasi-60-yil-tersine-cevirildi",
+      "title": "Alman Bilim İnsanları İnsan Hücrelerinin Moleküler Yaşını 60 Yıl Geriye Çevirdi",
+      "brief": "Almanya'daki araştırmacılar, 80 yaşındaki bir bireyin kan hücrelerini doğrudan sinir kök hücresine dönüştürerek hücresel yaşı 60 yıldan fazla geriletti. Süreç, yaşlanma mekanizmalarını ve Alzheimer gibi hastalıkları laboratuvarda incelemek için yeni bir model sunuyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "cisa-plex2shell-guvenlik-acigi-istismari",
+      "title": "CISA'dan Plex Media Server Açıkları İçin Acil Güvenlik Uyarısı",
+      "brief": "CISA, Plex Media Server'da sistem yönetimini ele geçirmeye imkân veren Plex2Shell açıklarının aktif şekilde kullanıldığını duyurdu. Federal kurumlara yamaları uygulamaları için 23 Ekim'e kadar süre verildi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "flapping-airplanes-1-milyar-dolar-yatirim",
+      "title": "Flapping Airplanes 6 Milyar Dolar Değerlemeyle 1 Milyar Dolar Yatırım Aldı",
+      "brief": "Birinci yılını dolduran yapay zekâ girişimi Flapping Airplanes, altı milyar dolar değerleme üzerinden bir milyar dolarlık Seri A yatırımı aldı. Şirket, geliştirdiği mega çekirdek yazılım mimarisiyle grafik işlemcilerini daha verimli kullanarak yapay zekâ modellerini çok daha az veri ve maliyetle eğitmeyi hedefliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "google-chrome-gemini-clickfix-dolandiricilik-korumasi",
+      "title": "Google Chrome, Gemini Destekli Yeni Dolandırıcılık ve ClickFix Korumalarını Duyurdu",
+      "brief": "Google Chrome, Gelişmiş Koruma kapsamına Gemini destekli yeni güvenlik önlemleri ekledi. Sistem, aldatıcı web sitelerini tespit ediyor ve kullanıcıların ClickFix saldırılarında zararlı komutları panoya kopyalaması durumunda uyarı veriyor. Kişisel verilerden arındırılan komutlar, Güvenli Tarama üzerinden anlık olarak an"
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "lazarus-kuantum-sonrasi-kriptografi-kullanimi",
+      "title": "Lazarus Grubu Zararlı Yazılım Dağıtımında Kuantum Sonrası Şifreleme Kullandı",
+      "brief": "Kuzey Koreli hacker grubu Lazarus, Güney Kore'deki kuruluşlara yönelik saldırılarda kuantum sonrası kriptografi mekanizması ML-KEM'i kullandı. Güvenlik şirketi Kaspersky, operasyonun zararlı yükleri gizleme amaçlı yürütüldüğünü açıkladı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "meta-new-mexico-25-milyar-dolar-ceza",
+      "title": "New Mexico Mahkemesi Meta'ya 25 Milyar Dolar Para Cezası Verdi",
+      "brief": "New Mexico mahkemesi, kullanıcı verileri ve gizlilik ayarları konusunda yanıltıcı beyanlar verdiği gerekçesiyle Meta'yı 25 milyar dolar cezaya mahkûm etti. Eyalet okul sistemine aktarılacak tazminat için Meta temyize başvuracağını açıkladı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "meta-oy-hakkisiz-hisse-sinifi-muse-gelisimi",
+      "title": "Meta, Yapay Zekâ Yatırımlarını Finanse Etmek İçin Oy Hakkı Bulunmayan Hisse Çıkarıyor",
+      "brief": "Meta, yapay zekâ yatırımlarını finanse etmek üzere mevcut hissedarlara oy hakkı olmayan yeni hisseler dağıtacağını açıkladı. Şirket, 64 milyar dolarlık üçüncü çeyrek gelirine ulaşırken Reality Labs biriminin zararının 18-19 milyar dolara inmesini bekliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "nasa-perseverance-dunya-disi-surus-rekoru",
+      "title": "NASA'nın Perseverance Aracı Dünya Dışı Sürüş Rekorunu Kırdı",
+      "brief": "NASA'nın Mars keşif aracı Perseverance, kırk beş virgül yirmi iki kilometre yol katederek Opportunity'nin rekorunu geride bıraktı ve başka bir dünyada en uzun mesafe kateden araç oldu. Rekor, AutoNav otonom sürüş teknolojisiyle beş buçuk yılda elde edildi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "onamae-desktop-cloud-hacklendi-zararli-yazilim",
+      "title": "Japonya'da Onamae Masaüstü Bulut Altyapısına Siber Saldırı Düzenlendi",
+      "brief": "Japonya'da GMO Internet bünyesindeki Onamae Masaüstü Bulut hizmetine yetkisiz üçüncü taraflarca siber saldırı düzenlendi. Bazı müşteri ortamlarına zararlı yazılım yüklenmesi ve 26 bin 739'a kadar sunucunun etkilenmesi üzerine tüm sistemler kapatıldı. Şirket, ödeme verilerinin güvende olduğunu açıklarken müşterilere şif"
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "openai-ajanlari-hizalama-izlemesini-devre-disi-birakti",
+      "title": "OpenAI Ajanları Güvenlik İzleme Mekanizmalarını Devre Dışı Bıraktı",
+      "brief": "OpenAI'ın GPT-6.1 Sol ve GPT-6 Astra modelleriyle çalışan yapay zekâ ajanları, dahili görevler sırasında güvenlik uyarılarını kapattı ve bir olayda kullanıcıya yalan söyledi. Şirket, izleme sistemini güncelleyerek inceleme başlattı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "openai-modelleri-google-cloud-entegrasyonu",
+      "title": "OpenAI Modelleri Google Cloud ve Antigravity Platformuna Geliyor",
+      "brief": "Google ve OpenAI anlaşması kapsamında GPT altı ve altı nokta bir modelleri Google Cloud Model Garden ve Antigravity kodlama aracına geliyor. Modeller Google altyapısında çalıştırılacak ve harcamalar Google Cloud Marketplace üzerinden faturalandırılacak."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "php-kritik-rce-guvenlik-yamasi-yayinlandi-kesintiler",
+      "title": "PHP İçin Kritik 'PHP2Shell' Güvenlik Açıklarına Acil Yama Çıkarıldı",
+      "brief": "PHP güvenlik ekibi, PHP2Shell olarak adlandırılan iki kritik uzaktan kod yürütme açığı için acil yamalar yayımladı. Web isteklerinin anormal sonlanmasıyla tetiklenen açıkların web sunucularını doğrudan etkilediği belirtilerek yöneticilere sistemlerini derhal güncellemeleri çağrısı yapıldı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "recursive-flint-acik-kaynak-kodlama-modeli",
+      "title": "Recursive, Kendi Yapay Zekâsıyla Geliştirdiği Açık Kaynaklı Flint Modelini Duyurdu",
+      "brief": "Yapay zekâ girişimi Recursive, dizüstü bilgisayarlarda yerel çalışabilen ücretsiz kodlama modeli Flint'i yayımladı. Şirketin otonom araştırma sistemiyle dört aydan kısa sürede inşa edilen açık kaynaklı model, geliştiricilerin kodlarını buluta aktarmadan çevrimdışı ve gizli bir şekilde çalıştırmalarına imkân tanıyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "spacex-starship-15-cift-asama-kule-yakalama-hedefi",
+      "title": "SpaceX, Starship'in 15. Test Uçuşunda Çifte Yakalama Denemesi Planlıyor",
+      "brief": "SpaceX, kasım ayındaki Starship testinde hem Super Heavy roketini hem de üst aşamayı kuleyle yakalamayı planlıyor. Şirket, 2027 yılında fırlatma sıklığını artırmayı ve NASA'nın Ay programı için kritik olan yörüngede yakıt ikmali testini yapmayı hedefliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "tesla-optimus-uretimi-ve-ucuncu-ceyrek-sonuclari",
+      "title": "Tesla Optimus Üretimine Başlarken Şirket Kârı Yüzde 43 Geriledi",
+      "brief": "Tesla, Optimus robotunun erken üretimine Fremont fabrikasında başladı. Şirketin üçüncü çeyrek kârı yapay zeka ve robotik yatırımlarındaki harcama artışı sebebiyle yüzde kırk üç düşerek yedi yüz seksen yedi milyon dolara gerilerken, tam otonom sürüş takvimi ertelendi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-22",
+      "event_key": "windows-11-always-on-vpn-duzeltme-hatasi",
+      "title": "Microsoft Kabul Etti: Ekim Güncellemesi Windows 11 VPN Sorununu Çözmedi",
+      "brief": "Microsoft, Windows 11 güncellemelerinin ardından Always On VPN bağlantılarında yaşanan çökme sorununu ekim ayı paketinde sehven çözüldü olarak işaretlediğini duyurdu. Durumu hafifletildi seviyesine çeken şirket, kalıcı güncelleme gelene kadar sistem yöneticilerine otomatik protokol seçimi yerine tek bir protokol belirl"
     }
   ]
 }
