@@ -1,1 +1,200 @@
-{}
+{
+  "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 19.08,
+        "title": "LiteLLM Dağıtım Hattına Siber Saldırı"
+      },
+      {
+        "start": 84.96,
+        "title": "Railway Bulut Platformunda Ortam Değişkeni Sızıntısı"
+      },
+      {
+        "start": 142.44,
+        "title": "Moderna ve Merck'ten Kişiselleştirilmiş mRNA Kanser Aşısı"
+      },
+      {
+        "start": 234.48,
+        "title": "The Browser Company Arc Tarayıcısını Kapatıyor"
+      },
+      {
+        "start": 318.84,
+        "title": "1Password'dan Yapay Zekâ Ajanları İçin Parolasız Giriş"
+      },
+      {
+        "start": 387.38,
+        "title": "MIT Deneyi: Hedefsiz Kalan Yapay Zekâ Ajanlarının Serbest Keşfi"
+      },
+      {
+        "start": 483.34,
+        "title": "Rus Askeri Uydusunun Ticari Uyduya Tehlikeli Yakınlaşması"
+      },
+      {
+        "start": 561.92,
+        "title": "UC Berkeley'den Elektron Mikroskopisi İçin Lazer Faz Plakası"
+      },
+      {
+        "start": 687.04,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "37f56369e2ff40e0",
+        "start": 19.08,
+        "end": 84.24
+      },
+      {
+        "story_id": "ea40ccd76acf9cc8",
+        "start": 84.96,
+        "end": 141.64
+      },
+      {
+        "story_id": "d8c2497a7a86b63b",
+        "start": 142.44,
+        "end": 233.82
+      },
+      {
+        "story_id": "080e7241fa8f3af2",
+        "start": 234.48,
+        "end": 318.16
+      },
+      {
+        "story_id": "264af0525447e45c",
+        "start": 318.84,
+        "end": 386.86
+      },
+      {
+        "story_id": "fee5d6bca690475f",
+        "start": 387.38,
+        "end": 482.56
+      },
+      {
+        "story_id": "243b751a9574a173",
+        "start": 483.34,
+        "end": 561.62
+      },
+      {
+        "story_id": "78e4392f03ba41b6",
+        "start": 561.92,
+        "end": 686.08
+      }
+    ],
+    "section": "teknoloji",
+    "clips_reviewed": true,
+    "stories_sha256": "e704b6e684b64b4002cabee60a781106d77f98da87fd82f96a27a5f83585e899"
+  },
+  "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 28.42,
+        "title": "Capcom ID Veri Sızıntısı"
+      },
+      {
+        "start": 78.1,
+        "title": "Kritik PHP Açığı ve Çevrim İçi Oyunlar"
+      },
+      {
+        "start": 109.5,
+        "title": "Gears of War: E-Day Yapım Bütçesi İddiaları"
+      },
+      {
+        "start": 164.04,
+        "title": "Marvel's Wolverine Satış Başarısı ve PS5 Etkisi"
+      },
+      {
+        "start": 224.32,
+        "title": "Beyond Good and Evil 2'nin Bitmeyen Ön Yapımı"
+      },
+      {
+        "start": 294.58,
+        "title": "BioWare'in Kapanışı ve Sızan Mass Effect Görüntüleri"
+      },
+      {
+        "start": 355.96,
+        "title": "Masahiro Sakurai ve Üretken Yapay Zeka Tartışması"
+      },
+      {
+        "start": 430.99,
+        "title": "Debra Wilson ve Oyunlardaki Yüz Taramaları"
+      },
+      {
+        "start": 500.52,
+        "title": "Oyun Sektöründe Özgünlük ve Vizyon Eksikliği"
+      },
+      {
+        "start": 529.06,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "da95b3dedf5f8cb0",
+        "start": 30.34,
+        "end": 45.62
+      },
+      {
+        "story_id": "968df38f6fb42b63",
+        "start": 46.4,
+        "end": 52.54
+      },
+      {
+        "story_id": "da95b3dedf5f8cb0",
+        "start": 61.86,
+        "end": 77.6
+      },
+      {
+        "story_id": "968df38f6fb42b63",
+        "start": 78.1,
+        "end": 109.5
+      },
+      {
+        "story_id": "d1a4ff14f9eaff8f",
+        "start": 113.62,
+        "end": 163.52
+      },
+      {
+        "story_id": "a8e38eda66687b8f",
+        "start": 167.2,
+        "end": 223.9
+      },
+      {
+        "story_id": "682e0889b33ad234",
+        "start": 224.32,
+        "end": 294.58
+      },
+      {
+        "story_id": "778ee6dde2ffe705",
+        "start": 302.38,
+        "end": 355.52
+      },
+      {
+        "story_id": "cc70530c3137caa6",
+        "start": 364.84,
+        "end": 430.08
+      },
+      {
+        "story_id": "43415ecd2cab95ab",
+        "start": 435.74,
+        "end": 498.9
+      }
+    ],
+    "section": "oyun",
+    "clips_reviewed": true,
+    "stories_sha256": "7285705c3ab59ff6edacc1310b4bfc0516222aa5a2b6ff085a0b944163b09677"
+  }
+}

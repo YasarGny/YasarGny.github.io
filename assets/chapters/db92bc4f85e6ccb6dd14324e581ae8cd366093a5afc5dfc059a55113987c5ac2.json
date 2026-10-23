@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 28.42,
+      "title": "Capcom ID Veri Sızıntısı"
+    },
+    {
+      "start": 78.1,
+      "title": "Kritik PHP Açığı ve Çevrim İçi Oyunlar"
+    },
+    {
+      "start": 109.5,
+      "title": "Gears of War: E-Day Yapım Bütçesi İddiaları"
+    },
+    {
+      "start": 164.04,
+      "title": "Marvel's Wolverine Satış Başarısı ve PS5 Etkisi"
+    },
+    {
+      "start": 224.32,
+      "title": "Beyond Good and Evil 2'nin Bitmeyen Ön Yapımı"
+    },
+    {
+      "start": 294.58,
+      "title": "BioWare'in Kapanışı ve Sızan Mass Effect Görüntüleri"
+    },
+    {
+      "start": 355.96,
+      "title": "Masahiro Sakurai ve Üretken Yapay Zeka Tartışması"
+    },
+    {
+      "start": 430.99,
+      "title": "Debra Wilson ve Oyunlardaki Yüz Taramaları"
+    },
+    {
+      "start": 500.52,
+      "title": "Oyun Sektöründe Özgünlük ve Vizyon Eksikliği"
+    },
+    {
+      "start": 529.06,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "da95b3dedf5f8cb0",
+      "start": 30.34,
+      "end": 45.62
+    },
+    {
+      "story_id": "968df38f6fb42b63",
+      "start": 46.4,
+      "end": 52.54
+    },
+    {
+      "story_id": "da95b3dedf5f8cb0",
+      "start": 61.86,
+      "end": 77.6
+    },
+    {
+      "story_id": "968df38f6fb42b63",
+      "start": 78.1,
+      "end": 109.5
+    },
+    {
+      "story_id": "d1a4ff14f9eaff8f",
+      "start": 113.62,
+      "end": 163.52
+    },
+    {
+      "story_id": "a8e38eda66687b8f",
+      "start": 167.2,
+      "end": 223.9
+    },
+    {
+      "story_id": "682e0889b33ad234",
+      "start": 224.32,
+      "end": 294.58
+    },
+    {
+      "story_id": "778ee6dde2ffe705",
+      "start": 302.38,
+      "end": 355.52
+    },
+    {
+      "story_id": "cc70530c3137caa6",
+      "start": 364.84,
+      "end": 430.08
+    },
+    {
+      "story_id": "43415ecd2cab95ab",
+      "start": 435.74,
+      "end": 498.9
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "7285705c3ab59ff6edacc1310b4bfc0516222aa5a2b6ff085a0b944163b09677"
+}

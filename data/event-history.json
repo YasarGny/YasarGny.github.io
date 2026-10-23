@@ -1484,6 +1484,237 @@
       "event_key": "windows-11-always-on-vpn-duzeltme-hatasi",
       "title": "Microsoft Kabul Etti: Ekim Güncellemesi Windows 11 VPN Sorununu Çözmedi",
       "brief": "Microsoft, Windows 11 güncellemelerinin ardından Always On VPN bağlantılarında yaşanan çökme sorununu ekim ayı paketinde sehven çözüldü olarak işaretlediğini duyurdu. Durumu hafifletildi seviyesine çeken şirket, kalıcı güncelleme gelene kadar sistem yöneticilerine otomatik protokol seçimi yerine tek bir protokol belirl"
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "beyond-good-and-evil-2-tek-oyunculu-degisim",
+      "title": "Beyond Good and Evil 2 Duyurusunun Üzerinden 18 Yıl Geçmesine Rağmen Ön Yapım Aşamasında",
+      "brief": "İlk duyurusu 18 yıl önce yapılan Beyond Good and Evil 2 projesinin halen ön yapım aşamasında olduğu bildirildi. Yapımın çok oyunculu odaklı bir modelden hikaye ağırlıklı tek kişilik bir maceraya dönüştüğü öne sürülüyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "capcom-id-veri-ihlali-11-milyon-hesap",
+      "title": "Capcom Sistemlerine Yapılan Saldırıda 11 Milyondan Fazla Hesap Etkilendi",
+      "brief": "Capcom, 11 milyondan fazla Capcom ID hesabının etkilendiği bir veri ihlali yaşandığını duyurdu. Kredi kartı bilgileri ve ana şifreler güvende kalırken, kullanıcılara olası oltalama saldırılarına karşı dikkatli olmaları yönünde uyarı yapıldı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "debra-wilson-video-oyunlarinda-yuz-tarama",
+      "title": "Oyuncu Debra Wilson Video Oyunlarında Kendi Yüzünün Kullanılmasını İstemiyor",
+      "brief": "Oyuncu Debra Wilson, video oyunlarında sürekli kendi yüz modelinin kullanılmasından duyduğu rahatsızlığı dile getirdi. Wilson, Marvel's Wolverine geliştiricilerinin gerçek dövmelerini tarama isteğini de reddettiğini açıkladı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "dispatch-birinci-yil-guncellemesi",
+      "title": "Dispatch Birinci Yılını Yorum ve Taslak Modlarıyla Kutluyor",
+      "brief": "AdHoc Studio, Dispatch oyununun birinci yılı şerefine lüks sürüm sahiplerine özel yeni bir güncelleme sundu. Güncellemede 16 saatten fazla sesli yorum kaydı ile yapımın ilk çizim ve taslak görselleriyle oynanmasını sağlayan özel bir mod yer alıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "exodus-ana-karakter-modeli-guncellemesi",
+      "title": "Archetype Entertainment, Exodus Oyununun Ana Karakter Modelini Yeniledi",
+      "brief": "BioWare'in kapatılmasının ardından eski stüdyo geliştiricileri tarafından kurulan Archetype Entertainment, bilimkurgu oyunu Exodus'un erkek başkarakter modelini oyuncu geri bildirimleriyle yeniledi. Kadın karakter tanıtımının yakında yapılacağı belirtilen yapım, 7 Nisan 2027 tarihinde resmi olarak çıkış yapacak."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "final-fantasy-resonance-hd-2d-duyuru",
+      "title": "FINAL FANTASY RESONANCE, Xbox Series X|S ve PC İçin Çıkış Yaptı",
+      "brief": "Square Enix'in HD-2D görsel tarzını ana seriye taşıdığı FINAL FANTASY RESONANCE, Xbox Series X|S ve PC için yayınlandı. Brave Exvius hikayesini tek oyunculu sıra tabanlı bir yapıya dönüştüren oyun, çapraz ilerleme sağlayan ücretsiz bir ilk bölüm demosu da sunuyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "freeplay-parallels-sponsorluk-tartismasi",
+      "title": "Freeplay Organizasyonu Sponsorluk İptali İddialarına Yanıt Verdi",
+      "brief": "Avustralya'daki bağımsız oyun etkinliği Parallels'in organizatörü Freeplay, Unpacking oyununun geliştiricisi Wren Brier'ın sponsorluğunu iade etmesiyle başlayan tartışmaların ardından ön yargı iddialarını reddetti ve yönetim kurulunun şiddet tehditleri aldığını polise bildirdi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "gears-of-war-e-day-500-milyon-butce",
+      "title": "Gears of War: E-Day Yapım Bütçesinin 500 Milyon Dolar Olduğu İddia Edildi",
+      "brief": "Yeni sektör raporlarına göre Gears of War: E-Day'in bütçesi pazarlama hariç 500 milyon doları buldu. Xbox ve PC'de 230 bin satan yapım, Game Pass sistemi sayesinde başlangıçta yaklaşık 2 milyon kullanıcıya erişti."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "marvels-wolverine-eylul-2026-satis-lideri",
+      "title": "Marvel's Wolverine Karışık Eleştirilere Rağmen ABD Satış Listelerinde Zirveye Yerleşti",
+      "brief": "Insomniac Games tarafından geliştirilen Marvel's Wolverine, eylül ayında ABD pazarının zirvesine yerleşti. Oyun, PlayStation 5'e özel çıkışına rağmen Sony'ye Helldivers 2'den bu yana en yüksek lansman gelirini kazandırdı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "masahiro-sakurai-yapay-zeka-oyun-yorumu",
+      "title": "Masahiro Sakurai: Üretken Yapay Zeka Özgün Olmayan Oyunları Artıracak",
+      "brief": "Masahiro Sakurai, üretken yapay zekanın piyasaya sürülen özgün olmayan oyun sayısını artıracağını söyledi. Steam'deki çıkış sayılarına dikkat çeken Sakurai, teknolojinin mevcut sistemleri kopyalayabileceğini fakat insan yaratıcılığının taklit edilemeyeceğini savundu."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "mass-effect-universe-sizdirilan-fragman",
+      "title": "Kapatılan BioWare'in İptal Edilen Mass Effect Oyununa Ait Tanıtım Videosu Sızdı",
+      "brief": "BioWare'in kapatılması ve projenin iptal edilmesinin ardından, 'Mass Effect: Universe' isimli oyuna ait olduğu belirtilen motor içi görüntüler Reddit'e sızdı. Görüntülerde bir barda geçen çatışma ve karakter diyalogları yer alıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "peak-xbox-cikis-ve-crossplay",
+      "title": "Eşli Tırmanış Oyunu PEAK, Xbox Series X|S Platformunda Yayınlandı",
+      "brief": "Aggro Crab ve Landfall ortaklığıyla geliştirilen eşli tırmanış oyunu PEAK, Xbox Series X|S konsollarına geldi. Çapraz platform desteği ve tüm güncellemelerle çıkan yapımda, oyuncular kaza inişi sonrası mahsur kaldıkları adadaki her gün değişen dağı aşarak hayatta kalmaya ve kurtulmaya çalışıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "php-guvenlik-acigi-cevrimici-oyunlar-kesinti",
+      "title": "Ciddi PHP Açığı Çevrim İçi Oyunlarda Kesintilere Yol Açtı",
+      "brief": "PHP programlama dilindeki kritik bir güvenlik açığı nedeniyle Final Fantasy 14, Umamusume ve Path of Titans gibi çevrim içi oyunlar acil bakıma alındı. Hizmetler kademeli olarak yeniden açılırken veri ihlali yaşanmadığı bildirildi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "star-wars-battlefront-3-dice-respawn",
+      "title": "Yeni Star Wars: Battlefront Oyunu İddiası: DICE ve Respawn Birlikte Geliştiriyor",
+      "brief": "EA bünyesindeki DICE ve Respawn stüdyolarının yeni bir Star Wars: Battlefront oyunu üzerinde ortak çalıştığı iddia edildi. EA yöneticileri iki stüdyonun ortak bir proje yürüttüğünü doğruladı ancak oyunun adını açıklamadı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "valve-ses-tasarimcisi-hlx-agizdan-kacirdi",
+      "title": "Valve Etkinliğinde Bahsedilen 'HLX' Projesi Yeni Half-Life Tartışmalarını Başlattı",
+      "brief": "Valve ses tasarımcısı Mike Morasky'nin bir konferansta Deadlock ile birlikte HLX isimli projede HDR ses kullanıldığını belirtmesi yeni bir Half-Life söylentisi başlattı. Yanındaki meslektaşının esprili uyarısıyla dikkat çeken bu isim, daha önce veri madenciliği sızıntılarında da yer almıştı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "wo-long-2-wings-of-ember-on-inceleme",
+      "title": "Wo Long 2: Wings of Ember Hızlı Dövüş ve Strateji Unsurlarını Bir Araya Getiriyor",
+      "brief": "Team Ninja imzalı Wo Long 2: Wings of Ember, Çin dövüş sanatlarından ilham alan hızlı oynanışıyla ön plana çıkıyor. Oyunda dayanıklılık barı bulunmazken kesintisiz saldırı ve stratejik açık alan hamleleri öne çıkıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "wow-forever-rp-pvp-sunucu-duyurusu",
+      "title": "WoW: Forever İçin Topluluk Talebiyle RP-PvP Sunucusu Açılıyor",
+      "brief": "Blizzard, World of Warcraft: Forever için topluluk talebi doğrultusunda dördüncü sunucu türü olarak RP-PvP seçeneğini duyurdu. İsim kayıtları 27 Ekim'de açılacak oyun, 4 Kasım'da çıkış yapacak."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-23",
+      "event_key": "xbox-ofise-donus-dort-gun-zorunlulugu",
+      "title": "Xbox Çalışanlarına Haftada Dört Gün Ofis Zorunluluğu Geliyor",
+      "brief": "Xbox, Washington'daki merkeze 50 mil mesafede yaşayan çalışanlarına 1 Şubat 2027'den itibaren haftada en az dört gün ofise gelme zorunluluğu getirdi. Daha önce muafiyet alan personelin yeniden başvuru yapması gerekecek."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "1password-for-agents-yapay-zeka-giris-sistemi",
+      "title": "1Password Yapay Zekâ Ajanları İçin Parolasız Giriş Aracını Tanıttı",
+      "brief": "1Password, yapay zekâ asistanlarının kullanıcı hesaplarına şifreleri doğrudan öğrenmeden erişmesini sağlayan yeni platformunu tanıttı. Kullanıcı onayıyla çalışan sistem, bankaların hesaplarda artan yapay zekâ hareketliliğinden tedirgin olduğu bir dönemde devreye alındı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "abd-rus-askeri-uydusu-kosmos-2612-tehdidi",
+      "title": "ABD, Rus Askeri Uydusunun Ticari Uyduya Tehlikeli Şekilde Yaklaştığını Açıkladı",
+      "brief": "ABD yetkilileri, Rusya'ya ait Kosmos 2612 uydusunun Ukrayna'ya destek veren bir ticari gözetleme uydusuna tehlikeli yakınlaşmasını uzay silahı operasyonu olarak nitelendirdi. Rusya ise iddiaları asılsız bularak faaliyetlerinin barışçıl olduğunu savundu."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "artemis-iv-starship-22-firlatma-tahmini",
+      "title": "NASA Güvenlik Panelinden Starship İçin 22 Fırlatmalı Yakıt İkmali Tahmini",
+      "brief": "NASA güvenlik paneli, Starship'in Ay inişini desteklemek için yörüngede yaklaşık 22 uçuşluk yakıt ikmali gerektirebileceğini açıkladı. Elon Musk ise bu tahmini reddederek gerçek sayının 6 ila 8 uçuş olacağını belirtti. NASA, 2028'de Ay'a iniş hedefliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "canva-craft-iki-asamali-gorsel-uretim-modeli",
+      "title": "Canva Kendi Görüntü Üretim Modeli Canva Craft'ı Duyurdu",
+      "brief": "Canva, doğrudan şablon kütüphanesinden eğitilen ilk görüntü üretim modeli Canva Craft'ı kullanıma açtı. İki aşamalı çalışan model, 2K çözünürlüğe kadar üretim yapabiliyor ve Canva Magic aracıyla katmanlı tasarımlara dönüştürülebiliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "capcom-id-11-milyon-hesap-veri-ihlali",
+      "title": "Capcom'da Veri İhlali: 11,7 Milyon Kullanıcı Hesabı Etkilendi",
+      "brief": "Capcom, CAPCOM ID sistemine yapılan yetkisiz erişim sonucu 11,7 milyondan fazla müşterinin e-posta ve oturum bilgilerinin sızdırıldığını açıkladı. Şirket, şifrelerin ve kredi kartı verilerinin güvende olduğunu, çevrim içi hizmetlerin aksamadığını bildirdi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "emudhra-ssl-tls-sektorunden-tamamen-cekilme",
+      "title": "Zayıf Özel Anahtar Fiyaskosu Sonrası eMudhra TLS Pazarından Çekiliyor",
+      "brief": "Sertifika sağlayıcısı eMudhra, tahmin edilmesi son derece kolay zayıf anahtarlarla ara sertifikalar yayımlamasının ardından küresel TLS faaliyetlerini sonlandırma kararı aldı. Şirket, kural uyum maliyetleri ve gelirinin yalnızca yüzde birini oluşturan pazarın getirdiği yoğun eleştirileri gerekçe gösterdi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "litellm-pypi-tedarik-zinciri-saldirisi",
+      "title": "LiteLLM Dağıtım Hattına Sızan Bilgisayar Korsanları Bilgi Çalan Zararlı Yazılım Yaydı",
+      "brief": "LiteLLM açık kaynak projesinin sürüm hattına sızan saldırganlar, ortam değişkenlerini ve kimlik bilgilerini çalan 1.107.0 sürümünü PyPI ve Docker'a yükledi. Kötü amaçlı paket kaldırıldı; kullanıcılara temiz sürüme geçmeleri ve verilerini yenilemeleri bildirildi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "mit-eko-yapay-zeka-ajanlari-oyun-kesfi",
+      "title": "Görevsiz Bırakılan Yapay Zekâ Ajanları Kendi Oyunlarını Geliştirdi",
+      "brief": "MIT araştırmacılarının deneyinde, sanal adada hedefsiz bırakılan Claude Opus 4.7 tabanlı 13 yapay zekâ ajanı kendi oyunlarını üretti. Otuz saatlik serbest keşif sürecinden geçen ajanlar, daha sonra verilen görevlerde adayı önceden görmeyen benzerlerini geride bıraktı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "moderna-merck-mrna-kanser-asisi-faz3-sonuclari",
+      "title": "Moderna ve Merck'in Kişiselleştirilmiş mRNA Kanser Aşısı Melanom Riskini Yüzde 42 Azalttı",
+      "brief": "Moderna ve Merck tarafından geliştirilen kişiselleştirilmiş mRNA kanser aşısı intismeran, Faz 3 klinik denemesinde ameliyat edilmiş melanom hastalarında ölüm veya nüks riskini standart tedaviye kıyasla yüzde 42 azalttı. Şirketler aşı için onay başvuru sürecine geçiyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "openai-30-milyar-dolar-yeni-yatirim-turu",
+      "title": "OpenAI 1,25 Trilyon Dolar Değerleme Üzerinden 30 Milyar Dolarlık Yeni Yatırım Turu Planlıyor",
+      "brief": "OpenAI'ın halka arzdan önce 1,25 trilyon dolar değerleme üzerinden 30 milyar dolarlık yeni bir yatırım arayışında olduğu bildirildi. Coatue ve Birleşik Arap Emirlikleri kaynaklı yatırımcıların yer aldığı turda şartların henüz müzakere edildiği belirtiliyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "openai-decisions-api-jev-rekabeti",
+      "title": "OpenAI Karar Modelleri Pazarına Decisions API ile Giriş Yaptı",
+      "brief": "OpenAI, seçenekler arasından hızla seçim yapabilen Decisions API modelini genel kullanıma sundu. Luna altyapısını kullanan sistem, gecikme süresini milisaniye seviyelerine çekerek büyük dil modellerine daha ucuz ve hızlı bir alternatif oluşturuyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "oxford-virus-protein-kabuk-kendiliginden-oluscum",
+      "title": "Oxford Bilim İnsanları Virüslerin Kılavuzsuz Montaj Mekanizmasını Görüntüledi",
+      "brief": "Oxford Üniversitesi araştırmacıları, virüs benzeri parçacıkların kendi kendine montaj sürecini molekül düzeyinde kaydetti. Proteinlerin zayıf bağlar ve kararlı kontrol noktaları sayesinde hatasız yapılar kurduğu tespit edildi. Bulgular yeni aşı ve antiviraller için veri sağlıyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "railway-bulut-platformu-veri-ihlali-uyarisi",
+      "title": "Bulut Sağlayıcısı Railway'de Güvenlik Uyarısı: Ortam Değişkenleri İhlal Edildi",
+      "brief": "Bulut barındırma platformu Railway, müşteri ortam değişkenlerini saklayan sistemlerde şüpheli hareketler belirledi. Yetkisiz üçüncü tarafların çözülmüş anahtarlara erişmiş olabileceğini duyuran şirket, tüm geliştiricilerden API ve veritabanı kimlik bilgilerini derhal yenilemelerini istedi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "the-browser-company-arc-tarayici-sonlandirma-dia",
+      "title": "The Browser Company Arc Tarayıcısını 22 Aralık'ta Kapatıyor",
+      "brief": "The Browser Company, tasarım odaklı Arc tarayıcısını 22 Aralık 2026 itibarıyla tamamen sonlandıracağını açıkladı. Şirket, yapay zekâ çağında tarayıcı güvenliğini sağlamanın yüksek maliyetleri nedeniyle tüm odağını Dia isimli yeni tarayıcısına aktaracak."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-23",
+      "event_key": "uc-berkeley-elektron-mikroskobu-lazer-faz-plakasi",
+      "title": "UC Berkeley'den Biyolojik Görüntülemede Çığır Açan Lazer Faz Plakası",
+      "brief": "UC Berkeley fizikçileri, elektron mikroskoplarında görüntü kontrastını artıran lazer faz plakası geliştirdi. 'Theia' adı verilen sistemle 50 kilodaltonluk küçük proteinler görüntülenebildi. Buluş, hücre içi moleküler etkileşimlerin analizini kolaylaştırmayı hedefliyor."
     }
   ]
 }

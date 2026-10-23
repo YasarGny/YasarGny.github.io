@@ -1,0 +1,441 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "teknoloji",
+  "publish_date": "2026-10-23",
+  "date": "23 Ekim 2026",
+  "issue": 8,
+  "ready": true,
+  "stories": [
+    {
+      "id": "37f56369e2ff40e0",
+      "category": "Siber Güvenlik",
+      "title": "LiteLLM Dağıtım Hattına Sızan Bilgisayar Korsanları Bilgi Çalan Zararlı Yazılım Yaydı",
+      "summary": "Popüler açık kaynaklı yapay zekâ ağ geçidi LiteLLM'in dağıtım hattı hacklenerek PyPI ve Docker platformlarına kimlik bilgilerini çalan zararlı yazılım içeren sürüm yüklendi. Saldırıdan 1.107.0 sürümü etkilenirken, geliştiriciler temiz olan 1.106.2 sürümüne dönülmesini tavsiye etti.",
+      "why": "Aylık 92 milyon indirmeye sahip kritik bir yapay zekâ kütüphanesinin dağıtım hattı ele geçirilerek doğrudan kimlik ve gizli anahtar hırsızlığı yapan bir tedarik zinciri saldırısı gerçekleştirilmiştir.",
+      "event_key": "litellm-pypi-tedarik-zinciri-saldirisi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "PyPI üzerinde aylık 92 milyon indirilen LiteLLM'in sürüm hattına sızılarak 1.107.0 sürümüne bilgi çalan zararlı yazılım yerleştirildiği proje ekibince doğrulanmıştır."
+      },
+      "brief": "LiteLLM açık kaynak projesinin sürüm hattına sızan saldırganlar, ortam değişkenlerini ve kimlik bilgilerini çalan 1.107.0 sürümünü PyPI ve Docker'a yükledi. Kötü amaçlı paket kaldırıldı; kullanıcılara temiz sürüme geçmeleri ve verilerini yenilemeleri bildirildi.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "source_published_at": "2026-10-22T15:12:51-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/22/LiteLLM.jpg",
+      "body": [
+        "Farklı sağlayıcıların yapay zekâ modellerine ortak bir API üzerinden erişim sağlayan açık kaynaklı Python SDK'sı LiteLLM, kritik bir tedarik zinciri saldırısına uğradı. Geliştiriciler, projenin sürüm dağıtım hattının 21 Ekim'de ele geçirildiğini ve saldırganların PyPI ile Docker kayıtlarına kimlik bilgilerini çalan ve uzaktan kod çalıştırma araçları barındıran 1.107.0 sürümünü yüklediğini bildirdi.",
+        "Saldırganların LiteLLM'in uygulama koduna dokunmadığı, sadece kurulum paketini değiştirerek Python kütüphane dizinine cook.pth, cook.py ve sitecustomize.py isimli üç kötü amaçlı dosya yerleştirdiği tespit edildi. Güvenlik araştırmacıları, bu yapı nedeniyle Python her başlatıldığında veya inceleme amaçlı pip çalıştırıldığında dahi zararlı yüklerin devreye girdiğini aktardı. Çalınan verilerin şifrelenerek litellm[.]dev/healthcheck adresine aktarıldığı belirlendi.",
+        "Kötü amaçlı paketler platformlardan kaldırılırken, kurumsal özel sürümü kullanan müşterilerin bu olaydan etkilenmediği bildirildi. Etkilenen kullanıcılara mevcut dağıtımları Python yorumlayıcısını çalıştırmadan durdurmaları, sistemleri temiz yedeklerden yeniden kurmaları, sızdırılan tüm gizli anahtarları yenilemeleri ve bilinen son temiz sürüm olan LiteLLM 1.106.2'ye dönmeleri önerildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b5a5784932424c96a27d994c7d61239e512b3f580ca10dc0a530c653579a1027"
+    },
+    {
+      "id": "d8c2497a7a86b63b",
+      "category": "Bilim",
+      "title": "Moderna ve Merck'in Kişiselleştirilmiş mRNA Kanser Aşısı Melanom Riskini Yüzde 42 Azalttı",
+      "summary": "Moderna ve Merck, kişiselleştirilmiş mRNA kanser aşısının ileri evre Faz 3 denemesinde melanom hastalarında ölüm veya nüks riskini yüzde 42 oranında düşürdüğünü bildirdi. Şirketler, aşının onaylanması amacıyla düzenleyici kurumlarla görüşmelere başladı.",
+      "why": "Faz 3 klinik denemesinde ölümcül cilt kanseri türü melanomda nüks ve ölüm riskini belirgin biçimde azaltan ilk kişiselleştirilmiş mRNA aşısı olarak onay sürecine girmiştir.",
+      "event_key": "moderna-merck-mrna-kanser-asisi-faz3-sonuclari",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "1.137 hastalı Faz 3 klinik denemesinde melanom nüks veya ölüm riskini yüzde 42 azalttığı açıklanan ve düzenleyici onay sürecine taşınan aşı verisi doğrudan doğrulanmıştır."
+      },
+      "brief": "Moderna ve Merck tarafından geliştirilen kişiselleştirilmiş mRNA kanser aşısı intismeran, Faz 3 klinik denemesinde ameliyat edilmiş melanom hastalarında ölüm veya nüks riskini standart tedaviye kıyasla yüzde 42 azalttı. Şirketler aşı için onay başvuru sürecine geçiyor.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "source_published_at": "2026-10-22T22:12:19+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg",
+      "body": [
+        "İlaç üreticileri Moderna ve Merck, ameliyatla çıkarılmış evre IIB-IV melanom hastalarını kapsayan Faz 3 klinik çalışmasının temel sonuçlarını kamuoyuyla paylaştı. İntismeran (mRNA-4157) kodlu kişiselleştirilmiş aşı ile Merck'in monoklonal antikor tedavisi Keytruda'nın birlikte uygulandığı kombinasyonun, tek başına Keytruda kullanımına kıyasla ölüm veya nüks riskini yüzde 42 oranında azalttığı açıklandı.",
+        "Toplam 1.137 hastanın katıldığı çalışmada, iki yıllık takip sonucunda aşı ve Keytruda kombinasyonunu alan gruptaki hastaların yüzde 82'si nükssüz şekilde yaşamını sürdürürken, yalnızca Keytruda ve plasebo alan grupta bu oran yüzde 70 olarak ölçüldü. Uzak metastaz veya ölüm riskinde ise yüzde 38'lik bir azalma kaydedildi; kombinasyon grubunda uzak metastaz olmaksızın hayatta kalma oranı yüzde 88,5, kontrol grubunda ise yüzde 80 oldu. Şirketler, elde edilen bu sonuçların ardından aşıyı onaylatmak üzere düzenleyici kurumlara başvuru sürecini başlattı.",
+        "Kişiselleştirilmiş aşı, hastanın kendi tümör hücrelerinde bulunan ve 34'e kadar ulaşabilen özel genetik mutasyonları hedefleyecek sentetik mRNA içeriyor. Sonuçların Madrid'deki Avrupa Tıbbi Onkoloji Derneği kongresinde sunulması planlanıyordu; ancak ambargonun delinmesi üzerine veriler erken duyuruldu. Araştırmanın tam metninin New England Journal of Medicine dergisinde yayımlanması kabul edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "10e7946e255caadc48f242788353d9c0840deedf37f382fe6792c74203f06d37"
+    },
+    {
+      "id": "1e6095c6e828de75",
+      "category": "Siber Güvenlik",
+      "title": "Capcom'da Veri İhlali: 11,7 Milyon Kullanıcı Hesabı Etkilendi",
+      "summary": "Japon oyun şirketi Capcom, CAPCOM ID üyelik sistemine yetkisiz erişim sağlandığını ve 11,7 milyondan fazla müşterinin e-posta adresi ile hesap verilerinin sızdırıldığını doğruladı. Kredi kartı bilgilerinin ve diğer üyelerin şifrelerinin etkilenmediği açıklandı.",
+      "why": "Resident Evil ve Monster Hunter gibi büyük yapımların sahibi olan şirketin merkezi kimlik sisteminde 11,7 milyondan fazla müşteri hesabını kapsayan doğrulanmış bir veri sızıntısı yaşanmıştır.",
+      "event_key": "capcom-id-11-milyon-hesap-veri-ihlali",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Capcom, CAPCOM ID platformunda 11,7 milyon hesaba ait e-posta ve oturum verilerini etkileyen ihlali resmen duyurmuş ve adli bildirimleri tamamlamıştır."
+      },
+      "brief": "Capcom, CAPCOM ID sistemine yapılan yetkisiz erişim sonucu 11,7 milyondan fazla müşterinin e-posta ve oturum bilgilerinin sızdırıldığını açıkladı. Şirket, şifrelerin ve kredi kartı verilerinin güvende olduğunu, çevrim içi hizmetlerin aksamadığını bildirdi.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "source_published_at": "2026-10-22T16:22:45-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/22/capcom.jpg",
+      "body": [
+        "Japon video oyunu geliştiricisi Capcom, çevrim içi oyunlara ve web hizmetlerine erişim sağlayan CAPCOM ID altyapısına yönelik bir siber saldırı gerçekleştiğini duyurdu. Şirket, sistemde tespit edilen yetkisiz erişim neticesinde 11,7 milyondan fazla müşterinin e-posta adresi, hesap oluşturma tarihi, son giriş zamanı, giriş sayısı ve son girişteki IP adresinin ele geçirildiğini bildirdi.",
+        "İncelemeler kapsamında, 43 kişilik sınırlı bir kullanıcı grubunun doğum tarihi, cinsiyet, takma ad ve ülke bilgilerinin de açığa çıktığı saptandı. Ayrıca saldırganların 196 hesabın şifresini değiştirerek kullanıcıları engellemeye çalıştığı, ancak şirketin müdahale ederek bu şifreleri sıfırladığı kaydedildi. Capcom, bu küçük grup dışındaki kayıtlı üyelerin şifrelerinin sızdırılmadığını ve kredi kartı bilgilerinin olaydan kesinlikle etkilenmediğini vurguladı.",
+        "Şüpheli etkinliği 19 Ekim'de saptayan şirket, müşteri verilerinin etkilendiğini 20 Ekim'de teyit etti ve 21 Ekim'de durumu polise ile Japonya Kişisel Bilgileri Koruma Komisyonuna bildirdi. Çevrim içi servislerin çalışmaya devam ettiği, etkilenen kullanıcıların kademeli olarak bilgilendirileceği ve olası şüpheli e-postalara karşı dikkatli olunması gerektiği ifade edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "050caa7d57f167c924fc358bf5f685f77d35b575dabc9702257ff3e8cd896184"
+    },
+    {
+      "id": "080e7241fa8f3af2",
+      "category": "Yazılım",
+      "title": "The Browser Company Arc Tarayıcısını 22 Aralık'ta Kapatıyor",
+      "summary": "The Browser Company, özgün tasarımıyla tanınan Arc tarayıcısının fişini 22 Aralık 2026 tarihinde çekeceğini ve odağını yapay zekâ merkezli yeni tarayıcısı Dia'ya kaydıracağını bildirdi. Kapatma sürecinin kademeli olarak yürütüleceği açıklandı.",
+      "why": "Yenilikçi arayüzüyle bilinen Arc tarayıcısının kapatılması, kullanıcı verilerinin silinecek olması ve geliştirici ekibin tüm kaynaklarını yeni bir yapay zekâ tarayıcısına yönlendirmesi açısından önemlidir.",
+      "event_key": "the-browser-company-arc-tarayici-sonlandirma-dia",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "The Browser Company, Arc tarayıcısını 22 Aralık 2026'da kapatacağını, veri silme takvimini ve Dia'ya geçiş sürecini resmi olarak duyurmuştur."
+      },
+      "brief": "The Browser Company, tasarım odaklı Arc tarayıcısını 22 Aralık 2026 itibarıyla tamamen sonlandıracağını açıkladı. Şirket, yapay zekâ çağında tarayıcı güvenliğini sağlamanın yüksek maliyetleri nedeniyle tüm odağını Dia isimli yeni tarayıcısına aktaracak.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "source_published_at": "2026-10-22T20:01:51+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/arc-search-call.png?resize=1200,675",
+      "body": [
+        "The Browser Company, kendine has dikey sekme ve arayüz yapısıyla tanınan Arc tarayıcısını 22 Aralık 2026 tarihinde tamamen sonlandıracağını duyurdu. Şirket, kullanıcılarını yapay zekâ odaklı yeni ürünü Dia'ya yönlendirirken, kararın arkasında yapay zekâ çağında bir tarayıcının güvenlik standartlarını korumanın getirdiği yüksek maliyetlerin bulunduğunu açıkladı.",
+        "Kapatma takvimi üç aşamada gerçekleşecek. Perşembe günü itibarıyla yeni Arc hesabı açılışları durduruldu. 23 Kasım'da iOS ve Android üzerindeki Arc Search uygulaması \"Browse for Me\" de dâhil tüm yapay zekâ işlevlerini, oturum açma ve sekme eşitleme özelliklerini yitirecek. 22 Aralık'ta ise Arc, Mac ve Windows sistemlerinde tamamen çalışmayı durduracak; hesaplar kapatılacak, kişisel veriler 30 gün içinde silinecek ve uygulama Google Play Store'dan kaldırılacak.",
+        "Kullanıcıların Arc'ın açık kaynak kodlu hale getirilmesi yönündeki taleplerine değinen Üst Yönetici Josh Miller, Arc'ın Dia'ya da güç veren şirket içi mülkiyetindeki Arc Development Kit (ADK) üzerine kurulu olduğunu ve bu mülkiyeti korumak zorunda olduklarını hatırlattı. Dia'ya geçiş yapan kullanıcılara dikey sekmeler, profiller ve yer imleri gibi temel Arc özelliklerinin korunacağı taahhüt edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e14c3d374551ea6b5e6070954b18eefaed06b8103fc8f274b0205d84164b2c92"
+    },
+    {
+      "id": "264af0525447e45c",
+      "category": "Yazılım",
+      "title": "1Password Yapay Zekâ Ajanları İçin Parolasız Giriş Aracını Tanıttı",
+      "summary": "Parola yöneticisi 1Password, yapay zekâ asistanlarının kullanıcıların kişisel şifrelerini görmeden hesaplara giriş yapmasını sağlayan yeni aracını kullanıma sundu. Sistem, kullanıcının onayıyla dijital anahtarlar üzerinden güvenli erişim imkânı tanıyor.",
+      "why": "Yapay zekâ asistanlarının yaygınlaşmasıyla artan kontrolsüz kimlik paylaşımı riskine karşı, kullanıcı şifrelerini ifşa etmeden işlem yapabilen doğrudan bir güvenlik çözümü sunulmuştur.",
+      "event_key": "1password-for-agents-yapay-zeka-giris-sistemi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "1Password, kullanıcı şifrelerini açık etmeden yapay zekâ ajanlarına oturum açma yetkisi veren yeni kurumsal aracını resmi olarak piyasaya sürmüştür."
+      },
+      "brief": "1Password, yapay zekâ asistanlarının kullanıcı hesaplarına şifreleri doğrudan öğrenmeden erişmesini sağlayan yeni platformunu tanıttı. Kullanıcı onayıyla çalışan sistem, bankaların hesaplarda artan yapay zekâ hareketliliğinden tedirgin olduğu bir dönemde devreye alındı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source_published_at": "2026-10-22T19:07:09+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+      "body": [
+        "Parola yöneticisi 1Password, tüketicilerin kişisel hesap giriş bilgilerini yapay zekâ asistanlarıyla doğrudan paylaşmak zorunda kalmasını önleyen \"1Password for Agents\" adlı yeni platformunu duyurdu. Bu araç sayesinde otonom ajanlar, kullanıcının gerçek parolalarını görmeden ve saklamadan hesaplara erişim sağlayıp verilen görevleri tamamlayabiliyor.",
+        "Sistem, yapay zekâ ajanı, kullanıcı ve parola yöneticisi arasında özel bir iletişim mekanizması kurarak çalışıyor. Asistan bir hesaba giriş yapmak istediğinde, 1Password'a kimliğini doğrulayan benzersiz bir dijital anahtar gönderiliyor. Kullanıcı cephesine düşen bildirim onaylandığı takdirde 1Password kimlik bilgilerini otomatik olarak forma doldurarak aracın oturum açmasına izin veriyor.",
+        "Yeni çözüm Anthropic bünyesindeki Claude Duet, OpenAI'ın Dots ve ChatGPT Work çözümleri, Grok Bot, Meta'nın Muse sistemi ve Town platformuna ait ajanları destekliyor. Gelişme, ABD bankalarının kullanıcı hesaplarında nedeni ve yetkilendirmesi belirsiz yapay zekâ hareketleri saptadığı ve endişe duyduğu bir döneme denk geldi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "fbf2e8764725f35e30f1bbb1ad104c4d8b21b439e195b13a924473db0b16faf3"
+    },
+    {
+      "id": "98516d3e7e04cfcd",
+      "category": "Siber Güvenlik",
+      "title": "Zayıf Özel Anahtar Fiyaskosu Sonrası eMudhra TLS Pazarından Çekiliyor",
+      "summary": "Hindistan merkezli sertifika yetkilisi eMudhra, kolayca kırılabilecek aşırı zayıf özel anahtarlara sahip ara TLS sertifikaları üretmesinin ardından küresel SSL/TLS pazarından çekileceğini duyurdu. Şirket, zayıflığın anahtar üretim törenindeki betik hatasından ve insan faktöründen kaynaklandığını bildirdi.",
+      "why": "Web siteleri ve istemciler için sahte sertifikalar üretilmesine olanak tanıyan bu kriptografik hata, küresel internet güvenlik ekosistemindeki güven zincirinin zedelenmesine yol açmıştır.",
+      "event_key": "emudhra-ssl-tls-sektorunden-tamamen-cekilme",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Aşırı zayıf özel anahtarlar yayımlayan eMudhra'nın tarayıcılar tarafından engellenmesi ve ardından küresel SSL/TLS faaliyetlerini sonlandırma kararı alması belgelenmiştir."
+      },
+      "brief": "Sertifika sağlayıcısı eMudhra, tahmin edilmesi son derece kolay zayıf anahtarlarla ara sertifikalar yayımlamasının ardından küresel TLS faaliyetlerini sonlandırma kararı aldı. Şirket, kural uyum maliyetleri ve gelirinin yalnızca yüzde birini oluşturan pazarın getirdiği yoğun eleştirileri gerekçe gösterdi.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "source_published_at": "2026-10-22T20:17:52+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
+      "body": [
+        "Sertifika otoritesi eMudhra, herhangi bir web sitesi veya e-posta sunucusu için sahte kimlik oluşturulmasına imkân tanıyan son derece zayıf sekiz adet ara TLS sertifikası üretmesinin ardından küresel SSL/TLS pazarından çıktığını duyurdu. Araştırmacıların ortaya çıkardığı krizde, NIST P-384 standartlarına göre 384 bitlik entropiye sahip olması gereken özel anahtarların sadece 3 ila 8 bit büyüklüğünde kaldığı ve değerlerinden birinin yalnızca 4 olduğu belirlenmişti.",
+        "Şirket Yönetim Kurulu Başkanı V. Srinivasan, TLS faaliyetlerinin toplam gelirlerinin yalnızca yüzde 1'ini oluşturduğunu, artan uyum maliyetleri ve ücretsiz sertifika sağlayıcılarının piyasadaki varlığı nedeniyle yatırım getirisinin düştüğünü belirtti. Şirket, sosyal medyada oluşan tepkilerin ve denetimlerin bu iş kolunun finansal büyüklüğüyle orantısız hale geldiğini, bu yüzden yönetim kurulunun pazardan tamamen çekilme kararı aldığını açıkladı.",
+        "Hatanın kaynağına ilişkin açıklama yapan eMudhra, 30 Nisan 2025 tarihinde FIPS 140-2 Seviye 3 Donanım Güvenlik Modülleri (HSM) üzerinde gerçekleştirilen Anahtar Üretim Töreni'ndeki (KGC) bir betik hatasına işaret etti. Test amaçlı yapılan bir işlem sırasında kod kusuru nedeniyle zayıf anahtar çiftleri türetildi ve etiket benzerliği yüzünden bu kusurlu anahtarlar kök sertifika tarafından imzalanarak tarayıcılara sunuldu. Tarayıcı üreticileri sertifikaları engellerken, eMudhra tüm süreçlerin yeniden denetleneceğini duyurdu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f18f6b144e56fcd6e510c14f578dae2ad6fdee03dddd93fbe940a72cafbc7d11"
+    },
+    {
+      "id": "ea40ccd76acf9cc8",
+      "category": "Siber Güvenlik",
+      "title": "Bulut Sağlayıcısı Railway'de Güvenlik Uyarısı: Ortam Değişkenleri İhlal Edildi",
+      "summary": "Bulut barındırma platformu Railway, müşteri ortam değişkenlerini saklayan sistemlerinde şüpheli hareketler tespit ettiğini açıkladı. Şirket, şifresi çözülmüş gizli verilere yetkisiz kişilerin erişmiş olabileceğini belirterek tüm kullanıcılara kimlik bilgilerini yenileme çağrısında bulundu.",
+      "why": "Platformda barındırılan 16 milyondan fazla servise ait API anahtarları ile veritabanı kimlik bilgilerinin ifşa edilmiş olma riski geliştiricilerin sistem güvenliğini doğrudan tehdit etmektedir.",
+      "event_key": "railway-bulut-platformu-veri-ihlali-uyarisi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 3,
+        "reason": "4,8 milyon kullanıcıyı ve 16 milyondan fazla servisi barındıran Railway'de ortam değişkenleri ifşa riskiyle karşı karşıya kalmış ve dağıtımlar geçici olarak durdurulmuştur."
+      },
+      "brief": "Bulut barındırma platformu Railway, müşteri ortam değişkenlerini saklayan sistemlerde şüpheli hareketler belirledi. Yetkisiz üçüncü tarafların çözülmüş anahtarlara erişmiş olabileceğini duyuran şirket, tüm geliştiricilerden API ve veritabanı kimlik bilgilerini derhal yenilemelerini istedi.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "source_published_at": "2026-10-22T17:25:31-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/22/railway.jpg",
+      "body": [
+        "Bulut barındırma sağlayıcısı Railway, müşteri ortam değişkenlerinin saklandığı altyapıda şüpheli etkinlikler fark etmesi üzerine kullanıcılarına yönelik acil bir güvenlik bildirimi yayımladı. 4,8 milyon kullanıcıya ve 16 milyondan fazla servise ev sahipliği yapan platform, yetkisiz bir üçüncü tarafın şifrelenmiş ortam değişkenlerine ulaştığını ve bazı durumlarda bu verilerin çözülmüş içeriklerini ele geçirmiş olabileceğini kaydetti.",
+        "Şirket, ortam değişkenlerinin API anahtarları, veritabanı ve kayıt defteri giriş bilgileri gibi hassas kimlik verilerini barındırdığını vurguladı. Bu olayın doğrudan yapay zekâ çıkarım sağlayıcılarını hedef alan saldırı dalgasının bir parçası olduğu ifade edildi. Railway uygulamalarına yanıt üreten bu tür ortak sağlayıcılara bildirim gönderilerek tüm anahtarlarını önlem amacıyla iptal etmeleri istendi.",
+        "İlk incelemeler kullanıcıların yalnızca bir kısmının doğrudan etkilendiğini gösterse de Railway, tüm kullanıcıların gizli anahtarlarını, özel kayıt defteri şifrelerini gecikmeksizin yenilemelerini ve sistem günlüklerini incelemelerini tavsiye etti. Soruşturma süresince yeni sürümlerin devreye alınması durdurulurken, Pro ve Enterprise çalışma alanları için derleme işlemleri başlatıldı; Hobby, Free ve Trial katmanlarının ise sırayla açılacağı açıklandı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d4e924d14c7c3c1c252f48f564a92e1678852b6fcde9448ff23daaa759575450"
+    },
+    {
+      "id": "0e6b7b9249b2f756",
+      "category": "Yapay Zekâ",
+      "title": "OpenAI 1,25 Trilyon Dolar Değerleme Üzerinden 30 Milyar Dolarlık Yeni Yatırım Turu Planlıyor",
+      "summary": "OpenAI'ın halka arz öncesinde Coatue ve Birleşik Arap Emirlikleri merkezli yatırımcıların liderliğinde 1,25 trilyon dolar değerleme üzerinden 30 milyar dolara kadar yeni finansman sağlamak için görüştüğü bildirildi. Anlaşma şartlarının henüz kesinleşmediği ve müzakerelerin sürdüğü aktarıldı.",
+      "why": "Gerçekleşmesi halinde özel sektörde trilyon dolar sınırını aşan rekor bir finansman turu oluşturacak ve yapay zekâ pazarındaki değerleme dinamiklerini doğrudan etkileyecektir.",
+      "event_key": "openai-30-milyar-dolar-yeni-yatirim-turu",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Haber, OpenAI'ın 1,25 trilyon dolar değerleme üzerinden 30 milyar dolarlık yatırım için müzakere yürüttüğüne dair kaynak iddialarına dayanmakta olup koşullar henüz kesinleşmemiştir."
+      },
+      "brief": "OpenAI'ın halka arzdan önce 1,25 trilyon dolar değerleme üzerinden 30 milyar dolarlık yeni bir yatırım arayışında olduğu bildirildi. Coatue ve Birleşik Arap Emirlikleri kaynaklı yatırımcıların yer aldığı turda şartların henüz müzakere edildiği belirtiliyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source_published_at": "2026-10-22T22:08:24+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "body": [
+        "ChatGPT geliştiricisi OpenAI'ın, halka arza gitmeden önce 1,25 trilyon dolarlık yatırım öncesi değerlemeyle 30 milyar dolara kadar yeni bir özel finansman sağlamaya yakın olduğu öne sürüldü. CNBC'nin konuya yakın kaynaklara dayandırdığı habere göre, söz konusu yatırım turuna Coatue ve Birleşik Arap Emirlikleri'nden yatırımcılar öncülük ediyor.",
+        "Haberde, Birleşik Arap Emirlikleri'nden sağlanacak finansmanın OpenAI için ek bilgi işlem kapasitesi temin edilmesini kapsayan bir anlaşmayla birleştirilebileceği belirtildi. Ancak hem Bloomberg'in daha önce işaret ettiği 1,4 trilyon dolarlık değerleme iddiasına hem de CNBC'nin aktardığı bilgilere göre müzakereler devam ediyor ve koşulların değişebileceği vurgulanıyor. OpenAI ise konuya ilişkin yorum yapmaktan kaçındı.",
+        "Finansman turunun 1 trilyon doların üzerinde bir değerlemeyle tamamlanması durumunda OpenAI, bugüne kadarki en yüksek değere sahip özel şirket unvanını alacak. Haziran ayında gizli halka arz başvurusu yapan şirket, en son Mart ayındaki finansman turunda 852 milyar dolar değerlemeye ulaşmıştı. Sektördeki bu olası değerleme artışının, halka arz başvurusunu yakında kamuoyuna açması beklenen rakip yapay zekâ şirketi Anthropic'in hedeflerini de etkileyebileceği değerlendiriliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "5d4c7822b74548d18ce35090ee92df9ae18901401fc790773b846fbe053ebbcb"
+    },
+    {
+      "id": "1fd5dc2d57e90394",
+      "category": "Yapay Zekâ",
+      "title": "Canva Kendi Görüntü Üretim Modeli Canva Craft'ı Duyurdu",
+      "summary": "Tasarım platformu Canva, kendi araştırma ekibinin geliştirdiği ilk görüntü üretim modeli Canva Craft'ı kullanıma sundu. Model, şablon tasarımlarından öğrenerek 2K çözünürlüğe kadar ve 30 farklı en-boy oranında katmanlı tasarımlara dönüştürülebilir görseller üretiyor.",
+      "why": "Platformun harici yapay zekâ modellerine olan bağımlılığını ve API maliyetlerini azaltırken, kullanıcılara doğrudan katmanlı düzenlenebilir grafik üretim kabiliyeti sunuyor.",
+      "event_key": "canva-craft-iki-asamali-gorsel-uretim-modeli",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Canva'nın kendi kütüphanesindeki şablonlarla eğiterek geliştirdiği ilk görüntü üretim modeli Canva Craft'ın özellikleri ve dağıtım planı resmi açıklamalarla doğrulanmıştır."
+      },
+      "brief": "Canva, doğrudan şablon kütüphanesinden eğitilen ilk görüntü üretim modeli Canva Craft'ı kullanıma açtı. İki aşamalı çalışan model, 2K çözünürlüğe kadar üretim yapabiliyor ve Canva Magic aracıyla katmanlı tasarımlara dönüştürülebiliyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source_published_at": "2026-10-22T19:00:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+      "body": [
+        "Tasarım platformu Canva, Google, OpenAI, ByteDance ve Meta gibi rakiplerin benzer ürünleriyle rekabet etmek amacıyla geliştirdiği ilk görüntü üretim modeli Canva Craft'ı piyasaya sürdü. Modelin geliştirilmesinde, şirketin 2024 yılında satın aldığı Leonardo.ai ekibinden araştırmacıların da yer aldığı açıklandı.",
+        "İki aşamalı bir mimariyle çalışan sistem, ilk aşamada kullanıcının metin komutunu yorumlayarak nesnelerin uzamsal ilişkilerini, hiyerarşisini ve metin yerleşimlerini planlıyor. İkinci aşamada ise 30 farklı en-boy oranında ve 2K çözünürlüğe kadar görsel oluşturuyor. Modelin eğitiminde fotoğraflar yerine Canva kütüphanesindeki poster, menü, sunum ve infografik gibi insan elinden çıkmış şablonlar kullanıldı. Bu sayede üretilen görseller Canva Magic aracıyla katmanlı tasarımlara dönüştürülebiliyor.",
+        "Canva Craft, platformdaki tüm kullanıcılara Dream Lab sekmesi üzerinden açıldı ve ayrıca Canva API'si aracılığıyla da erişilebilecek. Şirket, Craftfast ve Craft-ultrafast adını verdiği iki düşük maliyetli sürüm üzerinde çalıştığını ve bunları yakında yayınlayacağını duyurdu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "605823d23d8004221f66050cc1142167dc9fe78c87671c0e7857bc9fa37c6e4b"
+    },
+    {
+      "id": "243b751a9574a173",
+      "category": "Uzay",
+      "title": "ABD, Rus Askeri Uydusunun Ticari Uyduya Tehlikeli Şekilde Yaklaştığını Açıkladı",
+      "summary": "ABD Dışişleri Bakanlığı yetkilileri, Rus askeri uydusu Kosmos 2612'nin yörüngedeki bir ticari radar uydusuna tehlikeli biçimde yaklaştığını belirterek bu hareketi uzay silahı faaliyeti olarak nitelendirdi. Rusya ise faaliyetin tamamen barışçıl olduğunu savundu.",
+      "why": "Alçak Dünya yörüngesindeki askeri ve ticari uydular arasındaki gerilimi artırırken uzayda silahlanma ve güvenlik eşikleri konusundaki uluslararası tartışmaları derinleştiriyor.",
+      "event_key": "abd-rus-askeri-uydusu-kosmos-2612-tehdidi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "ABD'nin BM oturumunda Rus askeri uydusunun ticari bir uyduya tehlikeli yaklaşımını uzay silahı faaliyeti olarak nitelemesi ve tarafların resmi açıklamaları teyitli olgulara dayanmaktadır."
+      },
+      "brief": "ABD yetkilileri, Rusya'ya ait Kosmos 2612 uydusunun Ukrayna'ya destek veren bir ticari gözetleme uydusuna tehlikeli yakınlaşmasını uzay silahı operasyonu olarak nitelendirdi. Rusya ise iddiaları asılsız bularak faaliyetlerinin barışçıl olduğunu savundu.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/",
+      "source_published_at": "2026-10-22T18:29:39+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg",
+      "body": [
+        "Birleşmiş Milletler Genel Kurulu Birinci Komitesi'nde konuşan ABD Dışişleri Bakanlığı yetkilisi Brian Hardesty, Rusya Savunma Bakanlığı'na ait Kosmos 2612 askeri uzay aracının geçen hafta sonu ABD kayıtlı bir ticari uyduya kasıtlı olarak tehlikeli mesafede yaklaştığını duyurdu. Hardesty, bu eylemin yörüngede bir silah operasyonuyla tutarlı olduğunu ve güvenlik eşiklerini ihlal ettiğini ifade etti.",
+        "Yaklaşmanın hedefi olan ICEYE-X36 uydusu, Fin uzaktan algılama şirketi ICEYE'nin ABD iştirakine ait bir radar gözetleme uydusu olarak biliniyor ve Ukrayna'nın gözetleme çabalarına destek sağlıyor. Yörünge istihbarat şirketi LeoLabs, Rus uydusunun hedefine 500 metreye kadar yaklaştığını bildirirken, ABD Silahsızlanma Konferansı Daimi Temsilci Yardımcısı Jessup Taylor mesafenin 100 feet'e (yaklaşık 30 metre) kadar inmiş olabileceğini öne sürdü. Araç herhangi bir atış yapmadan uzaklaştı.",
+        "Rusya'nın BM heyeti başkan yardımcısı Konstantin Vorontsov ise ABD ve Avrupalı yetkililerin endişelerini asılsız olarak nitelendirerek, Kosmos 2612 dahil olmak üzere ülkesinin uzaydaki tüm faaliyetlerinin tamamen barışçıl olduğunu savundu. Vorontsov 2022 yılında, Ukrayna ordusuna yardım eden Batılı ticari uzay altyapılarının misilleme saldırıları için meşru hedef olabileceğini ifade etmişti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b98a9b3408c7f04d14e7b56cbc65880b642089d4a5f512c53e1ca78754583979"
+    },
+    {
+      "id": "9053b1f287d8b411",
+      "category": "Yapay Zekâ",
+      "title": "OpenAI Karar Modelleri Pazarına Decisions API ile Giriş Yaptı",
+      "summary": "OpenAI, seçenekler arasında hızlı sınıflandırma ve seçim yapabilen Decisions API modelini genel erişime açtı. Luna modelinin hızlandırılmış bir yapılandırmasına dayanan sistem, büyük dil modellerine göre daha düşük gecikme ve maliyet hedefliyor.",
+      "why": "Hızlı ve ucuz sınıflandırma sağlayan karar modelleri pazarında TypeSafe gibi girişimlerle rekabeti artırırken iş akışlarında LLM maliyetlerini düşürme potansiyeli taşıyor.",
+      "event_key": "openai-decisions-api-jev-rekabeti",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "OpenAI'ın Decisions API'yi genel kullanıma açması, teknik optimizasyon ayrıntıları, müşteri denemeleri ve mevcut sektör endekslerindeki sıralamalar somut verilerle açıklanmıştır."
+      },
+      "brief": "OpenAI, seçenekler arasından hızla seçim yapabilen Decisions API modelini genel kullanıma sundu. Luna altyapısını kullanan sistem, gecikme süresini milisaniye seviyelerine çekerek büyük dil modellerine daha ucuz ve hızlı bir alternatif oluşturuyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source_published_at": "2026-10-22T19:00:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+      "body": [
+        "OpenAI, 29 Eylül tarihindeki geliştirici gününde duyurduğu Decisions API modelini tüm müşterilerinin erişimine açtı. TypeSafe şirketinin Jev modeliyle öncülük ettiği süper sınıflandırıcı karar modelleri pazarına dahil olan sistem, verilen seçenekler arasında hızlı seçim yaparak bir güven puanı üretiyor.",
+        "OpenAI API Ürün Lideri Nikunj Handa, ürün için sıfırdan özel bir model eğitmek yerine ChatGPT Luna'yı yeniden yapılandırarak çıkarım hızını artırdıklarını ve maliyeti düşürdüklerini söyledi. Handa, bu optimizasyonla işlem sürelerinin 1 ila 3 saniye aralığından 100-180 milisaniye seviyelerine indirildiğini belirtti. Genel sürüme ses ve görsel modaliteler eklenirken, gecikmeyi düşürmek için kaynaklar coğrafi olarak hedeflendi.",
+        "Modeli ilk deneyen şirketlerden Speak'in Teknoloji Direktörü Andrew Hsu, eylemler arası bekleme süresinin 1,4 saniyeden 0,13 saniyeye indiğini aktardı. Bağımsız kıyaslama testlerinden AIM System One Index ve Artificial Analysis Decision Index listelerinde Liquid'in D1 Ultra modeli önde yer alırken, OpenAI'ın modeli sırasıyla sekizinci ve on dördüncü sırada kendine yer buldu. Handa, gelecekte 60 milisaniye seviyelerine ulaşarak videolardaki her kare için API çağrısı yapılabileceğini öngördüklerini paylaştı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "deba82339e67e2371d18eccbf3cd906ae91f4ed8abb9232c2ac4b9e16fb97d41"
+    },
+    {
+      "id": "fee5d6bca690475f",
+      "category": "Yapay Zekâ",
+      "title": "Görevsiz Bırakılan Yapay Zekâ Ajanları Kendi Oyunlarını Geliştirdi",
+      "summary": "MIT araştırmacıları, sanal bir adada 30 saat boyunca serbest bırakılan yapay zekâ ajanlarının oyun benzeri davranışlar sergilediğini bildirdi. Hedefsiz ortamda keşif yapan bu ajanlar, daha sonra verilen görevlerde hiç adada bulunmamış benzerlerine kıyasla daha yüksek başarı gösterdi.",
+      "why": "Yapay zekâ modellerinin önceden belirlenmiş hedefler olmadan kendi kendine keşif yaparak robotik kontrol ve genel yetenekler geliştirebileceğini gösteren yeni bir eğitim yaklaşımına işaret ediyor.",
+      "event_key": "mit-eko-yapay-zeka-ajanlari-oyun-kesfi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "MIT araştırmacılarının hakem öncesi raporuna göre, görevsiz bırakılan yapay zekâ ajanlarının hedefsiz keşifle problem çözme becerisi kazanabildiği deneysel olarak incelenmiştir."
+      },
+      "brief": "MIT araştırmacılarının deneyinde, sanal adada hedefsiz bırakılan Claude Opus 4.7 tabanlı 13 yapay zekâ ajanı kendi oyunlarını üretti. Otuz saatlik serbest keşif sürecinden geçen ajanlar, daha sonra verilen görevlerde adayı önceden görmeyen benzerlerini geride bıraktı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source_published_at": "2026-10-23T00:45:37+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+      "body": [
+        "MIT araştırmacıları tarafından yürütülen ve henüz hakem değerlendirmesinden geçmeyerek arXiv üzerinde yayımlanan bir çalışmada, Claude Opus 4.7 modeliyle çalışan 'Eko' adlı 13 yapay zekâ ajanı simüle edilmiş ıssız bir adada 30 saat boyunca yalnız bırakıldı. Herhangi bir özel görev tanımlanmayan ajanlar, adadaki nesnelerle kendi denemelerini yaparak çevrelerini keşfetti.",
+        "Sanal adadaki serbest sürenin ardından ajanlara adanın en yüksek sivri kayasına mümkün olduğunca çok nesne taşımak gibi özel görevler verildi. Otuz saat boyunca kendi kendine keşif yapan Eko ajanları, adada hiç bulunmamış özdeş modellere göre genel olarak daha başarılı oldu. Deneyde bazı ajanlar blokları zıplama anında fırlatarak daha uzağa atmayı keşfetti; araştırmacılar bu dinamiği önceden planlamadıklarını ve modellerin sistem tasarımcılarının öngörmediği dünya bilgileri edindiğini belirtti.",
+        "Deney kurgusunda ajanlara oyun icat etmeleri doğrudan söylenmedi, ancak yönlendirici sistem dosyasında 'doğal olarak meraklı' oldukları tanımlandı. Ajanların sergilediği davranışların oyun olarak nitelendirilebileceğini savunan araştırmacılara karşılık UC Berkeley'den bilişsel bilimci Eunice Yiu, modellerin gerçekten oyun oynayıp oynamadığının makaledeki verilerle kesin olarak bilinemeyeceğini ve bilişsel süreçlere dair daha fazla kanıta ihtiyaç olduğunu ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "7c7759c5d625f0653b09e49863e738acf0b6191071b7d1308f61f539333bd56f"
+    },
+    {
+      "id": "5ad6cfcc6b70cfed",
+      "category": "Uzay",
+      "title": "NASA Güvenlik Panelinden Starship İçin 22 Fırlatmalı Yakıt İkmali Tahmini",
+      "summary": "NASA Havacılık Güvenliği Danışma Paneli, Artemis programı kapsamında Ay'a iniş yapacak Starship için yaklaşık 22 fırlatmayla yakıt ikmali gerekebileceğini bildirdi. SpaceX kurucusu Elon Musk ise bu tahminin çok yüksek olduğunu savunarak asıl sayının 6 ila 8 arasında gerçekleşeceğini öne sürdü.",
+      "why": "Artemis programının takvimi ve Starship tabanlı Ay iniş aracının uygulanabilirliği, yörüngede gereken fırlatma sayısına ve yakıt transfer süreçlerinin başarısına doğrudan bağlıdır.",
+      "event_key": "artemis-iv-starship-22-firlatma-tahmini",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "NASA güvenlik paneli üyesi Charlie Precourt'un toplantıda dile getirdiği 22 fırlatmalık tahmin ile Elon Musk'ın buna yönelik karşı açıklaması Artemis takvimi açısından kritik bir tartışmayı ortaya koymaktadır."
+      },
+      "brief": "NASA güvenlik paneli, Starship'in Ay inişini desteklemek için yörüngede yaklaşık 22 uçuşluk yakıt ikmali gerektirebileceğini açıkladı. Elon Musk ise bu tahmini reddederek gerçek sayının 6 ila 8 uçuş olacağını belirtti. NASA, 2028'de Ay'a iniş hedefliyor.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "source_published_at": "2026-10-22T21:52:31+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+      "body": [
+        "NASA Havacılık Güvenliği Danışma Paneli'nin üç aylık toplantısında, Artemis programı kapsamındaki riskler ele alındı. Panel üyesi ve eski NASA astronotu Charlie Precourt, özellikle Artemis IV görevi bağlamında iniş aracı için gereken çok sayıda yakıt ikmali uçuşuna dikkat çekti. Precourt, iniş aracının operasyonu için son tahminin yaklaşık 22 uçuş seviyesinde olduğunu ifade etti.",
+        "Açıklamada doğrudan isim verilmese de söz konusu tahminin SpaceX'in Starship aracını işaret ettiği belirtiliyor. Zira NASA'nın insanlı görevler için seçtiği diğer iniş aracı olan Blue Origin'in Blue Moon tasarımı, ilk aşamada yörüngede bu tür bir yakıt ikmali mimarisi kullanmıyor. Yörüngede bir yakıt deposunun doldurulması için gereken Starship fırlatma sayısı geçmişte Lisa Watson-Morgan tarafından 'tek hanelerin üstü ile çift hanelerin altı' şeklinde tarif edilmiş, zaman zaman da daha yüksek sayılar gündeme gelmişti.",
+        "Sosyal medya platformu X üzerinden değerlendirmede bulunan SpaceX kurucusu Elon Musk, NASA güvenlik panelinin tahminini gerçeği yansıtmadığı gerekçesiyle reddetti. Sayının fazlasıyla yüksek olduğunu belirten Musk, gerçek ihtiyacın 6 ila 8 uçuş civarında kalacağını savundu.",
+        "Yörüngede kriyojenik metan ile sıvı oksijenin kaynama oranları ve aktarım verimliliği belirsizliğini korurken, SpaceX'in haftada iki fırlatma hedefine 2027 sonuna kadar ulaşması durumunda dahi bir depoyu doldurmanın yaklaşık üç ay sürebileceği hesaplanıyor. NASA ise 2028 yılı için hedeflenen insanlı Ay inişi takvimini sürdürmek adına çalışmalarına devam ediyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "09a501f76a206c360dbfd94dadff07a6a79cbd88332628f2c90c0543479a4918"
+    },
+    {
+      "id": "78e4392f03ba41b6",
+      "category": "Bilim",
+      "title": "UC Berkeley'den Biyolojik Görüntülemede Çığır Açan Lazer Faz Plakası",
+      "summary": "Kaliforniya Üniversitesi Berkeley fizikçileri, kriyoelektron mikroskopisinde görüntü kontrastını artıran 75 kilovatlık odaklanmış sürekli dalga lazer faz plakası geliştirdi. Science dergisinde yayımlanan buluş, insan vücudundaki proteinlerin büyük kısmını oluşturan küçük moleküllerin ayrıntılı incelenmesinin önünü açıyor.",
+      "why": "Mevcut kriyoelektron mikroskoplarının insan proteomunun yaklaşık yüzde 90'ını oluşturan küçük proteinleri görüntülemekte yetersiz kalması, lazer faz plakası ile aşılmaktadır.",
+      "event_key": "uc-berkeley-elektron-mikroskobu-lazer-faz-plakasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 2,
+        "evidence": 4,
+        "reason": "Science dergisinde yayımlanan ve 15 yıllık geliştirme sürecine dayanan çalışma, kriyoelektron mikroskopisi ve tomografisinde küçük proteinlerin çözünürlük sınırını somut ölçümlerle düşürmüştür."
+      },
+      "brief": "UC Berkeley fizikçileri, elektron mikroskoplarında görüntü kontrastını artıran lazer faz plakası geliştirdi. 'Theia' adı verilen sistemle 50 kilodaltonluk küçük proteinler görüntülenebildi. Buluş, hücre içi moleküler etkileşimlerin analizini kolaylaştırmayı hedefliyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
+      "source_published_at": "2026-10-22T07:30:49-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/cryo-em-with-laser-phase-plate.webp",
+      "body": [
+        "Kaliforniya Üniversitesi Berkeley bünyesindeki fizikçiler, 1953'te Nobel Ödülü kazandıran ışık mikroskobundaki faz kontrastı ilkesini elektron mikroskopisine taşıyan bir lazer faz plakası tasarladı. Science dergisinde yayımlanan çalışma, kriyoelektron mikroskopisi (kriyo-EM) ve kriyoelektron tomografisinde (kriyo-ET) sinyal-gürültü oranını yükselterek hücre içerisindeki küçük moleküllerin çözünürlüğünü artırmayı amaçlıyor.",
+        "Geliştirilen sistem, aynalarla kaplı küresel bir oda içerisinde 10 binden fazla kez yansıtılarak birkaç mikronluk alana odaklanan 75 kilovatlık sürekli dalga lazerine dayanıyor. Numuneyi doğrudan aydınlatmak yerine mikroskobun elektron demetiyle etkileşime giren lazer, demetin fazını 90 derece kaydırarak numune ile arka plan arasındaki kontrastı güçlendiriyor.",
+        "Prof. Holger Müller liderliğindeki ekip, Biohub desteğiyle Thermo Fisher Krios mikroskobunu bu donanımla modifiye ederek 'Theia' adını verdikleri cihazı oluşturdu. Yapılan testlerde, kas proteini aldolazın yanı sıra mevcut yöntemlerin alt sınırında yer alan küçük hemoglobin proteini başarıyla görüntülendi. Geleneksel sistemlerin 70 kilodalton altındaki proteinlerde zorlandığı belirtilirken, lazer faz plakası ile bu sınır 50 kilodaltone kadar indirildi.",
+        "Projenin bir sonraki aşamasında, odaklanmış elektron demeti kullanılarak görüntüleme sınırının 17 kilodaltona çekilmesi hedefleniyor. Eşzamanlı olarak Biohub tesislerinde, optik bozulmaları ve bileşen yıpranmalarını önlemek amacıyla birbirine dik açılı iki lazer kullanan ikinci bir mikroskobun kurulum çalışmaları sürdürülüyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "37625e1f18b4d428ec393e55f10ba98e26c1f92152adc415497a804ac667a0b9"
+    },
+    {
+      "id": "88962b6c14789292",
+      "category": "Bilim",
+      "title": "Oxford Bilim İnsanları Virüslerin Kılavuzsuz Montaj Mekanizmasını Görüntüledi",
+      "summary": "Oxford Üniversitesi araştırmacıları, virüs benzeri parçacıkların molekül molekül birleşme sürecini kütle fotometrisi tekniğiyle gerçek zamanlı olarak izledi. Nature dergisinde yayımlanan çalışma, proteinlerin karmaşık kapsit yapılarını belirli kontrol noktaları ve deneme-yanılma mekanizmasıyla hatasız oluşturduğunu ortaya koydu.",
+      "why": "Virüslerin koruyucu protein kabuklarını dış müdahale olmadan nasıl inşa ettiğinin çözülmesi, virüs montajını bozan antiviral ilaçların ve aşı amaçlı parçacıkların geliştirilmesine zemin hazırlamaktadır.",
+      "event_key": "oxford-virus-protein-kabuk-kendiliginden-oluscum",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 2,
+        "evidence": 4,
+        "reason": "Nature'da yayımlanan çalışma, 60 protein biriminden oluşan parçacığın kütle fotometrisiyle doğrudan incelenmesine ve kendi kendine montaj kuralının aydınlatılmasına dayanmaktadır."
+      },
+      "brief": "Oxford Üniversitesi araştırmacıları, virüs benzeri parçacıkların kendi kendine montaj sürecini molekül düzeyinde kaydetti. Proteinlerin zayıf bağlar ve kararlı kontrol noktaları sayesinde hatasız yapılar kurduğu tespit edildi. Bulgular yeni aşı ve antiviraller için veri sağlıyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
+      "source_published_at": "2026-10-22T07:42:05-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/virus-like-particle-self-assembly.webp",
+      "body": [
+        "Oxford Üniversitesi'nden araştırmacılar, virüs benzeri parçacıkların harici bir yönlendirici mekanizma veya plan olmaksızın kendi kendilerine montaj sürecini tek tek molekül düzeyinde gözlemledi. Nature dergisinde yayımlanan bulgular, proteinlerin binlerce olası bağlantı yolu arasından doğru yapıları nasıl tutarlı bir biçimde oluşturduğunu gösterdi.",
+        "Laboratuvar ortamında 60 protein biriminden oluşan mühendislik ürünü bir parçacık incelendi. Araştırma ekibi, Oxford'da geliştirilen ve saçılan ışığı ölçerek tek tek moleküllerin kütlesini belirleyen kütle fotometrisi tekniğini kullandı. Moleküllerin sınırlandırılmasına yönelik yeni bir yaklaşımla birleştirilen bu yöntem, büyüyen parçacığın kütlesini yeni proteinler eklendikçe kesintisiz biçimde ölçmeyi ve süreci doğrudan video kaydı gibi izlemeyi sağladı.",
+        "Elde edilen verilere göre proteinler ilk aşamada zayıf bağlar kuruyor ve hatalı birleşimler kalıcı bozulmaya yol açmadan kolayca ayrılabiliyor. Bu esneklik, moleküllerin doğru kapalı düzeni bulana kadar deneme yapmasına imkan tanıyor. Beş büyük protein bloğunun bir araya gelerek oluşturduğu kapalı beşgen halka, ilk kararlı yapıyı meydana getiriyor. Çekirdeklenme adı verilen bu zorlu ilk aşamanın ardından, sonraki adımlarda daha az blok gerekmesi sayesinde büyüme belirgin biçimde hızlanıyor.",
+        "Araştırmacılar, elde edilen bulguların sadece virüslerin koruyucu kılıfları olan kapsitlerin oluşumunu engellemeye yönelik antiviral tedavilerde değil, aynı zamanda aşı tasarımlarında ve biyolojideki genel kendi kendine montaj süreçlerinin aydınlatılmasında da kullanılabileceğini bildirdi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8e9d1bcab04197afffcbd4283733b52a52d5879886c22d8d5239597494271438"
+    }
+  ],
+  "summary": {
+    "file": "teknoloji/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 8,
+    "duration": 282.6,
+    "bytes": 1695600,
+    "sha256": "932dc7684e9824019ccee78544886794c111b1703f2c370257dd1c725d21a8c5"
+  },
+  "podcast": {
+    "file": "teknoloji/podcast.mp3",
+    "title": "Yeni Sekme",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 8,
+    "duration": 729.9,
+    "bytes": 11679495,
+    "sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8"
+  },
+  "audio_revision": 5
+}
