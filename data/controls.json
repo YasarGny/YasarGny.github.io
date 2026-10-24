@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "podcasts": {
+    "teknoloji": true,
+    "oyun": true
+  }
+}
