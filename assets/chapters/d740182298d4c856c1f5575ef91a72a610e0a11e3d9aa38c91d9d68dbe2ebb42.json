@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 9.58,
+      "title": "OpenAI'ın Canlı İnternet Üzerinden Model Eğitimini Durdurması"
+    },
+    {
+      "start": 69.98,
+      "title": "Birleşik Krallık Ulusal Yapay Zekâ Biyogüvenlik Laboratuvarı"
+    },
+    {
+      "start": 126.5,
+      "title": "Google Gizlilik Politikası ve Kişisel Zekâ Güncellemesi"
+    },
+    {
+      "start": 194.6,
+      "title": "Yunanistan'da 15 Yaş Altına Sosyal Medya Yasağı"
+    },
+    {
+      "start": 259.22,
+      "title": "Terk Edilmiş Popcorn Time Açığının Uzaktan Kapatılması"
+    },
+    {
+      "start": 323.38,
+      "title": "PHP İçin Yamasız RCE Açığına Geçici Önlem"
+    },
+    {
+      "start": 361.84,
+      "title": "Quest Diagnostics Hasta Verileri İhlali"
+    },
+    {
+      "start": 385.18,
+      "title": "NASA Artemis Ay İniş Mimarisi ve Takvim Güncellemeleri"
+    },
+    {
+      "start": 485.72,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "dfe5fb536ca517ba",
+      "start": 9.58,
+      "end": 69.64
+    },
+    {
+      "story_id": "3a411ea5e3414a5b",
+      "start": 69.98,
+      "end": 126.08
+    },
+    {
+      "story_id": "7be3008f9053e2be",
+      "start": 126.5,
+      "end": 194.2
+    },
+    {
+      "story_id": "a744f36c6d65bb8b",
+      "start": 194.6,
+      "end": 258.72
+    },
+    {
+      "story_id": "a5d4387518b81efb",
+      "start": 259.22,
+      "end": 323.38
+    },
+    {
+      "story_id": "d32d82b9d6777801",
+      "start": 323.38,
+      "end": 361.48
+    },
+    {
+      "story_id": "5d9f1f66a499403a",
+      "start": 361.84,
+      "end": 384.7
+    },
+    {
+      "story_id": "94538d593663829e",
+      "start": 385.18,
+      "end": 485.14
+    }
+  ],
+  "section": "teknoloji",
+  "clips_reviewed": true,
+  "stories_sha256": "9c3fa97ecadcc672cf5e4185669891b3c43d3bfe0c79f2053f4838e605076669"
+}

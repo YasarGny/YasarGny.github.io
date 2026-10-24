@@ -1,199 +1,247 @@
 {
   "schema_version": 1,
-  "release_id": "2026-10-23-8c342573ea9ef175",
+  "release_id": "2026-10-24-e0de60f5b65ce4a5",
   "stories": {
-    "teknoloji:37f56369e2ff40e0": [
+    "teknoloji:dfe5fb536ca517ba": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-19.080-84.240.mp3",
-        "sha256": "3a2505d7a742a4b3decd1b36eb4af96e7b3aa1959ed7a4690e3be5c283e0cafb",
-        "bytes": 1043270,
-        "duration": 65.17551,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 19.08,
-        "end": 84.24
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-9.580-69.640.mp3",
+        "sha256": "5366848e5366fbdaa0a7bc24d96e0c5a618381c2834788407f2d48117616a1a9",
+        "bytes": 961768,
+        "duration": 60.081633,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 9.58,
+        "end": 69.64
       }
     ],
-    "teknoloji:ea40ccd76acf9cc8": [
+    "teknoloji:3a411ea5e3414a5b": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-84.960-141.640.mp3",
-        "sha256": "b2a4f95b368e4e5aa19f4a617b9f96fee4424f24980d184b68a4bfbcbf04d8a4",
-        "bytes": 907851,
-        "duration": 56.711837,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 84.96,
-        "end": 141.64
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-69.980-126.080.mp3",
+        "sha256": "9eda3567221e269e48a51f7461be1eb605193666de947531fc0c55f0f4ef60d0",
+        "bytes": 898656,
+        "duration": 56.137143,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 69.98,
+        "end": 126.08
       }
     ],
-    "teknoloji:d8c2497a7a86b63b": [
+    "teknoloji:7be3008f9053e2be": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-142.440-233.820.mp3",
-        "sha256": "e80a3d93ba5c2ef0c8a149f50e3975e97ebf9ac316511ec7a8cbd92bb8343ed8",
-        "bytes": 1462901,
-        "duration": 91.402449,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 142.44,
-        "end": 233.82
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-126.500-194.200.mp3",
+        "sha256": "b61823650f1e19f84f95b65520c91c11d34be80601ace6d47ba6defbdf3bb925",
+        "bytes": 1084230,
+        "duration": 67.73551,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 126.5,
+        "end": 194.2
       }
     ],
-    "teknoloji:080e7241fa8f3af2": [
+    "teknoloji:a744f36c6d65bb8b": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-234.480-318.160.mp3",
-        "sha256": "e07e5f275420a7830f24515e6dd59fb3401233179601a99bc8645ba6b8f79d2f",
-        "bytes": 1339603,
-        "duration": 83.696327,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 234.48,
-        "end": 318.16
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-194.600-258.720.mp3",
+        "sha256": "49597c5a01bf40fbc33da8dea36b3f60437193fc1e6923dc0e376fcfa87564c0",
+        "bytes": 1026970,
+        "duration": 64.156735,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 194.6,
+        "end": 258.72
       }
     ],
-    "teknoloji:264af0525447e45c": [
+    "teknoloji:a5d4387518b81efb": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-318.840-386.860.mp3",
-        "sha256": "4f7cb8362b5db047ca081841b4d7e8bf62e37feb219b894fea1ac8de4dfb7317",
-        "bytes": 1089246,
-        "duration": 68.04898,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 318.84,
-        "end": 386.86
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-259.220-323.380.mp3",
+        "sha256": "7bc739874776bf9972db2ef2b4bdc57a5bf5d65e987ad1cbda7f7e4c3d8c6be4",
+        "bytes": 1027388,
+        "duration": 64.182857,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 259.22,
+        "end": 323.38
       }
     ],
-    "teknoloji:fee5d6bca690475f": [
+    "teknoloji:d32d82b9d6777801": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-387.380-482.560.mp3",
-        "sha256": "df6abc0baa52aef75a79caa597c7f5d0500fb3b26522667a9f2c3383605496ea",
-        "bytes": 1523505,
-        "duration": 95.190204,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 387.38,
-        "end": 482.56
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-323.380-361.480.mp3",
+        "sha256": "389832f7eac48b6a817a7b6af31c1cc67972302e1590067b61d0103f4a21a0cf",
+        "bytes": 610265,
+        "duration": 38.112653,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 323.38,
+        "end": 361.48
       }
     ],
-    "teknoloji:243b751a9574a173": [
+    "teknoloji:5d9f1f66a499403a": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-483.340-561.620.mp3",
-        "sha256": "1da1e57555e8115653a37e6ee5d170fe8059625aec2bcfc1183715198e1aa529",
-        "bytes": 1253504,
-        "duration": 78.315102,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 483.34,
-        "end": 561.62
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-361.840-384.700.mp3",
+        "sha256": "691b5ecf1e5f7830f6be3b955c8e043f2934d563c8716e1ff130c6465819b80d",
+        "bytes": 366594,
+        "duration": 22.883265,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 361.84,
+        "end": 384.7
       }
     ],
-    "teknoloji:78e4392f03ba41b6": [
+    "teknoloji:94538d593663829e": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8-561.920-686.080.mp3",
-        "sha256": "a6d7f8efe4745ade7735c0e4cea6731462900d93f26fb163201abfa01557674e",
-        "bytes": 1987439,
-        "duration": 124.186122,
-        "audio_sha256": "9c13843eca019e7140ffc0b2dce58b612e0d154fc905f5178bb9fddfd5532fd8",
-        "start": 561.92,
-        "end": 686.08
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42-385.180-485.140.mp3",
+        "sha256": "4659923cfdd00f6deb1cc4db9983c6fab7dda979a4132c6e9f9c763c2e9ed2f5",
+        "bytes": 1599991,
+        "duration": 99.970612,
+        "audio_sha256": "d740182298d4c856c1f5575ef91a72a610e0a11e3d9aa38c91d9d68dbe2ebb42",
+        "start": 385.18,
+        "end": 485.14
       }
     ],
-    "oyun:da95b3dedf5f8cb0": [
+    "oyun:ab0bda391cf39b61": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-30.340-45.620.mp3",
-        "sha256": "0fde5657ac83de1b7149022a485dbaaded7350a707d13bea671354b0c59cbcea",
-        "bytes": 245386,
-        "duration": 15.307755,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 30.34,
-        "end": 45.62
-      },
-      {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-61.860-77.600.mp3",
-        "sha256": "b7070b4e8a08d47c50aade06de3700bc502fb833464fc1441c2fd5ea2c8c22b9",
-        "bytes": 252491,
-        "duration": 15.751837,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 61.86,
-        "end": 77.6
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-21.660-63.620.mp3",
+        "sha256": "84230b6954b2829bd2173df0e0838c74517f8320f6575900a6f00244962b5b78",
+        "bytes": 672122,
+        "duration": 41.978776,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 21.66,
+        "end": 63.62
       }
     ],
-    "oyun:968df38f6fb42b63": [
+    "oyun:ee1ef1afcd50e143": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-46.400-52.540.mp3",
-        "sha256": "95216ca33810bbe5f95f707181d65cc58b07a484f3ff95ebefa67e3990af6aca",
-        "bytes": 99100,
-        "duration": 6.164898,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 46.4,
-        "end": 52.54
-      },
-      {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-78.100-109.500.mp3",
-        "sha256": "adf95abc69337694817764f68b006bb9d5621ed28daff0257d762d461e45c2a1",
-        "bytes": 503267,
-        "duration": 31.425306,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 78.1,
-        "end": 109.5
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-64.160-78.300.mp3",
+        "sha256": "ec1f8b9a063e0c214e0cae65b7118b2b708e3aef3aee9a80481399f77ac17492",
+        "bytes": 226996,
+        "duration": 14.158367,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 64.16,
+        "end": 78.3
       }
     ],
-    "oyun:d1a4ff14f9eaff8f": [
+    "oyun:c45acbd8ea293583": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-113.620-163.520.mp3",
-        "sha256": "8259f7645750375d0e24cc628e12ab8ccd0de8743ceca548f7126e206b4611e0",
-        "bytes": 799182,
-        "duration": 49.92,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 113.62,
-        "end": 163.52
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-78.760-119.380.mp3",
+        "sha256": "0e2a50e8d2c063e5175526897b6c406dd619023afc14032fab8b8b598cf10174",
+        "bytes": 650807,
+        "duration": 40.646531,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 78.76,
+        "end": 119.38
       }
     ],
-    "oyun:a8e38eda66687b8f": [
+    "oyun:23a39909175e5713": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-167.200-223.900.mp3",
-        "sha256": "e2b8e0228d3d56934140ce2fc78a4667418570dd80bc4bf90acf120c1b93e597",
-        "bytes": 908270,
-        "duration": 56.737959,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 167.2,
-        "end": 223.9
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-119.840-153.220.mp3",
+        "sha256": "916dac576a571083fb07140bf84599656ef5797a1da84adb69ed4d3a5ca2c95f",
+        "bytes": 535032,
+        "duration": 33.410612,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 119.84,
+        "end": 153.22
       }
     ],
-    "oyun:682e0889b33ad234": [
+    "oyun:c278a6100c8eb8ea": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-224.320-294.580.mp3",
-        "sha256": "9f7649142d699f1cf142ad53947bd5180b6f4bc1fa16f05a8c496504978351e4",
-        "bytes": 1124772,
-        "duration": 70.269388,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 224.32,
-        "end": 294.58
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-153.960-207.400.mp3",
+        "sha256": "81dda57a2c5c15eff128e13993328b6953c622365039e796e128921d08ca0815",
+        "bytes": 856024,
+        "duration": 53.472653,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 153.96,
+        "end": 207.4
       }
     ],
-    "oyun:778ee6dde2ffe705": [
+    "oyun:f06291113dd43baa": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-302.380-355.520.mp3",
-        "sha256": "57ceeeb3be07e355005a9cfd8383b88435f1d89c277ca39c712918ad7cdf4722",
-        "bytes": 851009,
-        "duration": 53.159184,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 302.38,
-        "end": 355.52
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-207.980-249.120.mp3",
+        "sha256": "a35506f21ce873b27612b264648b649c40fb5fbe48f86ec4c07d24ba7f415bb7",
+        "bytes": 659165,
+        "duration": 41.16898,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 207.98,
+        "end": 249.12
       }
     ],
-    "oyun:cc70530c3137caa6": [
+    "oyun:8a3e89c6eb5233f7": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-364.840-430.080.mp3",
-        "sha256": "dc73682dda16ec5ca0db5f78a6e96921f001ffc58ffb3a2850a805d54223ce73",
-        "bytes": 1044524,
-        "duration": 65.253878,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 364.84,
-        "end": 430.08
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-249.620-301.880.mp3",
+        "sha256": "98d3be01c75fdf308bab1a66e43eb0b9cc130aec4bd286f5306d8109375d658f",
+        "bytes": 837217,
+        "duration": 52.297143,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 249.62,
+        "end": 301.88
       }
     ],
-    "oyun:43415ecd2cab95ab": [
+    "oyun:c1ac862c6c921609": [
       {
-        "file": "releases/2026-10-23-8c342573ea9ef175/clips/db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2-435.740-498.900.mp3",
-        "sha256": "f010377a74e74148dd7e5b6f16ca5f39672b07d8dbec16d4bcf3d145b0ce460f",
-        "bytes": 1011505,
-        "duration": 63.190204,
-        "audio_sha256": "db92bc4f85e6ccb6dd14324e581ae8cd366093a5afc5dfc059a55113987c5ac2",
-        "start": 435.74,
-        "end": 498.9
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-302.440-334.360.mp3",
+        "sha256": "021f7b10ec6e875210cc630020c180826f5dd73cfbc1bfa9d250fdc5483907c5",
+        "bytes": 511626,
+        "duration": 31.947755,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 302.44,
+        "end": 334.36
+      }
+    ],
+    "oyun:d9b68c2185de2134": [
+      {
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-335.000-375.040.mp3",
+        "sha256": "0567d6f7ff29789bb06c3bc918beacc0097b0e8051d672243bbbfb923a81c2fa",
+        "bytes": 641193,
+        "duration": 40.045714,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 335.0,
+        "end": 375.04
+      }
+    ],
+    "oyun:90f4cf3d33d3cfbf": [
+      {
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-375.040-418.580.mp3",
+        "sha256": "aac32aaf00905671345b9f89a95da0cd596b83a8352e445d41a023a2373fde98",
+        "bytes": 697617,
+        "duration": 43.572245,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 375.04,
+        "end": 418.58
+      }
+    ],
+    "oyun:56662023df214ce1": [
+      {
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-419.060-462.480.mp3",
+        "sha256": "9e77d90e8803e477e7086d7e5b4a6ba14b0a6c1a402f6e7e6ecf6232a0f431b3",
+        "bytes": 695528,
+        "duration": 43.441633,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 419.06,
+        "end": 462.48
+      }
+    ],
+    "oyun:cd2f6463027af9d9": [
+      {
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-463.120-505.920.mp3",
+        "sha256": "d33a803bd4394b5dbbc608f7396b0a9cf974b6cb1de454a848efc8338aa58547",
+        "bytes": 685915,
+        "duration": 42.840816,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 463.12,
+        "end": 505.92
+      }
+    ],
+    "oyun:34a54fafc9cf3fc8": [
+      {
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-505.920-549.520.mp3",
+        "sha256": "cab007d41f4eae0eba26c94c52628d347f02bfc1f77bd06353a118f106ad60ce",
+        "bytes": 698454,
+        "duration": 43.62449,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 505.92,
+        "end": 549.52
+      }
+    ],
+    "oyun:360e7a79a94587c2": [
+      {
+        "file": "releases/2026-10-24-e0de60f5b65ce4a5/clips/c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70-550.060-592.960.mp3",
+        "sha256": "b52901a6e24b633301e68ce922d319b1e7dc3690819cdc5334112a7f413c2576",
+        "bytes": 687587,
+        "duration": 42.945306,
+        "audio_sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70",
+        "start": 550.06,
+        "end": 592.96
       }
     ]
   }

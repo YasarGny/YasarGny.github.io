@@ -1,0 +1,495 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "oyun",
+  "publish_date": "2026-10-24",
+  "date": "24 Ekim 2026",
+  "issue": 9,
+  "ready": true,
+  "stories": [
+    {
+      "id": "ab0bda391cf39b61",
+      "category": "SEKTÖR",
+      "title": "Xbox Operasyon Direktörü Helen Chiang Göreve Geldikten Üç Ay Sonra Ayrıldı",
+      "summary": "Xbox'ın ilk operasyon direktörü Helen Chiang, pozisyonun oluşturulmasından sadece üç ay sonra görevinden ve Microsoft'tan ayrıldı. Şirkette 21 yıldır görev yapan Chiang'in ayrılığı, CEO Asha Sharma tarafından dahili bir bilgilendirme notuyla duyuruldu.",
+      "why": "21 yıllık kıdemli bir yöneticinin yeni oluşturulan operasyon liderliğinden hızla ayrılması, Xbox'ın kitlesel işten çıkarmalar ve stüdyo elden çıkarmaları içeren kapsamlı yeniden yapılanma sürecini doğrudan etkiliyor.",
+      "event_key": "xbox-coo-helen-chiang-ayrilik",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Xbox'ın ilk operasyon direktörünün üç ay içinde görevinden ve Microsoft'tan ayrılması, 3 bin 200 kişiyi etkileyen işten çıkarmalar ve stüdyo elden çıkarmalarıyla süren kurumsal yeniden yapılanmayı doğrudan ilgilendiriyor."
+      },
+      "brief": "Xbox'ın ilk operasyon direktörü Helen Chiang, göreve gelişinden üç ay sonra Microsoft'tan ayrıldı. CEO Asha Sharma ayrılığı doğrularken, kararın arka planı açıklanmadı. Şirketteki yeniden yapılanma sürecinde toplam 3 bin 200 çalışanın işten çıkarılması bekleniyor.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-months-after-it-was-created",
+      "source_published_at": "2026-10-23T22:56:42+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Xbox bünyesinde ilk kez oluşturulan operasyon direktörlüğü (COO) makamına Temmuz 2026'da getirilen Helen Chiang, göreve başlamasından üç ay sonra görevinden ayrıldı. Şirket içi bir bilgilendirme notu paylaşan Xbox CEO'su Asha Sharma, 21 yıldır Microsoft çatısı altında bulunan Chiang'in şirketten ayrıldığını doğruladı. Sharma, Chiang'in hizmetlerine teşekkür ederek COO liderliği konusundaki planlar netleştikçe yeni bilgilerin paylaşılacağını bildirdi. Chiang'in bu görevdeki kısa süreli çalışma döneminin gerekçesi ise resmi olarak açıklanmadı.",
+        "Chiang, daha önce Minecraft markasının yöneticiliğini yürütmüş, ardından yaz aylarında duyurulan kapsamlı kurumsal yeniden yapılanma sürecinde içerik, donanım, platform ve hizmetleri kapsayan kâr-zarar sorumluluğuyla COO pozisyonuna terfi ettirilmişti. Şirket içi yeniden yapılanma kapsamında Xbox genelinde toplam 3 bin 200 çalışanın işini kaybedeceği öngörülürken, Double Fine gibi bazı stüdyolar bağımsızlaşarak yoluna devam etti. Buna karşın Marvel's Blade üzerinde çalışan Arkane Lyon, bir alıcı bulunamaması halinde kasım ayı ortasında kapanma riskiyle karşı karşıya bulunuyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8638dbc00e0e403c488a29f0556614840ad356e2a184673ef87d8ccc248a2ae1"
+    },
+    {
+      "id": "ee1ef1afcd50e143",
+      "category": "STÜDYO",
+      "title": "Microsoft Arkane Lyon İçin Alıcı Arama Süresini Bir Ay Uzattı",
+      "summary": "Microsoft, Marvel's Blade oyununu geliştiren Fransa merkezli stüdyosu Arkane Lyon için yasal danışma ve alıcı arama sürecini bir ay uzattı. Fransa yasaları gereği yürütülen süreçte nihai bir karar alınmazken stüdyonun kapatılma ihtimali masada duruyor.",
+      "why": "217 çalışanı barındıran ve Marvel's Blade gibi büyük bir yapımı üstlenen stüdyonun yasal kapanma sürecinin ertelenmesi, Xbox'ın Avrupa'daki operasyonları ve oyun endüstrisindeki istihdam dengeleri açısından kritik önemdedir.",
+      "event_key": "arkane-lyon-kapanma-sure-uzatimi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Fransa'daki 217 çalışanlı Arkane Lyon stüdyosunun kapanma ve toplu işten çıkarma riskine karşı yasal alıcı arama sürecinin bir ay uzatılması doğrulanmış resmi gelişmelere dayanıyor."
+      },
+      "brief": "Microsoft, Marvel's Blade üzerinde çalışan Arkane Lyon stüdyosunun yasal alıcı arama sürecini bir ay uzattı. 217 çalışanı bulunan stüdyo, Temmuz ayındaki Xbox işten çıkarmalarından bu yana kalıcı kapanma ve toplu işten çıkarma riskiyle karşı karşıya.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+      "source_published_at": "2026-10-23T20:07:21+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xpZT8qFrjD2JgUPKy2RxLa-1920-80.jpg",
+      "body": [
+        "Microsoft, Fransa merkezli oyun stüdyosu Arkane Lyon için yasal alıcı arama ve istişare süresini bir ay uzattığını duyurdu. Le Monde tarafından aktarılan bilgilere göre, Xbox'ın temmuz ayında yaklaşık 3 bin 200 kişiyi etkileyen işten çıkarma planı kapsamında Arkane yönetimi, şirketin stüdyoyu kapatma niyetinde olduğunu çalışanlara bildirmişti. Fransa'da yürürlükte olan Florange Yasası uyarınca binden fazla çalışanı bulunan şirketlerin tesis kapatmadan önce alıcı araması zorunluluğu nedeniyle süreç hemen sonlandırılamadı.",
+        "Resmi belgelerde faaliyetlerin tamamen ve kalıcı olarak durdurulması ile tüm personelin ekonomik gerekçelerle işten çıkarılması planları yer alırken, sendikaların başvurusu üzerine 13 Kasım olarak belirlenen son tarih bir ay ertelendi. Microsoft temsilcisi, Marvel's Blade projesinin kalan geliştirme sürecini destekleyecek bir ortak bulma seçeneği de dahil olmak üzere alternatifleri değerlendirmek amacıyla sürenin uzatıldığını ve belgelerin nihai bir kararı temsil etmediğini belirtti. Halihazırda 217 kişinin çalıştığı stüdyoda projenin tamamlanması için uzun bir süre gerektiği ifade ediliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "3ae0b2a16dd0cc196ab17d0420418d434d827d9e73b13fea465099789820eccb"
+    },
+    {
+      "id": "8a3e89c6eb5233f7",
+      "category": "GELİŞTİRİCİ",
+      "title": "Creative Assembly Total War: Shogun 2 Remaster Sorunlarının Ardından Açıklama Yaptı",
+      "summary": "Total War: Shogun 2 remaster sürümünün teknik sorunlar nedeniyle satıştan çekilmesinin ardından Creative Assembly yöneticisi Roger Collum bir açıklama yaptı. Collum, oyunun stüdyo bünyesinde geliştirilmediğini ancak ortaya çıkan sonuçtan sorumlu olduklarını belirtti.",
+      "why": "Büyük bir strateji serisinin yeniden yapımının satıştan kaldırılması ve stüdyo yönetiminin harici geliştirme süreçleri ile üretken yapay zeka iddialarına resmi yanıt vermesi oyuncu topluluğu ve sektör standartları açısından önemlidir.",
+      "event_key": "shogun-2-remaster-ca-aciklama-harici-gelistirici",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Satıştan çekilen Shogun 2 remaster hakkında üst düzey bir stüdyo yöneticisinin dış kaynak kullanımı, kalite kontrol eksikliği ve üretken yapay zeka iddialarına ilişkin resmi açıklamalarını aktarıyor."
+      },
+      "brief": "Total War: Shogun 2 remaster sürümünün satıştan çekilmesi üzerine Creative Assembly yöneticisi Roger Collum açıklamalarda bulundu. Oyunun harici bir stüdyo tarafından geliştirildiğini belirten Collum, oyun içi varlıklarda üretken yapay zeka kullanılmadığını ve düzeltme çalışmalarının sürdüğünü ifade etti.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
+      "source_published_at": "2026-10-23T19:35:17+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RHZVhJS7mGHS2pRTD7rBsk-1920-80.jpg",
+      "body": [
+        "Total War: Shogun 2 remaster sürümünün piyasaya çıkışının ardından gelen teknik sorunlar nedeniyle Sega oyunu birkaç gün içinde satıştan kaldırdı. Yaşanan gelişmeler üzerine Total War serisinden sorumlu Creative Assembly Başkan Yardımcısı Roger Collum, Reddit üzerinden bir açıklama yaparak oyunun durumundan ötürü hayal kırıklığı yaşadıklarını ifade etti. Collum, yapımın Creative Assembly bünyesinde geliştirilmediğini, ekiplerin sonraki büyük projelere odaklanması nedeniyle harici geliştirme sürecinin yeterince denetlenemediğini kabul etti.",
+        "Collum ayrıca oyunda üretken yapay zeka kullanıldığı yönündeki şikayetlere de değindi. Creative Assembly'nin analiz, hata ayıklama veya hızlı prototipleme gibi alanlar haricinde oyun içi varlık üretiminde üretken yapay zeka kullanmadığını ve harici ortaklardan da aynı kurala uymalarını talep ettiklerini vurgulayan Collum, Shogun 2: Complete Edition özelindeki durumun araştırıldığını açıkladı. Projenin Steam sayfasında Varşova merkezli Mataboo stüdyosu ikinci geliştirici olarak listelenirken, Creative Assembly'den kıdemli bir geliştirici ekibinin Sega ve harici stüdyoyla birlikte süreci düzeltmek için çalıştığı bildirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0b9dd65b89a8bb5543121a85c75380f56eac87449a67cbe5e1db506bbe65aebf"
+    },
+    {
+      "id": "56662023df214ce1",
+      "category": "GÜNCELLEME",
+      "title": "Dead by Daylight, Chucky Karakteri ve İlgili İçerikleri Satıştan Kaldırıyor",
+      "summary": "Behaviour Interactive, asimetrik korku oyunu Dead by Daylight'taki Chucky Bölümü'nün 24 Kasım 2026 itibarıyla dijital mağazalardan kaldırılacağını açıkladı. Bu tarihe kadar karakteri edinen oyuncular Chucky'yi kullanmaya devam edebilecek.",
+      "why": "Popüler canlı servis korku oyununda Michael Myers ve Pinhead'in ardından bir diğer lisanslı katil karakterin daha satıştan kaldırılacak olması oyuncu ekosistemini ve maç dinamiklerini doğrudan etkilemektedir.",
+      "event_key": "dead-by-daylight-chucky-delist",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Behaviour Interactive'in resmi duyurusuyla Chucky Bölümü'nün satıştan çekileceği takvim, indirim planı ve mevcut sahiplerin kullanım koşulları doğrulanmış detaylarla açıklanmaktadır."
+      },
+      "brief": "Dead by Daylight geliştiricisi Behaviour Interactive, Chucky Bölümü ve ilgili tüm kozmetiklerin 24 Kasım 2026'da mağazalardan kaldırılacağını duyurdu. Önceden satın alınan içerikler oyunda kullanılabilir kalırken, 26 Ekim Pazartesi günü yüzde 50 indirimli veda satışı başlayacak.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
+      "source_published_at": "2026-10-24T00:01:07+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Behaviour Interactive, Dead by Daylight oyuncularını ilgilendiren yeni bir içerik değişikliğini duyurdu. Geliştirici ekip, oyunda 'The Good Guy' adıyla yer alan lanetli bebek Chucky ve ilişkili içeriklerin 24 Kasım 2026 tarihinde hem oyun içi mağazadan hem de birinci taraf platform mağazalarından kaldırılacağını açıkladı.",
+        "Stüdyonun paylaştığı sıkça sorulan sorular kılavuzuna göre, Chucky için belirlenen tarihten sonra herhangi bir yeni eklenti veya kostüm yayımlanmayacak ve karakter satın alınamayacak. Bununla birlikte karakter için hata düzeltmeleri sunulmaya devam edecek ve 24 Kasım 2026 öncesinde karakteri veya kozmetiklerini açmış olan oyuncular bu içerikleri diledikleri gibi kullanabilecek.",
+        "Karakteri koleksiyonuna eklemek isteyen oyuncular için Behaviour Interactive, 26 Ekim Pazartesi gününden itibaren geçerli olacak bir 'Son Şans' indirimi düzenleyecek. Tüm platformlarda Chucky Bölümü kapsamındaki ürünlerin fiyatları yüzde 50 oranında indirilecek ve kampanya içeriklerin satıştan çekileceği güne kadar sürecek.",
+        "Daha önce 2025'te Hellraiser'dan Pinhead'i ve bu yılın ocak ayında Halloween'den Michael Myers'ı satıştan kaldıran stüdyo, Chucky'nin kaldırılma gerekçesine dair resmi bir açıklama yapmadı. Stranger Things içeriklerini de daha önce mağazadan kaldırıp 2023'te geri getiren yapım, son dönemde Jason Voorhees ve Vecna gibi yeni karakterleri kadrosuna eklemeyi sürdürmüştü."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "12b83e79046f0ac793e8e33567573fe358a392033385337666ef46723b0fcbb0"
+    },
+    {
+      "id": "debca16be8f8d17d",
+      "category": "ÇIKIŞ",
+      "title": "Modern Warfare 4 Çıkışını Yaptı: Gaziler İçin Hazırlanan İlk Ek Paket Kyle Carpenter'ı Konu Alıyor",
+      "summary": "Call of Duty: Modern Warfare 4, 23 Ekim itibarıyla satışa sunulurken oyunun ilk ek paketi CODE Valor Pack de yayımlandı. Geliri askeri gazilere iş imkanı sağlayan vakfa aktarılan 20 dolarlık pakette, Onur Madalyası sahibi Kyle Carpenter oynanabilir karakter olarak yer alıyor.",
+      "why": "Yeni çıkan popüler aksiyon serisi oyununun çıkışıyla eş zamanlı olarak, gerçek bir Onur Madalyası sahibi askeri konu alan ve geliri hayır kurumuna aktarılan resmi ek paketinin duyurulması açısından önem taşıyor.",
+      "event_key": "cod-mw4-resmi-cikis-code-valor-dlc",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Call of Duty: Modern Warfare 4'ün çıkış günü ve gerçek bir Onur Madalyası sahibini temel alan 20 dolarlık yardım amaçlı ek paketinin içeriği net olarak açıklanıyor."
+      },
+      "brief": "Call of Duty: Modern Warfare 4, 23 Ekim'de piyasaya sürüldü. Oyunun ilk ek paketi olan 20 dolarlık CODE Valor Pack'in tüm geliri gazileri destekleyen vakfa bağışlanıyor. Paket, 2010 yılında Afganistan'da yaralanarak Onur Madalyası alan Kyle Carpenter'ı oyuna karakter olarak ekliyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/",
+      "source_published_at": "2026-10-23T19:37:03+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-at-3.02.29-PM.png?w=636",
+      "body": [
+        "Call of Duty: Modern Warfare 4, 23 Ekim tarihinde piyasaya sürüldü. Oyunun çıkışıyla birlikte, serinin gelenekselleşen ilk gün indirilebilir içeriği olan Call of Duty Endowment (CODE) paketi de eş zamanlı olarak erişime açıldı. Askeri gazilerin ordudan ayrıldıktan sonra sivil iş bulmalarına yardımcı olan Activision vakfına kaynak sağlamak üzere hazırlanan 20 dolarlık paketin tüm geliri hayır kurumuna aktarılıyor.",
+        "Yayımlanan CODE Valor Pack, gerçek hayatta Onur Madalyası sahibi olan emekli Deniz Piyadesi Kyle Carpenter'ı oynanabilir bir karakter olarak oyuna dahil ediyor. Carpenter, 21 Kasım 2010 tarihinde Afganistan'ın Marjah kentinde silah arkadaşı Nick Eufrazio'yu korumak amacıyla bir el bombasının üzerine atlamış ve patlama sonucu ağır şekilde yaralanmıştı. Beş hafta komada kalan, bir gözünü kaybeden ve onlarca ameliyat geçiren Carpenter'a, 2014 yılında dönemin ABD Başkanı Barack Obama tarafından Onur Madalyası takdim edilmişti.",
+        "Oyunculara sunulan Valor Pack içerisinde karakter kaplamalarının yanı sıra 'Forged Resolve' M4 saldırı tüfeği ve 'Still Standing' Rezi 12 pompalı tüfek şablonları, dövüş bıçağı, silah uğurluğu ve çeşitli kozmetik kartlar yer alıyor. Paket ayrıca oyunculara birer saatlik çift seviye ve çift silah tecrübe puanı jetonları sağlıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8a389485e62e24c6d0763bb74ac117751593726a1590d6bc23dd5168bb6b8f29"
+    },
+    {
+      "id": "34a54fafc9cf3fc8",
+      "category": "GÜNCELLEME",
+      "title": "Factorio'nun Son Büyük Güncellemesi Olan Sürüm 2.1 Yayımlandı",
+      "summary": "Wube Software, kaynak yönetimi simülasyonu Factorio için planlanan son büyük içerik paketi olan 2.1 güncellemesini stabil sürüme sundu. Güncelleme, ana oyun ve Space Age genişlemesi için 30'u aşkın yaşam kalitesi iyileştirmesi ve görsel yenilikler getiriyor.",
+      "why": "Geniş bir oyuncu kitlesine sahip kült üretim ve simülasyon oyununun içerik geliştirme sürecinin son büyük aşamasının tamamlandığını bildirmektedir.",
+      "event_key": "factorio-2-1-son-buyuk-guncelleme",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Factorio'nun 2.1 nihai büyük güncellemesinin yayımlandığı ve içerdiği somut mekanik değişiklikler geliştirici stüdyonun açıklamalarıyla doğrulanmaktadır."
+      },
+      "brief": "Wube Software, kaynak yönetimi oyunu Factorio'nun son büyük güncellemesi 2.1'i yayımladı. Güncelleme roketlerin karma yük taşıması, mayınların tuzak teli olarak kullanımı ve 30'dan fazla yaşam kalitesi düzenlemesini oyuna ekliyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
+      "source_published_at": "2026-10-23T17:30:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Factorio-final-update-train.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Geliştirici Wube Software, devasa kaynak yönetimi ve otomasyon simülasyonu Factorio için son büyük güncelleme olan 2.1 sürümünü stabil kanalda yayımladı. Geliştirici ekibin daha önce belirttiği üzere bu güncelleme yeni gezegenler veya teknoloji ağaçları içermiyor; bunun yerine 2.0 sürümüne yetiştirilemeyen 30'dan fazla yaşam kalitesi geliştirmesini ve küçük özelliği oyuna dahil ediyor.",
+        "Hem temel oyunu hem de Space Age genişleme paketini kapsayan güncelleme kapsamında roketler artık tek fırlatmada birden fazla farklı eşyayı karma şekilde taşıyabiliyor. Kara mayınları düşman tespit edici ve tuzak teli olarak kullanılabilecek şekilde işlev kazanırken, asteroit hasarı hesaplaması hız yerine kalan can miktarına bağlanarak daha öngörülebilir hale getirildi.",
+        "Sürüm 2.1 ayrıca Space Age genişlemesinin tartışmalı Kalite mekaniği olmadan oynanabilmesine imkan tanıyor. Pompa ve yakıtlı madencilerin döndürülmek yerine aynalanabilmesi (flip) seçeneği eklenirken, istasyon yerleşiminden bağımsız olarak sıvı vagonlarına bağlanabilen yeni bir pompa işleme sistemi ve yeni grafik modelleri de oyuna eklendi.",
+        "Wube Software, bu sürümün ardından stüdyonun genel olarak yeni oyun prototipleri ve deneylerine geçeceğini, Factorio için ise yalnızca hata düzeltmeleri ve destek seviyesinde güncellemeler sunulmaya devam edileceğini bildirdi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "73a9cd341100ccc7264cac72b7a599bf69fd8927b425cfe73c966b2239114f91"
+    },
+    {
+      "id": "90f4cf3d33d3cfbf",
+      "category": "STÜDYO",
+      "title": "Arrowhead Yöneticisi Açıkladı: Helldivers 3 İçin Mevcut Oyundan Tamamen Farklı Olması Gerekiyor",
+      "summary": "Arrowhead Game Studios Kreatif Direktörü Johan Pilestedt, stüdyonun şu an için bir Helldivers 3 planı olmadığını ve ekibin yüzde 95'inin Helldivers 2 üzerinde çalışmayı sürdürdüğünü açıkladı. Pilestedt, olası bir devam oyununun ancak ikinci oyundan çok farklı olması durumunda anlam kazanacağını ifade etti.",
+      "why": "Popüler canlı servis oyunu Helldivers 2'nin geleceğine ve stüdyonun yeni projelerdeki iş gücü dağılımına ilişkin en üst düzey yaratıcı yöneticiden doğrudan resmi çerçeve sunuluyor.",
+      "event_key": "arrowhead-helldivers-3-ve-yeni-prototip",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Arrowhead Kreatif Direktörü Johan Pilestedt'in stüdyo kaynaklarının dağılımı ve olası bir devam oyununa dair kurumsal yaklaşımı birinci elden doğrulanıyor."
+      },
+      "brief": "Arrowhead Kreatif Direktörü Johan Pilestedt, stüdyonun yüzde 95'inin Helldivers 2'ye odaklandığını belirtti. Pilestedt, bir devam oyununun ancak Helldivers 2 ile yan yana var olabilecek kadar farklı bir yapıda olması durumunda gündeme gelebileceğini, şu an için devam oyunu planları bulunmadığını söyledi.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game",
+      "source_published_at": "2026-10-23T12:20:39+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Helldivers-2-side-by-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Arrowhead Game Studios Kreatif Direktörü Johan Pilestedt, popüler nişancı oyunu Helldivers 2'nin geleceği ve stüdyonun yeni projeleri hakkında açıklamalarda bulundu. Yaklaşık 150 çalışanı bulunan stüdyonun iş gücünün yüzde 95'inin doğrudan Helldivers 2 üzerinde çalışmaya devam ettiğini belirten Pilestedt, küçük bir ekibin ise henüz duyurulmamış yeni bir prototip proje üzerinde görev aldığını kaydetti.",
+        "Pilestedt, stüdyo olarak ani büyümeler yerine kontrollü şekilde ilerlemek istediklerini ve şu aşamada bir Helldivers 3 planlarının bulunmadığını dile getirdi. Olası bir devam oyununun oyuncu kitlesini bölme riski taşıdığını ifade eden yönetici, yeni bir oyunun her şeyi sıfırlayıp oyuncuları baştan başlamaya zorlayacağını, mevcut oyunu sürdürmenin ise kullanıcılar için uzun soluklu bir deneyim oluşturduğunu savundu.",
+        "Helldivers 3 fikrinin sadece mevcut yapıdan tamamen farklı olması halinde mantıklı olabileceğini belirten Pilestedt, Helldivers 3'ün en büyük rakibinin yine Helldivers 2 olacağını ifade etti. Yönetici, canlı servis oyunlarında oyuncu topluluğunun oyunun asıl motoru olduğunu, bu nedenle mevcut ivmeyi bir devam oyunuyla sıfırlamak yerine Helldivers 2'yi geliştirmeye devam etmenin öncelikleri olduğunu söyledi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6d31669810054c5452408d98070a97e9c26af2790f476e2427234b4a2ee810b3"
+    },
+    {
+      "id": "c45acbd8ea293583",
+      "category": "İŞ DÜNYASI",
+      "title": "Netflix ve Xbox Arasındaki 500 Milyon Dolarlık İçerik Uyarlama Pazarlığı Sonuçsuz Kaldı",
+      "summary": "Puck News'un haberine göre Netflix, Xbox oyunlarının yedi yıllık film ve dizi uyarlama hakları için 500 milyon dolar teklif etti. Xbox yönetiminin 800 milyon dolarlık karşı teklif sunmasının ardından taraflar arasındaki müzakereler anlaşmasız sona erdi.",
+      "why": "Oyun fikri mülkiyetlerinin dizi ve sinemaya uyarlanması pazarında yüz milyonlarca dolarlık doğrudan lisanslama pazarlıklarını ve iki büyük şirketin stratejik mali anlaşmazlığını belgeliyor.",
+      "event_key": "netflix-xbox-500-milyon-dolar-anlasma-iptal",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Oyun uyarlamaları pazarında Netflix ve Xbox arasındaki 500 milyon dolarlık teklif ve 800 milyon dolarlık karşı teklif pazarlığını, kaynakta belirtilen haber ayrıntılarıyla sunuyor."
+      },
+      "brief": "Netflix'in Xbox oyunlarını yedi yıl boyunca film ve diziye uyarlamak için sunduğu 500 milyon dolarlık teklif, Xbox'ın 800 milyon dolar talep etmesi üzerine sonuçsuz kaldı. İki şirket mevcut ortak projeleri yürütmeye devam ediyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+      "source_published_at": "2026-10-23T18:38:57+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/halo-series-2-trailer_AH4XfUB.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Netflix ile Xbox arasında konsol üreticisinin oyunlarını film ve diziye uyarlamayı hedefleyen geniş kapsamlı lisans görüşmelerinin anlaşmazlıkla sonuçlandığı öne sürüldü. Puck News tarafından aktarılan bilgilere göre Netflix, Xbox oyunlarının yedi yıl boyunca münhasır olarak uyarlanması karşılığında 500 milyon dolarlık bir teklifte bulundu. Xbox CEO'su Asha Sharma ve iş geliştirme ekibinin ise bu anlaşma için 800 milyon dolarlık bir karşı teklif sunduğu iddia edildi.",
+        "Görüşmeleri başlatan eski Netflix İçerik Direktörü Bela Bajaria'nın şirketten ayrılması ve Netflix Mali İşler Direktörü Spence Neumann'ın 800 milyon dolarlık bedeli yüksek bulması nedeniyle süreç durma noktasına geldi. Bu büyük çaplı anlaşmanın bozulmasına karşın iki şirket arasındaki mevcut projeler sürüyor. Minecraft ve Diablo'nun animasyon dizileri ile Gears of War'un canlı çekim filmi üzerindeki ortak çalışmaların devam ettiği belirtildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b369a4e2a7db934fa4a82a6600adf86547239f7b488c9dd55181b894183f3e90"
+    },
+    {
+      "id": "f06291113dd43baa",
+      "category": "KÜLTÜR",
+      "title": "Shigeru Miyamoto'dan Üretken Yapay Zeka Değerlendirmesi: İnsan Tasarımcıların Rolü Sürecek",
+      "summary": "Nintendo'nun emektar tasarımcısı Shigeru Miyamoto, üretken yapay zekanın tüm üretim süreçlerini üstlendiği bir senaryoda dahi insan tasarımcılara her zaman bir rol kalacağını söyledi. Japonya İmparatoru tarafından Kültür Nişanı'na layık görülen Miyamoto, teknolojinin gelişimini daktilolardan kelime işlemcilere geçiş dönemine benzetti.",
+      "why": "Oyun dünyasının öncülerinden birinin yapay zekanın yaratıcı süreçlerdeki geleceğine ve insan tasarımcıların vazgeçilmezliğine dair sektörel bakış açısını yansıtması açısından önem taşımaktadır.",
+      "event_key": "shigeru-miyamoto-kultur-nisani-yapay-zeka",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Sektörün öncü tasarımcısı Shigeru Miyamoto'nun Kültür Nişanı öncesinde üretken yapay zekanın geleceği ve insan tasarımcıların rolü üzerine yaptığı resmi açıklamaları aktarmaktadır."
+      },
+      "brief": "Nintendo yöneticisi Shigeru Miyamoto, üretken yapay zeka her şeyi üstlense bile insan tasarımcılara her zaman bir rol düşeceğini belirtti. Gelecek ay Japonya İmparatoru'ndan Kültür Nişanı alacak ilk oyun geliştiricisi olan Miyamoto, kalıcı eserlerin insan niyetine dayandığını vurguladı.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "source_published_at": "2026-10-23T20:12:34+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Nintendo bünyesinde Super Mario 64 ve The Legend of Zelda: Ocarina of Time gibi klasik yapımların geliştirilmesine öncülük eden Shigeru Miyamoto, üretken yapay zekanın yükselişinin insan yeteneğinin yerini bütünüyle almayacağını ifade etti. Gelecek ay Japonya İmparatoru tarafından Kültür Nişanı ile ödüllendirilecek ilk video oyunu geliştiricisi unvanını alacak olan Miyamoto, ödüle ilişkin basın toplantısında oyun üretiminde yapay zeka kullanımına dair görüşlerini paylaştı.",
+        "Kendi kuşağının daktilolardan kelime işlemcilere geçiş gibi hızlı bir bilgisayar gelişim dönemine tanıklık ettiğini belirten Miyamoto, teknoloji ilerleyip 'iş gücü' sayılabilecek görevleri devraldıkça bir tasarımcının gerçek yeteneklerinin gün yüzüne çıktığını söyledi. Üretken yapay zekanın oyun geliştirme adımlarındaki rutin işleri üstlenmesinin, insan geliştiricilere asıl neyin önemli olduğunu düşünme fırsatı sağlayacağını dile getirdi.",
+        "Miyamoto, yalnızca kopyala-yapıştır yoluyla hazırlanan geçmiş tasarımların bireyin tasarım niyetinden yoksun olduğu için zamana karşı koyamadığını vurguladı. Bilgisayarın bir iş gücü asistanı olarak konumlandığı bu sürecin bireysel niyete dayandığını kaydeden tasarımcı, teknoloji her şeyi yapabilecek seviyeye gelse bile insanlara her zaman bir rol kalacağını belirtti.",
+        "Sektörde Square Enix, Sega, Capcom, Level-5 ve Epic Games gibi stüdyolar üretken yapay zekayı çeşitli biçimlerde kullandıklarını açıklarken, Masahiro Sakurai ise üretken yapay zekanın kopyalanamaz insan yaratıcılığının aksine özgün olmayan ve kâr getirmeyen oyunlarda artışa yol açabileceğini ifade etmişti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "3946cbe466d9e5d5ba3372b3eb62ab37574b20fee037af63577f890071aa1ace"
+    },
+    {
+      "id": "360e7a79a94587c2",
+      "category": "SATIŞ",
+      "title": "Phantom Blade Zero Henüz Çıkmadan Steam'de Yarım Milyon Ön Sipariş Satışına Ulaştı",
+      "summary": "Çin yapımı aksiyon oyunu Phantom Blade Zero, PC ve PS5 platformlarında 28 Ekim'de çıkış yapmadan önce Steam'de yaklaşık 500 bin ön sipariş satışı yakaladı. Alinea Analytics verilerine göre yapım, mağazada 2,5 milyon istek listesine ulaştı ve yaklaşık 24 milyon dolar gelir sağladı.",
+      "why": "Çin merkezli geliştiricilerin küresel oyun pazarındaki yükselişini gösteren oyun, çıkışından günler önce yüksek satış ve istek listesi sayılarına ulaşarak dönemin öne çıkan tek oyunculu yapımları arasına girdiğini kanıtlıyor.",
+      "event_key": "phantom-blade-zero-500-bin-on-siparis",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Çin menşeli aksiyon oyununun Steam'deki ön sipariş satış adetleri, gelir tahmini ve istek listesi verileri analist raporuyla somut biçimde ortaya konuyor."
+      },
+      "brief": "Phantom Blade Zero, 28 Ekim'deki resmi çıkışı öncesinde Steam'de 500 bin ön sipariş satışına ve 24 milyon dolarlık gelire ulaştı. Alinea Analytics verilerine göre 2,5 milyon istek listesine sahip olan yapım, Steam listelerinde Gears of War: E-Day ve Control Resonant'ın önüne geçti.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+      "source_published_at": "2026-10-23T12:33:45+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero---Release-Date-Announcement-Trailer-_-PS5-Games-0-48-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Çin merkezli geliştiricilerin imzasını taşıyan aksiyon oyunu Phantom Blade Zero, resmi çıkış tarihine günler kala dijital satış platformu Steam'de önemli bir ticari başarı yakaladı. Pazar analiz şirketi Alinea Analytics'in baş analisti Rhys Elliott'ın paylaştığı verilere göre yapım, Steam platformunda ön siparişler aracılığıyla 500 bin adet satıldı ve yaklaşık 24 milyon dolar brüt gelir elde etti.",
+        "Elliott'ın değerlendirmelerine göre Phantom Blade Zero, mevcut satış performansıyla Gears of War: E-Day ve Control Resonant gibi büyük bütçeli yapımları geride bıraktı. Oyunun şu anki en büyük pazarının Çin olduğu belirtilirken, Steam üzerinde 2,5 milyon kullanıcı tarafından istek listesine eklendiği kaydedildi. İstek listesine ekleyen oyuncuların yüzde 41'inin Black Myth: Wukong, yüzde 38'inin Elden Ring ve yüzde 28'inin Sekiro: Shadows Die Twice oynadığı belirlendi.",
+        "Analiz raporunda, PC tarafındaki güçlü performansın yanı sıra ön sipariş işaretlerinin oyunun PlayStation 5 tarafında da ilgi göreceğine işaret ettiği ve yılın öne çıkan tek oyunculu çıkışlarından biri olabileceği vurgulandı. Phantom Blade Zero, 28 Ekim tarihinde PC ve PS5 platformları için piyasaya sürülecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "3e81933b19287facb90aea77a3c210de98e32eb6b7cb45531b28de72634a31fe"
+    },
+    {
+      "id": "b3d76f97ecf15094",
+      "category": "HABER",
+      "title": "San Francisco Yönetiminin Tepkisini Çeken Zombi Oyunu İnternetten Kaldırıldı",
+      "summary": "San Francisco'nun Tenderloin bölgesinde geçen 'Tenderloin Night Shift' adlı nişancı oyunu, belediye yetkililerinin insanlık dışı bulduğu içerik eleştirilerinin ardından geliştiricisi tarafından yayından kaldırıldı. Geliştirici Pierre-Louis Biojout kamuoyundan özür dileyerek reklam gelirlerini bir rehabilitasyon derneğine bağışladı.",
+      "why": "Gerçek bir yerleşim yerindeki evsizlik ve bağımlılık sorunlarını oyunlaştırarak tepki çeken bir yapımın, resmi şehir yönetiminin kınaması sonrasında kaldırılması ve gelirinin rehabilitasyon kurumuna aktarılması sürecini belgeliyor.",
+      "event_key": "tenderloin-night-shift-yayindan-kaldirildi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Belediye Başkanı Daniel Lurie ve yerel yetkililerin kınamaları sonrasında bağımsız oyunun yayından kaldırılması, özür dilenmesi ve gelirlerin Delancey Street Foundation'a bağışlanması olguları tam olarak aktarılıyor."
+      },
+      "brief": "San Francisco'nun Tenderloin semtinde geçen bağımsız zombi oyunu, belediye başkanı ve yerel yetkililerin tepkisi sonrası yayından kaldırıldı. Geliştirici Pierre-Louis Biojout özür dileyerek reklam gelirlerini uyuşturucu bağımlılığı ve rehabilitasyon alanında çalışan bir vakfa bağışladığını açıkladı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game",
+      "source_published_at": "2026-10-23T22:27:09+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Bağımsız yazılımcı Pierre-Louis Biojout tarafından yapay zeka aracı Codex kullanılarak geliştirilen 'Tenderloin Night Shift' isimli birinci şahıs nişancı oyunu, San Francisco yerel yönetiminden gelen sert tepkilerin ardından yayından kaldırıldı. San Francisco'nun evsizlik ve suç oranlarıyla bilinen Tenderloin mahallesinde geçen oyun, sokaklardaki insanları ve bağımlılık belirtisi gösteren figürleri vurulacak zombiler olarak tasvir etmesi sebebiyle eleştirilere yol açtı.",
+        "San Francisco Belediye Başkanı Daniel Lurie yaptığı açıklamada oyunun kentin değerlerini yansıtmadığını ve reddedildiğini belirtirken, mahalleyi temsil eden Şehir Meclisi Üyesi Bilal Mahmood da gerçek insanlara ve evsizlere yönelik şiddetin eğlenceye dönüştürülmesinin kabul edilemez ve insanlık dışı olduğunu ifade etti.",
+        "Gelen tepkiler üzerine projeyi kendi internet sitesinden tamamen kaldıran geliştirici Pierre-Louis Biojout, kamuoyundan özür diledi. Sosyal medya paylaşımlarını silen Biojout, oyunda yer alan reklam panoları için aldığı ödemeleri müşterilerine iade ettiğini ve elde edilen tüm geliri madde bağımlılığı ile mücadele ve mesleki eğitim hizmeti veren Delancey Street Foundation isimli sivil toplum kuruluşuna bağışladığını duyurdu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "5f53aead8335657c44db1ec2cd9c374d4ddf2a4203ad35977a91f9e3680a83c3"
+    },
+    {
+      "id": "c278a6100c8eb8ea",
+      "category": "SEKTÖR",
+      "title": "Kanadalı Siyasi Parti Liderinden Kapanan BioWare İçin Kamusal Destek Çağrısı",
+      "summary": "Kanada Yeni Demokrat Parti Lideri Avi Lewis, stüdyonun kapatılmasının ardından BioWare çalışanlarına stüdyoyu satın almaları için öncelik ve federal mali destek verilmesi gerektiğini belirtti. Lewis, özel sermaye fonlarının Kanada oyun sektöründen uzak tutulması çağrısında bulundu.",
+      "why": "Oyun sektöründeki köklü stüdyo kapanışlarının doğrudan federal siyaset gündemine taşınarak kamusal fon desteği ve mülkiyet tartışmasına dönüştüğünü göstermektedir.",
+      "event_key": "bioware-kanada-hukumet-destegi-cagrisi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Kanada Yeni Demokrat Parti lideri Avi Lewis'in BioWare'in çalışanlarca satın alınması ve federal destek verilmesi yönündeki somut siyasi önerisini aktarmaktadır."
+      },
+      "brief": "Kanada Yeni Demokrat Parti Lideri Avi Lewis, kapatılan BioWare'in çalışanlar tarafından devralınması ve işletilmesi için federal destek sağlanmasını önerdi. Lewis, özel sermayenin sektörden uzak tutulması gerektiğini belirterek stüdyonun geliştiricilerine öncelik verilmesini istedi.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
+      "source_published_at": "2026-10-23T16:30:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/bioware-staff-canadian-gov-support-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Kanada Yeni Demokrat Parti lideri Avi Lewis, EA bünyesindeki tanınmış geliştirici stüdyo BioWare'in kapatılmasının ardından dikkat çeken bir öneri sundu. Lewis, stüdyo çalışanlarına kurumu bizzat satın almaları ve yönetebilmeleri için öncelik ile birlikte federal devlet desteği sağlanması gerektiğini savundu.",
+        "BioWare bünyesindeki geliştiricilerin stüdyoyu nasıl yöneteceklerini ve sevilen oyunları nasıl yapacaklarını bildiklerini kaydeden Lewis, çalışanlara bu fırsatın tanınmasının kritik olduğunu belirtti. Parti lideri açıklamasında, benzer durumların önüne geçmek adına Kanada'da özel sermayenin içeri kabul edilmek yerine sektörden uzak tutulması gerektiğini dile getirdi.",
+        "Lewis'in önerisi, stüdyoların kapatılmasına karşı çalışan mülkiyetini ve devlet fonlamasını gündeme getirirken, Kanada'da 'Mass Effect etkisi' olarak tanımladığı durumun tekrarlanmaması için özel sermaye müdahalesinin engellenmesi gerektiğini savundu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "cdcc2d0de5b82570e7e1a25b11eb4af92a201d3980dfd108cc8bc22c6ed34c32"
+    },
+    {
+      "id": "23a39909175e5713",
+      "category": "GÜNCELLEME",
+      "title": "BioWare'in Kapatılmasının Ardından Battlefield 6'daki Mass Effect Kozmetikleri Kaldırıldı",
+      "summary": "Electronic Arts'ın geliştirici stüdyo BioWare'i kapatmasının ardından, Battlefield 6 menülerinde yer alan Mass Effect temalı kozmetik içerikler sessizce kaldırıldı. Karar, serinin yeni oyunu Mass Effect 5'in iptal edilmesini takip etti.",
+      "why": "BioWare stüdyosunun kapatılması ve bir sonraki Mass Effect oyununun iptal edilmesinin doğrudan bir sonucu olarak EA'in diğer aktif oyunlarındaki çapraz tanıtım planlarının iptal edildiğini göstermektedir.",
+      "event_key": "battlefield-6-mass-effect-esyalar-silindi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "BioWare'in kapatılması ve Mass Effect 5'in iptalinin ardından Battlefield 6 içerisindeki hazır çapraz promosyon içeriklerinin sessizce oyundan kaldırıldığı teyit edilmiştir."
+      },
+      "brief": "EA tarafından BioWare'in kapatılması ve Mass Effect 5'in iptal edilmesinin ardından, Battlefield 6'ya eklenen Mass Effect temalı tüm kozmetik eşyalar oyundan kaldırıldı. Sezon 5 menülerinde daha önce fark edilen içeriklerin tamamı menülerden temizlendi.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
+      "source_published_at": "2026-10-23T17:19:50+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/maxresdefault_wbxErkr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Electronic Arts'ın BioWare stüdyosunu kapatma kararının ardından, Battlefield 6 için hazırlanan Mass Effect temalı çapraz içerikler oyundan temizlendi. Geliştirici stüdyo DICE, nişancı oyununun menülerinde yer alan ancak henüz erişime açılmamış olan tüm Mass Effect kozmetiklerini sessizce sildi.",
+        "Battlefield 6'nın 5. Sezonu bu ayın başlarında başladığında oyuncular, silah süsü olarak tasarlanmış küçük bir Normandy gemisi, tematik silah görünümleri ve N7 etiketleri gibi çeşitli içeriklerin menülere eklendiğini fark etmişti. Oyuncular, 7 Kasım'da kutlanan geleneksel N7 Günü kapsamında bu eşyaların sunulmasını ve yeni Mass Effect oyununa dair haberler almayı bekliyordu.",
+        "Ancak BioWare'in tamamen kapatılması ve yeni Mass Effect oyununun iptal edilmesiyle birlikte bu beklentiler son buldu. Kararın hemen peşinden oyuncu kartı arka planları, silah çıkartmaları ve asker yamaları dahil olmak üzere Mass Effect markasını taşıyan tüm ögeler menülerden çıkarıldı.",
+        "EA, daha önce yaptığı açıklamada 400 çalışanı işten çıkarıp BioWare'i kapatma kararını, kaynakları uzun vadeli büyüme ve fırsat sunan alanlara yönlendirme stratejisiyle gerekçelendirmişti. Şirket, kısa bir süre önce Suudi Arabistan Kamu Yatırım Fonu, Jared Kushner'ın Affinity Partners şirketi ve Silver Lake ortaklığında 55 milyar dolarlık kaldıraçlı satın alma ile özelleştirilmişti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b73a338ff267a11fdcbca976153403311c66fe06c1ba04f34bc6450da1fd38e1"
+    },
+    {
+      "id": "c1ac862c6c921609",
+      "category": "GELİŞTİRİCİ",
+      "title": "Future? No Thanks! Geliştiricisi Tepkiler Üzerine Oyundaki Yapay Zeka Seslerini Kaldırdı",
+      "summary": "Future? No Thanks! oyununun baş geliştiricisi Paolo Pedercini, sosyal medyadan gelen tepkilerin ardından oyundaki üretici yapay zeka destekli sesleri kaldırdı. Geliştirici, kendisini aldatılmış hisseden oyunculara para iadesi teklif etti.",
+      "why": "Bağımsız oyun dünyasında üretici yapay zeka kullanımına gösterilen topluluk tepkisinin, bir geliştiricinin içerik silmesine ve kişisel olarak iade süreci başlatmasına yol açmasını belgeler.",
+      "event_key": "future-no-thanks-yapay-zeka-sesleri-iade",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Bağımsız bir geliştiricinin yapay zeka seslendirmelerini tepkiler sonrası oyundan silmesi ve doğrudan iade teklifinde bulunması somut biçimde açıklanmıştır."
+      },
+      "brief": "Future? No Thanks! oyununun geliştiricisi Paolo Pedercini, iki robot karakterde kullandığı metinden sese dönüştürme yapay zeka seslerini kaldırdı. Sosyal medyadaki sert tepkiler sonrası Pedercini, hayal kırıklığı yaşayan oyunculara doğrudan ödeme yöntemleriyle iade sunacağını açıkladı.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+      "source_published_at": "2026-10-23T17:26:32+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Açık dünya ekolojik hiciv oyunu Future? No Thanks!, baş geliştirici Paolo \"Molleindustria\" Pedercini'nin üretici yapay zeka teknolojisini kullandığını açıklamasının ardından güncellendi. Sosyal medyada ve basında yer alan sert tepkilerin ardından geliştirici, yapımdaki yapay zeka üretimi sesleri oyundan çıkardı.",
+        "Yayımlanan güncelleme ile otomatikleştirilmiş bir tuvalet ve bir kuaför salonundaki çevirmen robot karakterine ait iki adet metinden sese (TTS) dönüştürülmüş ses kaydı kaldırıldı. Pedercini daha önce bu sesleri yapay zekayı yermek ve parodi amacıyla oyuna eklediğini, ancak güncel metinden sese sistemlerinin doğrudan kullanıcıya dönük üretici içerik sayılması nedeniyle olumsuz algı yarattığını belirtti.",
+        "Yayımladığı yeni blog yazısında oyuncuların tepkilerini değerlendiren geliştirici, kendisini aldatılmış hisseden kullanıcılara PayPal veya Venmo üzerinden bizzat para iadesi yapacağını duyurdu. Pedercini ayrıca görevlerdeki para kazanma dengesini düzenleyerek bazı kilitlenme durumlarını önleyen küçük bir oynanış düzeltmesi de yayımladı.",
+        "Yaşanan sürecin bağımsız geliştiriciler üzerindeki etkisine değinen Pedercini, Steam platformunda birçok stüdyonun kod yardımı gibi alanlarda yapay zeka kullandığını ancak bunu açıklamadığını öne sürdü. Tepkiler sonrasında bir sonraki projesini tamamen elle kodlayacağını duyuran geliştirici, yapay zekadan tamamen uzak duran ekipleri destekleme çağrısında bulundu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "82aaf57eb077f4ddd665399a4b33f6c551e09b6abd808b9a7c0694cc8e417196"
+    },
+    {
+      "id": "cd2f6463027af9d9",
+      "category": "GÜNCELLEME",
+      "title": "Blizzard, World of Warcraft: Forever İçin Katmanlama Sistemini Geliştireceğini Duyurdu",
+      "summary": "Blizzard, World of Warcraft: Forever'ın beta sürecinde tepki çeken katmanlama sisteminde çıkış öncesinde önemli iyileştirmeler yapacağını açıkladı. Geliştirici ekip, oyuncuların yükleme ekranları ve başkent geçişlerinde birbirlerinden kopmasını önlemeyi hedefliyor.",
+      "why": "Popüler MMORPG yapımının beta sürecinde topluluk tarafından en çok eleştirilen ve oyun deneyimini bölen teknik bir altyapı sorununa resmi çözüm getirileceğini doğrulamaktadır.",
+      "event_key": "wow-forever-layering-sistemi-iyilestirmesi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "World of Warcraft: Forever beta sürecinde oyuncuların en çok şikayet ettiği katmanlama sorununa dair Blizzard yöneticisinden resmi çözüm ve planlama açıklaması gelmiştir."
+      },
+      "brief": "Blizzard, World of Warcraft: Forever oyunundaki katmanlama sistemini çıkış öncesinde elden geçireceğini duyurdu. Yapımcı Clay Stone, oyuncuların özellikle ulaşım araçlarında ve şehir giriş çıkışlarında aniden birbirinden ayrılmasını engelleyecek düzenlemeler üzerinde çalıştıklarını ve iyileştirmelerin süreceğini açıkladı.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/",
+      "source_published_at": "2026-10-23T16:29:06+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Layering-Changes-1.jpg?w=300",
+      "body": [
+        "Blizzard, World of Warcraft: Forever'ın beta sürecinde oyuncuların yoğun tepkisini çeken katmanlama (layering) sisteminde çıkış öncesinde kapsamlı iyileştirmeler yapacağını duyurdu. GameSpot'a yapılan resmi açıklamaya göre, geliştirici ekip sunuculardaki oyuncu yoğunluğunu dengeleyen sistemin sosyal deneyimleri zedelemesini engellemeyi amaçlıyor.",
+        "WoW: Forever bünyesinde kullanılan sistem; oyuncuları arkadaş listesi, dil ve PvP dengesi gibi kriterlere göre aynı dünyanın eşzamanlı kopyalarına dağıtıyor. Bu mekanizma görev yapmayı kolaylaştırıp kalabalık başkentlerde sunucu performansını korusa da beta sürecinde ciddi aksaklıklara yol açtı. Oyuncuların bir gruptan ayrıldığında, farklı bir bölgeye geçtiğinde veya zeplin ile gemi gibi taşıtlarla seyahat ederken aniden farklı katmanlara ışınlanması oyun içi deneyimi böldü.",
+        "WoW: Forever Yapım Direktör Yardımcısı Clay Stone, orijinal oyunun sunduğu sosyal deneyimleri korumanın önemli bir öncelik olduğunu belirtti. Stone, beta sürecinde oyuncuların özellikle belirli noktalarda beklenmedik şekilde birbirinden ayrıldığını kabul ettiklerini ve yükleme ekranlarının ardından gemi veya zeplinlerdeki oyuncuların birbirini kaybetmesini önleyecek düzenlemeler üzerinde çalıştıklarını ifade etti. Ayrıca büyük oyuncu gruplarının başkentlere giriş çıkışlarında katman değiştirmesinin de önüne geçileceği kaydedildi.",
+        "Stone, yüksek kapasiteli sunucu altyapısında belirli düzeyde katmanlamanın daima var olacağını ancak çıkış döneminde ve sonrasında dünyayı olabildiğince kesintisiz hissettirmek için geliştirmelerin devam edeceğini aktardı. Buna karşın, PvP topluluğunun sınır geçişlerinde yaşadığı ve çatışmaların aniden kaybolmasına yol açan sorunlara yönelik özel bir detay Stone'un açıklamasında yer almadı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "03fb3d0149da9dbd4c95884aef963fd1818d7900cf06ddf090402c6da27f2da0"
+    },
+    {
+      "id": "d9b68c2185de2134",
+      "category": "ETKİNLİK",
+      "title": "Epic Games, Yapay Zeka Araçlarına Dayalı 2026 Epic AI MegaJam Yarışmasını Duyurdu",
+      "summary": "Epic Games, geliştiricilerin yapay zeka araçları kullanarak oyun üreteceği 2026 Epic AI MegaJam etkinliğini duyurdu. Kasım ayında düzenlenecek yarışmada toplamda binlerce dolarlık ödül ve ekip başına 50 bin dolara kadar hibe sunulacak.",
+      "why": "Oyun sektöründeki yapay zeka tartışmalarının ortasında, büyük bir oyun motoru ve dağıtım şirketinin yapay zeka merkezli bir geliştirme yarışması düzenleyerek bu teknolojiye kurumsal desteğini ortaya koyması açısından önemlidir.",
+      "event_key": "epic-games-ai-megajam-kural-degisikligi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Epic Games'in yapay zeka kullanımını teşvik eden büyük ödüllü bir MegaJam duyurması ve CEO Tim Sweeney'nin sürece dair açıklamaları doğrulanmış bilgilerdir."
+      },
+      "brief": "Epic Games, katılımcıların yapay zeka araçlarını yoğun şekilde kullanmaya teşvik edildiği 2026 Epic AI MegaJam yarışmasını açıkladı. 12-15 Kasım tarihleri arasında yapılacak etkinlikte dereceye girenlere nakit ödüller ve 50 bin dolara varan devam hibeleri dağıtılacak.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+      "source_published_at": "2026-10-22T21:39:30+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kcoLy3wUGtqe8Xvfo3fa5U-1920-80.jpg",
+      "body": [
+        "Unreal Engine'in geliştiricisi Epic Games, katılımcıların yapay zeka araçlarını kullanmaya teşvik edildiği yeni bir oyun geliştirme maratonu düzenleyeceğini duyurdu. Birçok sanat yarışmasının yapay zekayı yasaklamasının aksine, \"2026 Epic AI MegaJam\" adı verilen bu etkinlik doğrudan yapay zeka destekli üretime odaklanıyor.",
+        "Etkinliğin teması 11 Kasım'da açıklanacak ve yarışmacılar oyunlarını üretmek için 12-15 Kasım tarihleri arasında çalışacak. San Francisco'daki bir etkinlik alanında fiziksel katılımın da yer alacağı süreç günlük canlı yayınlarla aktarılacak. Yarışmada üç ana kategorinin birincilerine 7 bin 500'er dolar verilirken, dereceye giren diğer ekiplere ek ödüller ve takım başına 50 bin dolara kadar Geliştirme Devam Hibesi sağlanacak.",
+        "Epic Games, etkinliğin duyurusunda The Matrix filmindeki \"kırmızı hap\" sahnesine atıfta bulunarak geleneksel geliştirmeyi aylarca prototip beklemekle, yapay zeka destekli süreci ise bir hafta sonunda oyun çıkarmakla ilişkilendirdi. Şirket son dönemde Epic Games Store başlatıcısını yapay zeka ile kodladığını açıklamış ve bu teknolojiyi iş süreçlerine entegre ettiğini vurgulamıştı.",
+        "Epic Games Kurucusu ve CEO'su Tim Sweeney, geliştiricileri yapay zekaya en üst düzeyde uyarlamak için şirket içinde adımlar attıklarını belirtti. Yaratıcı çalışmaların manuel üretimden ziyade yönlendiriciliğe dönüşmesini beklediğini kaydeden Sweeney, geliştiricilerin bu teknolojiyi sahiplenmesi gerektiğini ifade etti. Duyuru sosyal medyada bazı kullanıcılar tarafından desteklense de geleneksel maratonların kısa süreli yapısını hatırlatan kesimlerin eleştirileriyle karşılaştı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "435dc678ebff699abdfb1130d4d362d86585fec211691b91daf3c6bd6db6796e"
+    },
+    {
+      "id": "da56cb6f8d28275d",
+      "category": "MODLAMA",
+      "title": "Cyberpunk 2077 Topluluğu Çift Silah Kullanma Mekaniğini Modlarla Genişletti",
+      "summary": "CD Projekt Red'in Edgerunners 2 güncellemesiyle Cyberpunk 2077'ye eklediği çift tabanca kullanma mekaniği, bağımsız mod geliştiricileri tarafından tüm ateşli silahlara uyarlandı. Yayımlanan modlar av tüfeği ve saldırı tüfeği gibi silahların çift kullanımına olanak tanırken, animasyon aksaklıkları ve aşırı güç dengesizliği gibi unsurları da beraberinde getiriyor.",
+      "why": "Resmi güncellemenin sunduğu sınırlı çift silah sisteminin mod geliştiricileri tarafından hızla tüm ateşli silahlara genişletilmesi, oyun mekaniklerinin topluluk tarafından nasıl dönüştürüldüğünü ve ortaya çıkan teknik sınırlamaları gösteriyor.",
+      "event_key": "cyberpunk-2077-cift-silah-mod-entegrasyonu",
+      "editorial_priority": {
+        "impact": 1,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Cyberpunk 2077'nin Edgerunners 2 güncellemesiyle gelen çift silah mekaniğinin mod geliştiricileri tarafından 24 saat içinde diğer silahlara genişletilmesi ve teknik gereksinimleri kaynakta somut ayrıntılarla aktarılmaktadır."
+      },
+      "brief": "Cyberpunk 2077'nin Edgerunners 2 güncellemesinde sunulan çift tabanca mekaniği, mod geliştiricileri tarafından 24 saat içinde tüfek ve pompalıları kapsayacak şekilde genişletildi. Yeni modlar silahların bağımsız ateşlenmesine izin verirken, animasyonlarda aksaklıklar ve aşırı güç dengesizlikleri yaratıyor. Ayrıca Cyber Engine Tweaks ve Redscript gibi ek araçlar gerekiyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
+      "source_published_at": "2026-10-23T09:30:58+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-dual-wield-any-gun-mods-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "CD Projekt Red'in Cyberpunk 2077 için yayımladığı Edgerunners 2 güncellemesi, oyuna çift tabanca kullanma yeteneği kazandırdı. Bu resmi güncellemenin ardından mod geliştiricileri, yalnızca tabancalarla sınırlandırılan mekanizmayı hızla genişleterek son 24 saat içinde Night City'deki diğer ateşli silahları kapsayan modlar yayımladı. Yapılan değişikliklerle birlikte av tüfekleri, saldırı tüfekleri ve keskin nişancı tüfekleri çift olarak ya da karma kombinasyonlarla kullanılabiliyor.",
+        "Söz konusu genişletmeyi sağlayan çalışmalar arasında E3roKK tarafından hazırlanan Dual Wield Anything, Jollywankers imzalı Dual Wield Anything and Everything for 2.5 ve JericoHellden'ın Expanded Dual Wielding adlı modları yer alıyor. JericoHellden'ın modu, CD Projekt Red'in sunduğu otomatik sıralı ateşleme yerine her iki silahın bağımsız biçimde kontrol edilmesine de olanak tanıyor. Yalnızca tabancaları çift kullanıp bağımsız ateşleme yapmak isteyenler için ise Dederara tarafından geliştirilen Independent Pistol Controls modu alternatif oluşturuyor.",
+        "Geliştiriciler, resmi sınırlamanın kaldırılmasıyla düşmanların bu ateş gücüne karşı yetersiz kaldığını ve deneyimin aşırı güçlü hale geldiğini belirtiyor. Mod yapımcıları ayrıca animasyonlarda bozulmalar ve aksaklıklar görülebileceği uyarısında bulunuyor. Katana gibi yakın dövüş silahlarının çift kullanımı henüz deneysel aşamada kalırken, listelenen tüm modların çalışabilmesi için Cyber Engine Tweaks yazılımının güncel sürümü, Expanded Dual Wielding için ise ek olarak Redscript aracı gerekiyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ee849b84837a41b96f2f70159e1b86cf9d267448441eac88e321b0b950000227"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 9,
+    "duration": 341.9,
+    "bytes": 2051568,
+    "sha256": "2558b6bf9fe602f9069be2c6c01a8f1749f51ed63937628050114b977dd38c61"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 9,
+    "duration": 627.3,
+    "bytes": 10036915,
+    "sha256": "c33d6d376bce8a516ffe28d24fc0f0a8b2ed5385f296a32ec27fb01cf9b79c70"
+  },
+  "audio_revision": 5
+}
