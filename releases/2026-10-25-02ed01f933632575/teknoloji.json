@@ -1,0 +1,493 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "teknoloji",
+  "publish_date": "2026-10-25",
+  "date": "25 Ekim 2026",
+  "issue": 10,
+  "ready": true,
+  "stories": [
+    {
+      "id": "d572273cb2547e87",
+      "category": "YAPAY ZEKÂ",
+      "title": "İngiltere'den Biyolojik Tehditlere Karşı 134 Milyon Dolarlık Yapay Zekâ Laboratuvarı",
+      "summary": "İngiltere hükümeti, Ulusal Yapay Zekâ Biyogüvenlik Girişimi kapsamında 100 milyon sterlin (134 milyon dolar) bütçeli Yapay Zekâ Biyogüvenlik Laboratuvarını kurdu. Girişime OpenAI ve Anthropic kredi desteğiyle, Google DeepMind ile Basecamp Research ise model ve teknik uzmanlıkla katılıyor.",
+      "why": "Yapay zekânın biyolojik tehditleri artırma potansiyeline karşı kamu, akademi ve sektör liderlerinin katılımıyla uluslararası çapta bağımsız bir koruma ve araştırma altyapısı oluşturulmuştur.",
+      "event_key": "uk-yapay-zeka-biyoguvenlik-laboratuvari-aibl",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "İngiltere hükümeti 100 milyon sterlin bütçeli laboratuvar kurmuş, OpenAI ve Anthropic'in kredi, Google DeepMind ve Basecamp'in model desteği sağladığı doğrulanmıştır."
+      },
+      "brief": "İngiltere hükümeti, biyolojik tehditleri belirlemek ve tıbbi tedavileri hızlandırmak amacıyla 134 milyon dolarlık Yapay Zekâ Biyogüvenlik Laboratuvarını kurdu. Bağımsız kuruluş; OpenAI, Anthropic, Google DeepMind ve Basecamp Research ortaklığıyla en gelişmiş yapay zekâ modellerini ve bilimsel araştırmaları bir araya getirecek.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
+      "source_published_at": "2026-10-24T16:11:53+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg",
+      "body": [
+        "İngiltere hükümeti, Ulusal Yapay Zekâ Biyogüvenlik Girişimi doğrultusunda Yapay Zekâ Biyogüvenlik Laboratuvarı'nı (AIBL) kurduğunu açıkladı. Projeye 100 milyon sterlin (yaklaşık 134 milyon dolar) doğrudan finansman sağlayan hükümet, bağımsız ve kâr amacı gütmeyen bu yapının kamu kurumları ve üniversitelerle iş birliği içinde çalışacağını bildirdi.",
+        "Laboratuvar; biyolojik riskleri tespit etmek, aşı ve tıbbi tedavi geliştirme süreçlerini hızlandırmak amacıyla biyogüvenlik uzmanlarını ileri düzey yapay zekâ sistemleriyle buluşturacak. Girişim kapsamında OpenAI en gelişmiş modelleri ve bilgi işlem altyapısı için 100 milyon sterlinlik kredi, Anthropic ise 100 milyon sterlinlik model kredisi sağlayacak. Google DeepMind uzman desteği ve Gemini modellerine erişim imkânı sunarken, Basecamp Research ise biyoloji modelleri ve teknik birikimini laboratuvara açacak.",
+        "Açıklamada, yapay zekânın bilimsel keşif fırsatları sunarken zararlı faaliyetlerin önündeki engelleri azaltabileceği ifade edildi. Kaliforniya'daki bir laboratuvarın antibiyotik dirençli bakterilere karşı yapay zekâyla virüs ürettiği örneğine değinen yetkililer, İngiltere'nin bu adımla biyolojik risklere karşı küresel dayanıklılığı artırmayı hedeflediğini belirtti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "2ad13481481bdbdc7d4b3e6f29989a3ace462ebcbb47060da06660a6574f96b5"
+    },
+    {
+      "id": "61ceba6cfe498159",
+      "category": "YAPAY ZEKÂ",
+      "title": "Block, Sesten Sese Çalışan Yeni Yapay Zekâ Modeli Dessa'yı Duyurdu",
+      "summary": "Jack Dorsey'in şirketi Block, tamamen insan konuşmasıyla eğitilen ve tüketici bilgisayarlarında yerel olarak çalışan Dessa adlı ses modelini tanıttı. Çift yönlü iletişim kurabilen model, metin arayüzüne ihtiyaç duymadan doğrudan ses üzerinden doğal duyguları yansıtabiliyor.",
+      "why": "Ses modellerini metin tabanlı büyük dil modellerine bağlama zorunluluğunu ortadan kaldırarak tüketici donanımında doğrudan sesten sese iletişim sağlayan yeni bir teknolojik yaklaşım getirmektedir.",
+      "event_key": "block-dessa-tam-cift-yonlu-ses-modeli",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Block'un araştırma laboratuvarı, sesten sese çalışan, yerel GPU'da barınabilen ve metin ara katmanı kullanmayan yeni Dessa modelini örnekleriyle duyurmuştur."
+      },
+      "brief": "Jack Dorsey'in şirketi Block, tüketici donanımlarında yerel çalışabilen Dessa adlı yeni ses modelini tanıttı. Model, geleneksel metin ara katmanı olmadan doğrudan sesten sese iletişim kuruyor ve gülme, duraklama gibi insani duygu ifadelerini eşzamanlı aktarabiliyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source_published_at": "2026-10-24T16:00:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822",
+      "body": [
+        "Jack Dorsey'in kurucusu olduğu finans teknolojileri şirketi Block, araştırma laboratuvarı bünyesinde geliştirilen Dessa adlı yeni ses modelini tanıttı. Modelin tek bir NVIDIA GPU kabininde ve doğrudan insan konuşma verileriyle eğitildiği duyuruldu. Dessa; gülme, ağlama ve duraksama gibi insani ses nüanslarını yansıtabilen konuşma yeteneğiyle öne çıkıyor.",
+        "Dessa, aynı anda hem konuşup hem dinleyebilen tam çift yönlü bir mimariyle çalışıyor. Sesi metne dönüştürerek büyük dil modellerinden bilgi çeken geleneksel sistemlerin aksine Dessa, bilgi birikimini doğrudan konuşma verilerinden ediniyor. Block yetkilileri, mevcut sesli yapay zekâların metin ara katmanı yüzünden duygu ve tonlamaları kaybettiğini, Dessa'da ise duygusal ifadelerin doğrudan modelin yapısında yer aldığını belirtti.",
+        "Araştırmacılar, Dessa'nın farklı tonlama ve duygularla yanıt verdiği test kayıtlarını paylaştı. MacBook M4 Max gibi tüketici sınıfı bilgisayarlarda yerel olarak çalıştırılabilen model henüz kamuya açılmadı. Block, olası yanıltma ve manipülasyon risklerinin incelenmesi için güvenlik araştırmacılarına test çağrısında bulundu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "c280b02147c21128c84bf17e50974a959c6d5e7700442a528ac2e4e1b17d393f"
+    },
+    {
+      "id": "87bb975b7408391e",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Ukrayna Ordusunda Starshield Bağlantısının Yeniden Normale Döndüğü Bildirildi",
+      "summary": "Ukrayna Savunma Bakanı Evgeniy Khmara, askeri Starshield sisteminin yeniden normal çalıştığını açıkladı. Kısıtlamaların kaldırılmasının, ABD Başkanı Donald Trump'ın Elon Musk ile yaptığı telefon görüşmesinin ardından gerçekleştiği aktarıldı.",
+      "why": "Savaş sahasında Ukrayna İHA'larının kontrolünü kaybetmesine neden olan kritik bir uydu iletişim kısıtlamasının liderler düzeyindeki temaslar sonucu çözüldüğü iddia edilmektedir.",
+      "event_key": "ukrayna-starshield-baglanti-kisitlamalari-kaldirildi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Ukrayna Savunma Bakanı Khmara Starshield'ın normale döndüğünü teyit etmiş, 10 günlük kesintinin ve Musk ile Trump arasındaki temasların detayları basına yansımıştır."
+      },
+      "brief": "Ukrayna Savunma Bakanlığı, ordunun kullandığı Starshield internet sisteminin kısıtlamaların ardından normale döndüğünü duyurdu. İHA operasyonlarını olumsuz etkileyen kesintilerin, Donald Trump ile Elon Musk arasındaki telefon görüşmesi sonrasında kaldırıldığı bildirildi.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source_published_at": "2026-10-24T20:46:34+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "body": [
+        "SpaceX'in, Ukrayna ordusunun kullanımına sunduğu askeri standartlardaki Starshield internet sistemine yönelik sınırlamaları kaldırdığı bildirildi. The Wall Street Journal'ın haberine göre Ukrayna Savunma Bakanı Evgeniy Khmara, sistemin normale döndüğünü belirtirken ordunun test çalışmalarına devam ettiğini ve kısıtlamalara ilişkin resmi bir gerekçe sunulmadığını kaydetti.",
+        "Bağlantı sorunu, Ukrayna'ya ait insansız hava araçlarının saatte yaklaşık 100 mil hıza ulaştığında internet erişimini kaybettiği 10 günlük bir sürecin ardından giderildi. Yaşanan aksaklık sırasında Ukrayna ordusunun bazı İHA'ların kontrolünü bütünüyle yitirdiği, hızını düşürmek zorunda kalan araçların ise savunmasız kalarak hedef haline geldiği aktarıldı.",
+        "Gelişmenin, ABD Başkanı Donald Trump'ın SpaceX İcra Kurulu Başkanı Elon Musk ile yaptığı telefon görüşmesinde hizmetin yeniden açılmasını talep etmesinin ardından yaşandığı belirtildi. Musk daha önce Ukrayna'nın Starlink'i taarruz amaçlı saldırılarda kullanarak kullanım şartlarını ihlal ettiğini ileri sürmüştü."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4526171d4bb6b01ff0000cb6607b4fcafd14a22e7707159e22535837c61d583b"
+    },
+    {
+      "id": "ed9fe79f62b579cc",
+      "category": "SİBER GÜVENLİK",
+      "title": "Orta Asya'daki Diplomatik Kurumları Hedef Alan Yeni UEFI Bootkit: BlackX",
+      "summary": "Kaspersky araştırmacıları, 2026 yılı başlarında Orta Asya'daki diplomatik temsilcilikleri hedef alan BlackX adlı yeni bir UEFI bootkit keşfetti. Tehdidin, eski Baton Drop açığını kullanarak Secure Boot korumasını aştığı ve güvenlik yazılımlarını engellemeye çalıştığı tespit edildi.",
+      "why": "Tam yamalı işletim sistemlerinde dahi Secure Boot sertifika iptalleri manuel uygulanmadığında donanım seviyesinde casusluk yapılabileceğini göstermesi açısından kritik bir güvenlik açığıdır.",
+      "event_key": "blackx-uefi-bootkit-baton-drop-guvenlik-acigi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Kaspersky araştırmacıları, Orta Asya'daki diplomatik kurumları hedef alan ve Baton Drop açığını sömürerek Secure Boot'u aşan yeni BlackX bootkit'ini teknik detaylarıyla belgelemiştir."
+      },
+      "brief": "Kaspersky araştırmacıları, 2026 başında Orta Asya'daki diplomatik hedeflere yönelik casusluk faaliyetlerinde BlackX adlı yeni bir UEFI bootkit saptadı. Yazılım, eski Baton Drop açığından yararlanarak Secure Boot'u aşıyor ve tespit edilmeyi önleyen zararlı bir çekirdek sürücüsü yüklüyor.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "source_published_at": "2026-10-24T10:17:32-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/23/blackX.jpg",
+      "body": [
+        "Kaspersky araştırmacıları, 2026 başındaki bir casusluk operasyonunda kullanılan BlackX adlı yeni bir UEFI bootkit belirledi. Orta düzeyde güvenilirlikle Çin devlet destekli APT41 (Brass Typhoon veya Wicked Panda) grubuna bağlanan saldırıların; Tacikistan, Özbekistan ve Türkmenistan'daki diplomatik temsilcilikleri hedef aldığı açıklandı.",
+        "Analizlere göre BlackX, Secure Boot engelini aşmak amacıyla BlackLotus zararlısının da kullandığı CVE-2022-21894 kodlu Baton Drop açığını suistimal ediyor. Bu sayede özel anahtarlar kaydedilip rastgele EFI dosyaları yüklenebiliyor. BlackX, farklı bir çekirdek sürücüsü yüklemesi ve Windows Olay İzleme sağlayıcılarına müdahale etmesiyle BlackLotus'tan ayrılıyor.",
+        "Kullanılan kötü amaçlı sürücünün Wenjiang District Mingyu Network Technology Service Studio adına kayıtlı ancak sonradan iptal edilmiş bir sertifikayla imzalandığı saptandı. Sürücü, kendi dosyaları açılmak istendiğinde Windows Hesap Makinesi'ni başlatıyor ve sistemde Kaspersky veya Avast ürünleri algılandığında izleme engelleme prosedürlerini çalıştırmayı deniyor.",
+        "Kaspersky, etkilenen tüm sistemlerin güncel Windows kullandığını ancak yöneticilerin ek sertifika iptallerini elle devreye sokmaması sebebiyle açığın sürdüğünü vurguladı. 'Windows Production PCA 2011' sertifikasının yama sonrasında otomatik olarak iptal edilmediği, engelleme listesine eklenmediği sürece sistemlerin risk altında kalacağı hatırlatıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0662fb4a7518b34ef2c7228bdb56f9937d018adcf12eecc746428fdc8e47529d"
+    },
+    {
+      "id": "9e4bbc3b053853bb",
+      "category": "BİLİM",
+      "title": "Commonwealth Fusion Systems'a ABD Hükümetinden 85 Milyon Dolarlık Çip Desteği",
+      "summary": "Füzyon enerjisi girişimi Commonwealth Fusion Systems, ABD Ticaret Bakanlığı'ndan CHIPS Yasası kapsamında 85 milyon dolarlık fon alacağını duyurdu. Anlaşma ile ABD hükümeti şirketten pay alacak.",
+      "why": "CHIPS Yasası kaynaklarının nükleer füzyon teknolojisinin güç elektroniği ve yarı iletken ihtiyaçlarına aktarılması ve devletin şirkete doğrudan ortak olması açısından kayda değerdir.",
+      "event_key": "cfs-chips-yasasi-fuzyon-yari-iletken-destegi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "CHIPS Yasası kapsamında ABD Ticaret Bakanlığı'nın CFS'ye 85 milyon dolarlık fon sağlaması ve hisse alması resmi duyuruya dayalı somut bir sanayi gelişmesidir."
+      },
+      "brief": "Commonwealth Fusion Systems, füzyon santralleri için gelişmiş çipler üretmek üzere ABD hükümetinden 85 milyon dolar destek alacak. CHIPS Yasası fonu karşılığında Ticaret Bakanlığı şirketten hisse edinecek.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "source_published_at": "2026-10-23T16:20:28+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
+      "body": [
+        "Commonwealth Fusion Systems (CFS), füzyon enerjisi endüstrisine yönelik gelişmiş yarı iletkenler geliştirmek amacıyla ABD hükümetinden 85 milyon dolar fon alacağını açıkladı. Ticaret Bakanlığı tarafından CHIPS Yasası kapsamında sağlanan bu hibe karşılığında ABD hükümeti CFS şirketinde pay sahibi olacak.",
+        "Gelecek yıl 'Sparc' adını verdiği reaktörünü devreye almayı hedefleyen CFS, sağlanacak kaynağın ABD içindeki yarı iletken araştırma, geliştirme ve üretim kapasitesini destekleyeceğini duyurdu. Şirketin kurucu ortağı ve baş bilim sorumlusu Brandon Sorbom, desteğin santrallerin maliyet etkinliğini artıracağını ve yerel tedarik zincirini güçlendireceğini vurguladı.",
+        "Alınan fon beş ana alanda kullanılacak. Bunlar arasında plazmayı tutan süper iletken mıknatısları beslemek için silikon karbür güç elektroniğinin geliştirilmesi, yakıtı ısıtmak için radyo frekans güç jeneratörleri üretimi ve radyasyona dayanıklı kontrol ünitelerinin yapımı bulunuyor. Ayrıca ayrılan kaynağın bir bölümüyle GPU ve TPU gibi yapay zekâ donanımlarının füzyon tesislerine uyarlanması planlanıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d2e6fb931d350245bc3c3aed0a9046e9115b87f2665e78078cca0f3340df28e7"
+    },
+    {
+      "id": "b3c0b22e3629b775",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Android Cihazlardaki Google Hesaplarına Telefon Numarası Otomatik Ekleniyor",
+      "summary": "Google'ın Android cihazlarda SIM kart numarasını telefonda açık olan tüm Google hesaplarına otomatik olarak bağladığı ortaya çıktı. Eylül 2025'ten bu yana varsayılan olarak devrede olan bu uygulama, kullanıcılara giden doğrulama e-postalarıyla dikkat çekti.",
+      "why": "Android kullanıcılarının kişisel telefon numaralarının ikincil veya iş hesapları dahil tüm hesaplara haber verilmeksizin bağlanması, gizlilik ve veri yönetimi açısından büyük önem taşıyor.",
+      "event_key": "google-android-telefon-numarasi-hesap-baglama",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Google servis belgeleri ve kullanıcılara giden bildirimlerle doğrulanan bu varsayılan özellik, geniş bir tüketici kitlesinin hesap gizliliğini ve cihaz ayarlarını doğrudan etkilemektedir."
+      },
+      "brief": "Android cihazlar, telefondaki SIM kart numarasını giriş yapılan tüm Google hesaplarıyla otomatik olarak eşleştiriyor. Eylül 2025'ten bu yana varsayılan olan bu ayar kapatılabiliyor ancak daha önce bağlanan numaraların hesaplardan tek tek manuel kaldırılması gerekiyor.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
+      "source_published_at": "2026-10-24T18:45:00+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/google-is-quietly-linking-your-phone-number-to-other-android-accounts/l-intro-1792517776.jpg",
+      "body": [
+        "Android telefonların, takılı SIM kartın telefon numarasını cihazda oturum açılmış tüm Google hesaplarına otomatik olarak bağladığı anlaşıldı. Google destek belgelerine göre, kurulum sırasında otomatik gerçekleştirilen doğrulama işlemi ikincil ve iş hesaplarını da kapsıyor. Şirket bu uygulamanın hesap kurtarma ve RCS mesajlaşma gibi özellikleri etkinleştirdiğini belirtirken, numaranın neden her hesaba tek tek eklendiği konusunda bir gerekçe sunmuyor.",
+        "Android Authority tarafından tespit edilen bilgilere göre, Google Play servislerinin Eylül 2025 tarihli kayıtları otomatik numara doğrulamasının kurulumda varsayılan olarak çalıştığını gösteriyor. Sistem desteği mevcut ve gelecekte cihaza eklenecek hesapları kapsarken, SIM kart değiştiğinde yeni numara da cihazdaki tüm hesaplara tanımlanıyor. Google ve operatörler bu numaraları düzenli aralıklarla yeniden doğrularlarken bu işlem operatör ücretlerine yol açabiliyor.",
+        "Otomatik eşleştirmeyi durdurmak isteyen kullanıcıların telefon ayarları üzerinden Google sekmesine, ardından Gizlilik ve güvenlik bölümündeki telefon numarası doğrulama seçeneğine girerek otomatik doğrulamayı kapatması gerekiyor. Ancak bu işlem geriye dönük çalışmıyor; daha önce hesaplara eklenmiş numaraların her hesabın kişisel bilgiler kısmından manuel silinmesi şart. Güvenlik şirketi Kaspersky, doğrulamanın kapatılmasının Google Mesajlar'daki RCS sohbetlerinin devre dışı kalarak SMS'e dönmesine neden olduğunu bildiriyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "c4c4f9cd5b05333b72ff858825c0752b250f3be8c779e135d8e89ce6699dc1c9"
+    },
+    {
+      "id": "c7aa9b7dfeaf83bd",
+      "category": "YAPAY ZEKÂ",
+      "title": "Pennsylvania'da Yapay Zekâ Destekli Reklamlara Etiket Zorunluluğu Getirildi",
+      "summary": "Pennsylvania Valisi Josh Shapiro, yapay zekâ ile oluşturulmuş veya önemli ölçüde değiştirilmiş reklamlarda açıklayıcı etiket bulunmasını zorunlu kılan yasayı imzaladı. Düzenleme eyalette yayımlanacak görsel, işitsel ve metin tabanlı tüm reklamları kapsıyor.",
+      "why": "Yapay zekâ ile üretilen yanıltıcı içeriklerin ticari reklamlarda kullanımına yönelik eyalet düzeyinde getirilen ilk yasal denetim adımlarından biridir.",
+      "event_key": "pensilvanya-yapay-zeka-reklam-etiketleme-yasasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Yapay zekâ üretimi ticari içeriklerde etiketleme zorunluluğu getiren eyalet yasası vali tarafından imzalanarak yasal çerçeveye kavuşmuştur."
+      },
+      "brief": "Pennsylvania'da yürürlüğe giren yeni yasa, yapay zekâ ile üretilen veya belirgin biçimde değiştirilen reklamlara etiket konulmasını şart koşuyor. Kurallar televizyon tanıtımlarından yerel broşürlere kadar geniş bir reklam yelpazesini içine alıyor.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source_published_at": "2026-10-24T14:32:44-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "body": [
+        "Pennsylvania Valisi Josh Shapiro, yapay zekâ ile üretilen reklamlara bilgilendirme etiketi konulmasını zorunlu kılan Yapay Zekâ Yanıltıcı Reklamcılık Yasası'nı imzalayarak onayladı. Yeni yasa; sabit görsel, video, ses veya metin formatındaki herhangi bir reklamın yapay zekâ tarafından önemli ölçüde değiştirilmesi ya da üretilmesi durumunda, içeriğin kendi formatında bir etiket taşımasını şart koşuyor.",
+        "Kabul edilen düzenleme, dev bütçeli şirketlerin televizyon reklamlarından yerel restoranların broşürlerine kadar her düzeydeki reklam faaliyetini kapsıyor. Pennsylvania, yapay zekâ içeriklerine açıklama şartı getiren ilk eyaletlerden biri olurken, kurallar reklamın nerede üretildiğine bakılmaksızın eyalette yayımlanacak her materyal için geçerli sayılıyor.",
+        "Bununla birlikte yasada çeşitli muafiyetler ve belirsizlikler yer alıyor. Metinde geçen 'önemli ölçüde değiştirilmiş' ifadesinin sınırları net çizilmezken; parodi, hiciv, eleştiri ve açıkça kurgusal nitelikteki içerikler kapsam dışında tutuluyor. Yasa tasarısını sunan Eyalet Senatörü Nick Pisciottano'nun ofisi konuya ilişkin sorulara henüz yanıt vermedi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "389a3d8d6b69795c60c591344466f45dabb2504c044c3292252536096e762d4f"
+    },
+    {
+      "id": "df0e399b41113039",
+      "category": "YAZILIM",
+      "title": "Yapay Zekâ Altyapı Girişimi Daytona 1 Milyar Dolar Değerlemeye Ulaştı",
+      "summary": "Bulut bilişim girişimi Daytona, FirstMark Growth liderliğinde gerçekleşen B serisi yatırım turunda 60 milyon dolar fon sağlayarak 1 milyar dolar değerlemeye ulaştı. Şirketin toplam yatırımı 91 milyon dolara çıktı.",
+      "why": "Yapay zekâ ajanlarının geleneksel yazılımlardan farklılaşan altyapı ihtiyaçlarını karşılamak üzere kurulan bir girişimin unicorn seviyesine yükseldiğini belgelemektedir.",
+      "event_key": "daytona-platforms-seri-b-unicorn",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Yapay zekâ ajan altyapısı kuran üç yıllık Daytona girişiminin 60 milyon dolarlık yatırımla 1 milyar dolar değerlemeye eriştiği doğrulanmış finansman verileriyle aktarılmıştır."
+      },
+      "brief": "Yapay zekâ ajanları için bulut altyapısı geliştiren Daytona, 60 milyon dolarlık Seri B turunda 1 milyar dolar değerlemeye ulaştı. Turda teknoloji dünyasının önde gelen yöneticileri ve kurumsal fonlar yer aldı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source_published_at": "2026-10-23T16:26:29+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+      "body": [
+        "New York merkezli teknoloji şirketi Daytona Platforms, FirstMark Growth liderliğinde düzenlenen B serisi yatırım turunda 60 milyon dolar topladığını ve şirket değerlemesinin 1 milyar dolara ulaştığını duyurdu. Şirket, bu yeni yatırımla birlikte bugüne kadar sağladığı toplam fon tutarının 91 milyon dolara çıktığını bildirdi.",
+        "Üç yıl önce kurulan girişimin son turuna şubat ayındaki Seri A turunu da yöneten FirstMark'ın yanı sıra sektörün tanınmış isimleri katıldı. Yatırımcılar arasında Patrick Collison, Tobi Lütke, Aravind Srinivas, Eric Yuan, Olivier Pomel, Adam D'Angelo ve Brendan Foody bulunuyor. Ayrıca Qualcomm Ventures, Samsung Next ve Okta Ventures da kurumsal yatırımcılar arasında yer aldı.",
+        "Daytona, yapay zekâ ajanlarının geleneksel yazılımlara kıyasla farklı altyapı gereksinimleri bulunduğunu savunarak bu alana özel bulut hizmeti üretiyor. Şirket kurucusu Ivan Burazin, ajanların önceden planlanmamış binlerce kısa süreli iş başlattığını, sundukları altyapının her ajana bağımsız bir bilgisayar gibi Linux, Windows, macOS ve GPU kaynakları sağladığını ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "311c73a910308303980c502aa8f649a654d7767a58165593b9354fff0c1c1ddb"
+    },
+    {
+      "id": "e7a80d87e8606cee",
+      "category": "YAPAY ZEKÂ",
+      "title": "Yapay Zeka Modelleri Seçim Tercihine Zorlandığında İki Farklı Siyasi Kutuba Ayrılıyor",
+      "summary": "Convovo tarafından yürütülen bir araştırma, seçimlerde tek bir aday önermeye zorlanan yapay zeka modellerinin belirgin siyasi taraflılık sergilediğini ortaya koydu. Grok 4.7 yanıtlarının yüzde 92'sinde Cumhuriyetçi adayı seçerken, GPT-6.1 Sol yüzde 97 oranında Demokrat adayı önerdi.",
+      "why": "Yapay zeka modellerinin bilgi kaynakları, arama tercihleri ve gizli talimatları üzerinden kullanıcıları örtük biçimde yönlendirebileceğini ve seçim süreçlerinde taraflılık oluşturabileceğini göstermektedir.",
+      "event_key": "yapay-zeka-modelleri-siyasi-tercih-arastirmasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Convovo araştırması, yaklaşık 500 seçim yarışında API üzerinden test edilen Grok ve GPT modellerinin zıt siyasi tercihler ve arama kalıpları sergilediğini ortaya koymaktadır."
+      },
+      "brief": "Yeni bir çalışma, yapay zeka modellerinin seçimlerde tarafsız kalmadığını gösterdi. Doğrudan tercih yapmaya zorlandıklarında Grok 4.7 yüzde 92 oranında Cumhuriyetçileri, GPT-6.1 Sol ise yüzde 97 oranında Demokratları seçti; modeller yaklaşık 500 yarışta yüzde 10'dan az mutabık kaldı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source_published_at": "2026-10-24T15:00:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "body": [
+        "Cornell Üniversitesi profesörü Tapan Parikh liderliğindeki Convovo araştırma ekibinin yürüttüğü çalışma, yapay zeka modellerinin tarafsızlığına dair önemli bulgular sundu. Araştırmacılar, yaklaşık 500 seçim yarışı kapsamında OpenAI'ın GPT-6.1 Sol ve SpaceXAI'ın Grok 4.7 modellerine API üzerinden başvurarak tarafsız kalmadan tek bir aday önermelerini istedi. Tüketici uygulamaları doğrudan bir adayı seçmeyi reddetse de modeller zorlandığında Grok yüzde 92 oranında Cumhuriyetçi, GPT ise yüzde 97 oranında Demokrat adayı tercih etti. İki model yarışların yüzde 10'undan daha azında uzlaşabildi.",
+        "Modellerin başvurduğu bilgi kaynakları ve arama odakları da belirgin şekilde ayrıştı. Grok; Hristiyan muhafazakar seçmen rehberi, Turning Point Action ve X gibi mecraları kullanarak göç, vergi, suç ve enerji konularını araştırdı. Buna karşılık GPT; Wikipedia, Associated Press, Axios ve Reddit gibi platformlara ağırlık vererek sağlık hizmetleri ve kürtaj başlıklarına odaklandı. Grok'un Cumhuriyetçi adayları önermediği nadir durumlar ise adayın cinsel taciz iddiaları ya da aşırı sağ bağlantılar gibi skandallarla anıldığı anlar oldu.",
+        "İnternet araması kapatılarak gerçekleştirilen testlerde modellerin farklı işleyiş yöntemleri ortaya çıktı. İnternetsiz ortamda GPT yüzde 80 oranında Demokrat adayı seçmeyi sürdürürken, Grok yanıt vermekten büyük oranda kaçındı. Araştırmacılar ayrıca xAI API'sinde kullanıcı tarafından eklenmemiş yaklaşık 1.240 tokenlik gizli talimat verisi tespit etti. OpenAI sözcüsü tüketici uygulamalarının varsayılan olarak nesnel tasarlandığını ve kullanıcıya kimi seçeceğini söylemediğini belirtirken, uzmanlar bu modellerle yapılacak genel sohbetlerin dahi kullanıcıları örtük biçimde yönlendirebileceğini vurguluyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "872f17ac05d51358358325043a3cbe32c6fa15f18d828915c0545f0b66712de8"
+    },
+    {
+      "id": "1e9b03cbb67bfe99",
+      "category": "DONANIM",
+      "title": "Intel Yabancı Üretim Robot Yasağı Nedeniyle ABD Çip Tesisleri İçin Muafiyet Aldı",
+      "summary": "ABD Federal İletişim Komisyonu, yabancı üretim robot kısıtlamalarının çip üretimini aksatmaması için Intel'e bir yıllık muafiyet verdi. Şirket, fabrikalarda malzeme taşıyan otomatik kılavuzlu araçların yerli alternatifinin bulunmadığını belirtti.",
+      "why": "ABD'nin yabancı teknoloji kısıtlamalarının yerli yarı iletken üretimini ve tedarik zincirini olumsuz etkileyebileceğini, endüstriyel operasyonların yabancı robotik altyapıya bağımlılığını göstermektedir.",
+      "event_key": "intel-fcc-yabanci-robot-yasagi-muafiyeti",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "FCC'nin yayımladığı resmi kararla Intel'in yabancı menşeli fabrika robotları için aldığı bir yıllık muafiyet ve yerli alternatif eksikliği somut biçimde belgelenmiştir."
+      },
+      "brief": "Intel, Federal İletişim Komisyonu'nun yabancı robot yasağının fabrikalarındaki üretimi aksatmaması için bir yıllık muafiyet aldı. Şirket, tesislerde malzeme taşıyan yabancı kılavuzlu araçların yerine geçebilecek yerli bir alternatif bulunmadığını ve bakımın kritik olduğunu bildirdi.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "source_published_at": "2026-10-23T17:18:31+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+      "body": [
+        "ABD Federal İletişim Komisyonu (FCC), yabancı üretim robotlara yönelik getirdiği kısıtlamaların yarı iletken fabrikalarında kesintiye yol açmaması amacıyla Intel'in muafiyet talebini onayladı. 22 Ekim'de yayımlanan karara göre Intel, ABD'deki yonga üretim tesislerinde yer alan yabancı menşeli robotik araçları bir yıl boyunca kullanmaya devam edebilecek.",
+        "Muafiyet kapsamındaki cihazlar, depolarda ve fabrika zeminlerinde malzeme taşımak amacıyla belirli hatlar veya güzergahlar üzerinde çalışan otomatik kılavuzlu araçlardan oluşuyor. Genellikle Japon firmaları Murata Machinery ve Daifuku tarafından üretilen bu araçların modelleri, Intel'in başvurusundaki gizli bir ekte yer aldı. Düzenleme ayrıca robotların sürekli çalışmasını sağlamak için belirli donanım, yazılım ve bellenim güncellemelerinin yapılmasına olanak tanıyor.",
+        "Intel, 16 Ekim'de yaptığı başvuruda kılavuzlu araçların yasağa dahil olup olmadığının belirsiz olduğunu, ancak üretimi riske atmamak adına tedbir amaçlı muafiyet istediğini belirtti. Cihazların yerli bir muadili bulunmadığını ifade eden şirket, bakım yapılamamasının çip üretimini aksatacağını vurguladı. ABD hükümetinin 8,9 milyar dolarlık hisse payına sahip olduğu Intel için karar bir hafta içinde çıkarken, pazar analizleri robot kısıtlamalarının yerel sektör gelirlerini 2030'a kadar olumsuz etkileyebileceğini öngörüyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "7010e1dd05886e9030b468ae2af94a00120fea47d624c387c5f3ffa0ea3a582f"
+    },
+    {
+      "id": "28a3ac1f48449efd",
+      "category": "BİLİM",
+      "title": "Mars'taki Dev Bulut Doğada Daha Önce Görülmemiş Bir Fiziksel Süreçle Açıklandı",
+      "summary": "Bilim insanları, Mars'taki Arsia Mons volkanı üzerinde dönemsel olarak oluşan 1.000 millik dev bulutun mekanizmasını ilk kez modelledi. Çalışma, bulutun toz parçacıkları olmadan doğrudan buharın buza dönüşmesiyle meydana geldiğini gösteriyor.",
+      "why": "Doğada daha önce doğrudan gözlemlenmemiş teorik bir atmosferik fizik sürecinin başka bir gezegende modellediğini kanıtlamakta ve Mars atmosferine ilişkin temel dinamikleri aydınlatmaktadır.",
+      "event_key": "mars-arsia-mons-bulutu-homojen-cekirdeklenme",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 2,
+        "evidence": 4,
+        "reason": "Nature Geoscience'ta yayımlanan çalışma, Arsia Mons bulutunun oluşumunu doğada daha önce doğrudan görülmemiş homojen çekirdeklenme modeliyle açıklamaktadır."
+      },
+      "brief": "Mars'taki Arsia Mons üzerinde beliren 1.000 millik bulutun gizemi çözüldü. Nature Geoscience'ta yayımlanan modellemeye göre bulut, aşırı nem ve 10 dakikada 30 derecelik sıcaklık düşüşüyle, toz taneciği gerekmeksizin doğrudan buz kristaline dönüşen homojen çekirdeklenme süreciyle oluşuyor.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "source_published_at": "2026-10-24T11:50:28+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
+      "body": [
+        "Mars'ın ilkbahar ve yaz aylarında Arsia Mons volkanı yakınlarında her sabah ortaya çıkan ve yaklaşık 1.000 mil uzunluğa ulaştıktan sonra dağılan dev bulutun sırrı çözüldü. 2018 yılında bir uzay sondası tarafından kaydedilen Arsia Mons Uzamış Bulutu (AMEC), Nature Geoscience dergisinde yayımlanan yeni bir çalışmayla ilk kez başarılı bir şekilde modellendi.",
+        "Sorbonne Üniversitesi'nden gezegen bilimci Jorge Hernández-Bernal liderliğindeki ekip, bulutun Dünya'dakinden farklı bir yöntemle oluştuğunu ortaya koydu. Dünya'da su buharı toz veya tuz gibi mikro parçacıklar etrafında yoğunlaşırken, Mars'taki bu bulut hiçbir parçacığa ihtiyaç duymadan buharın doğrudan buz kristaline dönüştüğü homojen çekirdeklenme mekanizmasıyla meydana geliyor. Bu fiziksel süreç teorik olarak bilinmesine rağmen doğada daha önce doğrudan gözlemlenmemişti.",
+        "Olayın gerçekleşebilmesi için 10 dakika içinde 30 santigrat derecelik ani sıcaklık düşüşü ve Dünya'da ölçülen değerlerin 100 bin katından fazla aşırı bağıl nem gerekiyor. Yaklaşık 65 bin fit yüksekliğindeki Arsia Mons volkanına çarpan rüzgar akımları güçlü bir dalga yaratarak nemli havayı dakikalar içinde atmosferin üst tabakalarına taşıyor. Araştırmacılar, bu çalışmaya kadar Mars'ta bu denli yüksek nem seviyelerinin varlığının bilinmediğini ifade ediyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "be9d40b8f8556df3f9b98808e83beb58bfdefe23d662a79296495d45629993ef"
+    },
+    {
+      "id": "5fe152911bcf2044",
+      "category": "BİLİM",
+      "title": "Güneş'in Sakin Bölgelerinde Karmaşık Manyetik Ağ Keşfedildi",
+      "summary": "Stratosfere gönderilen Sunrise-III Güneş Gözlemevi, Güneş'in sakin görünen bölgelerinin üzerinde karmaşık ve ipliksi bir manyetik ağ bulunduğunu tespit etti. Bulgular, Güneş atmosferinin ısınmasına yol açan enerji transferinin anlaşılmasına yardımcı oluyor.",
+      "why": "Güneş yüzeyinin büyük bölümünü oluşturan sakin bölgelerdeki manyetik yapıların haritalanmasını sağlayarak atmosferin ısınma mekanizmasını aydınlatıyor.",
+      "event_key": "sunrise-3-gunes-manyetik-kanopi-kesfi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Sunrise-III stratosferik gözlemevinin 2024 uçuşu verileri, Güneş'in sakin bölgelerindeki manyetik atmosfer dinamiklerini ayrıntılı olarak sunuyor."
+      },
+      "brief": "Stratosfere yükselen Sunrise-III gözlemevi, Güneş'in sakin bölgelerinde ipliksi bir manyetik ağ tespit etti. Japonya Ulusal Astronomi Gözlemevi liderliğindeki uluslararası ekip, bu karmaşık yapıların Güneş atmosferinin nasıl ısındığını açıklamaya katkı sağlayacağını bildirdi.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+      "source_published_at": "2026-10-24T08:23:38-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/magnetic-fields-in-chromosphere.webp",
+      "body": [
+        "Japonya Ulusal Astronomi Gözlemevi (NAOJ) liderliğindeki uluslararası bir araştırma ekibi, Güneş'in sakin bölgelerinde gizlenmiş karmaşık bir manyetik yapı ağı ortaya çıkardı. Keşif, 2024 yılında bir balon yardımıyla Dünya stratosferinde yaklaşık 35 kilometre irtifaya çıkarılan Sunrise-III Güneş Gözlemevi aracılığıyla gerçekleştirildi.",
+        "Gözlemevinde yer alan SCIP kızılötesi spektropolarimetre aygıtı, fotosferden kromosfere kadar manyetik alanları kesintisiz olarak ölçtü. İncelemeler, sakin bölgelerdeki manyetik kubbenin sanılanın aksine düzgün değil, dar ve ipliksi yapılardan meydana geldiğini gösterdi. Bilgisayar simülasyonları, Güneş yüzeyindeki hareketlerin bu manyetik alan çizgilerini büktüğünü doğruladı.",
+        "Araştırmacılar ayrıca Güneş'in kenar bölgesinde bulunan ve 'spikül' adı verilen Güneş maddesi fışkırmalarındaki manyetik alanları inceledi. Yeryüzündeki teleskopların atmosferik türbülans nedeniyle yakalayamadığı bu hassas verilerin, enerjinin üst katmanlara nasıl aktarıldığını ve atmosferin nasıl ısındığını açıklamada önemli bir adım olduğu belirtildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "443e81cccb42e2baf682c747b94cc04a24c4f8c32fde8e33d6d77a0e5ed0249c"
+    },
+    {
+      "id": "bc0ee4ef9353aebd",
+      "category": "BİLİM",
+      "title": "Buzul Çağı Başlangıcını İnsan Kaynaklı İklim Değişimi Durdurdu",
+      "summary": "Kanada Arktiki'ndeki Barnes Buz Örtüsü üzerinde yapılan incelemeler, Laurentide Buz Örtüsü kalıntısının yaklaşık 2 bin yıl önce yeniden büyümeye başladığını ortaya koydu. Araştırma, yeni bir buzul çağının başlangıcı olarak nitelenen bu doğal genişlemenin 1960 civarında insan kaynaklı ısınmayla sona erdiğini gösteriyor.",
+      "why": "Dünya'nın son 2,5 milyon yıllık buzul döngüsünün insan kaynaklı sera gazı emisyonlarıyla kesintiye uğradığını doğrudan saha verileriyle kanıtlaması açısından önem taşıyor.",
+      "event_key": "laurentide-buz-ortusu-genisleme-arastirmasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Science dergisinde yayımlanan çalışma, Barnes Buz Örtüsü'ndeki fiziksel kanıtlarla buzul çağı başlangıcının 1960 civarında insan etkisiyle durdurulduğunu belgeliyor."
+      },
+      "brief": "Kanada Arktiki'nde yapılan araştırma, Laurentide Buz Örtüsü'nün iki bin yıl önce yeniden büyümeye başladığını ve yeni bir buzul çağını başlattığını ortaya koydu. Bilim insanlarına göre bu süreç, 1960 civarında insan kaynaklı sera gazı emisyonlarının etkisiyle tersine döndü.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "source_published_at": "2026-10-24T11:00:09+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
+      "body": [
+        "Kanada Arktiki'ndeki Baffin Adası'nda bulunan ve antik Laurentide Buz Örtüsü'nün son parçası olan Barnes Buz Örtüsü üzerinde yürütülen araştırma, Dünya'nın iklim geçmişine dair kritik veriler sundu. Science dergisinde yayımlanan çalışmaya göre, Laurentide Buz Örtüsü yaklaşık 3 bin 600 yıl önce en küçük boyutuna ulaştıktan sonra 2 bin yıl önce yeniden genişlemeye başladı.",
+        "Columbia Üniversitesi Lamont-Doherty Dünya Gözlemevi'nden jeolog Nicolás Young liderliğindeki ekip, buzun altındaki ana kayaya doğrudan yapışan soğuk tabanlı yapının altındaki bitki örtüsünü koruduğunu belirledi. Araştırmacılar, kayalardaki berilyum-10 izotoplarını ve buzun ilerleyişiyle gömülen yosunların radyokarbon tarihlerini inceleyerek buz örtüsünün ilerleme takvimini haritalandırdı.",
+        "Bölgedeki küçük buz örtülerinden toplanan 200'e yakın tarihleme verisi, hiçbirinin 2 bin yıldan daha eski olmadığını gösterdi. Kuzey enlemlerine ulaşan güneş enerjisinin son 10-11 bin yılda azalması buzul büyümesini tetiklese de, sanayi devrimi sonrasında artan sera gazları bu süreci durdurdu. Barnes Buz Örtüsü'nün kütle dengesi 1960 civarında negatife döndü ve günümüzde yaz aylarında eriyen örtünün birkaç yüzyıl içinde tamamen yok olacağı öngörülüyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ef25c4d287c63586493630fb7852b0cda025246999921fc97b83cc21e1e6a7a4"
+    },
+    {
+      "id": "dea976fbb312cf56",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Spotify Aile ve Duo Planlarında QR Kodlu Adres Doğrulaması Başlatıyor",
+      "summary": "Spotify, Aile ve Duo abonelik planlarında aynı adreste ikamet şartını sıkılaştırmak için yöneticinin cihazından QR kod tarama zorunluluğu getirmeye başladı. Doğrulamayı 7 gün içinde yapmayan hesaplar ücretsiz sürüme düşürülecek ve 12 ay boyunca çoklu planlara katılamayacak.",
+      "why": "Dijital yayıncılıkta şifre ve hesap paylaşımı kısıtlamalarının müzik sektörüne yansımasını ve milyonlarca abonenin kullanım koşullarını doğrudan belirliyor.",
+      "event_key": "spotify-aile-plani-qr-kod-dogrulamasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Spotify'ın resmi destek belgelerine ve kullanıcı raporlarına dayanan gelişme, hesap paylaşımına yönelik 7 günlük süre ve 12 aylık men yaptırımını kapsıyor."
+      },
+      "brief": "Spotify, Aile ve Duo planlarındaki hesap paylaşımını engellemek amacıyla fiziki QR kod doğrulamasını devreye alıyor. Ana hesap yöneticisinin cihazından yedi gün içinde doğrulama yapmayan kullanıcılar, ücretsiz pakete düşürülerek bir yıl boyunca bu planlardan men edilecek.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+      "source_published_at": "2026-10-23T19:20:27+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png",
+      "body": [
+        "Müzik akış platformu Spotify, Family (Aile) ve Duo abonelik paketlerinde yer alan 'aynı adreste ikamet etme' kuralını denetlemek üzere yeni bir doğrulama adımı başlattı. Şirketin destek belgeleriyle doğrulanan uygulamaya göre, plan üyelerinin erişimlerini sürdürebilmek için plan yöneticisinin cihazında yer alan QR kodu bizzat taraması gerekiyor.",
+        "Kullanıcılara gönderilen bildirim sonrasında adres doğrulama işlemini yedi gün içinde tamamlamayan hesaplar, otomatik olarak ücretsiz katmana düşürülecek. Ayrıca bu kullanıcıların 12 ay boyunca herhangi bir Duo veya Aile planına katılması engellenecek. Bu kuralın, farklı şehirlerde yaşayan öğrenciler veya seyahat eden aile üyeleri gibi gerçek hane halklarını da etkileyebileceği belirtiliyor.",
+        "Goldman Sachs tarafından yayımlanan bir sektör raporunda, çok kullanıcılı planlardaki kullanıcıların önemli bir bölümünün tasarruf amaçlı arkadaş gruplarından oluştuğu tahmin edildi. Analistler, hane içi doğrulamanın sıkılaştırılmasının ve plan kriterlerinin netleştirilmesinin şirket gelirlerini artırma potansiyeli taşıdığını ifade ediyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "2f6096c84ccb9cc62c77987da952646121e0c8e7434cf7d5ce1b3b1be570c57d"
+    },
+    {
+      "id": "e41ef2d0bfef1e7d",
+      "category": "BİLİM",
+      "title": "Beyin Kanserinde Yüksek Sıvı Yoğunluğu Hücrelerin Yayılmasını Kolaylaştırıyor",
+      "summary": "Chongqing'deki araştırmacılar, glioblastoma tümörlerinin dış kenarındaki yoğun sıvının kanser hücrelerini daha agresif hale getirdiğini tespit etti. Özel bir mikroakışkan çip ile yapılan deneyler, kalın sıvıya maruz kalan hücrelerin küçülerek dar alanlardan daha hızlı geçtiğini gösterdi.",
+      "why": "Glioblastoma hücrelerinin yayılmasında mekanik sıvı direncine bağlı hücresel hafıza ve genetik değişim mekanizmasını ortaya koyarak yeni tedavi hedeflerine zemin hazırlıyor.",
+      "event_key": "glioblastoma-sivi-viskozitesi-agresiflesme-kesfi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Chongqing araştırmacılarının Microsystems & Nanoengineering dergisinde yayımlanan laboratuvar çalışması, glioblastoma yayılımındaki viskozite etkisini açık mikroakışkan çiple kanıtlıyor."
+      },
+      "brief": "Bilim insanları, ölümcül beyin kanseri glioblastomada tümör çevresindeki yoğun sıvının hücreleri daha istilacı kıldığını saptadı. Geliştirilen açık mikroakışkan çipte test edilen hücreler, yüksek viskoziteye uyum sağlayarak daha hızlı hareket etti ve kalıcı mekanik değişimler sergiledi.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+      "source_published_at": "2026-10-23T20:48:21-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
+      "body": [
+        "Chongqing Genel Hastanesi ve Chongqing Üniversitesi'nden araştırmacılar, ölümcül beyin kanseri türü glioblastomanın yayılmasında sıvı yoğunluğunun (viskozite) beklenmedik bir rol oynadığını belirledi. Microsystems & Nanoengineering dergisinde yayımlanan çalışmaya göre, tümörün ilerleyen dış kenarındaki sıvı, merkezindeki ölü doku sıvısına kıyasla yaklaşık sekiz kat daha yoğun bir yapı sergiliyor.",
+        "Geleneksel kapalı sistemlerin sınırlarını aşmak için açık bir mikroakışkan çip tasarlayan ekip, U-251 ve LN-229 glioblastoma hücre hatlarını bir ay boyunca yüksek yoğunluklu sıvıda kültüre etti. Yoğun ortama uyum sağlayan hücrelerin beklenenin aksine yavaşlamak yerine küçüldüğü, daha esnek hale geldiği ve dar sütun aralıklarından kontrol hücrelerine göre daha hızlı ve uzağa ilerlediği gözlendi.",
+        "Deneylerde hücre çekirdeklerinde mekanik baskıyı algılayan YAP proteininin biriktiği görüldü. Hücreler normal yoğunluktaki sıvıya geri alındığında dahi bu fiziksel ve protein düzeyindeki değişimlerin korunduğu belirlendi. Bu 'mekanik hafıza' bulgusu, U-251 hücrelerinde istilayla ilişkili CD44, FN1 ve MMP9 genlerinin aktifleşmesiyle sonuçlanırken, LN-229 hücreleri benzer fiziksel esnekliği kalıcı gen ifadesi değişimi olmadan kazandı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6b4404265da66cfe913d7a72913ed4c2f9d8228786ce407b34fd20639f1760cf"
+    },
+    {
+      "id": "e57267176fcd62cf",
+      "category": "BİLİM",
+      "title": "Bennu Asteroidinden Getirilen Örnekler Erken Güneş Sisteminin Kökenine Işık Tutuyor",
+      "summary": "NASA'nın OSIRIS-REx göreviyle Dünya'ya getirilen Bennu örnekleri üzerinde yapılan kimyasal analizler, asteroidin su-buz sınırında oluştuğunu gösterdi. Bulgular, Jüpiter'in kütleçekim etkisiyle erken Güneş Sistemi'ndeki maddeleri harmanladığına işaret ediyor.",
+      "why": "Güneş Sistemi'nin 4,5 milyar yıl önceki oluşum süreçlerine, gezegenleri oluşturan ilk kimyasal bileşenlerin nasıl karıştığına ve suyun varlığına dair doğrudan laboratuvar kanıtı sunmaktadır.",
+      "event_key": "bennu-asteroit-ornekleri-eth-zurih-analizi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "OSIRIS-REx ile getirilen Bennu numunelerinin ETH Zürih laboratuvarındaki izotop analizleri Science Advances'ta yayımlanmış, Jüpiter ve su-buz sınırına dair yeni bulgular sunulmuştur."
+      },
+      "brief": "Bennu asteroidinden alınan örneklerin izotop analizleri, asteroidin Güneş Sistemi'nin iç ve dış bölgelerinden gelen tozların su-buz sınırında birleşmesiyle oluştuğunu ortaya koydu. Bulgular, erken evrede Jüpiter'in parçacık hareketini yönlendirerek bu karışımda kritik bir rol oynadığını gösteriyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+      "source_published_at": "2026-10-24T08:50:06-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/bennu-and-other-asteroids.webp",
+      "body": [
+        "NASA'nın OSIRIS-REx uzay aracı tarafından toplanarak 23 Eylül 2023'te Utah çölüne indirilen Bennu asteroidi örnekleri, Güneş Sistemi'nin 4,5 milyar yıllık geçmişine dair yeni veriler sağladı. ETH Zürih'te görevli Maria Schönbächler ve ekibinin yarım gramlık örnek üzerinde yürüttüğü araştırma Science Advances dergisinde yayımlandı.",
+        "Laboratuvarda demir, titanyum ve krom izotopları incelendiğinde, Bennu'nun kimyasal yapısının Ryugu asteroidi ve nadir karbonlu CI göktaşlarıyla büyük benzerlik taşıdığı belirlendi. Daha önce ilkel asteroitlerin çoğunlukla dış Güneş Sistemi'nde ve geç dönemlerde oluştuğu varsayılıyordu. Ancak yeni analizler, Bennu'nun su buharının buza dönüştüğü su-buz sınırında, hem iç hem de dış sistemden gelen maddelerin karışımıyla meydana geldiğini gösterdi.",
+        "Araştırmacılar, Güneş'in doğumundan yaklaşık bir milyon yıl sonra hızla büyüyen Jüpiter'in bu süreçte bariyer işlevi gördüğünü belirtiyor. Jüpiter büyük parçacıkların geçişini engellerken, ince tozların etrafından dolaşarak su-buz sınırında harmanlanmasına imkan tanıdı. Schönbächler, Bennu'nun kayalık gezegenleri oluşturan ilk kimyasal karışımı en iyi şekilde yansıttığını kaydetti. Bilim insanları benzer izotopik yapıların varlığını araştırmak için JAXA'nın Ekim 2026 sonunda Phobos'a fırlatmayı planladığı ve 2031'de dönmesi beklenen örnek toplama misyonunu bekliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "7d896002b6b016d318df786ffb3b1274e4b6ddeb8408c2ad0a57a17a1e40b3fc"
+    },
+    {
+      "id": "67838713450dd8b5",
+      "category": "BİLİM",
+      "title": "Kargaların Görsel Bilgiyi Memelilerden İki Kat Hızlı Değerlendirdiği Belirlendi",
+      "summary": "Tübingen Üniversitesinde yürütülen bir araştırma, kargaların görsel karar alma süreçlerini primatlardan iki kat daha hızlı tamamladığını ortaya koydu. Neokorteksi bulunmayan karga beyninin, primatlarla benzer bir matematiksel mantık ve nöronal kanıt toplama mekanizmasıyla hareket ettiği tespit edildi.",
+      "why": "Araştırma, memelilerden farklı bir beyin yapısına sahip kuşların görsel karar alma süreçlerini aynı nörolojik mantıkla ve belirgin şekilde daha hızlı yürütebildiğini deneysel olarak gösteriyor.",
+      "event_key": "kargalar-gorsel-karar-alma-hizi-arastirmasi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 2,
+        "evidence": 3,
+        "reason": "Tübingen Üniversitesinde iki karga üzerinde yürütülen elektrofizyolojik deneyler, kuş beyninin karar alma mekanizmasını ve tepki hızını primat verileriyle somut olarak karşılaştırmaktadır."
+      },
+      "brief": "Tübingen Üniversitesinde yapılan bir deneyde, iki leş kargasının hareketli noktaları içeren görsel karar testini primatlardan iki kat hızlı çözdüğü belirlendi. Araştırmacılar, kargaların doğruluktan ödün vermeden ortalama 235 milisaniyede karar verdiğini ve benzer nöronal kanıt biriktirme mekanizmasını kullandığını kaydetti.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+      "source_published_at": "2026-10-23T17:32:58+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
+      "body": [
+        "Almanya'daki Tübingen Üniversitesinden nörobiyolog Andreas Nieder ve meslektaşı Philipp Schmidbauer, leş kargalarının görsel bilgileri nasıl işlediğini incelemek amacıyla primat deneylerinde kullanılan rastgele nokta hareket testini uyguladı. Ekranda belirli yönlere kayan noktaları izleyen iki karganın, doğru yönü gagalarıyla işaret ederek memelilerle aynı karar mekanizmasını kullandığı ve süreci primatlara kıyasla iki kat daha hızlı tamamladığı saptandı.",
+        "Araştırmada kargaların karar verme süresi ortalama 235 milisaniye olarak ölçülürken, benzer testlerde maymunların tepki sürelerinin 410 ile 600 milisaniye arasında değiştiği belirtildi. Kargaların beynindeki NCL bölgesinde yer alan 248 nöron incelendiğinde, 58 nöronun görsel kanıtları tıpkı primat neokorteksinde olduğu gibi biriktirdiği görüldü. Kuşların bu hıza ulaşırken kararlarındaki doğruluk oranından ödün vermediği kaydedildi.",
+        "Bilim insanları bu hız farkını, kuşların uçuşa uyum sağlayan kompakt beyinlerindeki kısa aksonlara ve 41 ila 42 dereceye ulaşan yüksek vücut sıcaklığının kimyasal iletimi hızlandırmasına bağlıyor. Çalışmanın yalnızca iki karga ile yürütülmesi ve bulguların karga familyası dışındaki diğer kuş türleri için geçerliliğinin henüz belirsiz olması araştırmanın sınırlılıkları arasında gösteriliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "3db35b14b66e6040383ddb52bb0ac695d50f5614194c23b2bc43b89d5908a703"
+    }
+  ],
+  "summary": {
+    "file": "teknoloji/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 10,
+    "duration": 325.2,
+    "bytes": 1951200,
+    "sha256": "d35e57b09d06d6d4adb5ec2ed9e4c059589bfe750fac8c6d34915abb493509fd"
+  },
+  "podcast": {
+    "file": "teknoloji/podcast.mp3",
+    "title": "Yeni Sekme",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 10,
+    "duration": 912.8,
+    "bytes": 14605627,
+    "sha256": "627da0df4a83bbe2ce4ef9bb790c073cb55d987298dd72e2398d62064036c3cd"
+  },
+  "audio_revision": 5
+}

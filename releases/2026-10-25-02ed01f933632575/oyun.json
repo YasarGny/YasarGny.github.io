@@ -1,0 +1,461 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "oyun",
+  "publish_date": "2026-10-25",
+  "date": "25 Ekim 2026",
+  "issue": 10,
+  "ready": true,
+  "stories": [
+    {
+      "id": "a2c5966f29fc2ffc",
+      "category": "ÇOK OYUNCULU",
+      "title": "Call of Duty: Modern Warfare 4 Çıktı: Modüler Harita 'Kill Block' Tanıtıldı",
+      "summary": "Call of Duty: Modern Warfare 4'ün çıkışıyla birlikte 500'den fazla dizilime sahip modüler çok oyunculu harita 'Kill Block' oyunculara sunuldu. Üç hareketli parçadan oluşan harita, ilk etapta 3'e 3 ve yeni 10'a 10 Gunfight modlarını destekliyor. Yapım, konsollar ve bilgisayar platformlarında küresel çapta erişime açıldı.",
+      "why": "Serinin yeni oyununun çıkışıyla tanıtılan Kill Block haritası, 500'den fazla dinamik kombinasyon ve yeni Gunfight modlarıyla taktiksel oynanışa çeşitlilik getirmektedir.",
+      "event_key": "cod-mw4-kill-block-moduler-harita",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Oyunun çıkışıyla birlikte sunulan modüler harita mekaniği, oynanış formatları ve desteklenen platformlar resmi duyuru verileriyle aktarılmıştır."
+      },
+      "brief": "Call of Duty: Modern Warfare 4 küresel olarak çıkış yaptı. Oyunda yer alan yeni modüler harita Kill Block, 500'den fazla farklı düzen kombinasyonu sunuyor. İlk etapta 3'e 3 ve 10'a 10 Gunfight modlarını içeren yapı, ilerleyen dönemde ana çok oyunculu modlarla da desteklenecek.",
+      "source_name": "Xbox Wire",
+      "source_url": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
+      "source_published_at": "2026-10-23T17:00:00+00:00",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4_MP_Gen_03-33bf8ef8c9eb55346366.jpg",
+      "body": [
+        "Call of Duty: Modern Warfare 4 küresel olarak piyasaya sürüldü. Oyunla birlikte sunulan 'Kill Block' haritası, West Bridge İleri Askeri Eğitim Tesisi bünyesinde dinamik olarak değişen modüler bir savaş alanı sunuyor. Harita, iki dış parça ve bir merkez parçadan oluşan üç dikdörtgen blok yapısıyla her karşılaşmada ve rauntlar arasında yeniden şekilleniyor. Başlangıçta 500'den fazla konfigürasyon sunulurken, yapı yağmur ve kar gibi görüş şartlarını etkileyen askeri sınıf hava simülasyonlarıyla donatıldı.",
+        "Kill Block haritasında serinin geçmişinden Crash, Storage Town ve Shoot House gibi klasik alanlardan esinlenen parçaların yanı sıra tamamen yeni bölgeler yer alıyor. Harita ilk aşamada 3'e 3 ve yeni 10'a 10 Gunfight modlarını destekliyor; ilerleyen sezonlarda ana çok oyunculu modların da haritaya eklenmesi planlanıyor. Gunfight karşılaşmalarında oyuncular rastgele ekipmanlarla mücadele ederken her iki rauntta bir harita blokları yer değiştiriyor ve altı galibiyete ulaşan takım maçı kazanıyor.",
+        "Modern Warfare 4 bünyesinde Kill Block'un yanı sıra 12 standart çok oyunculu harita, çıkışın hemen ardından gelecek iki klasik harita, zırhlı araçların yer aldığı Ground War haritaları ve dört küçük Gunfight haritası bulunuyor. Yapım Xbox Series X|S, Xbox PC, Steam, Battle.net, Nintendo Switch 2 ve PlayStation 5 platformlarında oynanabiliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e8e4aa9382fc01224b9fb0b87b00820ec1e1f342f89f758c503d5b8e45d7bdc0"
+    },
+    {
+      "id": "d75f656a24902a64",
+      "category": "TOPLULUK",
+      "title": "BioWare'in Kapatılması ve Mass Effect'in İptali Üzerine EA'e Boykot Çağrısı",
+      "summary": "EA'in 30 yıllık stüdyo BioWare'i kapatma ve sıradaki Mass Effect projesini iptal etme kararı hayranların tepkisine yol açtı. Oyuncular tüm EA ürünlerine yönelik boykot çağrısı yaparken başlatılan imza kampanyası 76 bin 500 destekçiyi aştı.",
+      "why": "Köklü bir oyun stüdyosunun kapatılması ve popüler bir serinin sonlandırılması, on binlerce oyuncunun boykot ve imza kampanyasıyla organize bir tepki göstermesine yol açtı.",
+      "event_key": "mass-effect-hayran-boykotu-imza-kampanyasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "BioWare'in kapatılması ve sıradaki Mass Effect'in iptali sonrası 76 bin 500'ü aşkın imzaya ulaşan kampanya ile geniş çaplı boykot çağrısı belgelenmiştir."
+      },
+      "brief": "EA'in BioWare'i kapatması ve yeni Mass Effect oyununu iptal etmesi geniş çaplı tepki çekti. Hayranlar sosyal medyada boykot çağrıları yaparken, hakların devredilmesini talep eden imza kampanyası 76 bin 500'den fazla imzaya ulaştı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
+      "source_published_at": "2026-10-23T21:03:56+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2025/11/07/mass-effect-legendary-edition-liara-1762534445971.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Elektronik Arts (EA), 21 Ekim tarihinde Dragon Age ve Baldur's Gate gibi rol yapma oyunlarının arkasındaki 30 yıllık stüdyosu BioWare'i kapatacağını ve geliştirilmekte olan sıradaki Mass Effect projesini resmen iptal ettiğini duyurdu. Geliştirme sürecinde Mass Effect Universe adını taşıdığı belirtilen projenin sızdırılan uzun fragmanı sonrasında hayran tepkileri daha da büyüdü.",
+        "İptal kararının ardından oyuncular, EA'in fikri mülkiyet haklarını elinde tutmak yerine başka stüdyolara satması ya da geliştirmeyi devretmesi talebiyle #savemasseffect etiketi altında örgütlendi. Reddit üzerinden tüm EA ürün ve stüdyolarına yönelik boykot çağrısı yapılırken, açılan imza kampanyası 76 bin 500'ü aşkın katılımcıya ulaştı. Sektör çalışanları ve seslendirme sanatçıları da çağrılara katılırken analistler EA'in talepleri kabul etme ihtimalini düşük görüyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "aa89bf37575d3e4f7af886139857cb40c4489d34cec51d45c84b357f835db274"
+    },
+    {
+      "id": "53a4b18978d3e16d",
+      "category": "GÜNCELLEME",
+      "title": "Star Wars Galaxies Restoration İçin Kapsamlı A New Dawn Güncellemesi Çıktı",
+      "summary": "Topluluk projesi Star Wars Galaxies Restoration, A New Dawn güncellemesiyle DirectX 12 desteğine kavuştu. Güncelleme görsel yeniliklerin yanı sıra Kashyyyk gezegenini, meslekleri ve binek sistemlerini de yeniliyor.",
+      "why": "2003 yapımı klasik bir çevrim içi oyunun topluluk projesi kapsamında modern grafik API'lerine ve köklü oynanış revizyonlarına kavuşmasını somut verilerle belgelemektedir.",
+      "event_key": "star-wars-galaxies-restoration-a-new-dawn",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Topluluk projesine eklenen DirectX 12 ve yükseltme teknolojileri ile Kashyyyk gezegeni revizyonu somut ayrıntılarla duyurulmuştur."
+      },
+      "brief": "Star Wars Galaxies Restoration projesi, A New Dawn güncellemesini yayımladı. Güncelleme oyuna DirectX 12, DLSS, FSR desteği getirirken, Kashyyyk gezegenini ve Scout ile Ranger mesleklerini baştan aşağı yeniliyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
+      "source_published_at": "2026-10-24T11:09:10+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wb9nztwWNtFMQcHyyfZxog-1920-80.jpg",
+      "body": [
+        "Sony Online Entertainment'ın 2003 yapımı çevrim içi oyunu Star Wars Galaxies'i yaşatan topluluk projesi, \"A New Dawn\" adlı kapsamlı güncellemesini yayımladı. Ekibe katılan 13 yeni üyenin katkılarıyla hazırlanan bu güncelleme, önceki tek odaklı yamaların aksine çok sayıda farklı oyun alanını aynı anda geliştirmeyi hedefliyor.",
+        "Güncellemenin en dikkat çekici yönü, oyun istemcisine eklenen DirectX 12 desteği oldu. Bu yükseltmeyle birlikte hacimsel sis, bulut ve atmosfer efektleri, yeni su gölgelendiricisi ve artırılmış arazi çizim mesafesi oyuna dahil edildi. Ayrıca DLSS, FSR ve XeSS gibi modern yükseltme teknolojilerine de uyumluluk sağlandı.",
+        "Görsel iyileştirmelerin haricinde Wookiee ırkının anavatanı Kashyyyk gezegeni elden geçirildi; gezegendeki zindan örnekleri yenilenerek 2005 yılındaki Revenge of the Wookiees eklentisine ait içerikler yeniden dengelendi. Scout ve Ranger mesleklerine yeni tuzaklar ve yaratık takip özellikleri eklenirken, binek üzerinden savaş mekaniği devreye alındı. Mobilyaların yerleşimini kolaylaştıran sürükle-bırak arayüzünü de içeren ücretsiz güncelleme, projenin web sitesi üzerinden erişime açıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "342c49035349dcf58578e441d551ff319e5f3d15b8d78d55d89f3bc0141db9f5"
+    },
+    {
+      "id": "076e2adfd3d2544e",
+      "category": "BAĞIMSIZ",
+      "title": "Paralives'ın İlk Büyük Güncellemesi Gelecek Yıla Ertelendi",
+      "summary": "Erken erişimdeki yaşam simülasyonu Paralives'ın 2026 yılı sonu için planlanan ilk büyük güncellemesi ek süre ihtiyacı nedeniyle gelecek yıla ertelendi. Geliştirici ekip, oyunu geliştirmek amacıyla hazırladığı dört maddelik güncelleme planının detaylarını paylaştı. Güncelleme Canlı Mod, İnşa Modu ve karakter oluşturma aracına kapsamlı yenilikler getirmeyi hedefliyor.",
+      "why": "Erken erişimdeki yaşam simülasyonunun ilk kapsamlı güncelleme takviminin ertelenmesi ve planlanan temel oynanış değişikliklerinin duyurulması oyuncular açısından önem taşımaktadır.",
+      "event_key": "paralives-ilk-buyuk-guncelleme-ertelendi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Paralives'ın ilk büyük güncellemesinin ertelendiği ve geliştirici ekibin dört maddelik yol haritası doğrudan Steam açıklamasına dayanılarak verilmiştir."
+      },
+      "brief": "Yaşam simülasyonu Paralives'ın ilk büyük güncellemesi, geliştirici ekibin ek süreye ihtiyaç duyması nedeniyle gelecek yıla ertelendi. Paylaşılan yol haritasında Canlı Mod sistemlerinin güçlendirilmesi, yeni meslekler ve beceriler, inşa modu hata düzeltmeleri ve karakter yaratımındaki yeni vücut sürgüleri yer alıyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
+      "source_published_at": "2026-10-24T17:03:55+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/paralives-first-major-updated.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Bu yılın mayıs ayında erken erişime sunulan yaşam simülasyonu Paralives'ın ilk büyük güncellemesinin takvimi değişti. Başlangıçta 2026 yılının sonu için hedeflenen güncelleme, geliştirici ekibin daha fazla zamana ihtiyaç duyması sebebiyle gelecek yıla ertelendi. Ekip, güncelleme içeriğine dair nihai olmayan dört aşamalı bir plan açıkladı.",
+        "Hazırlanan planın ilk iki aşaması Canlı Mod sistemlerine odaklanıyor. İlişki seviyeleri arttıkça yeni kilitlerin açılması, duyguları etkileyen yeni etkileşimler, Topluluk Merkezi paketlerinin geliştirilmesi ve para kazanmayı zorlaştıran ekonomi dengesi planlanıyor. Ayrıca oyuna iki yeni beceri, yeni meslekler, hikaye kartları ve ilişki etiketleri eklenecek.",
+        "Planın diğer bölümlerinde ise İnşa Modu ve karakter oluşturma aracı Paramaker ele alınıyor. İnşa sistemini bozan hataların giderilmesi, yeni mobilyalar ve eşya verimliliği düzenlemelerinin yanı sıra Paramaker'a yeni saç modelleri, bol giysiler ve daha geniş vücut şekillerini yansıtacak yağ ve kas sürgüleri eklenecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "56d00eeedcfa8096d214708a8f06547033ecbfe18422a4f40e3892ad21ff99db"
+    },
+    {
+      "id": "18ffbf4ecc1425c4",
+      "category": "DONANIM",
+      "title": "Philips, 260 Hz Yenileme Hızına Sahip 36 İnç Oyuncu Monitörünü Tanıttı",
+      "summary": "Philips, 260 Hz yenileme hızına sahip dünyanın ilk 36 inç oyuncu monitörü olan 36M4C5500P modelini duyurdu. Kavisli VA panele sahip cihaz 3440 x 1440 çözünürlük sunuyor.",
+      "why": "34 inç ile 39 inç arasındaki panel boyutu boşluğunu dolduran ve 260 Hz hız sunan kavisli yeni bir monitör modeli tanıtıldı.",
+      "event_key": "philips-36-inc-260hz-monitor-duyurusu",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Philips'in 36 inç ve 260 Hz özellikli 36M4C5500P model kavisli monitörünün teknik özellikleri duyurulmuş, satış fiyatının ise henüz açıklanmadığı bildirilmiştir."
+      },
+      "brief": "Philips, 260 Hz yenileme hızına sahip dünyanın ilk 36 inçlik oyuncu monitörü 36M4C5500P modelini tanıttı. Kavisli VA panelle gelen 3440 x 1440 çözünürlüklü ultra geniş monitör, Display HDR400 sertifikası ve yapay zeka destekli oyun işlevleri sunarken ürünün satış fiyatı henüz duyurulmadı.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
+      "source_published_at": "2026-10-23T14:55:41+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mworE5m4bt6ZSCsTQ8iqVH-1920-80.jpg",
+      "body": [
+        "Philips, 36M4C5500P model adını taşıyan yeni monitörünü resmen duyurdu. Şirket, bu modelin 260 Hz yenileme hızına sahip dünyanın ilk 36 inç oyuncu monitörü olduğunu belirtiyor. Kavisli ultra geniş ekrana sahip cihaz, 1500R kavis oranı sunan VA panelle ve 3440 x 1440 piksel çözünürlükle donatıldı.",
+        "Aşırı hızlandırılabilir yenileme hızı sunan panel, standart 34 inç monitörler ile 39 inç ve üzeri büyük modeller arasındaki boyut boşluğunu kapatmayı hedefliyor. Cihazın teknik özellikleri arasında Display HDR400 sertifikası, açısı ayarlanabilir eğimli stand yapısı, iki adet HDMI 2.1 ve bir adet DisplayPort 1.4 bağlantı yuvası bulunuyor.",
+        "Monitörde ayrıca Shadow Boost, Smart Crosshair, Smart Sniper ve Smart MBR Sync gibi yapay zeka destekli oyun özellikleri yer alıyor. Tanıtımı yapılan yeni modelin resmi satış fiyatı ise henüz açıklanmadı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4d305dd807223c91da6994acde2e2a07c7db866c4568aba6ae646208fa881e9b"
+    },
+    {
+      "id": "3a68b77308bf89ca",
+      "category": "ENDÜSTRİ",
+      "title": "Japonya Aktörler Birliği'nden Yapay Zekâ Kullanımına Yönelik Kısıtlama Talebi",
+      "summary": "Yaklaşık 2 bin 600 üyesi bulunan Japonya Aktörler Birliği, üretken yapay zekâya karşı sanatçı haklarını korumak için yeni kılavuz ilkeler önerdi. Taslak, ses modelleri için her aşamada rıza şartı ve vefat eden sanatçıların seslerinin kopyalanmasına kısıtlamalar getiriyor.",
+      "why": "Eğlence sektöründe üretken yapay zekânın ses ve benzerlik hakları üzerindeki etkisine karşı büyük bir meslek birliğinin resmi rıza ve telif çerçevesi talep etmesi önem taşıyor.",
+      "event_key": "japonya-oyuncular-birligi-yapay-zeka-kisitlamalari",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Japonya Aktörler Birliği'nin üretken yapay zekâya yönelik onay, ücret ve vefat eden sanatçıların korunmasına ilişkin kılavuz ilkeleri belgelenmiştir."
+      },
+      "brief": "Japonya Aktörler Birliği, üretken yapay zekânın ses kullanımını sınırlandırmayı hedefleyen kılavuz ilkeler açıkladı. Teklif, eğitim aşamasında onay, adil ücret ve ölen oyuncuların seslerinin izinsiz kullanılmasının yasaklanmasını içeriyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+      "source_published_at": "2026-10-24T15:33:23+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NYFR7QhivdoNWL5CenjD8c-1920-80.jpg",
+      "body": [
+        "Yaklaşık 2 bin 600 oyuncu ve seslendirme sanatçısını temsil eden Japonya Aktörler Birliği, üretken yapay zekâ teknolojilerine karşı icracı haklarını güvenceye almak amacıyla bir dizi önlem duyurdu. Birlik, doğrudan bir yasak getirmek yerine sürecin her aşamasında onay alınmasını temel alan bir denetim çerçevesi öneriyor.",
+        "Hazırlanan kılavuz ilkeler uyarınca şirketlerin bir oyuncunun sesini eğitim amacıyla ne zaman kullanacağını açıklaması ve sanatçılarla tazminat müzakeresi yürütmesi zorunlu kılınıyor. Kurallar yapay zekâ ile çevrilen performansları kapsadığı gibi, vefat etmiş aktörlerin seslerinin ölüm öncesi rıza bulunmadıkça kopyalanmasını yasaklıyor. Ayrıca mirasçı ailelerden izin alınması ve telif ödenmesi şart koşuluyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4a96072d073a2261c18c44ad9e4fcc0166675fc3d64bf42faff40d15d57be494"
+    },
+    {
+      "id": "3b13a4dabb226835",
+      "category": "OYUN MEKANİĞİ",
+      "title": "Modern Warfare 4 DMZ Modundaki Possum Özelliği Oyuncuları İkiye Böldü",
+      "summary": "Modern Warfare 4'ün ön sipariş verenler için açılan DMZ modunda yer alan Possum özelliği, oyuncuların öldükten sonra kendi kendilerini canlandırmalarına olanak tanıyor. Bu mekanik, çatışma dengesini ve oyunun risk unsurlarını bozduğu gerekçesiyle toplulukta sert tepkilere yol açtı.",
+      "why": "Popüler nişancı oyununun DMZ modundaki çatışma dinamiklerini ve taktiksel üstünlük dengesini doğrudan değiştiren bir mekaniğin oyuncu topluluğunda yarattığı yoğun tartışmayı yansıtmaktadır.",
+      "event_key": "cod-mw4-dmz-possum-yeteneği-tartismasi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Modern Warfare 4'ün yeni açılan DMZ modundaki bir canlanma özelliğinin yarattığı taktiksel dengesizlik ve oyuncu topluluğundan gelen tepkiler aktarılmaktadır."
+      },
+      "brief": "Modern Warfare 4'ün DMZ modunda operatörlerin maç başına bir kez kendi kendilerini canlandırmasını sağlayan Possum özelliği büyük tartışma yarattı. Birçok oyuncu mekaniğin kaldırılmasını isterken, bazıları da bu duruma karşı çeşitli stratejik hamleler öneriyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
+      "source_published_at": "2026-10-23T14:55:40+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-dmz-rose-edit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Modern Warfare 4'ün ön sipariş veren oyuncular için yalnızca iki gündür erişimde olan DMZ tahliye modunda, operatörlerin öldükten sonra kendi kendilerini diriltmesine imkan veren \"Possum\" özelliği tartışma konusu oldu. Operatör seviyesi ilerledikçe açılabilen ve Warfighter yoluna odaklanıldığında birkaç saat içinde elde edilebilen bu özellik, maç başına bir defa kullanılabiliyor.",
+        "Özellik aktif olduğunda oyuncu öldükten sonra kendi komutuyla dirilerek savunmasız bir Last Stand durumuna geçiyor. Tüm bu yeniden ayağa kalkma ve çatışmaya dönme süreci kesintisiz yaklaşık 10 saniye sürüyor. Ancak oyuncu dirildiğinde daha önce topladığı tüm ganimetleri kaybederek sıfırdan başlamak zorunda kalıyor. Karşıdaki oyuncuların bir rakipte bu özelliğin bulunup bulunmadığını önceden anlayabileceği net bir göstergenin olmaması ise belirsizlik yaratıyor.",
+        "DMZ topluluğunda ve Reddit platformunda birçok oyuncu, tüm ekibi etkisiz hale getirdikten sonra bile cesetlerin başında beklemek zorunda kaldıklarını belirterek mekaniğin tahliye temalı bir nişancı oyununa uygun olmadığını savundu. YouTube içerik üreticileri Phixate ve Wynn-Gaming de özelliğin takım çatışmalarındaki sayı üstünlüğü dengesini sarstığına dikkat çekti. Bazı oyuncular ise ganimetsiz kalan rakiplerin peşinden koşmamayı veya cesetlerin üzerine mayın yerleştirmeyi birer karşı taktik olarak önerdi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "c9c176ad96357ae8d78d96ed0ea1f8500fba91bb6c9ea1c52050e967a12bd730"
+    },
+    {
+      "id": "3fcf2f13edd63a34",
+      "category": "DUYURU",
+      "title": "Sürreal Platform Oyunu Abelina 2027 Yılında Çıkacak",
+      "summary": "Valorant ve League of Legends sinematiklerinde çalışmış Gabe Askew liderliğinde geliştirilen platform oyunu Abelina duyuruldu. Ölüm sonrası temalı yapımın 2027'de çıkması planlanıyor.",
+      "why": "Tanınmış oyun projelerinde yer almış animatör ve bestecilerin imzasını taşıyan yeni bir bağımsız platform oyunu resmi çıkış takvimiyle duyuruldu.",
+      "event_key": "abelina-platform-oyunu-duyurusu",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Gabe Askew ve Ryan Holladay imzalı sürreal platform oyunu Abelina'nın konusu, oynanış mekanikleri ve 2027 çıkış takvimi doğrulanmıştır."
+      },
+      "brief": "Ölüm sonrası bir alemde geçen sürreal platform oyunu Abelina duyuruldu. Gabe Askew liderliğinde geliştirilen ve müziklerini Ryan Holladay'in üstlendiği yapım, oyunculara doğayla iç içe bir atmosferde uçma ve yuvarlanma mekanikleri vadediyor. Oyunun 2027 yılında çıkması planlanıyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
+      "source_published_at": "2026-10-24T21:52:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/abelina.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Valorant, League of Legends ve Love, Death + Robots projelerindeki bilgisayar animasyonu çalışmalarında yer alan Gabe Askew liderliğinde yeni bir platform oyunu geliştiriliyor. Abelina adını taşıyan sürreal atmosferli yapımın müziklerini ise Weapons projesi ve son Resident Evil filminin bestecisi Ryan Holladay hazırlıyor.",
+        "Oyunda bir süre önce hayatını kaybeden Vasily adlı ana karakter kontrol ediliyor. Vasily, doğayla dolu tuhaf bir öte alem olan Abelina'da bahçelerle ilgileniyor, maskeler oyuyor ve kendisi gibi huzur arayışında olan az sayıdaki diğer insanla birlikte bu ortamda yaşamını sürdürmeye çalışıyor.",
+        "Yapım, uçma, bok böceği tarzı yuvarlanma ve hassas zıplamalar içeren platform dinamiklerine dayanıyor. Oyuncular gizemli bir tavşan-kedinin rehberliğinde dallara ayrılan yollar ve geniş manzaralar arasında ilerliyor. Oyun, 2027 yılındaki planlanan çıkışı öncesinde Steam platformunda istek listesine açıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "a3a345f2e2e050045b241460ba88a3aac92e23abd0bff67d99ae2b7ff1da69b6"
+    },
+    {
+      "id": "472ed7326e356ae9",
+      "category": "GELİŞTİRİCİ",
+      "title": "InZoi Geliştiricisi Gelen Tepkiler Üzerine X Paylaşımını Sildi",
+      "summary": "Yaşam simülasyonu oyunu InZoi'nin resmi X hesabı, bir çocuk parkını gösteren görsel ve rahatsız edici bulunan ifadeler içeren paylaşımını takipçilerin tepkisi sonrası kaldırdı. Görsel, aralık ayında çıkacak Celebrity DLC'sini ve park yeniliklerini tanıtmak amacıyla yayımlanmıştı.",
+      "why": "The Sims rakibi olarak öne çıkan InZoi'nin tanıtım sürecinde resmi sosyal medya kanalından yapılan hatalı bir paylaşımın topluluk nezdinde oluşturduğu olumsuz algıyı ve silinme sürecini göstermektedir.",
+      "event_key": "inzoi-cocuk-parki-paylasimi-ozur",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Oyunun resmi sosyal medya hesabından yapılan uygunsuz tanıtım paylaşımının kullanıcı tepkisi üzerine kaldırılması belgelenmiştir."
+      },
+      "brief": "Yaşam simülasyonu oyunu InZoi'nin X hesabı, çocuk parkında geçen ve rahatsız edici bulunan bir paylaşımı kullanıcılardan gelen sert tepkilerin ardından sildi. Geliştirici Krafton'un paylaştığı görsel, aralık ayında planlanan Celebrity DLC'si tanıtımı kapsamındaydı.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/sims-competitor-inzoi-deletes-uncomfortable-post-after-fan-pushback/",
+      "source_published_at": "2026-10-23T21:17:52+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/4466637-inzoibeingmean.webp?w=300",
+      "body": [
+        "Krafton tarafından geliştirilen yaşam simülasyonu oyunu InZoi'nin resmi X hesabı, tepki çeken bir paylaşımını yayından kaldırmak zorunda kaldı. Söz konusu paylaşımda, deri ceketli ve saçları dökülmüş bir adamın oyun parkında oynayan çocukları izlediği bir görsel yer alıyordu. Gönderiye eklenen metinde ise parkta huzurlu bir gün olduğu ve kel adama aldırış edilmemesi gerektiği belirtilmişti.",
+        "Sosyal medya kullanıcılarının paylaşımı rahatsız edici bulması ve pedofili iması taşıdığı yönünde tepkiler göstermesi üzerine gönderi X platformundan birkaç saat içinde silindi. Ancak aynı görselin oyunun resmi Discord sunucusunda yer almaya devam ettiği görüldü.",
+        "Resmi hesabın bu paylaşımı, oyundaki çocuk parkı geliştirmelerini sergilemek ve aralık ayında yayımlanması planlanan Celebrity DLC'sinin tanıtımını yapmak amacıyla paylaştığı ifade edildi. Daha önce erken erişim dönemi ve yapay zeka kullanımı nedeniyle eleştirilen yapım, bu hamlesiyle yeniden topluluk tepkisinin odağına yerleşti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "084d3c654cc78c45664f9a0975d5e4895a64b399b7d87c81f665cccf1b5160e7"
+    },
+    {
+      "id": "4b832d31b8e2e0d5",
+      "category": "DONANIM",
+      "title": "AMD FSR Kare Zamanlaması Sorunları Üzerinde Çalıştığını Açıkladı",
+      "summary": "AMD yöneticisi Jack Huynh, FSR 4.1 sürümünün RX 6000 serisine erken sunulacağını ve teknolojideki kare zamanlaması sorunları üzerinde çalışıldığını açıkladı. Ancak şirket, Çoklu Kare Oluşturma desteğine ilişkin herhangi bir takvim paylaşmadı.",
+      "why": "Ekran kartı kullanıcılarının oyun deneyimini ve akıcılığı doğrudan etkileyen FSR kare zamanlaması problemlerine dair resmi şirket açıklamalarını ve eksik bırakılan noktaları ele almaktadır.",
+      "event_key": "amd-fsr-frame-pacing-duzeltme-calismasi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "AMD yöneticisi Jack Huynh'ın FSR kare zamanlaması sorunlarını düzeltme vaadi ve henüz net takvim verilmemesi durumu kaynak doğrultusunda aktarılmaktadır."
+      },
+      "brief": "AMD yetkilisi Jack Huynh, FSR teknolojisinde yaşanan kare zamanlaması aksaklıklarının çözümü için çalışma yürütüldüğünü bildirdi. Şirket, çoklu kare oluşturma konusundaki planları hakkında ise herhangi bir ayrıntı vermedi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
+      "source_published_at": "2026-10-23T16:04:04+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Nxw3o4ZQwF62mD9TtCzkEH-2560-80.jpg",
+      "body": [
+        "AMD yetkilisi Jack Huynh, şirketin FSR 4.1 teknolojisini RX 6000 serisi ekran kartlarına planlanandan erken ulaştıracağını ve uzun süredir eleştirilen kare zamanlaması (frame pacing) problemleri üzerinde çalışıldığını duyurdu. Kare oluşturma teknolojilerinde kareler üretilse bile her karenin ekranda eşit süre kalamaması durumu, oyunlarda mikro takılmalara yol açabiliyor.",
+        "Söz konusu kare zamanlaması sorunu, en az FSR 3 sürümünden bu yana kullanıcılardan eleştiri alıyordu. 2024 yılında Cyberpunk 2077 oyununa gelen resmi destek sırasında geliştirici CD Projekt bu takılma riskine işaret etmiş, son olarak ağustos ayında yapılan donanım testleri de FSR 3.1 ve FSR 4 destekli yapımlarda sorunun sürdüğünü göstermişti.",
+        "AMD'nin bu meseleye odaklandığını duyurmasına karşın, kare zamanlaması düzeltmelerinin ne zaman çıkacağına veya hangi donanımları kapsayacağına dair somut bir takvim açıklanmadı. Ayrıca AMD'nin mevcut teknolojisi kare başına tek bir ara kare üretirken, Çoklu Kare Oluşturma (Multi Frame Generation) özelliğinin ne zaman entegre edileceğine dair resmi bir bilgiye yer verilmedi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "03edc4c64e13bf7b605a5e9c4f1214174bbb8ec41c3534758da6638329dad0ba"
+    },
+    {
+      "id": "7b8129831625063c",
+      "category": "GÜNCELLEME",
+      "title": "Stalker 2'nin 2.1 Güncellemesi PlayStation Asia Tarafından Sızdırıldı",
+      "summary": "PlayStation Asia'nın sosyal medya paylaşımıyla Stalker 2: Heart of Chornobyl için hazırlanan 2.1 güncellemesinin detayları vaktinden önce ortaya çıktı. Önümüzdeki hafta yayımlanması beklenen güncelleme A-Life görüş mesafesi artışı ve hızlı seyahat gibi yenilikler içeriyor.",
+      "why": "Stalker 2 için planlanan ücretsiz 2.1 güncellemesinin getireceği temel oynanış iyileştirmeleri ve yayın takvimi resmi bir kanalın erken paylaşımıyla doğrulanmış oldu.",
+      "event_key": "stalker-2-guncelleme-2-1-sizintisi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "PlayStation Asia'nın erken paylaşımı, Stalker 2'nin 2.1 yamasıyla gelecek A-Life mesafe artışı ve hızlı seyahat gibi somut oynanış değişikliklerini doğrulamaktadır."
+      },
+      "brief": "PlayStation Asia, Stalker 2: Heart of Chornobyl'in henüz resmi olarak duyurulmayan 2.1 güncellemesine ait bilgileri erkenden paylaştı. Görselde A-Life NPC görüş mesafesi, çatışma ve balistik düzenlemeleri ile birlik liderleriyle hızlı seyahat mekaniği öne çıkıyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
+      "source_published_at": "2026-10-24T18:08:22+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-%E2%80%94-Launch-Trailer-1-18-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "PlayStation Asia'nın X (eski adıyla Twitter) hesabı üzerinden yapılan bir paylaşım, Stalker 2: Heart of Chornobyl için geliştirilen ve henüz resmi duyurusu yapılmayan 2.1 güncellemesinin ayrıntılarını açığa çıkardı. Sosyal medyada paylaşılan görselde güncellemenin yayınlandığı ifade edilse de paketin aslında önümüzdeki hafta çıkış yapması bekleniyor.",
+        "Paylaşılan görseldeki bilgilere göre \"The Zone Lookout\" başlığını taşıyan 2.1 güncellemesi, A-Life NPC görselleştirme mesafesinde artış, çatışma ve balistik alanında ilgili ayarlamalar, birlik liderleriyle hızlı seyahat imkânı ve çeşitli hata düzeltmeleri getiriyor. Oyuna daha önce 20 Ağustos'ta gelen 2.0 güncellemesi ise Cost of Hope genişlemesi, dürbün, sis mekaniği ve A-Life değişiklikleri sunmuştu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "970079da1a2a0a7b97943477d6f3a054751d1c5c6f2c82a9d6ef2f6616ba1705"
+    },
+    {
+      "id": "7eb322533a3e95d5",
+      "category": "ETKİNLİK",
+      "title": "Mouse: P.I. For Hire Karakteri Super Meat Boy 3D Dünyasına Katıldı",
+      "summary": "Mouse: P.I. For Hire yapımının ana karakteri olan dedektif fare, Super Meat Boy 3D oyununa dahil edildi. Küp biçiminde tasarlanan karakterle oynandığında oyun ekranı siyah-beyaz görünüme bürünüyor.",
+      "why": "İki bağımsız oyun arasında gerçekleşen iş birliğiyle yeni bir oynanabilir karakter ve özel siyah-beyaz görsel filtre oyuna eklendi.",
+      "event_key": "super-meat-boy-3d-mouse-pi-crossover",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Mouse: P.I. For Hire ana karakterinin küp biçiminde ve siyah-beyaz görsel filtreyle Super Meat Boy 3D'ye eklenmesi doğrulanmış bir iş birliğidir."
+      },
+      "brief": "Mouse: P.I. For Hire yapımının dedektif faresi, bağımsız platform oyunu Super Meat Boy 3D dünyasına oynanabilir karakter olarak katıldı. Küp şeklinde tasarlanan fareyle oynandığında ekran siyah-beyaz renge bürünüyor ve karakter testerelerle dolu seviyelerde koşup zıplayarak ilerliyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
+      "source_published_at": "2026-10-24T15:46:15+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iWfNSQCED57W2crFvwTk93-1920-80.png",
+      "body": [
+        "Bağımsız oyunlar arasındaki ortaklıklara bir yenisi eklendi. Mouse: P.I. For Hire yapımının dedektif faresi, Super Meat Boy 3D oyununa dahil edildi. Yapılan bu iş birliği kapsamında ana karakter, testerelerle dolu tehlikeli labirentlerde ilerlemek üzere küp şeklinde uyarlandı.",
+        "Karakter seçildiğinde oyun ekranı, dedektifin geldiği birinci şahıs nişancı yapımına benzer biçimde tamamen siyah ve beyaz renklere bürünüyor. Koşma, zıplama ve patlama mekaniklerine odaklanan Super Meat Boy 3D, dijital oyun mağazası Steam üzerinde oyuncuların değerlendirmeleri sonucunda Çok Olumlu inceleme etiketini koruyor.",
+        "Geçmişte Bit.Trip serisiyle yapılan ortaklıklara benzer şekilde gerçekleşen bu yeni buluşma, iki bağımsız yapımın çizgi film tarzı ve sert temalarını bir araya getiriyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "07ec68559e59c8e3fe467bd3d59240f17a887b80277e6869d494ee18bb5fecbb"
+    },
+    {
+      "id": "815cf438a6f55309",
+      "category": "ÇIKIŞ TARİHİ",
+      "title": "Fotoğraf Odaklı Platform Oyunu HELENA: Cloud District 29 Ekim'de Geliyor",
+      "summary": "Terk edilmiş bir megayapıda geçen birinci şahıs platform oyunu HELENA: Cloud District'in 29 Ekim'de çıkacağı duyuruldu. Oyuncular çektikleri fotoğraflarla yapının geçmişini araştıracak.",
+      "why": "Sıra dışı fotoğrafçılık mekaniğine sahip birinci şahıs platform oyununun kesin çıkış tarihi ve temel oynanış dinamikleri açıklandı.",
+      "event_key": "helena-cloud-district-cikis-tarihi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "HELENA: Cloud District'in 29 Ekim resmi çıkış tarihi, kısıtlı fotoğraf çekim kuralı ve hareket dinamikleri kaynak metinde somut olarak paylaşılmıştır."
+      },
+      "brief": "Terk edilmiş devasa bir yapıda geçen birinci şahıs platform oyunu HELENA: Cloud District, 29 Ekim'de çıkıyor. Oyuncular, kask benzeri yabancı bir kamerayla en fazla üç kare fotoğraf çekip merkezi bilgisayara ulaştırarak bu karmaşık dünyanın geçmişini aydınlatmaya çalışacak.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
+      "source_published_at": "2026-10-24T18:58:26+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/helena-cloud-district.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Terk edilmiş devasa bir mimari yapıda geçen HELENA: Cloud District için resmi çıkış tarihi açıklandı. Geliştirilen bağımsız yapım, 29 Ekim tarihinde Steam platformu üzerinden oyuncuların erişimine sunulacak.",
+        "Birinci şahıs bakış açısına sahip hassas platform dinamiklerini temel alan oyunda, yabancı bitki örtüsüyle kaplı çok katmanlı bir megayapı keşfediliyor. Oyuncular, düşüş tehlikesi barındıran bu çizgisel olmayan dünyada derinlere inebilmek için kayma, havada asılı kalma ve süzülme gibi özel hareket mekaniklerinden yararlanıyor.",
+        "Mekanın merkezinde yer alan bilgisayar, dünyanın geçmişini öğrenmek için çekilen fotoğrafların getirildiği ana nokta görevini üstleniyor. Metalik ve böcek benzeri segmentlere sahip uzaylı kamerası aynı anda yalnızca üç fotoğraf karesi saklayabiliyor. Bu kapasite sınırı nedeniyle oyuncuların konumlarını ve ana bilgisayara dönüş yollarını dikkatli seçmesi gerekiyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "5d29998fcf09a8a9e0698aeb0313502de8dbe1760d62c9d5b14b33b2c5c9ff89"
+    },
+    {
+      "id": "88e2e726cc3478ee",
+      "category": "PLATFORM",
+      "title": "Steam Kişisel Takvim Özelliği Test Aşamasından Çıkarak Kalıcı Hale Geldi",
+      "summary": "Valve, uzun süredir Steam Labs bünyesinde test edilen Kişisel Takvim özelliğinin artık Steam Mağazası'nın tam teşekküllü bir parçası olduğunu açıkladı. Sistem, kullanıcıların oynama geçmişine göre yeni ve yaklaşan oyun önerileri sunuyor.",
+      "why": "Steam mağazasında oyun keşfini doğrudan etkileyen tavsiye mekanizması test sürecini tamamlayarak tüm kullanıcılar için kalıcı bir sistem haline geldi.",
+      "event_key": "steam-kisisel-takvim-tam-surum",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Valve'ın Steam Labs'te denediği Kişisel Takvim özelliğini mağazanın kalıcı bir parçası haline getirdiği şirket açıklamasıyla doğrulanmıştır."
+      },
+      "brief": "Valve, Steam Labs kapsamında denenen Kişisel Takvim özelliğini tam sürüme geçirdi. Kullanıcıların oyun alışkanlıklarına göre sekiz haftalık vadede çıkmış ve çıkacak oyunları öneren sistem, verilerini günlük olarak yeniliyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
+      "source_published_at": "2026-10-24T15:57:33+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/steam-personal-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Valve tarafından yapılan açıklamada, Steam Labs altında deneme sürecinde bulunan Kişisel Takvim özelliğinin test aşamasını tamamladığı ve artık Steam Mağazası'nın tam bir parçası olarak kabul edildiği duyuruldu. Özellik, son çıkan ve yakında çıkacak oyunları filtreleyerek kullanıcılara kişiselleştirilmiş bir liste sunuyor.",
+        "Sistem, oyuncuların son zamanlarda oynadığı oyunları analiz ederek benzer oyun profiline sahip diğer kişileri buluyor ve onların istek listelerine eklediği ya da oynadığı yapımları listeliyor. Tavsiyeler en son verileri dahil etmek için günlük olarak yenileniyor ve sekiz haftalık zaman dilimindeki çıkış tarihlerine göre güncelleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "1192098e1623ae3d227e5423aae45b58d33c59100656b6e1e29905bb946a706d"
+    },
+    {
+      "id": "7265ba67591c8d77",
+      "category": "RÖPORTAJ",
+      "title": "New Blood Yöneticisi 'Immersive Sim' Teriminin Pazarlamada Yetersiz Olduğunu Savundu",
+      "summary": "New Blood yöneticisi Dave Oshry, PC Gamer'a verdiği röportajda 'immersive sim' ifadesinin kötü bir pazarlama terimi olduğunu belirtti. Oshry, System Shock ve Deus Ex gibi klasik yapımların aslında birer rol yapma oyunu (RYO) olduğunu ve bu şekilde tanıtılmalarının daha iyi sonuç vereceğini ifade etti.",
+      "why": "Bağımsız oyun yayıncılığı yapan New Blood yöneticisinin, oyun sektöründeki köklü bir tür tanımı ve bunun ticari pazarlamadaki etkinliği üzerine deneyimlerini paylaşması sektör açısından dikkat çekicidir.",
+      "event_key": "new-blood-ceo-immersive-sim-terimi-elestirisi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 2,
+        "evidence": 3,
+        "reason": "Yayıncı Dave Oshry'nin PC Gamer röportajında immersive sim terimi ve oyun pazarlamasına ilişkin sarf ettiği sözler doğrudan aktarılmıştır."
+      },
+      "brief": "New Blood yöneticisi Dave Oshry, PC Gamer röportajında 'immersive sim' tanımının kötü bir pazarlama terimi olduğunu savundu. Oshry, Deus Ex ve System Shock gibi klasiklerin rol yapma oyunu olarak tanımlandığını belirterek oyunları RYO olarak pazarlamanın daha başarılı sonuç verdiğini söyledi.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
+      "source_published_at": "2026-10-24T20:29:27+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Gloomwood-market-district.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Gloomwood, Fallen Aces ve Ultrakill gibi oyunların yayıncısı New Blood'ın yöneticisi Dave Oshry, PC Gamer'a verdiği röportajda 'immersive sim' kavramının pazarlama açısından yetersiz olduğunu savundu. Oshry, bu terimin pazarlamada kullanılmasının kötü bir tercih olduğunu ve ticari olarak fayda sağlamadığını ifade etti.",
+        "Oshry, söz konusu terimi Gloomwood'un baş geliştiricisi Dillon Rogers ile çalışırken ilk kez duyduğunu ve daha önce aşina olmadığını aktardı. Kendisinin System Shock ve Deus Ex gibi oyunları bu türe değil, rol yapma oyunu (RYO) kategorisine koyduğunu belirten Oshry, oyuncunun dünyaya dahil olduğu ve karakter geliştirdiği bu deneyimlerin doğrudan RYO olarak kabul edilmesi gerektiğini söyledi.",
+        "Oshry'ye göre oyunları immersive sim yerine bir RYO olarak tanıtıp pazarlamak kitlelere ulaşma konusunda daha başarılı sonuçlar vermektedir."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "87e53d5861e1a7788d5941fad1b62621e4d72faad32c3b3f3c7e7ddd7e06458d"
+    },
+    {
+      "id": "eee5ba2cc7d0b61f",
+      "category": "GELİŞTİRİCİ",
+      "title": "Capcom'dan Onimusha: Way of the Sword'un Zorluk Seviyesine Yönelik Açıklama",
+      "summary": "Capcom yönetmeni Satoru Nihei, Onimusha: Way of the Sword'un zorluk derecesinin oyuncu verilerine göre hedeflenen seviyede olduğunu belirtti. Oyuncuların mücadele ettiği ancak ilerleme kaydedebildiği bir denge kurduklarını ifade eden Nihei, oyunun Sekiro gibi aşırı zor bir yapıda tasarlanmadığını vurguladı.",
+      "why": "Oyunun çıkışının ardından başlayan zorluk düzeyi ve tekrar eden içerik tartışmalarına doğrudan oyunun yönetmeni tarafından resmi oyuncu verileri eşliğinde yanıt verilmiştir.",
+      "event_key": "onimusha-way-of-the-sword-zorluk-degerlendirmesi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 2,
+        "evidence": 3,
+        "reason": "Oyun yönetmeni Satoru Nihei'nin oyuncu telemetri verilerine ve gelen eleştirilere dair resmi açıklamaları sunulmuştur."
+      },
+      "brief": "Capcom yönetmeni Satoru Nihei, Onimusha: Way of the Sword için toplanan oyuncu verilerinin hedeflenen zorluk seviyesini doğruladığını açıkladı. Nihei, yapımın Sekiro tarzı aşırı zorluk hedeflemediğini söylerken, 20 saatlik oyun süresi ve tekrarlanan bölüm sonu canavarlarına yönelik eleştirileri de değerlendirdi.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+      "source_published_at": "2026-10-23T21:43:44+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/m9jozBeHDcZQTCMZLJkNLd-1920-80.png",
+      "body": [
+        "Geçtiğimiz ay piyasaya sürülen Onimusha: Way of the Sword'un zorluk seviyesi hakkındaki tartışmalara Capcom'dan yanıt geldi. Oyunun yönetmeni Satoru Nihei, PC Gamer ile yaptığı röportajda oyuncuların ilerleme ve zorlanma verilerini analiz ettiklerini, tablonun amaçladıkları hedefe son derece yakın olduğunu söyledi.",
+        "Nihei, oyuncuların hikayede tamamen engelsiz ilerlemediğini, yenildikleri ve öldükleri anlar olduğunu fakat bunları aşarak yola devam edebildiklerini belirtti. Oyunun Sekiro veya Nioh gibi yüksek zorluktaki aksiyon yapımlarıyla aynı çizgide olmasının hiçbir zaman hedeflenmediğini aktaran yönetmen, zorluk düzeyinin tam istedikleri noktada olduğunu düşündüklerini kaydetti.",
+        "Röportajda oyunun yaklaşık 20 saatlik doğrusal yapısına ve Byakue ile Dohatsu-ten gibi bölüm sonu canavarlarının tekrar edilmesine yönelik eleştiriler de ele alındı. Nihei, 40 saatten uzun süren açık dünya oyunları yerine keşif unsurları içeren dengeli bir hacim hedeflediklerini, aynı dövüşlerin tekrar etmesinin bazı oyuncular için yorucu olabileceği yönündeki geri bildirimleri aldıklarını ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d0143e4453047f9ad7b8790f3be4acc29a2ce15b419bf7e5db83da63fd50b1c6"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 10,
+    "duration": 301.3,
+    "bytes": 1807920,
+    "sha256": "2c852d978d12d6eacf1126c8789d93424827c103d24682500151cd2121f86f54"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 10,
+    "duration": 981.6,
+    "bytes": 15705696,
+    "sha256": "b84f31e094a62ccad463a85af67f3854a27e02df7c8a0ffbcce5bd922353b0ee"
+  },
+  "audio_revision": 5
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "627da0df4a83bbe2ce4ef9bb790c073cb55d987298dd72e2398d62064036c3cd",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 6.68,
+      "title": "Yapay Zekâ Modellerinde Siyasi Kutuplaşma Araştırması"
+    },
+    {
+      "start": 127.56,
+      "title": "Pensilvanya'da Yapay Zekâ Destekli Reklamlara Etiket Zorunluluğu"
+    },
+    {
+      "start": 184.26,
+      "title": "Block'tan Sesten Sese Çalışan Yapay Zekâ Modeli: Dessa"
+    },
+    {
+      "start": 279.46,
+      "title": "İngiltere'den 134 Milyon Dolarlık Biyogüvenlik Laboratuvarı"
+    },
+    {
+      "start": 347.48,
+      "title": "Ukrayna'da Starshield Kısıtlamalarının Kaldırılması"
+    },
+    {
+      "start": 423.48,
+      "title": "Intel'in Yabancı Robot Kısıtlamasından Muafiyet Alması"
+    },
+    {
+      "start": 501.8,
+      "title": "Android'de Telefon Numaralarının Google Hesaplarına Otomatik Bağlanması"
+    },
+    {
+      "start": 576.8,
+      "title": "Orta Asya Diplomatik Ağlarını Hedef Alan BlackX Bootkit'i"
+    },
+    {
+      "start": 658.32,
+      "title": "Spotify'ın Aile Planlarında QR Kodlu Konum Doğrulaması"
+    },
+    {
+      "start": 729.08,
+      "title": "İnsan Kaynaklı Emisyonların Buzul Döngüsünü Bozması"
+    },
+    {
+      "start": 813.58,
+      "title": "Mars'taki Arsia Mons Bulutunun Fiziksel Mekanizması"
+    },
+    {
+      "start": 888.68,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "e7a80d87e8606cee",
+      "start": 6.68,
+      "end": 127.08
+    },
+    {
+      "story_id": "c7aa9b7dfeaf83bd",
+      "start": 127.56,
+      "end": 184.26
+    },
+    {
+      "story_id": "61ceba6cfe498159",
+      "start": 184.26,
+      "end": 278.64
+    },
+    {
+      "story_id": "d572273cb2547e87",
+      "start": 279.46,
+      "end": 347.48
+    },
+    {
+      "story_id": "87bb975b7408391e",
+      "start": 347.48,
+      "end": 423.48
+    },
+    {
+      "story_id": "1e9b03cbb67bfe99",
+      "start": 423.48,
+      "end": 501.3
+    },
+    {
+      "story_id": "b3c0b22e3629b775",
+      "start": 501.8,
+      "end": 576.2
+    },
+    {
+      "story_id": "ed9fe79f62b579cc",
+      "start": 576.8,
+      "end": 657.42
+    },
+    {
+      "story_id": "dea976fbb312cf56",
+      "start": 658.32,
+      "end": 728.4
+    },
+    {
+      "story_id": "bc0ee4ef9353aebd",
+      "start": 729.08,
+      "end": 813.04
+    },
+    {
+      "story_id": "28a3ac1f48449efd",
+      "start": 813.58,
+      "end": 888.18
+    }
+  ],
+  "section": "teknoloji",
+  "clips_reviewed": true,
+  "stories_sha256": "4646d5b4dd35986d441c55b99697479a710866c5457ad7e3fdd3246927f824e9"
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "b84f31e094a62ccad463a85af67f3854a27e02df7c8a0ffbcce5bd922353b0ee",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 17.64,
+      "title": "BioWare'in Kapatılması ve Mass Effect'in İptali Üzerine EA'e Boykot Çağrısı"
+    },
+    {
+      "start": 162.54,
+      "title": "Call of Duty: Modern Warfare 4 ve Modüler Harita 'Kill Block'"
+    },
+    {
+      "start": 240.06,
+      "title": "Modern Warfare 4 DMZ Modundaki Possum Özelliği Tartışması"
+    },
+    {
+      "start": 309.16,
+      "title": "Dave Oshry'nin 'Immersive Sim' Terimi Eleştirisi"
+    },
+    {
+      "start": 442.64,
+      "title": "Capcom'dan Onimusha: Way of the Sword'un Zorluk Seviyesine Dair Açıklamalar"
+    },
+    {
+      "start": 572.72,
+      "title": "Japonya Aktörler Birliği'nin Yapay Zeka Kılavuz Önerisi"
+    },
+    {
+      "start": 640.32,
+      "title": "Star Wars Galaxies Restoration İçin A New Dawn Güncellemesi"
+    },
+    {
+      "start": 713.38,
+      "title": "Paralives Güncelleme Ertelemesi ve InZoi'nin X Paylaşımı Tepkisi"
+    },
+    {
+      "start": 787.68,
+      "title": "Steam Kişisel Takvim Özelliğinin Kalıcı Hale Gelmesi"
+    },
+    {
+      "start": 853.86,
+      "title": "AMD FSR Kare Zamanlaması Sorunları Çalışması"
+    },
+    {
+      "start": 921.72,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "d75f656a24902a64",
+      "start": 17.64,
+      "end": 161.92
+    },
+    {
+      "story_id": "a2c5966f29fc2ffc",
+      "start": 162.54,
+      "end": 239.78
+    },
+    {
+      "story_id": "3b13a4dabb226835",
+      "start": 240.06,
+      "end": 309.16
+    },
+    {
+      "story_id": "7265ba67591c8d77",
+      "start": 309.16,
+      "end": 442.2
+    },
+    {
+      "story_id": "eee5ba2cc7d0b61f",
+      "start": 442.64,
+      "end": 572.06
+    },
+    {
+      "story_id": "3a68b77308bf89ca",
+      "start": 572.72,
+      "end": 640.32
+    },
+    {
+      "story_id": "53a4b18978d3e16d",
+      "start": 640.32,
+      "end": 712.9
+    },
+    {
+      "story_id": "076e2adfd3d2544e",
+      "start": 720.14,
+      "end": 738.18
+    },
+    {
+      "story_id": "472ed7326e356ae9",
+      "start": 739.04,
+      "end": 751.6
+    },
+    {
+      "story_id": "88e2e726cc3478ee",
+      "start": 787.68,
+      "end": 853.4
+    },
+    {
+      "story_id": "4b832d31b8e2e0d5",
+      "start": 853.86,
+      "end": 921.24
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "d6705616f302c3eff78b66e4a6a4768f82a573a4da00d35b5a111c2f45595336"
+}
