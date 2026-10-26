@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "9cfae4408e8fcc455a7130e7b3cb68899883e89722fcb2e0b051192fd6a14b3d",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 8.28,
+      "title": "#SaveMassEffect İmza Kampanyası"
+    },
+    {
+      "start": 78.18,
+      "title": "İptal Edilen Mass Effect'in Zaman Çizelgesi Mimarisi"
+    },
+    {
+      "start": 170.76,
+      "title": "Tim Sweeney'nin Bütçe ve Stüdyo Kapatma Açıklamaları"
+    },
+    {
+      "start": 278.48,
+      "title": "Steam'in Yapay Zekâ Bildirim Politikası Tartışması"
+    },
+    {
+      "start": 384.02,
+      "title": "Bağımsız Oyunların 2026 Başarısı"
+    },
+    {
+      "start": 467.62,
+      "title": "Civilization 7'de Geleneksel Oynanışa Dönüş"
+    },
+    {
+      "start": 569.4,
+      "title": "A24'ün Canlı Aksiyon Elden Ring Filmi"
+    },
+    {
+      "start": 649.72,
+      "title": "Call of Duty Film Uyarlaması"
+    },
+    {
+      "start": 696.44,
+      "title": "Phantom Blade Zero İncelemesi"
+    },
+    {
+      "start": 754.94,
+      "title": "Dark Souls 2 İçin Seamless Co-op Modu"
+    },
+    {
+      "start": 813.88,
+      "title": "Genel Değerlendirme"
+    },
+    {
+      "start": 844.36,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "212ad607b5438228",
+      "start": 8.28,
+      "end": 77.48
+    },
+    {
+      "story_id": "6b670d510a9f5132",
+      "start": 78.18,
+      "end": 169.88
+    },
+    {
+      "story_id": "080d1fd9011a2cb1",
+      "start": 170.76,
+      "end": 277.86
+    },
+    {
+      "story_id": "1c8c6fa257b5f4b1",
+      "start": 278.48,
+      "end": 383.56
+    },
+    {
+      "story_id": "1a4263116b04f7f0",
+      "start": 384.02,
+      "end": 467.04
+    },
+    {
+      "story_id": "70f200a0b5f188fd",
+      "start": 467.62,
+      "end": 568.64
+    },
+    {
+      "story_id": "4feee9c27425cdb3",
+      "start": 574.64,
+      "end": 586.24
+    },
+    {
+      "story_id": "f9d4f25c8df2f63a",
+      "start": 586.82,
+      "end": 594.9
+    },
+    {
+      "story_id": "4feee9c27425cdb3",
+      "start": 595.68,
+      "end": 649.72
+    },
+    {
+      "story_id": "f9d4f25c8df2f63a",
+      "start": 649.72,
+      "end": 690.16
+    },
+    {
+      "story_id": "1f477d32e77595ba",
+      "start": 696.44,
+      "end": 716.18
+    },
+    {
+      "story_id": "1004e176bf36eb46",
+      "start": 716.72,
+      "end": 725.14
+    },
+    {
+      "story_id": "1f477d32e77595ba",
+      "start": 725.7,
+      "end": 754.42
+    },
+    {
+      "story_id": "1004e176bf36eb46",
+      "start": 754.94,
+      "end": 813.88
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "e1190f70f28755ee74b73583efe7eff08e269d664fc665856307666e42c4c9cb"
+}

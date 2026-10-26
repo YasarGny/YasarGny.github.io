@@ -1,0 +1,550 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "teknoloji",
+  "publish_date": "2026-10-26",
+  "date": "26 Ekim 2026",
+  "issue": 11,
+  "ready": true,
+  "stories": [
+    {
+      "id": "5db2cad8ad53b4cb",
+      "category": "SİBER GÜVENLİK",
+      "title": "İndirilenler Klasöründeki Talimat Dosyaları Yapay Zekâ Kodlama Ajanlarını Tehdit Ediyor",
+      "summary": "Forever Security araştırmacıları, İndirilenler klasörüne indirilen zararlı yapılandırma dosyalarının yapay zekâ kodlama ajanlarını manipüle edebildiğini tespit etti. Yapılan testlerde OpenAI Codex ve Claude Code modellerinin zararlı paket kurma, kod çalıştırma veya kimlik bilgilerini sızdırma gibi işlemlere yönlendirilebildiği kanıtlandı.",
+      "why": "Popüler tarayıcıların varsayılan indirme mekanizmaları ile yapay zekâ ajanlarının çalışma dizinindeki dosyaları doğrudan okuma tasarımı birleştiğinde, kullanıcıların sistemlerinde yetkisiz kod yürütülmesine ve hesap sızıntılarına yol açabilecek doğrudan bir güvenlik riski oluşmaktadır.",
+      "event_key": "forever-security-agents-md-kodlama-ajanlari-zafiyeti",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Forever Security araştırmacıları, tarayıcıların otomatik indirme davranışı ile ajanların çalışma dizinindeki talimatları okuma işlevinin birleşerek güvenlik riski yarattığını deneysel testlerle kanıtlamıştır."
+      },
+      "brief": "Güvenlik araştırmacıları, İndirilenler klasörüne bırakılan zararlı talimat dosyalarının yapay zekâ kodlama araçlarını kötüye kullanabildiğini belirledi. OpenAI Codex ve Claude Code üzerinde test edilen yöntemde, web tarayıcılarının dosyaları otomatik indirmesi ve kullanıcıların ajanları bu dizinde çalıştırması yetkisiz kod çalıştırılmasına ya da kimlik bilgilerinin sızmasına yol açabiliyor.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "source_published_at": "2026-10-25T11:49:38-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/23/robot.jpg",
+      "body": [
+        "Forever Security araştırmacıları, bir kullanıcının İndirilenler klasöründe yer alan ve yapay zekâ ajanına zararlı bir npm paketi yükletmeye çalışan sahte bir AGENTS.md dosyası belirledi. Düz metin biçimindeki bu yapılandırma dosyaları normalde yapay zekâ kodlama ajanlarına proje kuralları, test araçları ve kodlama standartları sağlamak üzere tasarlanıyor. Ancak ajanlar çalışma dizinlerindeki bu dosyaları otomatik yüklediği için, içerikteki yönlendirmeler izinler dâhilinde zararlı komutların yürütülmesine neden olabiliyor.",
+        "Araştırmacılar, Chrome, Edge ve Firefox gibi yaygın tarayıcıların kullanıcı onayı istemeden dosyaları doğrudan İndirilenler dizinine kaydetmesini istismar eden bir konsept kanıtlama sayfası hazırladı. Yapılan testlerde, İndirilenler dizininde çalıştırılan OpenAI Codex yüzde 90 başarı oranıyla hesap makinesi uygulamasını açmaya yönlendirildi. Benzer bir yöntemle hazırlanan CLAUDE.md dosyası ise Claude Code modelinin API trafiğini saldırgan sunucusuna yönlendirerek OAuth erişim belirteçlerini ele geçirdi ve testlerin yaklaşık yarısında yetkisiz kod çalıştırdı.",
+        "Uzmanlar, yapay zekâ modellerinin kendilerine verilen talimatları tasarlandıkları şekilde yerine getirdiğini, dolayısıyla geliştirici şirketlerin doğrudan yama uygulayabileceği bir yazılım hatası bulunmadığını belirtiyor. Kullanıcıların ajanları doğrudan İndirilenler klasörü gibi genel alanlarda çalıştırmamaları, çalışma alanını ilgili proje klasörüyle sınırlı tutmaları ve yabancı yapılandırma dosyalarını çalıştırmadan önce incelemeleri tavsiye ediliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "cc774fd997ffc1046bcb285d0c984421b12f245e17934b34d082b40ad88cad27"
+    },
+    {
+      "id": "73d0747c2bd0b3c6",
+      "category": "BİLİM",
+      "title": "Pankreas Kanserinin Tedaviden Kaçış Mekanizması Tek Hücre Analiziyle Çözüldü",
+      "summary": "NYU Langone Health araştırmacıları, pankreas duktal adenokarsinomu bulunan 56 hastadan alınan yaklaşık 443 bin tümör hücresini genetik açıdan tek tek inceledi. Nature Genetics'te yayımlanan bulgular, tümörlerde iki ila on bir arasında klon bulunduğunu ve hücrelerin daha saldırgan formlara geçebildiğini gösterdi. Laboratuvarda MYC geninin engellenmesinin kanser hücrelerini daha az saldırgan duruma geri döndürdüğü gözlemlendi.",
+      "why": "Beş yıllık sağkalım oranı oldukça düşük olan ölümcül pankreas kanserinin tedavi direncini ve bağışıklıktan kaçış yollarını hücresel düzeyde aydınlatarak yeni hedefe yönelik tedavilere zemin hazırlamaktadır.",
+      "event_key": "nyu-pankreas-kanseri-klonal-dna-direnci",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Nature Genetics'te yayımlanan ve 443 binden fazla hücrenin incelendiği tek hücre analizi, pankreas kanserinde klonal çeşitliliği ve MYC/TIGIT hedeflerini doğrulamaktadır."
+      },
+      "brief": "NYU Langone Health bilim insanları, pankreas kanserine ait yaklaşık yarım milyon hücreyi tek tek inceleyerek genetik dönüşüm haritasını çıkardı. Araştırma, MYC geninin engellenmesiyle saldırgan kanser hücrelerinin daha savunmasız bir duruma çekilebildiğini ortaya koydu.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+      "source_published_at": "2026-10-25T07:00:25-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-divides.webp",
+      "body": [
+        "NYU Langone Health ve Perlmutter Kanser Merkezi araştırmacıları, hastaların yaklaşık yüzde 85'inin teşhisten sonraki beş yıl içinde hayatını kaybettiği pankreas duktal adenokarsinomu üzerinde kapsamlı bir genetik çalışma gerçekleştirdi. Nature Genetics dergisinde 13 Ekim'de yayımlanan araştırmada, 56 hastaya ait 62 tümörden toplanan 443 bin 451 bireysel hücre transkriptomik yöntemlerle incelendi.",
+        "Tek hücreli klon analizi yöntemi, tümörlerin her birinde genetik özellikleri benzer 2 ila 11 arasında farklı hücre klonu bulunduğunu gösterdi. Hücrelerin daha az saldırgan olan 'klasik' durum ile daha saldırgan olan 'bazal' durum arasında geçiş yapabildiği tespit edildi. Bu dönüşümün tümörün yayılmasını ve tedavilere direnç geliştirmesini tetiklediği belirlendi.",
+        "Laboratuvar deneylerinde en saldırgan hücrelerde yüksek aktivite gösteren MYC geni hedeflendi. Bu genin baskılanmasıyla kanser hücrelerinin daha az saldırgan olan klasik duruma geri döndüğü ve bağışıklık hücrelerinin hedefi haline geldiği gözlemlendi. Ayrıca bazı klonlarda bağışıklıktan kaçışla bağlantılı TIGIT geninin arttığı, PD1 geninin ise azaldığı saptandı. Eş kıdemli araştırmacı Dr. Aristotelis Tsirigos, MYC veya TIGIT inhibitörlerini içeren klinik denemelerin halihazırda sürdüğünü ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "304a1b52db09fd8ea75bcc398a0f7341a408ee9639acff69e9042bebbef9e97b"
+    },
+    {
+      "id": "8792a4f6e349b463",
+      "category": "BİLİM",
+      "title": "Süperiletkenlerde Kırk Yıllık Varsayımı Sarsan İç Kusur Keşfedildi",
+      "summary": "Warwick Üniversitesi ve Avrupa Sinkrotron Radyasyon Tesisi araştırmacıları, bakır bazlı süperiletkenlerin iç yapısında homojen kristal düzeni yerine parçalı alanlar tespit etti. Taramalı 3 boyutlu X-ışını kırınımıyla yapılan inceleme, bölgeler arasındaki sınırların beklenenden yüzlerce kat daha geniş olduğunu gösterdi. Bu geniş geçiş hatlarının süperiletkenliği zayıflatabileceği ve mevcut teorik modellerin yeniden değerlendirilmesini gerektirebileceği belirtiliyor.",
+      "why": "Enerji iletimi, tıbbi tarayıcılar ve kuantum bilgisayarlar için kritik olan süperiletkenlerin kırk yıldır varsayılan tekdüze iç yapısının gerçeği yansıtmadığını ortaya koyarak gelecekteki malzeme geliştirme modellerini doğrudan etkilemektedir.",
+      "event_key": "warwick-kuprat-superiletken-atomik-yama-kesfi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Physical Review Letters'ta yayımlanan ve ESRF altyapısıyla gerçekleştirilen çalışma, süperiletkenlerin kırk yıllık teorik temelini doğrudan sorgulatan deneysel kanıtlar sunmaktadır."
+      },
+      "brief": "Warwick Üniversitesi araştırmacıları, bakır bazlı süperiletkenlerin tekdüze kristal yapısına sahip olmadığını ortaya çıkardı. Gelişmiş üç boyutlu görüntüleme yöntemiyle saptanan geniş iç sınırların süperiletkenliği olumsuz etkileyebileceği, kırk yıllık bilimsel teorilerin ve ölçümlerin yeniden ele alınmasını gerektirebileceği bildirildi.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "source_published_at": "2026-10-24T22:19:07-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/superconducting-material-hovering-over-magnets.webp",
+      "body": [
+        "Warwick Üniversitesi Kimya Bölümü araştırmacıları, Fransa'daki Avrupa Sinkrotron Radyasyon Tesisi (ESRF) ile yürüttükleri ortak çalışmada bakır bazlı kuprat süperiletkenlerin iç yapısını inceledi. Kırk yıldır baştan sona homojen bir kristal yapısına sahip olduğu varsayılan bu malzemelerin, gerçekte farklı atomik dizilimlerden oluşan karmaşık bir yama yapısı barındırdığı belirlendi. Araştırma sonuçları Physical Review Letters dergisinde yayımlandı.",
+        "İncelemede, ESRF bünyesindeki 150 milyon avroluk modernizasyon sayesinde mümkün olan ve tıbbi bilgisayarlı tomografiye benzer prensiple çalışan taramalı 3 boyutlu X-ışını kırınımı yöntemi kullanıldı. Malzemenin derinliklerini görüntüleyen ekip, biraz farklı iki atomik dizilime sahip bölgeler ve bu bölgeleri ayıran beklenenden yüzlerce kat daha geniş geçiş hatları tespit etti. Bağımsız yapılar gibi davranan bu geniş sınırların, elektriğin iletimini doğrudan etkileyebileceği aktarıldı.",
+        "Araştırmayı yürüten Profesör Mark Senn, bu geniş sınır bölgelerinin süperiletkenliği desteklemek yerine zayıflatıcı yönde çalışabildiğini ifade etti. Senn, elde edilen bulguların bazı malzemelerin neden daha yüksek performans gösterdiğini açıklayabileceğini, geçmişteki toplu ölçümlerin yeniden yorumlanmasını ve yeni teorik modellerin bu yapısal karmaşıklığa göre kurulmasını gerektireceğini kaydetti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "81c7fc07c2d2e8cc4d7efaad852a1c4e3c68fb6d356dd29b2b04317a9ee88a18"
+    },
+    {
+      "id": "95a7958d3a0a4c3e",
+      "category": "UZAY",
+      "title": "James Webb Erken Evrendeki Bir Galakside Üç Aktif Kara Delik Keşfetti",
+      "summary": "Gökbilimciler, Dünya'dan 12,5 milyar ışık yılı uzaklıktaki bir galakside aynı anda madde yutan üç süper kütleli kara delik tespit etti. JWST verileriyle yapılan keşif, erken evrende devasa kara deliklerin hızla nasıl büyüdüğüne dair yeni kanıtlar sağlıyor.",
+      "why": "Erken evrendeki bir galakside ilk kez üç aktif süper kütleli kara deliğin bir arada görüntülenmesi, kozmik şafağın erken dönemlerindeki devasa kara deliklerin birleşme süreçlerini ve büyüme mekanizmalarını doğrulamaktadır.",
+      "event_key": "mpe-j0148-4214-uc-super-kutleli-kara-delik",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "JWST gözlemleri, z=5.02 kırmızıya kaymaya sahip erken evren galaksisinde üç aktif süper kütleli kara deliğin varlığını spektro-astrometri yöntemiyle ilk kez kanıtlamıştır."
+      },
+      "brief": "James Webb Uzay Teleskobu, 12,5 milyar ışık yılı uzaklıktaki J0148-4214 galaksisinde aynı anda beslenen üç devasa kara delik belirledi. Merkezdeki iki kara deliğin birkaç yüz milyon yıl içinde birleşmesi beklenirken, bulgular erken evrende kara deliklerin hızla nasıl büyüdüğünü anlamak açısından önemli kanıtlar sunuyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+      "source_published_at": "2026-10-25T08:07:01-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/galaxy-with-three-supermassive-black-holes.webp",
+      "body": [
+        "Max Planck Yerötesi Fiziği Enstitüsü (MPE) öncülüğündeki uluslararası araştırma ekibi, Büyük Patlama'dan yalnızca 1,2 milyar yıl sonrasına denk gelen J0148-4214 galaksisinde üç aktif süper kütleli kara delik buldu. Kırmızıya kayma değeri z=5,02 olarak ölçülen galaksiden gelen ışık, Dünya'ya ulaşmak için yaklaşık 12,5 milyar yıl yol katetti.",
+        "James Webb Uzay Teleskobu'nun (JWST) Yakın Kızılötesi Spektrofotometresi (NIRSpec-IFS) ve spektro-astrometri tekniğiyle hidrojen gazının yaydığı ışık incelendi. Galaksinin merkezinde yer alan ve aralarında 620 ışık yılı mesafe bulunan iki kara deliğin Güneş'in yaklaşık 80 milyon ve 600 bin katı kütleye sahip olduğu hesaplandı. Galaksi merkezinden 5 bin 500 ışık yılı uzaktaki üçüncü kara deliğin kütlesi ise yaklaşık 2 milyon Güneş kütlesi olarak belirlendi.",
+        "Gözlemlerde Güneş'in 600 bin katı kütledeki küçük kara deliğin, standart modellerin öngördüğü Eddington sınırını aşan olağanüstü yüksek bir hızla madde yuttuğu görüldü. Merkezdeki iki kara deliğin önümüzdeki birkaç yüz milyon yıl içinde birleşerek daha büyük bir yapı oluşturması beklenirken, dış bölgedeki üçüncü kara deliğin geçmişteki bir birleşme sırasındaki yerçekimsel geri tepmeyle dışarı fırlamış olabileceği değerlendiriliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "54cd75848b810574b147e9db284c4fa0adf0f30b184f4004251e6cc0a836212f"
+    },
+    {
+      "id": "982c212b35a54eb0",
+      "category": "BİLİM",
+      "title": "Basit Bir Sıvı Çocuklarda Diş Çürüklerini Matkapsız Durdurabiliyor",
+      "summary": "Michigan Üniversitesi öncülüğünde 830 çocuk üzerinde yürütülen Faz III klinik çalışması, gümüş diamin florür adlı sıvının süt dişlerindeki çürükleri durdurduğunu belgeledi. JAMA Pediatrics'te yayımlanan araştırmada, altı ayda bir uygulanan yüzde 38'lik solüsyonun çürüklerin yarısından fazlasının ilerlemesini engellediği belirlendi. Uygulama anestezi ya da dolgu gerektirmezken, tedavi edilen bölgede kalıcı koyulaşmaya yol açıyor.",
+      "why": "Çocuklar arasında yaygın görülen diş çürüklerinin genel anestezi veya cerrahi müdahaleye gerek kalmadan, düşük maliyetli ve saniyeler süren bir sıvıyla klinik ortamda kontrol altına alınabildiğini kanıtlamaktadır.",
+      "event_key": "michigan-gumus-diamin-florur-dis-curugu-durdurma",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "JAMA Pediatrics'te yayımlanan 830 çocuklu Faz III klinik çalışması, gümüş diamin florürün çürük durdurmadaki etkinliğini ve güvenliğini somut verilerle ortaya koymaktadır."
+      },
+      "brief": "Michigan Üniversitesi öncülüğündeki Faz III çalışması, gümüş diamin florür sıvısının çocuklarda diş çürümelerini matkapsız ve iğnesiz şekilde durdurabildiğini kanıtladı. Altı ayda bir sürülen sıvı, çürüklerin yarısından fazlasını durdururken çürük alanda kalıcı koyuluk bırakıyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+      "source_published_at": "2026-10-25T22:41:13-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/molar-teeth-cavities.webp",
+      "body": [
+        "Michigan Üniversitesi öncülüğünde New York Üniversitesi, Iowa Üniversitesi ve Indiana Üniversitesi araştırmacılarının katılımıyla yürütülen Faz III klinik araştırması, gümüş diamin florür (SDF) tedavisinin çocuk diş çürüklerindeki etkisini inceledi. JAMA Pediatrics dergisinde yayımlanan ve 6 yaşından küçük 830 çocuğun yer aldığı çalışma, Ulusal Diş ve Kraniofasiyal Araştırmalar Enstitüsü'nün sağladığı 12 milyon doları aşkın fonla gerçekleştirildi.",
+        "Denemelerde Elevate Oral Care tarafından sağlanan yüzde 38'lik Advantage Arrest isimli solüsyon kullanıldı. Küçük bir sünger uçla saniyeler içinde dişe sürülen sıvının, altı aylık aralıklarla uygulandığında etkilenen süt dişlerinin yarısından fazlasında çürümeyi durdurduğu saptandı. İçeriğindeki gümüş bakterilerle mücadele ederken, florürün dişin mineral yapısını güçlendirdiği bildirildi.",
+        "Araştırmanın yürütücüsü Profesör Margherita Fontana, yöntemin 1 yaşındaki çocuklarda dahi güvenli ve etkili olduğunu belirtti. Tedavinin tek önemli yan etkisinin, çürüyen bölgeyi kalıcı olarak koyu renge dönüştürmesi olduğu aktarıldı. FDA tarafından 2014'te diş hassasiyeti için onaylanan maddenin, bu klinik verilerle birlikte çocuklarda çürük durdurucu ilaç statüsü alması hedefleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "36d188b9b0b8f34e45d3d9c5a72cf56fd130f6e365c3d857ccbae477880cf9ce"
+    },
+    {
+      "id": "a9baacb01853f7e8",
+      "category": "BİLİM",
+      "title": "Silikon Kuantum Bilgisayarlarında Eşzamanlı Kontrol Engeli Aşıldı",
+      "summary": "RIKEN araştırmacıları, birden fazla silikon spin kübitin aynı anda çalıştırılması sırasında yaşanan doğruluk kaybını ikili kalibrasyon yöntemiyle büyük ölçüde azalttı. Ortak mikrodalga hattı üzerinden yönetilen beş kübitlik sistemde yüzde 99,9 seviyesinde doğruluk elde edildi.",
+      "why": "Mevcut yarı iletken üretim teknikleriyle uyumlu silikon spin kübitlerin ölçeklenmesinde ana engel olan paralel kontrol hatalarının azaltılması, hata toleranslı kuantum işlemcilerin inşasına giden yolu kısaltmaktadır.",
+      "event_key": "riken-silikon-spin-kubit-ac-stark-kaymasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Nature Physics'te yayımlanan çalışma, silikon spin kübitlerde AC Stark kaymasını ikili kalibrasyonla azaltıp doğruluğu korumuş, ancak mikrodalga kaynaklı eşevrelilik kaybını tam çözememiştir."
+      },
+      "brief": "RIKEN araştırmacıları, silikon spin kübitlerin eşzamanlı çalışmasında doğruluk kaybına yol açan faz kaymalarını ikili kalibrasyon yöntemiyle azalttı. Ortak mikrodalga hattına bağlı beş kübitlik dizilimde yüzde 99,9 civarında işlem doğruluğu sağlanırken, mikrodalga gücünün artmasından kaynaklanan kuantum eşevrelilik kaybının temel bir sınırlandırma olarak sürdüğü kaydedildi.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "source_published_at": "2026-10-25T21:42:48-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+      "body": [
+        "RIKEN Madde Bilimi Merkezi liderliğindeki araştırmacılar, silikon spin kübitlerin aynı anda kontrol edilmesinde karşılaşılan hassasiyet kaybını gidermeyi başardı. Nature Physics dergisinde yayımlanan çalışmada, ortak bir mikrodalga kontrol hattına bağlı beş kübitlik bir dizilim üzerinde yüksek doğruluklu paralel işlemler gerçekleştirildi.",
+        "Geleneksel bilgisayarların bitlerinden farklı olarak kuantum durumlarında bilgi saklayan silikon spin kübitler mikrodalga sinyalleriyle yönlendiriliyor. Ancak birden fazla kübit eşzamanlı çalıştırıldığında, AC Stark kayması olarak adlandırılan ve kübitin enerji seviyelerini değiştirerek kuantum fazında bozulmalara yol açan bir etki meydana geliyor. Araştırma ekibi, tüm kübit kombinasyonlarını tek tek kalibre etmek yerine kübit çiftleri arasında uygulanan yeni bir kalibrasyon tekniği geliştirerek bu faz kaymalarını telafi etti.",
+        "Testlerde tekli kübit kapı doğruluğu yüzde 99,99'un üzerine çıkarken, üç kübit aynı anda çalıştırıldığında doğruluk yine yüzde 99,99 seviyesinde korundu. Beş kübitin tamamı paralel olarak kontrol edildiğinde ise doğruluk yaklaşık yüzde 99,9 olarak ölçüldü. Faz kaymaları büyük oranda giderilse de mikrodalga gücünün artışına bağlı eşevrelilik kaybının devam ettiği, bu sınırlandırmanın aşılması için cihaz tasarımlarının geliştirilmesi gerektiği kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "489e5d227a59884410e25d3aadd006786c7a00b4e8bd79dd9a1a22db105c0935"
+    },
+    {
+      "id": "28d9af70d6cc841d",
+      "category": "DONANIM",
+      "title": "iFixit iPhone Duo Modelini İnceledi: Ekran Kırılmaları ve Menteşe Sorunlarına Işık Tutuldu",
+      "summary": "iFixit, Apple'ın katlanabilir telefonu iPhone Duo için yaptığı söküm incelemesinde cihaza 10 üzerinden 5 tamir edilebilirlik puanı verdi. İncelemede, ekran katlanma izini gizleyen özel teknolojiler ve kullanıcılardan gelen menteşe çatlama seslerinin olası nedenleri açıklandı.",
+      "why": "Katlanabilir telefon kategorisinde bugüne kadarki en yüksek tamir edilebilirlik puanı açıklanırken kullanıcıların karşılaştığı ekran çatlaması ve hasar şikayetlerine yönelik ilk bağımsız teknik açıklama getirilmiştir.",
+      "event_key": "ifixit-iphone-duo-mentese-kirilma-analizi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "iFixit'in cihaz sökümüyle elde ettiği doğrudan mikroskobik inceleme, toz testi gözlemleri ve donanım mimarisine dair somut teknik bulgular mevcuttur."
+      },
+      "brief": "iFixit'in iPhone Duo söküm analizi, katlanma izini gizleyen nano dokulu katmanı ve karmaşık menteşe yapısını ortaya koydu. Cihaz 5/10 tamir edilebilirlik puanı alırken ekrandaki hasar ve seslerin olası teknik nedenleri paylaşıldı.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source_published_at": "2026-10-25T17:40:27-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "body": [
+        "Tamir ve donanım inceleme platformu iFixit, Apple'ın katlanabilir akıllı telefonu iPhone Duo'yu parçalarına ayırarak cihazın iç yapısını ve dayanıklılık dinamiklerini değerlendirdi. Yapılan değerlendirmede cihaza 10 üzerinden 5 tamir edilebilirlik puanı verildi. Bu derece genel standartlarda düşük kalsa da şimdiye kadar bir katlanabilir telefona verilen en yüksek puan oldu.",
+        "İnceleme, Apple'ın ekrandaki katlanma izini gizlemek için iç ekranda yansımaları dağıtan mat nano dokulu bir kaplama kullandığını gösterdi. Mikroskop altında yapılan gözlemlerde, izi maskelemek ve görüntü bozulmalarını azaltmak amacıyla farklı açılarda yerleştirilmiş oval biçimli alt pikseller tespit edildi. Nano dokulu dış katmanın alttaki OLED panelden bağımsız olarak değiştirilebilmesi olumlu bir detay olarak aktarılırken, ana ekran panelinin tamirinin yüksek maliyetli ve oldukça zor olduğu vurgulandı. Toz testlerinde cihazın içine giren parçacık miktarının Z Fold8 veya Pixel 11 Pro Fold modellerine kıyasla daha az olduğu kaydedildi.",
+        "Kullanıcılardan gelen kırık ekran ve menteşe çatlama sesi şikayetlerine de değinen iFixit, son derece karmaşık menteşe mekanizmasının bazı bölümlerinin düzgün şekilde aşağı inemeyebileceğini belirtti. Bu noktanın üzerinden geçen akordeon kablonun batarya kenarına yakın olması nedeniyle basınç toplayabileceği, bunun da kırılmalara ve duyulan çatlama sesine yol açabileceği teorisi paylaşıldı. Apple, konuya ilişkin yorum talebine henüz yanıt vermedi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "064b759d88ec79713ca40aeb1169d2f08a0562ca1a7a6bc8bced24c4f9da9070"
+    },
+    {
+      "id": "3cb80aed2ef41681",
+      "category": "BİLİM",
+      "title": "Kulaktan Sinir Uyarımı Şiddetli Hipertansiyon Tedavisinde Umut Verdi",
+      "summary": "Londra Queen Mary Üniversitesi öncülüğünde yürütülen SCRATCH-HTN klinik çalışması, kulaktan hafif elektrik sinyalleri ileten bir cihazın güvenli olduğunu ortaya koydu. Genel katılımcı grubunda belirgin bir tansiyon düşüşü sağlanamasa da şiddetli hipertansiyonu olan hastalarda olumlu sonuçlar kaydedildi. Araştırmacılar, yöntemin etkinliğini doğrulamak için daha geniş kapsamlı çalışmalara ihtiyaç olduğunu belirtiyor.",
+      "why": "İlaç tedavisine yanıt vermeyen yüksek tansiyon hastaları için cerrahi müdahale gerektirmeyen ve evde uygulanabilen alternatif bir medikal teknoloji ihtimalini ortaya koymaktadır.",
+      "event_key": "qmul-kulak-sinir-stimulasyonu-direncli-hipertansiyon",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Hypertension dergisinde yayımlanan ve 63 hasta üzerinde yürütülen kontrollü klinik çalışma sonuçlarına dayanmaktadır."
+      },
+      "brief": "Queen Mary Üniversitesi öncülüğünde yapılan bir klinik çalışmada, kulağa takılan bir cihazla uygulanan sinir stimülasyonunun güvenli olduğu belirlendi. Genel grupta fark yaratmayan yöntem, şiddetli hipertansiyon hastalarında tansiyonu düşürdü; ancak kesin sonuçlar için daha geniş çaplı klinik araştırmalar gerekiyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+      "source_published_at": "2026-10-24T09:15:00-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/tinnitus-hearing-restoration.webp",
+      "body": [
+        "Londra Queen Mary Üniversitesi araştırmacıları öncülüğünde gerçekleştirilen bir klinik çalışmada, kulak üzerinden hafif elektriksel uyarılar veren taşınabilir bir cihazın inatçı yüksek tansiyon tedavisinde güvenli, iyi tolere edilen ve evde kullanıma uygun bir yöntem olduğu belirlendi. Amerikan Kalp Derneği'nin Hypertension dergisinde yayımlanan SCRATCH-HTN araştırmasında, otonom sinir sistemini etkilemeyi hedefleyen transkütanöz otonomik nöromodülasyon tekniği incelendi.",
+        "Ulusal Sağlık ve Bakım Araştırmaları Enstitüsü (NIHR) tarafından finanse edilen çalışmaya, en az bir tansiyon ilacı kullanmasına rağmen değerleri önerilen seviyenin üzerinde seyreden 63 kontrolsüz hipertansiyon hastası dahil edildi. Afferent Medical Solutions tarafından geliştirilen cihaz, kulak kanalının hemen önündeki kıkırdak dokuya takılan iki küçük klips aracılığıyla elektriksel stimülasyon uyguladı. Katılımcılar rastgele aktif uyarım veya plasebo cihazı kullanan iki gruba ayrılarak ilk iki hafta boyunca günde 30 dakika, sonraki on hafta ise haftada bir kez cihazı çalıştırdı.",
+        "Tüm çalışma grubu genelinde aktif stimülasyon ile plasebo arasında tansiyon düşüşü açısından istatistiksel olarak anlamlı bir fark saptanmadı. Buna karşın, önceden planlanmış alt grup analizinde, çalışmaya daha şiddetli hipertansiyonla başlayan hastalarda aktif sinir uyarımının plaseboya kıyasla daha belirgin bir tansiyon düşüşü sağladığı tespit edildi. Araştırmacılar, yöntemin güvenilirliğini ve hangi hasta gruplarında etkili olabileceğini netleştirmek için daha büyük ölçekli klinik deneylerin şart olduğunu vurguluyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f4bbd669dbdfb0386034dba1b1ccd9413e0c1e73312cbcf24baf3f24eb56fc0d"
+    },
+    {
+      "id": "7b388a64c95b0e72",
+      "category": "BİLİM",
+      "title": "Düşük Doz Aspirin Belirli Genetik Profile Sahip Bireylerde Demans Riskini Azaltabilir",
+      "summary": "Monash Üniversitesi öncülüğünde yürütülen araştırma, yüksek trombosit sayısı genetik puanına sahip yaşlılarda düşük doz aspirinin demans riskini yüzde 70 oranında düşürdüğünü gösterdi. Ancak aynı grupta aspirinin ciddi kanama riskini iki katına çıkardığı belirlendi.",
+      "why": "Çalışma, genel popülasyonda demansı önlemeyen aspirinin genetik temelli kişiselleştirilmiş tedavilerle hedeflenebileceğini göstermesi ve buna karşın ciddi iç kanama riskini somutlaştırması açısından önemlidir.",
+      "event_key": "monash-aspree-aspirin-demans-trombosit-genetigi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "13.500'den fazla ASPREE deneyi katılımcısının genetik verilerine dayanan bulgular hakemli tıp dergisinde yayımlanmıştır ve kişiselleştirilmiş demans önleme stratejileri için önemli veriler sunmaktadır."
+      },
+      "brief": "Monash Üniversitesi araştırmacıları, yüksek trombosit genetik puanına sahip yaşlılarda düşük doz aspirinin demans riskini yüzde yetmiş azalttığını saptadı. Ancak aspirinin bu grupta ciddi kanama riskini artırması nedeniyle uzmanlar doktor kontrolü olmadan kullanılmaması gerektiği konusunda uyarıyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+      "source_published_at": "2026-10-25T06:21:48-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/aspirin-pills-close.webp",
+      "body": [
+        "Monash Üniversitesi araştırmacıları, düşük doz aspirinin belirli genetik özelliklere sahip yaşlı bireylerde demans riskini belirgin ölçüde azaltabileceğini tespit etti. Alzheimer's & Dementia dergisinde yayımlanan bulgular, dönüm noktası niteliğindeki ASPREE Deneyi'ne katılan 13 bin 500'den fazla kişinin verilerine dayanıyor. Bilim insanları, katılımcıların genetik farklılıklarının aspirinin demans riski üzerindeki değişken etkilerini açıklayıp açıklayamayacağını inceledi.",
+        "Araştırmada en dikkat çekici sonuçlar, kanda pıhtı oluşumunu sağlayan trombositlerin sayısı ile ilişkili genlerde görüldü. Trombosit sayısı genetik puanı en yüksek yüzde 20'lik dilimde bulunan katılımcılardan aspirin kullananlarda demans oranı yüzde 1 olarak kaydedilirken, plasebo alanlarda bu oran yüzde 3,3 oldu. Bu fark, aspirin kullananlarda demans gelişme riskinin göreceli olarak yaklaşık yüzde 70 daha düşük olduğunu gösterdi.",
+        "Elde edilen bu faydaya ciddi bir güvenlik endişesi eşlik etti. Aynı genetik grupta aspirin kullananların yüzde 4,4'ünde majör kanama görülürken, plasebo grubunda bu oran yüzde 2,1'de kaldı. Çalışmanın başyazarı Dr. Peter Fransquet, önceki denemelerde aspirin herkese birlikte uygulandığında demansı engellemediğinin görüldüğünü, ancak bu özel genetik profile sahip grupta vakaların önemli ölçüde azaldığını ifade etti.",
+        "Uzmanlar, araştırmada saptanan sinyalin Alzheimer hastalığı için bilinen standart genetik risk faktörleriyle bağlantılı olmadığını, doğrudan trombosit biyolojisine işaret ettiğini belirtti. Sonuçların klinik tavsiyelere dönüşebilmesi için farklı topluluklarda ve bu genetik profile özel tasarlanacak yeni klinik deneylerle doğrulanması gerekiyor. Araştırmacılar, artan kanama riski nedeniyle kişilerin doktora danışmadan demansı önleme amacıyla aspirin kullanmaya başlamamaları gerektiğinin altını çiziyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9556f521e79f2a41da30c96f53bec72a44bb0e31686fd0b4d0bae9caa6e6b30d"
+    },
+    {
+      "id": "7ed1d07eadcb4b2a",
+      "category": "BİLİM",
+      "title": "İnsan Dilinde 70 Yıllık Teoriyi Sarsan Güvenlik Eğilimi Keşfedildi",
+      "summary": "Vermont Üniversitesi araştırmacıları, insan dilindeki anlam yapısının duygulardan ziyade güç, tehlike ve düzen boyutlarıyla şekillendiğini ortaya koydu. Science Advances dergisinde yayımlanan çalışma, konuşma ve yazılarda güvenlikle ilişkili sözcüklerin belirgin biçimde daha sık kullanıldığını gösteriyor.",
+      "why": "Bulgular, 1950'lerden bu yana kabul gören VAD modeline meydan okumakta ve yapay zeka sistemlerinin insan iletişimini anlama yöntemlerini doğrudan etkileyebilecek yeni bir çerçeve sunmaktadır.",
+      "event_key": "vermont-ousiometrics-dil-guvenlik-egilimi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Science Advances'ta yayımlanan çalışma, 70 yıllık dilbilim modeline meydan okuyarak 20 binden fazla sözcük ve milyarlarca kullanım verisi üzerinden güçlü ampirik kanıt sunmaktadır."
+      },
+      "brief": "Vermont Üniversitesi araştırmacıları, insan dilinin temelinde güvenlik, güç ve düzen boyutlarının yer aldığını belirledi. 20 binden fazla sözcüğün incelendiği çalışmada, günlük dilde güvenliği anlatan kelimelerin tehlikeye kıyasla çok daha baskın olduğu tespit edildi.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+      "source_published_at": "2026-10-24T09:01:22-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/woman-speaks-letters.webp",
+      "body": [
+        "Vermont Üniversitesi bünyesinde yürütülen ve Science Advances dergisinde yayımlanan yeni bir araştırma, insan dilinin altında yatan anlam yapısına dair 70 yıllık bilimsel kabulü değiştirebilecek veriler sundu. 1950'lerden bu yana kullanılan ve duygusal değer, uyarılma ile baskınlık boyutlarına dayanan VAD modelini inceleyen araştırmacılar, sözcük anlamlarının duygulardan çok güç, tehlike ve düzen boyutlarıyla organize edildiğini belirledi. \"Ousiometrics\" adı verilen matematiksel yöntemle 20 binden fazla sözcüğün milyarlarca kullanımı analiz edildi.",
+        "Elde edilen sonuçlara göre yeni boyutlar, ölçülen sözcük anlamı varyasyonunun yüzde 90'ından fazlasını açıklarken geleneksel VAD modeli yaklaşık yüzde 72'de kaldı. Kitaplar, haberler, sosyal medya ve konuşma dili genelinde yapılan incelemelerde, güvenlikle ilişkili kelimelerin tehlike belirtenlere göre çok daha yaygın kullanıldığı görüldü. Araştırma ekibi, dilbilimdeki Pollyanna ilkesi kapsamındaki olumluluk eğiliminin aslında derin bir güvenlik eğiliminin yansıması olduğunu ifade etti.",
+        "Geliştirilen ve \"ousiometer\" adı verilen analiz aracı; Jane Austen ve Arthur Conan Doyle'un eserleri, New York Times, Wikipedia ve radyo kayıtları gibi geniş kaynaklarda test edildi. Ayrıca Victor Hugo'nun Sefiller romanı üzerinden metin akışındaki anlam değişimleri haritalandırıldı. Araştırmacılar, bu bulguların hayatta kalma mekanizmalarıyla ilişkili olabileceğini ancak evrimsel baskıların bu duruma doğrudan yol açtığının henüz kanıtlanmadığını, yöntemin yapay zeka duygu analizlerinde geliştirilmeye açık olduğunu kaydetti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ce3911ec9a7712b7be04be33874511865eafcece898db4143815859cea513086"
+    },
+    {
+      "id": "8b3a66dec3cc3753",
+      "category": "UZAY",
+      "title": "Güneş Sistemi Dışında İlk Doğal Uydu Adayı Keşfedilmiş Olabilir",
+      "summary": "Avrupa Güney Rasathanesi'nin Çok Büyük Teleskop verilerini inceleyen gökbilimciler, CD-35 2722 sisteminde olası bir öte-uydu tespit etti. Bir kahverengi cücenin etrafında dönen Jüpiter kütlesindeki cisim doğrulanırsa Güneş Sistemi dışındaki ilk doğal uydu kaydı olacak.",
+      "why": "Güneş Sistemi dışındaki ilk doğal uydu kanıtı olma potansiyeli taşıyan bulgu, gezegen ve uydu tanımlarının sınırlarını esnetirken gezegen sistemlerinin oluşum modellerine yeni bakış açıları getirebilir.",
+      "event_key": "eso-cd-35-2722-ote-uydu-kesfi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "ESO VLT verileriyle Nature'da yayımlanan çalışma, kesinleşmiş bir keşif olmasa da Güneş Sistemi dışındaki ilk öte-uydu adayı için güçlü radyal hız kanıtları sunmaktadır."
+      },
+      "brief": "Gökbilimciler, Çok Büyük Teleskop verilerini kullanarak CD-35 2722 sistemindeki bir kahverengi cücenin yörüngesinde devasa bir doğal uydu adayı tespit etti. Jüpiter kütlesindeki bu gök cisminin doğrulanması halinde, Güneş Sistemi dışındaki ilk öte-uydu keşfedilmiş olacak ve gezegen ile uydu tanımları yeniden tartışılabilecek.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "source_published_at": "2026-10-24T23:13:05-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/cd-35-2722.webp",
+      "body": [
+        "Avrupa Güney Rasathanesi'nin (ESO) Şili'deki Çok Büyük Teleskop'u (VLT) ile yapılan gözlemler, Güneş Sistemi dışındaki ilk doğal uydunun bulunmuş olabileceğini gösterdi. Nature dergisinde yayımlanan araştırmaya göre, CD-35 2722 adı verilen ve Güneş'in yaklaşık yarısı kütleye sahip genç bir yıldız sisteminde olağan dışı bir gök cismi saptandı.",
+        "Söz konusu cisim doğrudan bir yıldızın değil, yıldızın çevresinde dönen bir kahverengi cücenin yörüngesinde hareket ediyor. Gezegenlerden büyük ancak yıldız olacak kadar nükleer füzyon başlatamayan kahverengi cüce, Jüpiter'in 30 katından fazla kütleye sahip. Araştırmacılar tarafından 'öte-uydu' olarak adlandırılan yeni gök cisminin kütlesinin ise en az Jüpiter kadar olduğu belirlendi. Kütlesi bir gezegen boyutunda olsa da bir yıldıza değil, yıldız çevresindeki başka bir gök cismine bağlı olması nedeniyle sistem geleneksel tanımlara meydan okuyor.",
+        "Keşif, VLT üzerindeki CRIRES+ aygıtı ve radyal hız yöntemiyle kahverengi cücenin hareketindeki küçük yalpalamaların ölçülmesi sayesinde yapıldı. Kesin keşif kanıtı için ek gözlemlere ihtiyaç duyulurken, ESO'nun gelecekte devreye girecek 39 metrelik Aşırı Büyük Teleskop'unun (ELT) bu tür sistemleri doğrulamada kritik rol oynaması bekleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f75fe638cd0614aad1f55bc274a1c6bc4ca73aae367c6174365e0c60fb2eea5c"
+    },
+    {
+      "id": "b411fbb2487aa2da",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Reddit'in r/opensource Topluluğunda Yapay Zeka ve Dil Kısıtlamaları Tepki Çekti",
+      "summary": "Reddit üzerindeki r/opensource topluluğu moderatörleri; yapay zeka kullanan projeleri, yeni girişimleri ve İngilizce bilmeyen kullanıcıları yasaklayan yeni kurallar getirdi. Sert tepkilere yol açan kararın ardından üyeler r/trueopensource adıyla alternatif bir topluluk kurdu.",
+      "why": "Geniş bir açık kaynak yazılımcı topluluğunu doğrudan etkileyen yasak kararı, Linux çekirdeği dahil modern yazılım geliştirme pratikleri ile moderasyon kuralları arasında derin bir ayrışma yarattı.",
+      "event_key": "reddit-opensource-yapay-zeka-ve-dil-yasagi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 3,
+        "reason": "Açık kaynak ekosisteminde doğrudan kural değişikliği, moderatör savunmaları ve rakip subreddit oluşumu gibi somut topluluk tepkilerini içeren güncel bir gelişmedir."
+      },
+      "brief": "r/opensource alt dizini, yapay zekayla üretilen veya yapay zekaya yönelik projeleri tamamen yasakladı. İngilizce bilmeyenleri ve bir yıldan yeni projeleri de dışlayan kurallar, topluluk içinde isyana ve yeni bir alt dizinin kurulmasına yol açtı.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source_published_at": "2026-10-25T09:52:12-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "body": [
+        "Reddit'in popüler yazılım topluluklarından r/opensource moderatörleri, yapay zeka içeren veya yapay zeka için geliştirilen projelere yönelik kapsamlı bir yasak kararı aldı. Cumartesi akşamı paylaşılan duyuruda, mevcut yapay zeka yapısının açık kaynak topluluğuyla uyuşmadığı savunularak yapay zeka kullanan, yapay zeka tarafından üretilen ya da yapay zekaya yönelik projelere izin verilmeyeceği ilan edildi.",
+        "Yeni düzenlemeler yalnızca yapay zeka araçlarıyla sınırlı kalmadı. Topluluğa sunulacak projelerin en az bir yıllık olması, aktif olarak sürdürülmesi ve birden fazla katkıda bulunana sahip olması şartı getirildi. Bu durum, yardım arayan tekil geliştiricilerin ve yeni projelerin dışlanmasına yol açtı. Ayrıca moderatörler, makine çevirisi ile yapay zeka içeriğini ayırt edemedikleri gerekçesiyle İngilizce bilmeyen kullanıcıların toplulukta yer alamayacağını bildirdi.",
+        "Kararlar forum üyeleri arasında sert tartışmalara neden olurken Linux çekirdeğinin dahi yapay zeka tarafından üretilmiş kodlar barındırdığına dikkat çekildi. Moderatörlerden Wolvereness, otomatik altyazı gibi erişilebilirlik amaçlı yapay zeka kullanımlarında esneklik sağlanabileceğini belirtse de tepkiler dinmedi ve tepkili kullanıcılar r/trueopensource adıyla yeni bir rakip alt topluluk kurdu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "108daf970b2abb67d8ca787c0c71a78ea450e2dc7d5ef13b76ddbabde71c4696"
+    },
+    {
+      "id": "c3b941caf62543aa",
+      "category": "BİLİM",
+      "title": "Minyatür İnsan Halüsinasyonlarına Yol Açan Gizemli Mantarın Türü Belirlendi",
+      "summary": "Utah Üniversitesi araştırmacıları, Çin ve Filipinler'de insanların küçük insan figürleri görmesine yol açan yabani mantarın Lanmaoa asiatica olduğunu genetik dizilemeyle tespit etti. İncelemelerde mantarda psilosibin dahil bilinen hiçbir psikoaktif maddeye rastlanmadı.",
+      "why": "Farklı coğrafyalardaki Lilliput halüsinasyonlarının kültürel bir mitten ziyade tanımlanmamış biyolojik ve kimyasal bir etkene dayandığını somut DNA verileriyle kanıtlamaktadır.",
+      "event_key": "utah-lanmaoa-asiatica-liliput-halusinasyon-mantari",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Mycologia dergisinde yayımlanan araştırma, saha örnekleri ve DNA dizileme teknikleriyle mantar türünü doğrulamış, bilinen kimyasalların bulunmadığını saptayarak yeni bir araştırma alanı açmıştır."
+      },
+      "brief": "Utah Üniversitesi bilim insanları, tüketenlerde minyatür insan halüsinasyonlarına yol açan mantarın Lanmaoa asiatica olduğunu belirledi. Bilinen hiçbir halüsinojen madde içermeyen bu mantarın, insan beyninin görsel algısını anlamada yeni bir kimyasal bileşiğe işaret ettiği düşünülüyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+      "source_published_at": "2026-10-25T02:36:10-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/psychoactive-mushroom-little-people.webp",
+      "body": [
+        "Farklı coğrafyalarda yabani mantar tüketen kişilerin çevrelerinde dolaşan, nesnelere tırmanan minyatür insan figürleri gördüklerine dair bildirimleri bilim dünyası tarafından aydınlatıldı. Gulliver'in Gezileri romanındaki karakterlere atıfla 'Lilliput halüsinasyonları' olarak bilinen bu duruma ilişkin araştırmalar, Utah Üniversitesi araştırmacıları tarafından Mycologia dergisinde yayımlandı. DNA dizileme analizleri sonucunda, Güneybatı Çin ve Kuzey Filipinler'deki vakalardan Lanmaoa asiatica adlı mantarın sorumlu olduğu belirlendi.",
+        "Yabani mantar tüketimi sonrası görülen bu halüsinasyon kayıtları ilk olarak 1934'te Papua Yeni Gine'de belgelenmiş, ancak Albert Hofmann dahil uzmanların yaptığı kimyasal incelemelerde etken bir madde bulunamamıştı. Araştırmayı yürüten Colin Domnauer ve mikolog Bryn Dentinger, Çin'de 'Jian shou qing' ve Filipinler'de 'Sedesdem' olarak anılan mantarların genetik olarak aynı türe ait olduğunu ortaya çıkardı. Daha önce yalnızca Çin'de yetiştiği düşünülen Lanmaoa asiatica, yerel halklar tarafından yeterince pişirilmeden tüketildiğinde bu etkiyi tetikliyor.",
+        "Gözlemlenen deneyimlerde kişilerin yaklaşık yüzde 90'ı parlak renkli kıyafetler giyen, 3 ila 30 santimetre boylarında yüzlerce palyaço ya da peri benzeri küçük figürler gördüklerini aktarıyor. Bu figürler duvarların içinden geçmek yerine fizik kurallarına uyarak engellerin etrafından dolaşıyor ya da masalardan düşüyor. Şaşırtıcı şekilde, araştırmacıların yaptığı kimyasal testler ve genetik analizler, mantarda psilosibin gibi bilinen hiçbir psikoaktif bileşiğin bulunmadığını gösterdi.",
+        "Lanmaoa cinsine ait 53 örneği kapsayan genomik analiz, daha önce bilinmeyen dört yeni mantar türünü de ortaya çıkardı. Bilim insanları, Lanmaoa asiatica'nın henüz tanımlanamayan özgün bir psikoaktif madde ürettiğini ve bu bileşiğin izole edilmesinin insan beyninin görsel algı süreçlerini ve nörolojik hastalıklardaki halüsinasyon mekanizmalarını anlamada yeni bir kapı aralayacağını belirtiyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "64be6ae937fc5b9bec0fa1442892f53d7cbe32ac2697416f81e0438e460abccc"
+    },
+    {
+      "id": "dda7a4c8882aea5b",
+      "category": "BİLİM",
+      "title": "Uyku Takviyesi Olarak Pazarlanan CBN Maddesi Fiziksel Bağımlılık Belirtileri Gösterdi",
+      "summary": "Connecticut Üniversitesi tarafından fareler üzerinde yapılan bir araştırma, uyku ürünlerinde yaygın şekilde kullanılan kannabinolün tolerans ve yoksunluk belirtilerine yol açtığını belirledi. Deneyler ayrıca bileşiğin bağışıklık savunmasını zayıflatabileceğini gösterdi.",
+      "why": "Piyasada doğal ve güvenli bir uyku takviyesi olarak serbestçe satılan kannabinolün (CBN) potansiyel bağımlılık ve bağışıklık zayıflatma risklerini bilimsel deneylerle ortaya koymaktadır.",
+      "event_key": "uconn-kannabinol-cbn-fiziksel-bagimlilik-riski",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "UConn araştırmacılarının Drug and Alcohol Dependence dergisinde yayımlanan kontrollü fare deneyleri, CBN'nin tolerans, yoksunluk ve bağışıklık sistemi üzerindeki etkilerini somut bulgularla ortaya koymuştur."
+      },
+      "brief": "Connecticut Üniversitesi araştırmacıları, doğal uyku desteği olarak satılan kannabinol maddesinin farelerde fiziksel bağımlılık ve yoksunluk belirtilerine yol açtığını tespit etti. Uzmanlar, bileşiğin ayrıca bağışıklık sistemini zayıflatarak enfeksiyon riskini artırabileceği uyarısında bulunuyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
+      "source_published_at": "2026-10-25T01:08:39-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/cannabis-sleep-research.webp",
+      "body": [
+        "Doğal ve hafif bir uyku desteği olarak sakız, damla ve kapsüllerde yaygın biçimde pazarlanan kannabinol (CBN) adlı kenevir bileşeni hakkında dikkat çekici riskler tespit edildi. Connecticut Üniversitesi araştırmacılarının Drug and Alcohol Dependence dergisinin Kasım sayısında yayımlanan çalışması, CBN'ye sürekli maruz kalmanın farelerde fiziksel bağımlılık belirtilerine yol açtığını ortaya koydu.",
+        "Laboratuvar deneylerinde farelere üç gün boyunca günde iki kez CBN uygulandı. Süreç ilerledikçe hayvanların bileşiğe verdiği tepkinin azaldığı, yani tolerans geliştirdikleri gözlemlendi. CBN kesildiğinde ise farelerde baş seğirmesi ve pati titremesi gibi uyuşturucu yoksunluğu sırasında insanlarda görülen titremelere benzer fiziksel semptomlar kaydedildi. Ayrıca THC'nin psikoaktif etkilerini tanımak üzere eğitilen fareler, CBN verildiğinde de benzer tepkiler vererek iki bileşiğin örtüşen etkiler yarattığını gösterdi.",
+        "Araştırmada bileşiğin düşük dozlarda iltihap önleyici etkiler sunduğu görülmekle birlikte, bir diğer önemli güvenlik endişesi de belirlendi. Simüle edilen bir bakteriyel tehdit sırasında CBN'nin vücudun savunma mekanizmasını zayıflattığı ve enfeksiyon gelişimini kolaylaştırabildiği saptandı.",
+        "Deneylerin fareler üzerinde yürütüldüğünü ve CBN'nin insanlarda doğrudan bağımlılık yaptığının henüz kanıtlanmadığını vurgulayan araştırmacılar, bileşiğin uzun vadeli etkileri, güvenli dozları ve uyku kalitesine net katkısı tam olarak aydınlatılana kadar tüketicilerin bu ürünlere karşı temkinli yaklaşması gerektiğini belirtiyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "844c83f7c03a985adc69f72aa985c0e460771981f6186869a878a7937287c4f4"
+    },
+    {
+      "id": "3c551004440e0c57",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Instagram TV Uygulaması Apple TV Platformuna Geldi",
+      "summary": "Meta, Instagram'ın televizyonlara özel video uygulamasının kapsamını genişleterek Apple TV desteğini devreye aldı. App Store üzerinde 23 Ekim'de güncellenen uygulama, büyük ekranlar için Reels ve canlı yayın odaklı içerikler sunuyor. Şirket bu adımla oturma odalarında uzun biçimli içeriklerle varlık göstermeyi amaçlıyor.",
+      "why": "Instagram'ın televizyon ekranlarına açılarak video izleme deneyimini ve mikro drama gibi formatları yaygınlaştırma stratejisini göstermektedir.",
+      "event_key": "instagram-for-tv-apple-tv-yayini",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "App Store kayıtlarında resmi olarak güncellenen platform desteğine ve Meta'nın TV genişleme takvimine dayanmaktadır."
+      },
+      "brief": "Meta, Instagram'ın büyük ekranlara yönelik uygulamasını Apple TV platformuna getirdi. App Store güncellemesiyle 23 Ekim'de kullanıma sunulan uygulama, kullanıcılara Reels ve canlı yayınları Apple TV üzerinden izleme olanağı sağlıyor.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "source_published_at": "2026-10-25T12:20:17-04:00",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0%2C3.4371763956174%2C100%2C93.125647208765&w=1200",
+      "body": [
+        "Meta, televizyon ekranlarına yönelik hazırladığı Instagram uygulamasını Apple TV kullanıcılarına sundu. MacRumors tarafından App Store üzerinde fark edilen güncellemeyle birlikte, 23 Ekim itibarıyla Apple TV desteklenen cihazlar listesine eklendi. Söz konusu mağaza sayfasının 18 Ekim tarihli arşiv kayıtlarında uygulamanın yalnızca iOS ve iPadOS desteği sunduğu görülüyordu.",
+        "Televizyon formatına uyarlanan uygulama; Reels videolarına, canlı yayınlara ve diğer video içeriklerine odaklanıyor. Şirket, içerikleri büyük ekrana taşımayı amaçlayan televizyon uygulamasını ilk olarak geçen yılın aralık ayında test etmeye başlamış, ardından haziran ayında Amazon Fire TV, Samsung Smart TV ve Google TV platformları için bir dizi yeni özellik yayımlamıştı.",
+        "Apple TV hamlesiyle birlikte Instagram, oturma odalarındaki varlığını artırmaya devam ediyor. Şirketin bu adımı, platformun uzun biçimli, bölümlü video içeriklerine yönelme ve popülerleşen mikro dramalardan gelir elde etme stratejisinin bir parçası olarak değerlendiriliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d0f935a7249a88d3d274b839d10c14f6b2af99f797b1e656ebe4a066f6656852"
+    },
+    {
+      "id": "9875520d7d6215b1",
+      "category": "BİLİM",
+      "title": "Bilim İnsanlarından Hipotetik Ayna Yaşamı Tespit Etmek İçin Işık Tabanlı Yöntem",
+      "summary": "Strathclyde ve Durham üniversitelerinden araştırmacılar, henüz var olmayan ancak biyolojik risk taşıyan \"ayna yaşam\" formlarını tespit edebilecek bir yöntem önerdi. Dairesel polarize lüminesans teknolojisini kullanan teknik, ters moleküler yapıların yaydığı ışık sinyallerini ayırt etmeyi hedefliyor.",
+      "why": "Yöntem, henüz var olmayan ancak ortaya çıkması halinde doğal savunma mekanizmalarını aşma riski taşıyan yapay biyolojik tehditlere karşı geliştirilen ilk erken teşhis önerisidir.",
+      "event_key": "strathclyde-ayna-yasam-kiral-isik-tespiti",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Henüz mevcut olmayan ayna yaşam tehdidine yönelik ilk teorik tespit yaklaşımı sunulmuş, CPL teknolojisinin prensipleri açıklanmış ancak henüz tam deneysel gösterimi yapılmamıştır."
+      },
+      "brief": "Strathclyde ve Durham üniversiteleri, henüz üretilmemiş ters moleküllü ayna yaşamı tespit etmek için ışık polarizasyonuna dayalı bir yöntem önerdi. Hücresel problar kullanan teknik, olası biyogüvenlik tehditlerine karşı önleyici bir izleme çözümü sunuyor.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
+      "source_published_at": "2026-10-24T08:39:16-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/mirror-dna-genetics-life.webp",
+      "body": [
+        "Strathclyde Üniversitesi ve Durham Üniversitesi araştırmacıları, Dünya'daki canlıların moleküler yapısının ayna görüntüsüne sahip ters moleküllerden oluşan hipotetik \"ayna yaşam\" formlarını saptamak için yeni bir yöntem geliştirdi. Royal Society Open Science dergisinde yayımlanan çalışmada, maddelerin kiralite adı verilen yapısal yönelimini belirlemek üzere dairesel polarize lüminesans (CPL) teknolojisinin kullanılması önerildi.",
+        "Halen var olmayan ayna yaşamın ortaya çıkma olasılığı düşük görülse de oluşturabileceği potansiyel ekolojik tehditler ve doğal savunma sistemlerini aşma riski, uluslararası kurumların ve Birleşik Krallık Bilim Ofisi'nin dikkatini çekmiş durumda. Önerilen yöntemde, hücre içindeki belirli yapılara bağlanan özel floresan probların yaydığı ışık sinyalleri incelenerek standart karasal yaşam ile ters moleküler yapı arasındaki farkların bir moleküler parmak izi gibi tespit edilmesi amaçlanıyor. Yanıltıcı sonuçları engellemek için birden fazla probun birlikte kullanılması planlanıyor.",
+        "Tekniğin en büyük avantajı, prensiplerin doğrulanması için ayna organizmaların üretilmesine gerek duyulmaması ve testlerin sıradan biyolojik örneklerle yürütülebilmesidir. Yöntemin mikroskoplar, kameralar ve hücre plakası okuyucuları gibi laboratuvar cihazlarına uyarlanabileceği belirtilse de ayna yaşamı belirlemeye yönelik tam tespit yönteminin henüz deneysel olarak tam anlamıyla gösterilmediği ve ek araştırmalara ihtiyaç duyulduğu kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "dd0a9a900049f66f5e932222a2163ae90dc5e16c96af06016f372bf9f4195367"
+    },
+    {
+      "id": "f84645de29731d15",
+      "category": "YAZILIM",
+      "title": "ABD'de Otonom Araçlar İçin Camgöbeği Işık Önerisi",
+      "summary": "ABD Ulusal Karayolu Trafik Güvenliği İdaresi, sürücüsüz araçların otonom modda seyrettiğini belirtmek üzere sabit yanan camgöbeği renkli ışıkların kullanılmasını içeren bir kural teklifi sundu. Zorunlu kılınmayan taslak, sinyal ve uzun far gibi elle kumanda edilen donanımlara dair şartları esnetmeyi hedefliyor. Düzenleme, pedalları ve direksiyonu bulunmayan yeni nesil otonom araçlara federal güvenlik standartlarını uyarlamayı amaçlıyor.",
+      "why": "Otonom araçların yollardaki varlığını yayalar ve diğer sürücüler için görünür kılacak standart bir ışıklandırma çerçevesi oluşturulması ve geleneksel araç standartlarının dönüştürülmesi açısından önem taşımaktadır.",
+      "event_key": "nhtsa-otonom-arac-turkuaz-isik-teklifi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "NHTSA tarafından hazırlanan resmi kural önerisi, otonom araçların trafik içindeki görsel tanımlanmasını ve geleneksel kontrol şartlarının kaldırılmasını ele almaktadır."
+      },
+      "brief": "ABD Ulusal Karayolu Trafik Güvenliği İdaresi, sürücüsüz araçların otonom sürüş sırasında dört bir yanından görülebilen sabit camgöbeği ışık yakmasını önerdi. Zorunlu tutulmayan teklif, direksiyon ve pedalsız araçların trafiğe çıkış kurallarını güncellemeyi amaçlıyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "source_published_at": "2026-10-25T16:05:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "body": [
+        "ABD Ulusal Karayolu Trafik Güvenliği İdaresi (NHTSA), otonom araçların insan gözetimi olmadan kendi kendine hareket ettiği anları kamuoyuna bildirmek amacıyla yeni bir aydınlatma kuralı önerisi yayımladı. Hazırlanan taslakta, araçların otonom modda çalışırken yanıp sönmeyen, sabit camgöbeği (mavi-yeşil) ışık kullanması yönünde bir seçenek sunuldu.",
+        "Teklifte söz konusu renk zorunlu tutulmazken, ışıkların montaj yerleri, yayacağı renk tonu, nasıl etkinleştirileceği ve aracın önünden, arkasından ile her iki yanından görülebilmesi gibi teknik özellikler sıralandı. Taslak ayrıca dönüş sinyalleri, uzun farlar ve dörtlü flaşörler için elle kumanda edilen fiziksel kontrol şartlarının kaldırılmasını da içeriyor.",
+        "NHTSA Yöneticisi Jonathan Morrison, önerinin güvenliği korurken otonom araçların benimsenmesini hızlandırmayı amaçlayan daha geniş bir federal çerçevenin parçası olduğunu belirtti. Federal motorlu araç güvenlik standartlarının direksiyon, pedal ve yan ayna barındırmayan Tesla Cybercab ve Zoox robotaksi gibi araçlar düşünülerek tasarlanmadığı, bu nedenle kuralların güncellenmekte olduğu ifade edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "87cadf2edd6335b74ad9fc959755a0d7feb4463b8da07cbaec10f58decdda757"
+    },
+    {
+      "id": "08ec5c76056e031d",
+      "category": "YAPAY ZEKÂ",
+      "title": "Grok Yapay Zekâ İle Üretilen Odysseia Projesinin İlk Yedi Dakikasını Paylaştı",
+      "summary": "Elon Musk'ın tam uzunlukta bir Odysseia filmi yayımlanacağını açıklamasından üç ay sonra Grok, projenin yedi dakikalık ilk bölümünü paylaştı. Wonder Studios ve yönetmen Dev Walker iş birliğiyle Grok Imagine üzerinden hazırlanan video izleyicilere sunuldu. Yapım, Christopher Nolan'ın sinemalarda başarı yakalayan Odysseia uyarlamasının ardından geldi.",
+      "why": "Büyük bir yapay zekâ platformunun video üretim modeli üzerinden dizi formatında sunduğu ilk somut görsel çıktıyı temsil etmektedir.",
+      "event_key": "xai-grok-imagine-odyssey-dizisi-bolum-1",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Grok ve Wonder Studios iş birliğiyle üretilip yayımlanan yedi dakikalık ilk bölüme ve Elon Musk'ın önceki açıklamalarına dayanmaktadır."
+      },
+      "brief": "Elon Musk'ın tam uzunlukta film vaadinden üç ay sonra, Grok platformu yapay zekâyla üretilen Odysseia dizisinin yedi dakikalık ilk bölümünü yayımladı. Wonder Studios ve yönetmen Dev Walker ortaklığıyla hazırlanan yapım, İngiliz aksanlı anlatım ve yapay zekâ tasarımı sahneler içeriyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source_published_at": "2026-10-25T21:31:16+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "body": [
+        "Elon Musk’ın Grok platformunun tam uzunlukta ve tarihsel olarak doğru bir Odysseia filmi çıkaracağını duyurmasından üç ay sonra, yapımın ilk yedi dakikası yayımlandı. Şirket tarafından 'Odysseia serimizin 1. Bölümü' olarak adlandırılan video, Grok Imagine teknolojisi kullanılarak Wonder Studios ve yönetmen Dev Walker ortaklığıyla hazırlandı.",
+        "Bu yayın, Christopher Nolan’ın altı ülkede çekilen, geniş oyuncu kadrosuna sahip ve Temmuz ayında vizyona girdikten sonra gişede başarı elde eden pratik sinema uyarlamasının ardından geldi. Musk daha önce Nolan’ın projesindeki oyuncu tercihlerine yönelik eleştirilerde bulunmuştu.",
+        "Yayımlanan ilk bölümde karakterler antik Yunanca konuşmazken, anlatımda İngiliz aksanlı bir dış ses tercih edildi. Sosyal medyada paylaşılan yedi dakikalık kesit, yapay zekâ tarafından oluşturulan deniz sahneleri, karakter tasvirleri ve arka plan anlatımlarından oluşuyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ba90b83b27f902868f9402f9038b111c8b72b3f89ced29b875a18987329f9414"
+    },
+    {
+      "id": "8f4058cc2eea388d",
+      "category": "BİLİM",
+      "title": "Akdeniz Diyetinin Kalp ve Beyni Koruyan Mikroproteinleri Artırdığı Belirlendi",
+      "summary": "USC Leonard Davis Gerontoloji Okulu araştırmacıları, Akdeniz diyetine sıkı uyum gösteren bireylerin kanında mitokondri kaynaklı humanin ve SHMOOSE mikroprotein seviyelerinin daha yüksek olduğunu saptadı. Bu proteinlerin hücreleri oksidatif strese karşı koruduğu biliniyor.",
+      "why": "Geleneksel bir beslenme modelinin hücresel düzeyde yaşlanmayı nasıl yavaşlattığına dair mitokondriyal mikroproteinler ekseninde yeni bir biyolojik mekanizma sunmaktadır.",
+      "event_key": "usc-akdeniz-diyeti-mitokondriyal-mikroproteinler",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Yaşlı yetişkinlerden alınan kan örnekleriyle yapılan gözlemsel bir çalışmadır; neden-sonuç ilişkisi henüz kesinleşmemiş olsa da mikroprotein seviyeleri somut verilerle ölçülmüştür."
+      },
+      "brief": "USC araştırmacıları, Akdeniz diyetine bağlılığın hücreleri yaşlanma ve hastalıklardan koruyan humanin ve SHMOOSE mikroproteinlerini artırdığını belirledi. Zeytinyağı, balık ve baklagil tüketimi bu koruyucu hücresel habercilerin kandaki seviyeleriyle doğrudan ilişkili bulundu.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+      "source_published_at": "2026-10-24T21:38:38-04:00",
+      "image_url": "https://www.sciencedaily.com/images/1920/grilled-salmon-vegetable-salad-close.webp",
+      "body": [
+        "Güney Kaliforniya Üniversitesi (USC) Leonard Davis Gerontoloji Okulu bilim insanları, Akdeniz diyetinin kalp, beyin ve yaşlanan hücreleri koruma mekanizmasına dair yeni biyolojik kanıtlar elde etti. Araştırma, Akdeniz beslenme düzenine yakından bağlı olan bireylerin kanında, hücrelerin enerji santralleri olan mitokondriler tarafından üretilen 'humanin' ve 'SHMOOSE' isimli mikroproteinlerin daha yüksek seviyelerde bulunduğunu gösterdi.",
+        "Zeytinyağı, balık, kuru baklagiller, mercimek, meyve ve sebze ağırlıklı beslenen yaşlı yetişkinlerin kan örnekleri incelendiğinde, diyete uyumu yüksek olanlarda sadece koruyucu mikroproteinlerin artmadığı, aynı zamanda hücrelere zarar veren oksidatif stres göstergelerinin de daha düşük olduğu belirlendi. Zeytinyağı, balık ve baklagil tüketimi humanin seviyeleriyle; zeytinyağı tüketimi ve daha az işlenmiş karbonhidrat alımı ise SHMOOSE seviyeleriyle ilişkili bulundu.",
+        "Daha önce yapılan araştırmalarda humanin mikroproteini gelişmiş insülin duyarlılığı ve kalp damar sağlığıyla ilişkilendirilirken, SHMOOSE'un beyin nöronlarını Alzheimer ile bağlantılı amiloid hasarından korumaya yardımcı olduğu saptanmıştı. Yeni çalışmada ayrıca yüksek humanin seviyelerine sahip bireylerde reaktif oksijen türleri üreten Nox2 enzim aktivitesinin daha düşük olduğu gözlemlendi; bu durum damar hasarını sınırlayan ilave bir mekanizmaya işaret ediyor.",
+        "Araştırmacılar, çalışmanın küçük ölçekli ve gözlemsel nitelikte olduğuna, bu nedenle Akdeniz diyetinin doğrudan bu proteinleri artırdığını kesin olarak kanıtlamadığına dikkat çekiyor. Sonraki aşamada beslenme müdahalelerinin söz konusu mikroproteinleri nedensel olarak artırıp artırmadığını belirlemek ve kişiselleştirilmiş beslenme stratejileri geliştirmek hedefleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "cbd4484bd19d05a2590cc1ce0120f34f2078368b4310abd3cddc71c66ebafb60"
+    }
+  ],
+  "summary": {
+    "file": "teknoloji/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 11,
+    "duration": 375.4,
+    "bytes": 2252160,
+    "sha256": "5ad28939ffe7ab5108e77a087cfc75c1439c08ff1b337c2ec95b46f232e3bde8"
+  },
+  "podcast": {
+    "file": "teknoloji/podcast.mp3",
+    "title": "Yeni Sekme",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 11,
+    "duration": 841.5,
+    "bytes": 13463763,
+    "sha256": "6c748d38e2bb5a3c42f730c51e5bb738288f57eeec3c69c65de3c13175ab00bd"
+  },
+  "audio_revision": 5
+}

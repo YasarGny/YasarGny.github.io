@@ -1,1 +1,283 @@
-{}
+{
+  "6c748d38e2bb5a3c42f730c51e5bb738288f57eeec3c69c65de3c13175ab00bd": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "6c748d38e2bb5a3c42f730c51e5bb738288f57eeec3c69c65de3c13175ab00bd",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 18.9,
+        "title": "Kodlama Ajanlarında İndirilenler Klasörü Riski"
+      },
+      {
+        "start": 89.66,
+        "title": "r/opensource Topluluğunda Yapay Zeka Yasağı"
+      },
+      {
+        "start": 157.94,
+        "title": "iFixit'in iPhone Duo İncelemesi ve Menteşe Sorunları"
+      },
+      {
+        "start": 233.32,
+        "title": "Otonom Araçlar İçin Camgöbeği Işık ve Mevzuat Teklifi"
+      },
+      {
+        "start": 300.82,
+        "title": "Erken Evrende Üç Süper Kütleli Kara Delik Keşfi"
+      },
+      {
+        "start": 369.54,
+        "title": "CD-35 2722 Sisteminde İlk Öte-Uydu Adayı"
+      },
+      {
+        "start": 434.12,
+        "title": "Kuprat Süperiletkenlerde Beklenmeyen İç Kusurlar"
+      },
+      {
+        "start": 496.02,
+        "title": "Silikon Spin Kübitlerde Ortak Hat Kontrolü"
+      },
+      {
+        "start": 560.28,
+        "title": "Süt Dişi Çürüklerine Karşı Gümüş Diamin Florür"
+      },
+      {
+        "start": 623.94,
+        "title": "Pankreas Kanserinde Tek Hücre Haritalaması"
+      },
+      {
+        "start": 690.76,
+        "title": "Trombosit Genetiği, Düşük Doz Aspirin ve Demans"
+      },
+      {
+        "start": 749.72,
+        "title": "Minyatür Halüsinasyonlara Yol Açan Lanmaoa Asiatica"
+      },
+      {
+        "start": 767.76,
+        "title": "Uyku Takviyesi CBN'in Bağımlılık ve Sağlık Riskleri"
+      },
+      {
+        "start": 821.46,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "5db2cad8ad53b4cb",
+        "start": 18.9,
+        "end": 88.96
+      },
+      {
+        "story_id": "b411fbb2487aa2da",
+        "start": 89.66,
+        "end": 152.4
+      },
+      {
+        "story_id": "28d9af70d6cc841d",
+        "start": 157.94,
+        "end": 227.86
+      },
+      {
+        "story_id": "f84645de29731d15",
+        "start": 233.32,
+        "end": 296.72
+      },
+      {
+        "story_id": "95a7958d3a0a4c3e",
+        "start": 300.82,
+        "end": 366.0
+      },
+      {
+        "story_id": "8b3a66dec3cc3753",
+        "start": 369.54,
+        "end": 429.32
+      },
+      {
+        "story_id": "8792a4f6e349b463",
+        "start": 434.12,
+        "end": 491.28
+      },
+      {
+        "story_id": "a9baacb01853f7e8",
+        "start": 496.02,
+        "end": 556.62
+      },
+      {
+        "story_id": "982c212b35a54eb0",
+        "start": 560.28,
+        "end": 619.62
+      },
+      {
+        "story_id": "73d0747c2bd0b3c6",
+        "start": 623.94,
+        "end": 686.6
+      },
+      {
+        "story_id": "7b388a64c95b0e72",
+        "start": 690.76,
+        "end": 744.32
+      },
+      {
+        "story_id": "c3b941caf62543aa",
+        "start": 749.72,
+        "end": 767.12
+      },
+      {
+        "story_id": "dda7a4c8882aea5b",
+        "start": 767.76,
+        "end": 780.36
+      },
+      {
+        "story_id": "c3b941caf62543aa",
+        "start": 785.82,
+        "end": 801.14
+      },
+      {
+        "story_id": "dda7a4c8882aea5b",
+        "start": 801.72,
+        "end": 821.14
+      }
+    ],
+    "section": "teknoloji",
+    "clips_reviewed": true,
+    "stories_sha256": "00995a546ddc09d522ec92ca1f0a38217b4a1fec9ce7ca3ac2afbcd7d8b0b09b"
+  },
+  "9cfae4408e8fcc455a7130e7b3cb68899883e89722fcb2e0b051192fd6a14b3d": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "9cfae4408e8fcc455a7130e7b3cb68899883e89722fcb2e0b051192fd6a14b3d",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 8.28,
+        "title": "#SaveMassEffect İmza Kampanyası"
+      },
+      {
+        "start": 78.18,
+        "title": "İptal Edilen Mass Effect'in Zaman Çizelgesi Mimarisi"
+      },
+      {
+        "start": 170.76,
+        "title": "Tim Sweeney'nin Bütçe ve Stüdyo Kapatma Açıklamaları"
+      },
+      {
+        "start": 278.48,
+        "title": "Steam'in Yapay Zekâ Bildirim Politikası Tartışması"
+      },
+      {
+        "start": 384.02,
+        "title": "Bağımsız Oyunların 2026 Başarısı"
+      },
+      {
+        "start": 467.62,
+        "title": "Civilization 7'de Geleneksel Oynanışa Dönüş"
+      },
+      {
+        "start": 569.4,
+        "title": "A24'ün Canlı Aksiyon Elden Ring Filmi"
+      },
+      {
+        "start": 649.72,
+        "title": "Call of Duty Film Uyarlaması"
+      },
+      {
+        "start": 696.44,
+        "title": "Phantom Blade Zero İncelemesi"
+      },
+      {
+        "start": 754.94,
+        "title": "Dark Souls 2 İçin Seamless Co-op Modu"
+      },
+      {
+        "start": 813.88,
+        "title": "Genel Değerlendirme"
+      },
+      {
+        "start": 844.36,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "212ad607b5438228",
+        "start": 8.28,
+        "end": 77.48
+      },
+      {
+        "story_id": "6b670d510a9f5132",
+        "start": 78.18,
+        "end": 169.88
+      },
+      {
+        "story_id": "080d1fd9011a2cb1",
+        "start": 170.76,
+        "end": 277.86
+      },
+      {
+        "story_id": "1c8c6fa257b5f4b1",
+        "start": 278.48,
+        "end": 383.56
+      },
+      {
+        "story_id": "1a4263116b04f7f0",
+        "start": 384.02,
+        "end": 467.04
+      },
+      {
+        "story_id": "70f200a0b5f188fd",
+        "start": 467.62,
+        "end": 568.64
+      },
+      {
+        "story_id": "4feee9c27425cdb3",
+        "start": 574.64,
+        "end": 586.24
+      },
+      {
+        "story_id": "f9d4f25c8df2f63a",
+        "start": 586.82,
+        "end": 594.9
+      },
+      {
+        "story_id": "4feee9c27425cdb3",
+        "start": 595.68,
+        "end": 649.72
+      },
+      {
+        "story_id": "f9d4f25c8df2f63a",
+        "start": 649.72,
+        "end": 690.16
+      },
+      {
+        "story_id": "1f477d32e77595ba",
+        "start": 696.44,
+        "end": 716.18
+      },
+      {
+        "story_id": "1004e176bf36eb46",
+        "start": 716.72,
+        "end": 725.14
+      },
+      {
+        "story_id": "1f477d32e77595ba",
+        "start": 725.7,
+        "end": 754.42
+      },
+      {
+        "story_id": "1004e176bf36eb46",
+        "start": 754.94,
+        "end": 813.88
+      }
+    ],
+    "section": "oyun",
+    "clips_reviewed": true,
+    "stories_sha256": "e1190f70f28755ee74b73583efe7eff08e269d664fc665856307666e42c4c9cb"
+  }
+}

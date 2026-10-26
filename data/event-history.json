@@ -2156,6 +2156,237 @@
       "event_key": "yapay-zeka-modelleri-siyasi-tercih-arastirmasi",
       "title": "Yapay Zeka Modelleri Seçim Tercihine Zorlandığında İki Farklı Siyasi Kutuba Ayrılıyor",
       "brief": "Yeni bir çalışma, yapay zeka modellerinin seçimlerde tarafsız kalmadığını gösterdi. Doğrudan tercih yapmaya zorlandıklarında Grok 4.7 yüzde 92 oranında Cumhuriyetçileri, GPT-6.1 Sol ise yüzde 97 oranında Demokratları seçti; modeller yaklaşık 500 yarışta yüzde 10'dan az mutabık kaldı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "call-of-duty-filmi-modern-warfare-odakli",
+      "title": "Call of Duty Filmi Savaşın Bedeline Odaklanacak",
+      "brief": "Yönetmen Peter Berg, Taylor Sheridan senaryosuyla hazırlanan Call of Duty filminin salt aksiyondan ziyade savaşın bedeline ve askerlerin psikolojik yüküne odaklanacağını açıkladı. Filmin 30 Haziran 2028'de vizyona girmesi hedefleniyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "civ-7-tek-uygarlik-modu-karari-ed-beach",
+      "title": "Civilization 7 Ekibi Geleneksel Oynanışa Dönüşün Perde Arkasını Açıkladı",
+      "brief": "Firaxis, Civilization 7'deki köklü çağ geçişi mekaniğini Test of Time güncellemesiyle isteğe bağlı kıldı. Kreatif direktör Ed Beach, tek uygarlıkla kesintisiz oynama modunun geri getirilmesinin orijinal vizyondan sapma anlamına geldiğini ve kendisi için zor bir süreç olduğunu açıkladı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "dark-souls-2-seamless-coop-modu-yayinlandi",
+      "title": "Dark Souls 2 İçin 'Seamless Co-op' Çok Oyunculu Modu Yayınlandı",
+      "brief": "Mod geliştiricisi Yui, Dark Souls 2 için Seamless Co-op modunu yayımladı. Mod, oyuncuların ana oyunun hile koruma sistemine takılmadan, paylaşımlı ilerleme ve özel kayıt sistemleriyle kesintisiz bir eşli macera yaşamasına imkan tanıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "deus-ex-max-payne-tarzi-ucuncu-sahis-modu",
+      "title": "Deus Ex İçin Geliştirilen Üçüncü Şahıs Modu Max Payne Dinamiklerini Klasik Oyuna Taşıyor",
+      "brief": "Deus Ex için hazırlanan üçüncü şahıs modu, klasik oyuna Max Payne tarzı kurşundan kaçma ve çift silah kullanma dinamikleri ekliyor. Henüz geliştirme aşamasındaki mod, JC Denton için yeni kıyafetler ve merdiven tırmanma animasyonları da sunuyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "elden-ring-filmi-200-milyon-dolar-butce",
+      "title": "A24'ün Elden Ring Uyarlamasının Bütçesi Yaklaşık 200 Milyon Dolara Ulaştı",
+      "brief": "A24 yapımı canlı aksiyon Elden Ring filminin bütçesinin yaklaşık 200 milyon dolara ulaştığı bildirildi. Alex Garland'ın yazıp yönettiği ve IMAX formatında çekilen uyarlamanın 3 Mart 2028 tarihinde sinemalarda gösterime girmesi planlanıyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "fallout-shelter-the-experiment-yarismasi",
+      "title": "Fallout Shelter: The Experiment Yarışması Ocak 2027'de Prime Video'da Başlıyor",
+      "brief": "Prime Video, Fallout evreninde geçen 'Fallout Shelter: The Experiment' yarışma serisinin 13 Ocak 2027'de yayımlanacağını açıkladı. Katılımcıların Vault-Tec sığınaklarında yarışacağı programda kazanan 1 milyon dolar alacak."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "knightmare-resmi-pc-oyun-duyurusu",
+      "title": "Britanya'nın Kült Yarışması Knightmare, 40. Yılında Ücretsiz PC Oyunu Oluyor",
+      "brief": "Kült televizyon yarışması Knightmare, 40. yılı şerefine PC için ücretsiz bir point-and-click oyununa dönüştürülüyor. Orijinal seslendirme kadrosunun yer aldığı resmi lisanslı yapım, el çizimi görsellerle geliştiriliyor."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "mass-effect-hayran-kampanyasi-200-bin-imza-ve-aktor-destegi",
+      "title": "#SaveMassEffect İmza Kampanyası 200 Bin Katılımcıyı Aştı",
+      "brief": "EA'in BioWare'i kapatma kararı sonrası başlatılan #SaveMassEffect imza kampanyası 200 bin katılımcıyı geçti. Komutan Shepard'ı seslendiren Jennifer Hale ve Mark Meer ile Destiny topluluğu da serinin devam etmesi çağrısına katıldı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "mass-effect-universe-paralel-zaman-cizgisi-mekanigi",
+      "title": "İptal Edilen Yeni Mass Effect Oyununun Kayıt ve Zaman Çizelgesi Mimarisi Açıklandı",
+      "brief": "İptal edilen yeni Mass Effect oyununun teknik direktörü Romain Toutain, orijinal üçlemedeki kayıtların paralel zaman çizelgeleri üreteceği gelişmiş bir mantık sistemi üzerinde çalıştıklarını ve oyunculara tam özerklik sağlamayı hedeflediklerini açıkladı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "overwatch-jetpack-cat-bastion-meta-itirafi",
+      "title": "Overwatch Geliştiricileri Jetpack Cat ve Bastion İkilisinin Gücünü Bilerek Korumuş",
+      "brief": "Overwatch Geliştirici Direktör Yardımcısı Alec Dawson, Jetpack Cat ve Bastion kombinasyonunun aşırı güçlü olduğunu test aşamasında bildiklerini söyledi. Dawson, oyuncuların heyecan verici ve unutulmaz anlar yaşaması için karakteri ilk etapta bilerek zayıflatmadıklarını ifade etti."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "phantom-blade-zero-ilk-incelemeler",
+      "title": "Phantom Blade Zero İncelemesi: Dövüş Mekanikleri ve Karşılaşılan Sorunlar Paylaşıldı",
+      "brief": "Phantom Blade Zero incelemesi yayımlandı. Oyun, zengin dövüş mekanikleri, boss savaşları ve sekiz haritasıyla öne çıkarken; kafa karıştırıcı anlatımı, görünmez duvarlar ve çevreye takılma gibi teknik aksaklıkları da aktarılan detaylar arasında yer aldı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "sensor-tower-2026-bagimsiz-ve-ozgun-oyun-patlamasi",
+      "title": "Bağımsız Oyunlar 2026'da Çıkış Yapan Yapımlar Arasında Yüzde 43 Pay Aldı",
+      "brief": "Sensor Tower verilerine göre ilk ayında 500 binden fazla satan çıkış yapmış oyunlar arasında bağımsız yapımlar 33 adede ulaşarak yüzde 43 pay aldı. Devam oyunu niteliği taşımayan 35 yapımdan 27'si bağımsız stüdyolarca geliştirildi."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "tim-sweeney-looking-glass-kapanis-tartismasi",
+      "title": "Tim Sweeney 26 Yıllık Stüdyo Kapatma Açıklamasını Yeniden Savundu",
+      "brief": "Epic Games CEO'su Tim Sweeney, Looking Glass Studios'un 2000'deki kapanışı sonrası yaptığı ekonomik değerlendirmeyi yeniden savundu. Sweeney'nin sanatsal başarıdan ziyade ticari bütçe dengesini öne çıkaran yaklaşımı sektördeki oyun geliştiricilerinin tepkisiyle karşılaştı."
+    },
+    {
+      "section": "oyun",
+      "date": "2026-10-26",
+      "event_key": "tim-sweeney-steam-yapay-zeka-bildirim-elestirisi",
+      "title": "Epic Games CEO'su Sweeney'den Valve'ın Yapay Zekâ Bildirim Politikasına Sert Eleştiri",
+      "brief": "Epic Games CEO'su Tim Sweeney, Valve'ın Steam'deki zorunlu yapay zekâ bildirim kuralını eleştirerek bu uygulamanın geliştiricilere ekonomik zarar verdiğini söyledi. Valve ise düzenlemenin yasal belirsizlikleri gidermek amacıyla yapıldığını ifade etmişti."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "eso-cd-35-2722-ote-uydu-kesfi",
+      "title": "Güneş Sistemi Dışında İlk Doğal Uydu Adayı Keşfedilmiş Olabilir",
+      "brief": "Gökbilimciler, Çok Büyük Teleskop verilerini kullanarak CD-35 2722 sistemindeki bir kahverengi cücenin yörüngesinde devasa bir doğal uydu adayı tespit etti. Jüpiter kütlesindeki bu gök cisminin doğrulanması halinde, Güneş Sistemi dışındaki ilk öte-uydu keşfedilmiş olacak ve gezegen ile uydu tanımları yeniden tartışılab"
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "forever-security-agents-md-kodlama-ajanlari-zafiyeti",
+      "title": "İndirilenler Klasöründeki Talimat Dosyaları Yapay Zekâ Kodlama Ajanlarını Tehdit Ediyor",
+      "brief": "Güvenlik araştırmacıları, İndirilenler klasörüne bırakılan zararlı talimat dosyalarının yapay zekâ kodlama araçlarını kötüye kullanabildiğini belirledi. OpenAI Codex ve Claude Code üzerinde test edilen yöntemde, web tarayıcılarının dosyaları otomatik indirmesi ve kullanıcıların ajanları bu dizinde çalıştırması yetkisiz"
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "ifixit-iphone-duo-mentese-kirilma-analizi",
+      "title": "iFixit iPhone Duo Modelini İnceledi: Ekran Kırılmaları ve Menteşe Sorunlarına Işık Tutuldu",
+      "brief": "iFixit'in iPhone Duo söküm analizi, katlanma izini gizleyen nano dokulu katmanı ve karmaşık menteşe yapısını ortaya koydu. Cihaz 5/10 tamir edilebilirlik puanı alırken ekrandaki hasar ve seslerin olası teknik nedenleri paylaşıldı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "instagram-for-tv-apple-tv-yayini",
+      "title": "Instagram TV Uygulaması Apple TV Platformuna Geldi",
+      "brief": "Meta, Instagram'ın büyük ekranlara yönelik uygulamasını Apple TV platformuna getirdi. App Store güncellemesiyle 23 Ekim'de kullanıma sunulan uygulama, kullanıcılara Reels ve canlı yayınları Apple TV üzerinden izleme olanağı sağlıyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "michigan-gumus-diamin-florur-dis-curugu-durdurma",
+      "title": "Basit Bir Sıvı Çocuklarda Diş Çürüklerini Matkapsız Durdurabiliyor",
+      "brief": "Michigan Üniversitesi öncülüğündeki Faz III çalışması, gümüş diamin florür sıvısının çocuklarda diş çürümelerini matkapsız ve iğnesiz şekilde durdurabildiğini kanıtladı. Altı ayda bir sürülen sıvı, çürüklerin yarısından fazlasını durdururken çürük alanda kalıcı koyuluk bırakıyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "monash-aspree-aspirin-demans-trombosit-genetigi",
+      "title": "Düşük Doz Aspirin Belirli Genetik Profile Sahip Bireylerde Demans Riskini Azaltabilir",
+      "brief": "Monash Üniversitesi araştırmacıları, yüksek trombosit genetik puanına sahip yaşlılarda düşük doz aspirinin demans riskini yüzde yetmiş azalttığını saptadı. Ancak aspirinin bu grupta ciddi kanama riskini artırması nedeniyle uzmanlar doktor kontrolü olmadan kullanılmaması gerektiği konusunda uyarıyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "mpe-j0148-4214-uc-super-kutleli-kara-delik",
+      "title": "James Webb Erken Evrendeki Bir Galakside Üç Aktif Kara Delik Keşfetti",
+      "brief": "James Webb Uzay Teleskobu, 12,5 milyar ışık yılı uzaklıktaki J0148-4214 galaksisinde aynı anda beslenen üç devasa kara delik belirledi. Merkezdeki iki kara deliğin birkaç yüz milyon yıl içinde birleşmesi beklenirken, bulgular erken evrende kara deliklerin hızla nasıl büyüdüğünü anlamak açısından önemli kanıtlar sunuyor"
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "nhtsa-otonom-arac-turkuaz-isik-teklifi",
+      "title": "ABD'de Otonom Araçlar İçin Camgöbeği Işık Önerisi",
+      "brief": "ABD Ulusal Karayolu Trafik Güvenliği İdaresi, sürücüsüz araçların otonom sürüş sırasında dört bir yanından görülebilen sabit camgöbeği ışık yakmasını önerdi. Zorunlu tutulmayan teklif, direksiyon ve pedalsız araçların trafiğe çıkış kurallarını güncellemeyi amaçlıyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "nyu-pankreas-kanseri-klonal-dna-direnci",
+      "title": "Pankreas Kanserinin Tedaviden Kaçış Mekanizması Tek Hücre Analiziyle Çözüldü",
+      "brief": "NYU Langone Health bilim insanları, pankreas kanserine ait yaklaşık yarım milyon hücreyi tek tek inceleyerek genetik dönüşüm haritasını çıkardı. Araştırma, MYC geninin engellenmesiyle saldırgan kanser hücrelerinin daha savunmasız bir duruma çekilebildiğini ortaya koydu."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "qmul-kulak-sinir-stimulasyonu-direncli-hipertansiyon",
+      "title": "Kulaktan Sinir Uyarımı Şiddetli Hipertansiyon Tedavisinde Umut Verdi",
+      "brief": "Queen Mary Üniversitesi öncülüğünde yapılan bir klinik çalışmada, kulağa takılan bir cihazla uygulanan sinir stimülasyonunun güvenli olduğu belirlendi. Genel grupta fark yaratmayan yöntem, şiddetli hipertansiyon hastalarında tansiyonu düşürdü; ancak kesin sonuçlar için daha geniş çaplı klinik araştırmalar gerekiyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "reddit-opensource-yapay-zeka-ve-dil-yasagi",
+      "title": "Reddit'in r/opensource Topluluğunda Yapay Zeka ve Dil Kısıtlamaları Tepki Çekti",
+      "brief": "r/opensource alt dizini, yapay zekayla üretilen veya yapay zekaya yönelik projeleri tamamen yasakladı. İngilizce bilmeyenleri ve bir yıldan yeni projeleri de dışlayan kurallar, topluluk içinde isyana ve yeni bir alt dizinin kurulmasına yol açtı."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "riken-silikon-spin-kubit-ac-stark-kaymasi",
+      "title": "Silikon Kuantum Bilgisayarlarında Eşzamanlı Kontrol Engeli Aşıldı",
+      "brief": "RIKEN araştırmacıları, silikon spin kübitlerin eşzamanlı çalışmasında doğruluk kaybına yol açan faz kaymalarını ikili kalibrasyon yöntemiyle azalttı. Ortak mikrodalga hattına bağlı beş kübitlik dizilimde yüzde 99,9 civarında işlem doğruluğu sağlanırken, mikrodalga gücünün artmasından kaynaklanan kuantum eşevrelilik kay"
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "strathclyde-ayna-yasam-kiral-isik-tespiti",
+      "title": "Bilim İnsanlarından Hipotetik Ayna Yaşamı Tespit Etmek İçin Işık Tabanlı Yöntem",
+      "brief": "Strathclyde ve Durham üniversiteleri, henüz üretilmemiş ters moleküllü ayna yaşamı tespit etmek için ışık polarizasyonuna dayalı bir yöntem önerdi. Hücresel problar kullanan teknik, olası biyogüvenlik tehditlerine karşı önleyici bir izleme çözümü sunuyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "uconn-kannabinol-cbn-fiziksel-bagimlilik-riski",
+      "title": "Uyku Takviyesi Olarak Pazarlanan CBN Maddesi Fiziksel Bağımlılık Belirtileri Gösterdi",
+      "brief": "Connecticut Üniversitesi araştırmacıları, doğal uyku desteği olarak satılan kannabinol maddesinin farelerde fiziksel bağımlılık ve yoksunluk belirtilerine yol açtığını tespit etti. Uzmanlar, bileşiğin ayrıca bağışıklık sistemini zayıflatarak enfeksiyon riskini artırabileceği uyarısında bulunuyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "usc-akdeniz-diyeti-mitokondriyal-mikroproteinler",
+      "title": "Akdeniz Diyetinin Kalp ve Beyni Koruyan Mikroproteinleri Artırdığı Belirlendi",
+      "brief": "USC araştırmacıları, Akdeniz diyetine bağlılığın hücreleri yaşlanma ve hastalıklardan koruyan humanin ve SHMOOSE mikroproteinlerini artırdığını belirledi. Zeytinyağı, balık ve baklagil tüketimi bu koruyucu hücresel habercilerin kandaki seviyeleriyle doğrudan ilişkili bulundu."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "utah-lanmaoa-asiatica-liliput-halusinasyon-mantari",
+      "title": "Minyatür İnsan Halüsinasyonlarına Yol Açan Gizemli Mantarın Türü Belirlendi",
+      "brief": "Utah Üniversitesi bilim insanları, tüketenlerde minyatür insan halüsinasyonlarına yol açan mantarın Lanmaoa asiatica olduğunu belirledi. Bilinen hiçbir halüsinojen madde içermeyen bu mantarın, insan beyninin görsel algısını anlamada yeni bir kimyasal bileşiğe işaret ettiği düşünülüyor."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "vermont-ousiometrics-dil-guvenlik-egilimi",
+      "title": "İnsan Dilinde 70 Yıllık Teoriyi Sarsan Güvenlik Eğilimi Keşfedildi",
+      "brief": "Vermont Üniversitesi araştırmacıları, insan dilinin temelinde güvenlik, güç ve düzen boyutlarının yer aldığını belirledi. 20 binden fazla sözcüğün incelendiği çalışmada, günlük dilde güvenliği anlatan kelimelerin tehlikeye kıyasla çok daha baskın olduğu tespit edildi."
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "warwick-kuprat-superiletken-atomik-yama-kesfi",
+      "title": "Süperiletkenlerde Kırk Yıllık Varsayımı Sarsan İç Kusur Keşfedildi",
+      "brief": "Warwick Üniversitesi araştırmacıları, bakır bazlı süperiletkenlerin tekdüze kristal yapısına sahip olmadığını ortaya çıkardı. Gelişmiş üç boyutlu görüntüleme yöntemiyle saptanan geniş iç sınırların süperiletkenliği olumsuz etkileyebileceği, kırk yıllık bilimsel teorilerin ve ölçümlerin yeniden ele alınmasını gerektireb"
+    },
+    {
+      "section": "teknoloji",
+      "date": "2026-10-26",
+      "event_key": "xai-grok-imagine-odyssey-dizisi-bolum-1",
+      "title": "Grok Yapay Zekâ İle Üretilen Odysseia Projesinin İlk Yedi Dakikasını Paylaştı",
+      "brief": "Elon Musk'ın tam uzunlukta film vaadinden üç ay sonra, Grok platformu yapay zekâyla üretilen Odysseia dizisinin yedi dakikalık ilk bölümünü yayımladı. Wonder Studios ve yönetmen Dev Walker ortaklığıyla hazırlanan yapım, İngiliz aksanlı anlatım ve yapay zekâ tasarımı sahneler içeriyor."
     }
   ]
 }
