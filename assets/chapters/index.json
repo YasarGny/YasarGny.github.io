@@ -1,1 +1,290 @@
-{}
+{
+  "d7b91dffacb0c7eb29c6cccbb6e067c07dd04ec7d63046f9c28324c759cda7fe": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "d7b91dffacb0c7eb29c6cccbb6e067c07dd04ec7d63046f9c28324c759cda7fe",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 36.1,
+        "title": "Anthropic'in Halka Arz Başvurusu ve Mali Tablosu"
+      },
+      {
+        "start": 96.44,
+        "title": "Microsoft'un Gönüllü Ayrılık Paketi ve Artan Çip Maliyetleri"
+      },
+      {
+        "start": 132.82,
+        "title": "SpaceX ve Apollo Arasındaki Çip Kiralama Anlaşması"
+      },
+      {
+        "start": 180.52,
+        "title": "iPhone Duo'da Ekran Sorunları ve Değişim Programı"
+      },
+      {
+        "start": 239.62,
+        "title": "Apple'dan Yeni iPad mini ve İşletim Sistemi Güncellemeleri"
+      },
+      {
+        "start": 302.18,
+        "title": "Brotli Kütüphanesindeki Kritik Güvenlik Açığı"
+      },
+      {
+        "start": 356.98,
+        "title": "PHP'deki Uzaktan Kod Çalıştırma Açığının İstismarı"
+      },
+      {
+        "start": 418.34,
+        "title": "OpenAI'ın Yeni GPT-6.1 Terra Modeli"
+      },
+      {
+        "start": 448.92,
+        "title": "Alibaba Qwen Modelinin Güvenlik Testindeki Sunucu Bağlantısı"
+      },
+      {
+        "start": 512.74,
+        "title": "Güney Kore'de Yapay Zekâ Destekli Siber Hırsızlık Operasyonu"
+      },
+      {
+        "start": 574.68,
+        "title": "Boston Dynamics Çalışanlarının ICE Anlaşması Tepkisi"
+      },
+      {
+        "start": 625.72,
+        "title": "Bedrock Robotics'in Yeni Yatırımı ve Otonom İş Makineleri"
+      },
+      {
+        "start": 685.18,
+        "title": "Teknolojide Temel Mühendislik ve Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "b67fd02a214f91e2",
+        "start": 36.1,
+        "end": 95.84
+      },
+      {
+        "story_id": "7bbad43981bdcc19",
+        "start": 96.44,
+        "end": 132.22
+      },
+      {
+        "story_id": "d6e31d9e0fa6ab5c",
+        "start": 132.82,
+        "end": 171.74
+      },
+      {
+        "story_id": "ce36f5af847f2b1a",
+        "start": 180.52,
+        "end": 239.24
+      },
+      {
+        "story_id": "888531954bbf374e",
+        "start": 239.62,
+        "end": 246.08
+      },
+      {
+        "story_id": "3806ea7442989e07",
+        "start": 246.48,
+        "end": 295.46
+      },
+      {
+        "story_id": "f5846d497bb2f7fc",
+        "start": 302.18,
+        "end": 356.26
+      },
+      {
+        "story_id": "7c54e769948b6fc7",
+        "start": 356.98,
+        "end": 409.28
+      },
+      {
+        "story_id": "77ef2d30d3450429",
+        "start": 418.34,
+        "end": 448.4
+      },
+      {
+        "story_id": "8af7b30500f9c04c",
+        "start": 448.92,
+        "end": 512.12
+      },
+      {
+        "story_id": "cb6e7d403caae273",
+        "start": 512.74,
+        "end": 568.94
+      },
+      {
+        "story_id": "1e663d1fa1b08d3e",
+        "start": 574.68,
+        "end": 625.38
+      },
+      {
+        "story_id": "941976becd189122",
+        "start": 625.72,
+        "end": 668.3
+      }
+    ],
+    "section": "teknoloji",
+    "clips_reviewed": true,
+    "stories_sha256": "ad817f04147bc58ad99ddaa16a294be1ce7fa620fbf85003cd047ae6a940a89b"
+  },
+  "38961d6f45194731ecc5f2c9ea3d1f8329170a54b314055aa88113678285b353": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "38961d6f45194731ecc5f2c9ea3d1f8329170a54b314055aa88113678285b353",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 38.56,
+        "title": "Microsoft'ta Gönüllü Çıkış Teklifi"
+      },
+      {
+        "start": 85.22,
+        "title": "Sucker Punch'ta İşten Çıkarmalar"
+      },
+      {
+        "start": 130.3,
+        "title": "Mass Effect Hayranlarının Times Square Tepkisi"
+      },
+      {
+        "start": 173.32,
+        "title": "Kanada'da BioWare İçin Federal Destek Çağrısı"
+      },
+      {
+        "start": 215.78,
+        "title": "İptal Edilen Mass Effect'in Müzikleri"
+      },
+      {
+        "start": 254.02,
+        "title": "Paranormal Activity Threshold Demosu"
+      },
+      {
+        "start": 297.04,
+        "title": "Transformers: Reactivate Fragmanı Sızdırıldı"
+      },
+      {
+        "start": 343.56,
+        "title": "World of Warcraft: Forever Irk Yetenekleri"
+      },
+      {
+        "start": 387.26,
+        "title": "Diablo 4 16. Sezon War Plans Güncellemesi"
+      },
+      {
+        "start": 427.7,
+        "title": "Cyberpunk 2077 Oyuncu Sayısı Zirvesi"
+      },
+      {
+        "start": 474.02,
+        "title": "Steam Next Fest'in En Çok Oynanan Demoları"
+      },
+      {
+        "start": 522.54,
+        "title": "Emberville Erken Erişimi Ertelendi"
+      },
+      {
+        "start": 563.04,
+        "title": "GameMaker PC İçin Ücretsiz Oluyor"
+      },
+      {
+        "start": 606.74,
+        "title": "PlayStation 5'te Yerel Steam Oyunları"
+      },
+      {
+        "start": 645.82,
+        "title": "Phantom Blade Zero Depolama Gereksinimi"
+      },
+      {
+        "start": 691.76,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "052ca6b916afb05b",
+        "start": 38.56,
+        "end": 84.78
+      },
+      {
+        "story_id": "149cb6c8b9da22c6",
+        "start": 85.22,
+        "end": 129.58
+      },
+      {
+        "story_id": "7beccc9de5e6c6c4",
+        "start": 134.78,
+        "end": 172.6
+      },
+      {
+        "story_id": "b96cd3853f977a76",
+        "start": 173.32,
+        "end": 215.04
+      },
+      {
+        "story_id": "a1bfc8f0a513cfef",
+        "start": 215.78,
+        "end": 253.38
+      },
+      {
+        "story_id": "979cc35ca4a84dc6",
+        "start": 259.78,
+        "end": 297.04
+      },
+      {
+        "story_id": "e614a1c278d49db2",
+        "start": 297.04,
+        "end": 339.26
+      },
+      {
+        "story_id": "0944a050e5deada5",
+        "start": 349.66,
+        "end": 386.3
+      },
+      {
+        "story_id": "52e5d25fa11742bb",
+        "start": 387.26,
+        "end": 427.28
+      },
+      {
+        "story_id": "5539aa7c5be98152",
+        "start": 427.7,
+        "end": 473.52
+      },
+      {
+        "story_id": "fee1fa931018a892",
+        "start": 480.84,
+        "end": 521.84
+      },
+      {
+        "story_id": "55236040726cf9b9",
+        "start": 525.88,
+        "end": 562.58
+      },
+      {
+        "story_id": "e0536d4ed83b8301",
+        "start": 563.04,
+        "end": 606.32
+      },
+      {
+        "story_id": "584f28458c20523d",
+        "start": 612.68,
+        "end": 645.82
+      },
+      {
+        "story_id": "f3a8b4dec6c2fd6b",
+        "start": 650.58,
+        "end": 691.22
+      }
+    ],
+    "section": "oyun",
+    "clips_reviewed": true,
+    "stories_sha256": "bc6b6b27fb631cec7af011f176eb5274bc76a47903093cd44d885f8ac0dcce30"
+  }
+}

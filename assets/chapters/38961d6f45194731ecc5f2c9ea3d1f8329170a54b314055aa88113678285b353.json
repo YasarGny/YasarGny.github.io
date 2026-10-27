@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "38961d6f45194731ecc5f2c9ea3d1f8329170a54b314055aa88113678285b353",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 38.56,
+      "title": "Microsoft'ta Gönüllü Çıkış Teklifi"
+    },
+    {
+      "start": 85.22,
+      "title": "Sucker Punch'ta İşten Çıkarmalar"
+    },
+    {
+      "start": 130.3,
+      "title": "Mass Effect Hayranlarının Times Square Tepkisi"
+    },
+    {
+      "start": 173.32,
+      "title": "Kanada'da BioWare İçin Federal Destek Çağrısı"
+    },
+    {
+      "start": 215.78,
+      "title": "İptal Edilen Mass Effect'in Müzikleri"
+    },
+    {
+      "start": 254.02,
+      "title": "Paranormal Activity Threshold Demosu"
+    },
+    {
+      "start": 297.04,
+      "title": "Transformers: Reactivate Fragmanı Sızdırıldı"
+    },
+    {
+      "start": 343.56,
+      "title": "World of Warcraft: Forever Irk Yetenekleri"
+    },
+    {
+      "start": 387.26,
+      "title": "Diablo 4 16. Sezon War Plans Güncellemesi"
+    },
+    {
+      "start": 427.7,
+      "title": "Cyberpunk 2077 Oyuncu Sayısı Zirvesi"
+    },
+    {
+      "start": 474.02,
+      "title": "Steam Next Fest'in En Çok Oynanan Demoları"
+    },
+    {
+      "start": 522.54,
+      "title": "Emberville Erken Erişimi Ertelendi"
+    },
+    {
+      "start": 563.04,
+      "title": "GameMaker PC İçin Ücretsiz Oluyor"
+    },
+    {
+      "start": 606.74,
+      "title": "PlayStation 5'te Yerel Steam Oyunları"
+    },
+    {
+      "start": 645.82,
+      "title": "Phantom Blade Zero Depolama Gereksinimi"
+    },
+    {
+      "start": 691.76,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "052ca6b916afb05b",
+      "start": 38.56,
+      "end": 84.78
+    },
+    {
+      "story_id": "149cb6c8b9da22c6",
+      "start": 85.22,
+      "end": 129.58
+    },
+    {
+      "story_id": "7beccc9de5e6c6c4",
+      "start": 134.78,
+      "end": 172.6
+    },
+    {
+      "story_id": "b96cd3853f977a76",
+      "start": 173.32,
+      "end": 215.04
+    },
+    {
+      "story_id": "a1bfc8f0a513cfef",
+      "start": 215.78,
+      "end": 253.38
+    },
+    {
+      "story_id": "979cc35ca4a84dc6",
+      "start": 259.78,
+      "end": 297.04
+    },
+    {
+      "story_id": "e614a1c278d49db2",
+      "start": 297.04,
+      "end": 339.26
+    },
+    {
+      "story_id": "0944a050e5deada5",
+      "start": 349.66,
+      "end": 386.3
+    },
+    {
+      "story_id": "52e5d25fa11742bb",
+      "start": 387.26,
+      "end": 427.28
+    },
+    {
+      "story_id": "5539aa7c5be98152",
+      "start": 427.7,
+      "end": 473.52
+    },
+    {
+      "story_id": "fee1fa931018a892",
+      "start": 480.84,
+      "end": 521.84
+    },
+    {
+      "story_id": "55236040726cf9b9",
+      "start": 525.88,
+      "end": 562.58
+    },
+    {
+      "story_id": "e0536d4ed83b8301",
+      "start": 563.04,
+      "end": 606.32
+    },
+    {
+      "story_id": "584f28458c20523d",
+      "start": 612.68,
+      "end": 645.82
+    },
+    {
+      "story_id": "f3a8b4dec6c2fd6b",
+      "start": 650.58,
+      "end": 691.22
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "bc6b6b27fb631cec7af011f176eb5274bc76a47903093cd44d885f8ac0dcce30"
+}

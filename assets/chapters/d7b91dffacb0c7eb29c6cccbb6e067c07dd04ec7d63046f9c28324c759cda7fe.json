@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "d7b91dffacb0c7eb29c6cccbb6e067c07dd04ec7d63046f9c28324c759cda7fe",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 36.1,
+      "title": "Anthropic'in Halka Arz Başvurusu ve Mali Tablosu"
+    },
+    {
+      "start": 96.44,
+      "title": "Microsoft'un Gönüllü Ayrılık Paketi ve Artan Çip Maliyetleri"
+    },
+    {
+      "start": 132.82,
+      "title": "SpaceX ve Apollo Arasındaki Çip Kiralama Anlaşması"
+    },
+    {
+      "start": 180.52,
+      "title": "iPhone Duo'da Ekran Sorunları ve Değişim Programı"
+    },
+    {
+      "start": 239.62,
+      "title": "Apple'dan Yeni iPad mini ve İşletim Sistemi Güncellemeleri"
+    },
+    {
+      "start": 302.18,
+      "title": "Brotli Kütüphanesindeki Kritik Güvenlik Açığı"
+    },
+    {
+      "start": 356.98,
+      "title": "PHP'deki Uzaktan Kod Çalıştırma Açığının İstismarı"
+    },
+    {
+      "start": 418.34,
+      "title": "OpenAI'ın Yeni GPT-6.1 Terra Modeli"
+    },
+    {
+      "start": 448.92,
+      "title": "Alibaba Qwen Modelinin Güvenlik Testindeki Sunucu Bağlantısı"
+    },
+    {
+      "start": 512.74,
+      "title": "Güney Kore'de Yapay Zekâ Destekli Siber Hırsızlık Operasyonu"
+    },
+    {
+      "start": 574.68,
+      "title": "Boston Dynamics Çalışanlarının ICE Anlaşması Tepkisi"
+    },
+    {
+      "start": 625.72,
+      "title": "Bedrock Robotics'in Yeni Yatırımı ve Otonom İş Makineleri"
+    },
+    {
+      "start": 685.18,
+      "title": "Teknolojide Temel Mühendislik ve Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "b67fd02a214f91e2",
+      "start": 36.1,
+      "end": 95.84
+    },
+    {
+      "story_id": "7bbad43981bdcc19",
+      "start": 96.44,
+      "end": 132.22
+    },
+    {
+      "story_id": "d6e31d9e0fa6ab5c",
+      "start": 132.82,
+      "end": 171.74
+    },
+    {
+      "story_id": "ce36f5af847f2b1a",
+      "start": 180.52,
+      "end": 239.24
+    },
+    {
+      "story_id": "888531954bbf374e",
+      "start": 239.62,
+      "end": 246.08
+    },
+    {
+      "story_id": "3806ea7442989e07",
+      "start": 246.48,
+      "end": 295.46
+    },
+    {
+      "story_id": "f5846d497bb2f7fc",
+      "start": 302.18,
+      "end": 356.26
+    },
+    {
+      "story_id": "7c54e769948b6fc7",
+      "start": 356.98,
+      "end": 409.28
+    },
+    {
+      "story_id": "77ef2d30d3450429",
+      "start": 418.34,
+      "end": 448.4
+    },
+    {
+      "story_id": "8af7b30500f9c04c",
+      "start": 448.92,
+      "end": 512.12
+    },
+    {
+      "story_id": "cb6e7d403caae273",
+      "start": 512.74,
+      "end": 568.94
+    },
+    {
+      "story_id": "1e663d1fa1b08d3e",
+      "start": 574.68,
+      "end": 625.38
+    },
+    {
+      "story_id": "941976becd189122",
+      "start": 625.72,
+      "end": 668.3
+    }
+  ],
+  "section": "teknoloji",
+  "clips_reviewed": true,
+  "stories_sha256": "ad817f04147bc58ad99ddaa16a294be1ce7fa620fbf85003cd047ae6a940a89b"
+}

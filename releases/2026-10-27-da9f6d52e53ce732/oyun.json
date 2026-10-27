@@ -1,0 +1,573 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "oyun",
+  "publish_date": "2026-10-27",
+  "date": "27 Ekim 2026",
+  "issue": 12,
+  "ready": true,
+  "stories": [
+    {
+      "id": "052ca6b916afb05b",
+      "category": "ENDÜSTRİ",
+      "title": "Microsoft 60 Bin Çalışanına Gönüllü Çıkış Teklifi Sundu",
+      "summary": "Microsoft, toplam iş gücünün yaklaşık dörtte birini kapsayan 60 bin çalışanına yönelik gönüllü işten ayrılma programı başlattı. Program, seviye 70 ve altındaki personeli kapsarken Xbox stüdyolarının katılım durumu henüz netleşmedi.",
+      "why": "Dünyanın en büyük teknoloji şirketlerinden birinin iş gücünün yüzde 25'ini doğrudan etkileyen devasa bir maliyet ve organizasyon dengeleme adımıdır.",
+      "event_key": "microsoft-gonullu-ayrilma-teklifi-60-bin",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Microsoft İnsan Kaynakları Direktörü açıklaması ve şirket sözcüsü verileriyle 60 bin personeli ilgilendiren gönüllü ayrılma planı duyurulmuştur."
+      },
+      "brief": "Microsoft, ABD, İngiltere, Kanada ve Hindistan'daki 60 bin çalışanına gönüllü çıkış teklifi sundu. Seviye 70 ve altındaki personeli ilgilendiren program, üretken yapay zeka harcamalarının arttığı ve Xbox'ta yeniden yapılanmanın sürdüğü dönemde geldi.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
+      "source_published_at": "2026-10-26T18:44:22+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Microsoft, olası işten çıkarmaların öncesinde personele kendi isteğiyle ayrılma imkanı sağlayan 'Gönüllü Çıkış Teklifi' adlı yeni bir program başlattığını duyurdu. Şirketin İnsan Kaynakları Direktörü Amy Coleman tarafından personele gönderilen bilgilendirme notunda, teklifin uygun çalışanlara şirketten maddi destek ve kariyer planlama kaynaklarıyla ayrılma seçeneği sunduğu ifade edildi.",
+        "Program; Kanada, Hindistan, Birleşik Krallık ve Amerika Birleşik Devletleri'nde görev yapan 'seviye 70 ve altındaki' Microsoft çalışanlarına yönelik olarak hazırlandı. Bir şirket sözcüsünün Business Insider'a aktardığı bilgilere göre teklif, Microsoft'un toplam iş gücünün yaklaşık yüzde 25'ine denk gelen 60 bin personeli kapsıyor. Kıdem tazminatı paketlerine benzer koşullar içeren bu teklif için çalışanların Aralık ayı başlarına kadar karar vermesi gerekiyor.",
+        "Kurum içerisindeki tüm departmanların programa dahil edilmediği belirtilirken, Xbox veya bağlı oyun stüdyolarının sürece katılıp katılmadığı henüz netlik kazanmadı. Xbox tarafı bu yıl içinde planlanan 3 bin 200 kişilik işten çıkarma ve stüdyo yeniden yapılandırmasını uygulamaya koymuş; Double Fine, Compulsion Games ve Undead Labs gibi ekipler bağımsız hale gelmişti. CNBC, gönüllü çıkış programının Microsoft'un üretken yapay zeka alanındaki yoğun harcamalarını dengeleme çabasıyla bağlantılı olduğunu aktardı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9e5ad5e6aeabeb54fbed23161c895ba0de4fc2111710d53c380bc49ef843ca97"
+    },
+    {
+      "id": "11e83843f3eacc0f",
+      "category": "DİJİTAL MAĞAZA",
+      "title": "Steam'in Kişisel Takvim Özelliği Bir Yıllık Test Sürecinin Ardından Kullanıma Sunuldu",
+      "summary": "Valve, yaklaşık bir yıldır beta aşamasında tuttuğu Kişisel Takvim özelliğini tüm Steam kullanıcıları için yayımladı. Sistem, oyuncuların oyun geçmişlerine göre özelleştirilmiş sekiz haftalık çıkış takvimleri sunuyor.",
+      "why": "Steam kullanıcılarının ilgi alanlarına uygun yeni ve çıkacak oyunları keşfetmelerini doğrudan etkileyen algoritma ve arayüz değişikliğini açıklamaktadır.",
+      "event_key": "steam-personal-calendar-tam-surum",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Steam platformunda bir yıldır test edilen Kişisel Takvim özelliğinin genel kullanıma çıkması ve algoritma detayları resmi açıklamalarla doğrulanmıştır."
+      },
+      "brief": "Valve, yaklaşık bir yıldır test aşamasında tuttuğu Kişisel Takvim özelliğini Steam'de tüm kullanıcılar için resmen kullanıma sundu. Oyuncuların en çok vakit geçirdiği yapımlara dayalı öneriler sunan sistem, çıkışı yaklaşan oyunları sekiz haftalık bir takvim formatında günlük olarak güncelliyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/steam-personal-calendar-full-release",
+      "source_published_at": "2026-10-26T14:06:37+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/steam-personal-calendar-final-release-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Valve, geçen yılın ekim ayında Steam Labs deneysel özellikleri arasında başlattığı Kişisel Takvim uygulamasının test sürecini tamamladı. Yaklaşık bir yıllık denemenin ardından beta aşamasından çıkarılan özellik, mağazanın ana sayfasında ve kendine ayrılan özel bir sekmede tüm kullanıcılara açıldı.",
+        "Kişisel Takvim, oyuncuların ilgi duyabileceği çıkacak ve yeni yayımlanmış oyunları çıkış tarihlerine göre aylık düzende sıralıyor. Tavsiye motoru; kullanıcının en çok oynadığı oyunları, benzer oyun profillerine sahip kişilerin tercihlerini ve istek listelerini değerlendirerek listeleri sekiz haftalık bir zaman diliminde günlük olarak yeniliyor. Kısa süre denenen yapımlar ise hesaplamaya dahil edilmiyor.",
+        "Valve, filtreleme sisteminin oyuncuları belirli türlerin içine hapsedebileceği ihtimalini kabul ediyor. Geliştirici ekip, her gün aynı türde oyun çıkamayacağını belirterek, takvimdeki önerilerin tür çeşitliliğini korumak adına daha geniş bir havuzdan beslendiğini ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "2a7b8621cde204c99a8d8e8e04abd6338c15e49172cc383a5ce1a5f64dcd1434"
+    },
+    {
+      "id": "5539aa7c5be98152",
+      "category": "OYUNCU VERİLERİ",
+      "title": "Cyberpunk 2077, Edgerunners'ın İkinci Sezonuyla Phantom Liberty'den Bu Yana En Yüksek Oyuncu Zirvesine Ulaştı",
+      "summary": "Cyberpunk 2077, Edgerunners animesinin ikinci sezonu ve yeni oyun güncellemesinin ardından Steam'de 187 bin 215 eş zamanlı oyuncuya ulaştı. Bu rakam, Ekim 2023'teki Phantom Liberty genişlemesinden bu yana görülen en yüksek seviye oldu.",
+      "why": "Oyun dünyasında yan medya ürünlerinin ve düzenli güncellemelerin, çıkışından yıllar sonra bile bir yapımın oyuncu sayısını ne denli artırabileceğini göstermektedir.",
+      "event_key": "cyberpunk-2077-steam-187k-zirve",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Edgerunners 2. sezonu ve yeni güncelleme sonrası Steam'de Phantom Liberty'den bu yana en yüksek eş zamanlı oyuncu zirvesine ulaşıldığı verilerle belgelenmiştir."
+      },
+      "brief": "Edgerunners animesinin ikinci sezonu ve beraberindeki yeni güncelleme, Cyberpunk 2077'nin Steam'deki anlık oyuncu sayısını 187 bin 215'e yükseltti. Bu sayı, Ekim 2023'teki Phantom Liberty genişlemesinden bu yana Steam'de kaydedilen en yüksek eş zamanlı oyuncu zirvesi oldu.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/",
+      "source_published_at": "2026-10-26T14:57:15+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Cyberpunk-Edgerunners.jpg?w=300",
+      "body": [
+        "CD Projekt Red tarafından geliştirilen Cyberpunk 2077, piyasaya sürülmesinden yaklaşık altı yıl sonra Steam platformunda yeniden önemli bir eşiği geride bıraktı. Netflix yapımı Edgerunners animesinin ikinci sezonunun yayımlanması ve oyuna gelen kapsamlı güncelleme ile birlikte eş zamanlı oyuncu sayısı 187 bin 215'e kadar çıktı.",
+        "Elde edilen bu veri, Ekim 2023'te yayımlanan Güncelleme 2.0 ve Phantom Liberty genişlemesinden bu yana görülen en yüksek oyuncu zirvesi olarak kayıtlara geçti. 2022'de ilk sezonun çıkışıyla 136 bin 724 anlık oyuncuya ulaşan oyun, yeni sezonla birlikte bu seviyeyi aştı. Ayrıca Steam'de Ultimate Edition sürümüne uygulanan yüzde 70'lik indirim de oyuncu artışına katkı sağladı.",
+        "Son güncellemeyle oyuna çift silah kullanımı, yeni kozmetikler, özelleştirilebilir sibernetik donanımlar ve Edgerunners bağlantılı bir hikaye görevi dahil edildi. Stüdyoda Cyberpunk 2 üzerindeki çalışmalar sürerken, oyun direktörü Gabe Amatangelo devam oyununun orijinal vizyonun ötesine geçerek geliştiğini aktardı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "28e655360576f2ced7ff66bc87476f0c38e23b78e67de09a1f7603fef65dd07d"
+    },
+    {
+      "id": "7beccc9de5e6c6c4",
+      "category": "TOPLULUK",
+      "title": "Mass Effect Hayranları Seriyi Yaşatmak İçin Times Square'e Reklam Verdi",
+      "summary": "Yayıncı EA'in BioWare'i kapatıp yeni Mass Effect oyununu iptal etmesinin ardından hayranlar Times Square'e reklam panosu yerleştirdi. Topluluk, başlattıkları imza kampanyası ve bağışlarla N7 Günü ve The Game Awards etkinliklerinde de tanıtım yapmayı hedefliyor.",
+      "why": "Mass Effect serisinin ve geliştirici BioWare'in iptal kararının ardından, oyun topluluklarının karar verici şirketler üzerindeki baskı kurma çabalarını ve bağımsız fonlama girişimlerini belgelemesi açısından önem taşımaktadır.",
+      "event_key": "savemasseffect-times-square-reklam-panosu",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "EA'in BioWare'i kapatma ve oyunu iptal etme kararına karşı hayranların Times Square panosu ve 226 bin imzalı dilekçeyle başlattığı somut kampanya belgelenmiştir."
+      },
+      "brief": "Yayıncı EA'in BioWare'i kapatarak yeni Mass Effect oyununu iptal etmesi üzerine hayranlar, Times Square'de reklam panosu kiraladı. 226 binden fazla imza toplayan topluluk, N7 Günü ve The Game Awards gibi etkinliklerde yeni reklamlarla serinin sürdürülmesini talep ediyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square",
+      "source_published_at": "2026-10-26T20:07:29+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/Untitled-2_81p0NEm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Yayıncı Electronic Arts'ın BioWare stüdyosunu kapatması ve sıradaki Mass Effect oyununu iptal etmesinin ardından oyunseverler geniş çaplı bir kampanya başlattı. 'Save Mass Effect' hareketi bünyesinde bir araya gelen topluluk, New York'taki Times Square meydanında yer alan bir reklam panosuna ilan verdi. Duffy Square'de bulunan panoda, Andromeda sistemine göç eden gemiye atıfta bulunan 'Kellah Si'yah' ifadesi ve ilgili etiket yer aldı.",
+        "Topluluk organizatörlerinden Mer Mora, Times Square'deki gösterimin yanı sıra Redwood City ve Edmonton'daki EA genel merkezleri yakınında reklam kamyonları dolaştıracaklarını bildirdi. Ayrıca N7 Günü ve Los Angeles'ta düzenlenecek The Game Awards sırasında da mobil reklam panolarının kullanılması hedefleniyor.",
+        "İnternet üzerinden yürütülen imza kampanyasında şimdiden 226 binden fazla imza toplandı. Kampanyada EA'in yeni bir Mass Effect projesini finanse etmesi veya serinin lisansını başka bir stüdyoya devretmesi talep ediliyor. Süreç için açılacak GoFundMe sayfasında hedefin üzerinde toplanan gelirlerin ise işten çıkarılan geliştiricileri destekleyen Game Workers' Hardship Fund'a bağışlanacağı açıklandı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "883e9ca3d0db0079c9d1e1b3a20384b44302ccc05ce46a3c07f228967254449e"
+    },
+    {
+      "id": "01306ea34120fbc0",
+      "category": "ÖDÜLLER",
+      "title": "Golden Joystick Awards'ta Yılın En İyi Oyunu Oylaması Başladı",
+      "summary": "Bu yıl 44'üncüsü düzenlenen Golden Joystick Awards kapsamında Ultimate Game of the Year kategorisi için oylama süreci açıldı. Oyuncular 30 Ekim tarihine kadar oylarını kullanabilecek, ödül töreni ise 11 Kasım Çarşamba günü yayınlanacak.",
+      "why": "Oyun dünyasının köklü ödül organizasyonlarından birinde yılın en iyi oyunu adayları duyuruldu ve kazananları belirleyecek halk oylaması takvimi resmiyet kazandı.",
+      "event_key": "golden-joystick-awards-2026-adaylar-oylama",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Resmi oylama adresi, son katılım tarihi, yayın takvimi ve tüm aday listesi açık kaynak olgularıyla doğrulanmıştır."
+      },
+      "brief": "Golden Joystick Awards'ın 44. yılında en iyi oyun oylaması başladı. Adaylar arasında Crimson Desert ve Phantom Blade: Zero gibi yapımların yer aldığı oylama 30 Ekim'e kadar sürecek. Ödül töreni 11 Kasım'da canlı yayınlanacak.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-ultimate-game-of-the-year-voting-is-a-go-with-games-like-crimson-desert-the-blood-of-dawnwalker-and-big-walk-all-on-the-docket/",
+      "source_published_at": "2026-10-26T14:00:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cYSYZj6b4eSgeFbyX8CSNE-1920-80.jpg",
+      "body": [
+        "Golden Joystick Awards organizasyonunun 44. yılında \"Ultimate Game of the Year\" (Yılın En İyi Oyunu) kategorisi için oylama süreci resmen başladı. Oyuncular, goldenjoysticks.com adresi üzerinden 30 Ekim günü saat 20.00 ET (TSİ 31 Ekim 03.00 / 00.00 GMT) vaktine kadar oylarını gönderebilecek.",
+        "Bu yılki aday listesinde 007 First Light, Big Walk, CONTROL Resonant, Crimson Desert, Dispatch, Forza Horizon 6, Phantom Blade: Zero, Pokémon Pokopia, PRAGMATA, Resident Evil Requiem, STAR WARS: Galactic Racer ve The Blood of Dawnwalker yer alıyor.",
+        "Ödül töreninin sunuculuğunu Lara Croft'un yeni sesi olarak bilinen Alix Wilton Regan üstlenecek. Etkinlik, aralarında YouTube, Twitch ve X platformlarının bulunduğu yayın kanalları üzerinden 11 Kasım Çarşamba günü izleyicilerle buluşacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0f9bbb9ecbd76f011144136892b26bd55c7fee2208c2c2f66aa4247f888ce2c7"
+    },
+    {
+      "id": "0944a050e5deada5",
+      "category": "GÜNCELLEME",
+      "title": "World of Warcraft: Forever Lansman Öncesinde Irk Yeteneklerini Yeniledi",
+      "summary": "Blizzard, 4 Kasım'da çıkacak World of Warcraft: Forever öncesinde beta geri bildirimleri doğrultusunda ırk yeteneklerinde son dengelemeleri yaptı. İnsanlar, taurenler, orklar, cüceler ve Skyborne elfleri kapsayan değişiklikler duyuruldu.",
+      "why": "Yaklaşan MMORPG lansmanı öncesinde oyun içi sınıf dengelerini ve oyuncuların ırk tercihlerini doğrudan etkileyecek son mekanik düzenlemeleri içermektedir.",
+      "event_key": "wow-forever-cikis-oncesi-irk-dengelemesi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "4 Kasım çıkış tarihi öncesinde Blizzard topluluk yöneticisi Kaivax tarafından paylaşılan ırk yeteneği değişiklikleri ve resmi tasarım hedefleri yer almaktadır."
+      },
+      "brief": "Blizzard, 4 Kasım'da yayımlanacak World of Warcraft: Forever öncesinde beta geri bildirimleri doğrultusunda ırk yeteneklerini yeniden dengeledi. Yapılan düzenlemeyle insan, ork, tauren, cüce ve Skyborne elflerinin pasif bonusları ile sınıf uyumlarında ırk kimliğini öne çıkaran kapsamlı değişikliklere gidildi.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/",
+      "source_published_at": "2026-10-26T22:48:46+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Changes-One-Last-Time.jpg?w=300",
+      "body": [
+        "Blizzard, 4 Kasım'da piyasaya sürülecek World of Warcraft: Forever için beta sürecinde toplanan geri bildirimler üzerine ırk yeteneklerinde kapsamlı düzenlemelere gitti. Topluluk yöneticisi Kaivax tarafından paylaşılan detaylara göre, ırksal kimliği öne çıkarmak amacıyla bazı genel yetenekler geri çekilerek özgün pasifler yeniden dahil edildi.",
+        "Dengeleme kapsamında insan ırkının Ruthless yeteneğindeki kritik vuruş şansı yüzde 2'den yüzde 1'e düşürülürken, Human Spirit bonusu yüzde 5'ten yüzde 10'a çıkarıldı. Tauren ırkında Plainsrunning yeteneğinin azami hız artışı yüzde 60'a yükseltildi ancak binek hızlandırma etkisi ve Endurance pasifindeki vuruş ile kritik çarpanları kaldırıldı. Orklarda yüzde 1 kritik şansı silinerek yerine evcil hayvan hasarını yüzde 5 artıran Command pasifi geri getirildi; cücelerde ise kritik hasar bonusu kaldırılarak yüzde 1 vuruş şansı eklendi.",
+        "Oyuna yeni katılan Skyborne elflerinin Wind-Blessed yeteneğindeki acele (haste) bonusu yüzde 2'ye çekildi. Leyline ve elemental bölgelerdeki Skysight ile Read Leyline kullanımları, ölüm sonrasında da sürecek şekilde yeniden düzenlendi. Blizzard ayrıca oyunda yeni bir PvP sunucu seçeneği bulunacağını ve katmanlaşma (layering) sisteminde iyileştirmeler yapılacağını belirtti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "44d9cb8396801c97f2edd426372e84504a29ae4bd5c3d11973d08ace19b02c52"
+    },
+    {
+      "id": "52e5d25fa11742bb",
+      "category": "GÜNCELLEME",
+      "title": "Diablo 4'ün 16. Sezonunda War Plans Sistemine Kapsamlı Güncelleme Geliyor",
+      "summary": "Blizzard, Diablo 4'ün 16. sezonunda War Plans mekaniğini War Plans Tactics ve Tyrael's Boons yetenek ağaçlarıyla geliştireceğini açıkladı. Güncelleme test sunucusunda erişime açılırken tam sezonun 1 Aralık'ta başlaması planlanıyor.",
+      "why": "Diablo 4'ün oyun sonu içeriğindeki rastgeleliği azaltarak oyuncuların ödül ve etkinlik tercihlerini doğrudan yönetmesine olanak tanımaktadır.",
+      "event_key": "diablo-4-sezon-16-war-plans-tactics",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Blizzard'ın resmi blog yazısıyla duyurduğu 16. sezon oyun sonu mekaniği ve PTR takvimi somut ayrıntılarla açıklandı."
+      },
+      "brief": "Blizzard, Diablo 4'ün 16. sezonunda War Plans sistemini yeniliyor. War Plans Tactics ve Tyrael's Boons yetenek ağaçları sayesinde oyuncular oyun sonu aktiviteleri ile ödül tercihlerini doğrudan belirleyebilecek.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
+      "source_published_at": "2026-10-26T19:14:12+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-S16-War-Plans-Tactics.jpg?w=636",
+      "body": [
+        "Blizzard, Diablo 4'ün ikinci ve son genişleme paketi Lord of Hatred ile oyuna eklenen War Plans sistemini 16. sezonda kapsamlı şekilde güncelleyeceğini duyurdu. Mevcut sistemde oyunculara sunulan etkinlik ve ödül kontrolünün sınırlı kalması ile yenileme haklarının kısıtlı olması, yeni düzenlemeyle aşılacak.",
+        "Resmi blog yazısına göre oyuna 'War Plans Tactics' adında yeni bir ilerleme sistemi eklenecek. Oyuncular tamamladıkları aktivitelerden puan kazanarak belirli oyun sonu etkinliklerinin ve ödül türlerinin çıkma olasılığını artırabilecek. Her aktiviteye ve ödül türüne en fazla üçer puan yatırılabilecek; Helltides veya Nightmare zindanlarına puan vermek Greater Helltides ve Escalation Nightmare ihtimallerini yükseltecek. Ayrıca War Plans yenilemeleri için sınırı 20 olan 'Marks of Wisdom' adlı yeni bir para birimi kullanılacak.",
+        "Sezonla birlikte dört yoldan oluşan 'Tyrael's Boons' sezonluk ağacı da oyuna dahil edilecek. Bu yollar sayesinde tüccar geliştirmeleri, Forgotten Souls karşılığı eşya sandıkları, kaynak artışları ve Horadric Cube tarifleri açılabilecek. Bunlara ek olarak Talisman eşyalarıyla uyumlu Horadric efsanevi teçhizatları sunulacak. 16. Sezon, 27 Ekim'den 3 Kasım'a kadar test sunucusunda (PTR) denenebilecek ve tam sürümü 1 Aralık'ta yayımlanacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "7ae6a24b629f8e22fb4b150eec0a206e8e87b21b91201476d61d004644beec29"
+    },
+    {
+      "id": "55236040726cf9b9",
+      "category": "ERTELEME",
+      "title": "Emberville'in Erken Erişim Çıkışı Son Günde 7 Ocak'a Ertelendi",
+      "summary": "Piksel grafikli aksiyon RYO Emberville, erken erişim çıkışına bir gün kala Steam Next Fest demosundan gelen geri bildirimler gerekçe gösterilerek 7 Ocak'a ertelendi. Geliştirici Cygnus Cross yay dövüş sistemi gibi temel mekanikleri yenileyeceğini bildirdi.",
+      "why": "Lansmana saatler kala alınan bu erteleme kararı, bağımsız yapımların erken erişim öncesi geri bildirim süreçlerini nasıl yönettiğini somut biçimde ortaya koymaktadır.",
+      "event_key": "emberville-erken-erisim-ertelendi-2027",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Oyunun erken erişim lansmanına bir gün kala geliştirici stüdyo tarafından Steam'de resmi erteleme duyurusu yapıldı."
+      },
+      "brief": "Piksel aksiyon RYO Emberville, erken erişim lansmanına bir gün kala ertelendi. Geliştirici Cygnus Cross, Steam Next Fest geri bildirimleri doğrultusunda yay mekaniğini yenilemek amacıyla çıkışı 7 Ocak tarihine ertelediğini duyurdu.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
+      "source_published_at": "2026-10-26T21:57:24+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pTzbm5TpEs7f42EdUJydh8-1920-80.webp",
+      "body": [
+        "Piksel sanat tarzına sahip aksiyon rol yapma oyunu Emberville, planlanan erken erişim lansmanından sadece bir gün önce ertelendi. Normal şartlarda 27 Ekim tarihinde erken erişime açılması planlanan yapımın yeni çıkış tarihi 7 Ocak olarak belirlendi.",
+        "Geliştirici Cygnus Cross, Steam üzerinden yayımladığı duyuruda, son Steam Next Fest demosunu oynayan kullanıcılardan gelen geri bildirimlerin bu kararda belirleyici olduğunu açıkladı. Stüdyo, yay ile dövüş mekanikleri gibi bazı temel sistem değişikliklerinin hızlıca tamamlanamayacağını, bu nedenle erken erişim sürümüne bu iyileştirmeleri dahil etmek için ek süreye ihtiyaç duyduklarını belirtti.",
+        "Bu son dakika ertelemesi, geliştiricinin yalnızca bir hafta önce 27 Ekim tarihini teyit eden bir bilgilendirme paylaşmış olması nedeniyle dikkat çekti. Söz konusu önceki açıklamada, çıkıştan sonraki bir ay içinde ilk biyomun son boss'unun, kontrolcü iyileştirmelerinin ve yeni dil seçeneklerinin sunulacağı belirtilmişti. Oyunun mevcut demosunun Steam'de oynanabilir durumda kalmaya devam ettiği bildirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "27177fd058051155f6312276a8cff873196395936ba96f90bc727765731e5b27"
+    },
+    {
+      "id": "979cc35ca4a84dc6",
+      "category": "OYUN DUYURUSU",
+      "title": "DarkStone Digital İptal Edilen Korku Oyununun Demosunu Steam'de Yayınladı",
+      "summary": "The Mortuary Assistant'ın geliştiricisi DarkStone Digital, iptal edilen Paranormal Activity: Threshold projesine ait parçaları Playable Archive adıyla Steam'de ücretsiz demo olarak sundu. 30 ila 45 dakikalık demo kamera kayıtları ve polis soruşturmasını konu alıyor.",
+      "why": "Yayıncı ile geliştirici arasındaki anlaşmazlık nedeniyle rafa kalkan ticari bir korku oyunu projesinin kamuya açık bir demo ile belgelenmesini sağlamaktadır.",
+      "event_key": "playable-archive-ucretsiz-korku-demosu",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "İptal edilen projenin stüdyo kurucusu tarafından Steam üzerinden ücretsiz oynanabilir bir demo olarak erişime açıldığı doğrulandı."
+      },
+      "brief": "DarkStone Digital, iptal edilen Paranormal Activity: Threshold projesinden kalan bölümleri Playable Archive adıyla Steam'de ücretsiz yayınladı. 30-45 dakikalık demo buluntu kamera kayıtları ve gizemli bir soruşturmayı içeriyor.",
+      "source_name": "GameSpot",
+      "source_url": "https://www.gamespot.com/articles/the-scariest-game-of-the-year-is-this-demo-for-a-game-that-isnt-coming-out/",
+      "source_published_at": "2026-10-26T15:28:21+00:00",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Playable-Archive-Shot7-1.jpg?w=300",
+      "body": [
+        "The Mortuary Assistant oyununun geliştiricisi DarkStone Digital, Paramount ile yaşanan geliştirme süresi anlaşmazlığı sonucu iptal edilen Paranormal Activity: Threshold projesinden kalan içerikleri Playable Archive adıyla Steam'de ücretsiz demo olarak yayımladı. Stüdyonun sahibi Brian Clarke, tam oyunun hiçbir zaman çıkmayacağını ancak üzerinde uzun süre çalışılan bu projeyi rafa terk etmek istemedikleri için demoyu paylaştıklarını açıkladı.",
+        "Yaklaşık 30 ila 45 dakika süren demo, bir evde yaşanan trajik olayların ardından başlatılan polis soruşturmasını ele alıyor. Oyuncular, birinci şahıs kamera bakış açısıyla video kasetleri izleyerek ve okült bulmacaları çözerek yaşanan olayları aydınlatmaya çalışıyor.",
+        "Clarke resmi açıklamasında Paranormal Activity markasını doğrudan anmasa da projenin iptal edilen yapıma dayandığı belirtiliyor. Paramount'un seri için yeni bir oyun stüdyosu aradığına dair bir bilgi bulunmazken, serinin Ian Tuason yönetmenliğindeki bir sonraki sinema filminin 2027 yılında gösterime girmesi bekleniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "47a9da2ffaeae46d0b3d5d6eb441349d146e5877f71fbde5d32a1471f7969895"
+    },
+    {
+      "id": "a1bfc8f0a513cfef",
+      "category": "OYUN MÜZİĞİ",
+      "title": "Austin Wintory İptal Edilen Mass Effect Projesinin Müziklerini Yayınladı",
+      "summary": "EA'in BioWare'i kapatıp Mass Effect 5'i iptal etmesinin ardından besteci Austin Wintory, proje için hazırladığı 22 dakikalık müzik taslaklarını paylaştı. Kayıtlar Los Angeles'ta orkestra ve koroyla üretilmişti.",
+      "why": "İptal edilen büyük bir serinin sahne arkası üretim sürecine ve stüdyonun kapatılmasıyla rafa kalkan projenin sanatsal materyallerine ışık tutmaktadır.",
+      "event_key": "austin-wintory-mass-effect-5-muzik-taslaklari",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Bestecinin kendi açıklamaları ve bizzat yayımladığı 22 dakikalık somut materyale dayanan doğrulanmış bir gelişmedir."
+      },
+      "brief": "EA tarafından BioWare'in kapatılması ve Mass Effect 5'in iptal edilmesi sonrası, oyun için görüşmeler yürüten besteci Austin Wintory, hazırladığı 22 dakikalık orkestral müzik taslaklarını YouTube üzerinden kamuoyuna sundu.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
+      "source_published_at": "2026-10-26T21:36:07+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/mass-effect-composer-1793050179326.png?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Electronic Arts'ın (EA) geliştirici stüdyo BioWare'i kapatarak Mass Effect 5 projesini iptal etme kararının ardından, oyun için müzik besteleme aşamasında bulunan Austin Wintory hazırladığı taslakları kamuoyuyla paylaştı. Journey ve Sword of the Sea gibi oyunların ödüllü bestecisi, proje kapsamında ürettiği 22 dakikalık ses kaydını YouTube üzerinden dinleyicilere sundu.",
+        "Wintory, sosyal medya paylaşımlarında son birkaç yıldır EA ve BioWare ile 'Mass Effect: Universe' adıyla anılan devam oyunu için ciddi görüşmeler yürüttüğünü açıkladı. Müzikal yaklaşım olarak Jack Wall ve Sam Hulick'in ilk Mass Effect oyunundaki bestelerini temel almayı önerdiğini belirten Wintory; analog synthesizer'lar, koro ve geniş bir orkestranın harmanlandığı taslakları Los Angeles'ta kaydettiğini ifade etti.",
+        "Projenin ve stüdyonun kapatılmasını derin bir kayıp olarak nitelendiren besteci, oyunun hikaye detaylarının henüz belirsiz olduğu bir dönemde bu çalışmaları tamamen müzikal bir keşif olarak hazırladığını belirtti. Geçtiğimiz hafta EA'in BioWare'i kapatma kararıyla sarsılan serinin hayran kitlesi ise internet üzerinde 230 binden fazla imza toplayarak ve Times Meydanı'nda reklam panosu kiralayarak projeye destek arayışını sürdürüyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "03ad6777106576adae5e95373c6bcd00a21eb57c2cf2173ba35c4442218c32da"
+    },
+    {
+      "id": "e614a1c278d49db2",
+      "category": "SIZINTI",
+      "title": "İptal Edilen Transformers: Reactivate Oyununun Son Fragmanı Ortaya Çıktı",
+      "summary": "Splash Damage tarafından geliştirilirken Ocak 2025'te iptal edilen Transformers: Reactivate oyununa ait kapsamlı bir son fragman internete sızdırıldı. Görüntülerde hikâye modu, oynanabilir Megatron karakteri ve New York, Nevada ile Cybertron bölgeleri yer alıyor.",
+      "why": "Ocak 2025'te iptal edilen ve geliştiricisi işten çıkarmalar yaşayan yüksek bütçeli bir projenin ulaştığı nihai aşamayı ve değişen oyun yapısını gözler önüne sermektedir.",
+      "event_key": "transformers-reactivate-final-fragman-sizintisi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "İptal edilmiş yüksek profilli bir oyunun son yapısına ait oynanış ve hikâye detaylarını içeren sızıntı video doğrudan paylaşıldı."
+      },
+      "brief": "İptal edilen Transformers: Reactivate oyununa ait kapsamlı bir tanıtım videosu internete sızdırıldı. Görüntülerde hikâye modu, New York, Nevada ile Cybertron mekanları ve oynanabilir karakter olarak yer alan Megatron dikkat çekti.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/canceled-transformers-game-footage-leaks-online-showing-never-before-seen-final-trailer",
+      "source_published_at": "2026-10-26T23:04:32+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/06/transformers-optimus-prime-1791300484476.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "İlk olarak 2022 Game Awards töreninde duyurulan ve Splash Damage stüdyosu tarafından geliştirilen üçüncü şahıs aksiyon oyunu Transformers: Reactivate, ertelemelerin ardından Ocak 2025'te iptal edilmişti. Bu kararın ardından geliştirici stüdyoda işten çıkarmalar yaşanırken, projeye ait son hazırlanan tanıtım fragmanı internete sızdırıldı.",
+        "X platformunda 'Nem - TFR Archives' isimli kullanıcı tarafından 26 Ekim 2026 tarihinde paylaşılan video, oyunun şimdiye kadar görülen en eksiksiz yapısını sunuyor. Paylaşımı yapan kullanıcı, bu fragmanın diğer yayıncılara sunulmak üzere bir yatırım tanıtımı olarak hazırlandığını ancak sürecin başarısızlıkla sonuçlandığını öne sürdü. Projenin yalnızca oynaması ücretsiz bir çevrim içi deneyimden çıkarak tek oyunculu hikâye içeriği ve isteğe bağlı eşli oyun moduna doğru evrildiği aktarıldı.",
+        "Görüntülerde Optimus Prime'ın, galaksiyi istila eden Legion gücüne karşı Autobotları göreve çağırdığı duyuluyor. Autobotlar ile Decepticonların ortak düşmana karşı güçlerini birleştirdiği hikâyede; Optimus, Bumblebee ve Iron Hide zorlu arazilerde çatışırken görülüyor. Ayrıca Megatron'un kırbaç benzeri bir uzantı ve silah kullanarak düşmanlarıyla savaşan oynanabilir bir karakter olduğu sahneler ile New York, Nevada çölü ve Cybertron mekanları sergileniyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f500f17850152af4da239a0dfdb8eadcd28ad29875e94093cc67965706f5b5dc"
+    },
+    {
+      "id": "149cb6c8b9da22c6",
+      "category": "İŞTEN ÇIKARMA",
+      "title": "Sucker Punch'ta 26 Çalışan İşten Çıkarıldı",
+      "summary": "Ghost of Yotei'nin geliştiricisi Sucker Punch stüdyosunda 26 çalışanın işine son verildi. Şirket yönetimi, kararın pazar koşulları ve duyurulmamış yeni projenin gereksinimleri doğrultusunda alındığını açıkladı.",
+      "why": "Büyük bütçeli bir yapımın ticari başarısına rağmen Sony bünyesindeki önemli bir birinci parti stüdyoda dahi istihdam kesintilerinin sürdüğünü göstermektedir.",
+      "event_key": "sucker-punch-isten-cikarma-26-kisi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Ghost of Yotei'nin ticari başarısına karşın stüdyo içi e-posta kaynaklı 26 kişilik işten çıkarma bilgisi doğrulanmıştır."
+      },
+      "brief": "PlayStation bünyesindeki Sucker Punch stüdyosu, sektör koşullarını ve yeni projesinin ihtiyaçlarını gerekçe göstererek 26 çalışanını işten çıkardı. Ghost of Yotei satış başarısı yakalamış olsa da stüdyo yönetimi kadro daraltma kararı aldı.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
+      "source_published_at": "2026-10-26T17:48:33+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "PlayStation bünyesinde faaliyet gösteren ve Ghost of Yotei, Sly Cooper ile Infamous serileriyle tanınan Sucker Punch stüdyosunda işten çıkarmalar yaşandı. Aftermath platformunun eski bir çalışana ve şirket içi yazışmalara dayandırdığı habere göre, stüdyodaki kesintilerden 26 çalışan etkilendi.",
+        "Stüdyo yönetimi tarafından personele gönderilen e-postada, karara gerekçe olarak oyun sektöründeki dalgalı koşullar ve geliştirilmekte olan ancak henüz duyurulmamış yeni oyunun ihtiyaçları gösterildi. Yönetim, pazar zorluklarını gözlemledikten sonra belirli pozisyonları kapatma kararı aldıklarını, etkilenen personele geçiş sürecinde destek sağlanacağını ve gelecek hafta stüdyonun geleceğine dair daha fazla ayrıntı paylaşılacağını bildirdi.",
+        "İşten çıkarma kararı, stüdyonun son açık dünya oyunu Ghost of Yotei'nin yakaladığı ticari başarının hemen ardından geldi. Yapım, çıkışından yaklaşık bir ay sonra 3,3 milyon kopya satarak aynı dönemde Astro Bot gibi diğer PS5 oyunlarını geride bırakmıştı. Sony'nin 31 Aralık'ta sona eren çeyrek dönem raporunda da oyunun serinin önceki yapımının aynı zaman dilimindeki satışlarını aştığı belirtilmişti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "a8e5bb64d719da55776e00c3dd4ff504aa97c9c9cbf70a358312049bd8e20209"
+    },
+    {
+      "id": "4f9fc025383ea6f7",
+      "category": "ABONELİK",
+      "title": "T-Mobile ABD'deki Müşterilerine Xbox Game Pass Seçeneği Sunuyor",
+      "summary": "T-Mobile, ABD'deki kablosuz hat müşterileri için duyurduğu T-Mix programı kapsamında Xbox Game Pass seçeneğini dahil etti. Uygun müşteriler kasım ayından itibaren Game Pass Ultimate veya Premium paketlerinden yararlanabilecek.",
+      "why": "Xbox Game Pass hizmetinin ABD'de ilk defa bir mobil operatör tarifesi kapsamına entegre edilmesi, abonelik dağıtım kanalları açısından yeni bir adımdır.",
+      "event_key": "t-mobile-t-mix-xbox-game-pass",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Xbox ve T-Mobile arasındaki ortaklık, sunulan abonelik paketleri ve kasım ayı başlangıç takvimi resmi kaynak açıklamasıyla teyit edilmiştir."
+      },
+      "brief": "T-Mobile, ABD'deki T-Mix tarifesiyle kasım ayından itibaren uygun müşterilerine Xbox Game Pass Ultimate veya Premium seçeneklerini sunmaya başlıyor. Bu adım, Game Pass'in ABD'de bir kablosuz operatör paketiyle ilk kez sunuluşu oldu.",
+      "source_name": "Xbox Wire",
+      "source_url": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile/",
+      "source_published_at": "2026-10-26T13:00:00+00:00",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX_TMO_16x9-R2D-4f063534a7b256d7123f.jpg",
+      "body": [
+        "T-Mobile, ABD'deki kablosuz hat abonelerine yönelik sunduğu avantajları kapsayan yeni 'T-Mix' programını duyurdu. Yapılan açıklamaya göre program kapsamındaki avantaj seçenekleri arasına Xbox Game Pass de dahil edildi.",
+        "Kasım ayında başlayacak uygulama doğrultusunda şartları karşılayan T-Mix müşterileri, Game Pass Ultimate veya Game Pass Premium planları arasından seçim yapabilecek. Aboneler bu sayede Xbox konsolları, akıllı televizyonlar ve kişisel bilgisayarlar dahil olmak üzere sahip oldukları cihazlarda oyun kütüphanesine anında erişebilecek.",
+        "Bu iş birliği, Xbox Game Pass hizmetinin ABD pazarında ilk kez bir kablosuz operatör tarifesi aracılığıyla sunulması niteliğini taşıyor. Uygunluk koşulları ve paket tercihine dair ayrıntıların T-Mobile duyurusu üzerinden incelenebileceği aktarıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "04ae060814257cc12e578313f293e220627c7b842dd6077975534307c52a86e5"
+    },
+    {
+      "id": "584f28458c20523d",
+      "category": "TOPLULUK",
+      "title": "Kırılmış PlayStation 5 Konsollarında Steam Oyunları Yerel Olarak Çalıştırıldı",
+      "summary": "Playden for PS5 adlı proje sayesinde kırılmış PlayStation 5 konsollarında Steam oyunları yerel olarak oynatılabiliyor. Yazılım, Wine portu ve grafik çevirici katmanları kullanarak her oyunu bağımsız bir konsol uygulaması haline getiriyor.",
+      "why": "Konsol donanımı üzerinde PC ekosistemine ait oyunların yerel biçimde yürütülmesi, gayriresmi yazılım geliştirme topluluğunda önemli bir teknik eşiği temsil ediyor.",
+      "event_key": "ps5-playden-steam-oyunlari-calistirma",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Yazılım mimarisi, GitHub teknik belgeleri, bilinen sınırlamalar ve hesap riskleri kaynak metinde yer alan doğrulanmış verilerle sunulmuştur."
+      },
+      "brief": "Kırılmış PlayStation 5 konsollarında Steam oyunlarını yerel çalıştıran açık kaynaklı Playden projesi yayımlandı. Erken alfa aşamasındaki sistem, Wine ve DirectX çeviricileriyle oyunları konsolun ana ekranına ayrı uygulamalar olarak ekliyor.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/hardware/a-whole-host-of-steam-pc-games-can-now-run-locally-on-a-jailbroken-playstation-5-including-portal-left-4-dead-2-and-many-more/",
+      "source_published_at": "2026-10-26T16:56:44+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZknvaoNEWA5JE3dS92VY77-1920-80.jpg",
+      "body": [
+        "Kırılmış PlayStation 5 konsollarında Steam oyunlarının doğrudan çalıştırılmasını amaçlayan Playden for PS5 isimli proje kamuya açıldı. Sistem, bir Steam başlatıcısı gibi davranırken aynı zamanda PlayStation 5 için uyarlanan 'prospero-win' adlı Wine portu üzerinden özel bir Windows çalışma ortamı kuruyor.",
+        "Yazılım, DXVK ile Direct3D 11 ve VKD3D-Proton aracılığıyla Direct3D 12 desteği sunarken grafik sürücüleri için ayrı bir çalışma kiti barındırıyor. Projenin GitHub sayfasındaki bilgilere göre araç, indirilen oyunu hazırlayarak ona özel oluşturulan bağımsız bir PS5 uygulamasına devrediyor. Böylece her oyun konsolun ana ekranında kendi kutucuğuna sahip oluyor, dosya ve çökmeler birbirinden yalıtılıyor.",
+        "Geliştiriciler yazılımın henüz erken alfa aşamasında olduğunu, çökmelerin yaşanabileceğini ve Valve'ın üçüncü taraf istemcileri desteklemediğini vurguluyor. Kullanıcıların yazılımı çalıştırmak için resmi Steam hesaplarıyla giriş yapmaları gerektiği ve bu sürecin risk içerdiği belirtiliyor. Topluluk testlerinde Portal gibi oyunların temel kontrollerle çalıştığı, ancak fare imleci ve ESC tuşuyla menüye erişim gibi sınırlamaların bulunduğu aktarılıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e9b7f85fef2eb9dd8597da269e4f0d68a0f45b3fc8c141cca43490b56e171ddc"
+    },
+    {
+      "id": "9ca63062177e9c0c",
+      "category": "ERTELEME",
+      "title": "Shenmue 3: Enhanced Edition 2027 Başlarına Ertelendi",
+      "summary": "Yayıncı Inin Games, Shenmue 3: Enhanced Edition'ın çıkışının 2027 başlarına ertelendiğini duyurdu. Oyunun modern konsollar için geliştirme sürecinin devam ettiği belirtildi.",
+      "why": "Köklü serinin yenilenen sürümünün çıkış takviminde yaşanan erteleme ve oyunun geleceği platformlar netleşti.",
+      "event_key": "shenmue-3-enhanced-edition-2027-erteleme",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Yayıncı Inin Games'in duyurusu doğrultusunda Shenmue 3: Enhanced Edition'ın ertelenme takvimi ve platform bilgileri teyit edilmiştir."
+      },
+      "brief": "Inin Games, bu yılın dördüncü çeyreğinde çıkması planlanan Shenmue 3: Enhanced Edition'ın her şeyi eksiksiz tamamlamak amacıyla 2027'nin başlarına ertelendiğini açıkladı.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/shenmue-3-enhanced-edition-delayed",
+      "source_published_at": "2026-10-26T12:05:37+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/shenmue-3_DWM0Moa.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Yayıncı Inin Games, Shenmue 3: Enhanced Edition'ın çıkışının ertelendiğini açıkladı. Daha önce bu yılın dördüncü çeyreğinde yayımlanması beklenen yapımın, son detayların tamamlanması ve geliştirmenin eksiksiz bitirilmesi amacıyla 2027'nin başlarına bırakıldığı duyuruldu.",
+        "Şirket tarafından paylaşılan bilgilendirmede, Ryo karakterinin modern konsollarda en iyi şekilde görünmesi için çalışmaların sürdüğü ve projede önemli bir ilerleme kaydedildiği aktarıldı. Yenilenen sürümün PC, PlayStation 5, Switch 2 ve Xbox Series X/S platformlarında çıkış yapacağı yinelendi.",
+        "İlk olarak Ağustos 2025'te duyurulan Enhanced Edition, Ys Net tarafından geliştirilen 2019 çıkışlı orijinal oyuna kıyasla çeşitli görsel iyileştirmeler, yaşam kalitesi düzenlemeleri ve modern donanımların sunduğu performans artışlarını vadediyor. Yapımda DLSS ve FSR desteği, Niaowu bölgesinde daha fazla NPC yoğunluğu ve serinin ilk iki oyunundan esinlenen klasik bir kamera modu bulunması planlanıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ee07404be77d795a7ff33072e82e3a0066181f52efa45cb78d3934262f80be87"
+    },
+    {
+      "id": "b96cd3853f977a76",
+      "category": "POLİTİKA",
+      "title": "Kanadalı Siyasi Liderden Kapanan BioWare İçin Federal Destek Çağrısı",
+      "summary": "Kanada Yeni Demokratik Partisi lideri Avi Lewis, EA'in BioWare'i kapatmasını özel sermaye şirketlerine bağladı. Lewis, stüdyonun eski çalışanlar tarafından satın alınması için federal destek sağlanmasını önerdi.",
+      "why": "Büyük bir oyun stüdyosunun kapanışı sonrasında siyasetçilerin konuya müdahil olması ve çalışanların stüdyoyu satın alması yönünde resmi destek talep edilmesi açısından önem taşımaktadır.",
+      "event_key": "avi-lewis-bioware-devlet-destekli-buyback-cagrisi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Kanadalı bir parti liderinin BioWare stüdyosunun kapanışına ilişkin açıklamaları ve çalışanlara yönelik federal satın alma desteği çağrısı doğrulanmış bilgilerle sunulmuştur."
+      },
+      "brief": "Kanada Yeni Demokratik Partisi lideri Avi Lewis, BioWare'in kapatılmasını eleştirerek çalışanların stüdyoyu satın alabilmesi için hükümet desteği verilmesi çağrısında bulundu.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
+      "source_published_at": "2026-10-26T09:53:04+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-husks.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Kanada Yeni Demokratik Partisi (NDP) lideri Avi Lewis, Electronic Arts'ın (EA) oyun stüdyosu BioWare'i kapatma kararının ardından açıklamalarda bulundu. Bluesky platformu üzerinden paylaşım yapan Lewis, stüdyonun kapanmasından özel sermaye yatırımlarını sorumlu tuttu.",
+        "Lewis, özel sermaye gruplarının işletmeleri satın alıp kısa vadeli kâr amacıyla yıprattığını savundu. BioWare bünyesindeki geliştiricilerin stüdyoyu nasıl yöneteceklerini ve sevilen oyunları nasıl yapacaklarını bildiklerini belirten Lewis, stüdyonun çalışanlar tarafından satın alınıp işletilmesi için ilk fırsatın ve federal desteğin bu çalışanlara verilmesi gerektiğini ifade etti.",
+        "EA, kısa bir süre önce Suudi Arabistan merkezli Savvy Games Group ve Jared Kushner'ın özel sermaye şirketinin yer aldığı kaldıraçlı bir satın almayla el değiştirmişti. Bu gelişmenin ardından BioWare kapatılırken; Respawn, Maxis ve Full Circle dahil olmak üzere çeşitli stüdyolardan yaklaşık 400 çalışan işini kaybetti. Lewis'in açıklamalarının yanı sıra Larian, CD Projekt Red ve Warren Spector gibi sektörün tanınmış isimleri de stüdyonun kapanmasıyla ilgili üzüntülerini paylaştı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ff169c369bbbf306df66a638005f9b25ad7bd434a28a282267c022048271f671"
+    },
+    {
+      "id": "c6c75fecb3ac7fbb",
+      "category": "ETKİNLİK",
+      "title": "Helldivers 2'de Özgürlük Günü 2026 Kutlamaları Başladı",
+      "summary": "Arrowhead Game Studios, Helldivers 2 evrenindeki Özgürlük Günü kutlamalarını duyurdu. Aktif oyunculara retro tüfek hediye edilirken uzay gemilerine özel süslemeler ve yeni ürünler eklendi.",
+      "why": "Oyun içi özel etkinlik kapsamında sunulan hediyelerin şartları, sınırlı süreli gemi dekorasyonları ve yeni lisanslı ürün koleksiyonlarının satış takvimi açıklandı.",
+      "event_key": "helldivers-2-liberty-day-2026-hediyeleri",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Arrowhead Game Studios tarafından paylaşılan oyun içi hediyeler, takvim kısıtlamaları ve ürün iş birliklerine dair doğrulanmış detaylar aktarılmaktadır."
+      },
+      "brief": "Helldivers 2 geliştiricileri, oyun içi Özgürlük Günü etkinliği kapsamında 24 saatlik gemi süslemeleri ve AR-23L Liberator Legacy tüfeğini oyunculara sundu. Mağazada ise belirli görevleri tamamlayanlara yönelik yeni fiziksel ürünler satışa açıldı.",
+      "source_name": "PlayStation Blog",
+      "source_url": "https://blog.playstation.com/2026/10/26/celebrate-helldivers-2-liberty-day-2026-with-in-game-gifts-today/",
+      "source_published_at": "2026-10-26T10:00:05+00:00",
+      "image_url": "https://blog.playstation.com/tachyon/2026/10/eff4855b16a092b26b26caeee292ff736efc92b9.jpg",
+      "body": [
+        "Arrowhead Game Studios, Helldivers 2 evreninde bu yıl üçüncü kez kutlanan Özgürlük Günü etkinliklerini duyurdu. 26 Ekim tarihinde yürürlüğe giren kutlamalar kapsamında, oyuncuların Super Destroyer gemilerine 24 saatliğine bayraklar, halılar ve parti malzemeleri gibi özel tatil süslemeleri yerleştirildi.",
+        "Etkinlik çerçevesinde aktif oyunculara yönelik bir silah hediyesi de sunuldu. İlk Galaktik Savaş'ta kullanılan silahlardan esinlenilerek tasarlanan AR-23L Liberator Legacy adlı retro tüfek, kutlamaların sona ermesiyle dağıtılacak. Bu ödülden, 26 Eylül 2026 saat 00.00 CET'ten itibaren oyunu oynamış olan tüm kullanıcılar faydalanabilecek ve dağıtım 26 Ekim 2026 saat 23.59 CET itibarıyla tamamlanacak.",
+        "Geliştirici ekip ayrıca topluluk mini oyunlarını ve 'Özgürlük Günü Parti Paketi' adlı indirilebilir içeriği duyurdu. Öte yandan Super Merch mağazasında oyuncu başarımlarına bağlı yeni fiziksel ürünler listelendi. 28 Şubat 2027 tarihine kadar 100. seviyeye ulaşıp 'Hell Commander' unvanını alanlar özel bir rozet, 75 görevi tamamlayanlar ise Private Teddy Snuggles peluşunu satın alma hakkı kazanacak. Peluş ürününün Japonya'ya gönderiminin bulunmadığı açıklandı. Displate ve FiGGYZ iş birlikleriyle hazırlanan koleksiyon ürünleri de tanıtıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "71b1870c1d14ffc0ae924326f7e574578b85f19863d11b88c54579f3fb74ec2f"
+    },
+    {
+      "id": "e0536d4ed83b8301",
+      "category": "OYUN GELİŞTİRME",
+      "title": "GameMaker PC İçin Ticari Kullanımda Ücretsiz Oluyor",
+      "summary": "YoYo Games, oyun motoru GameMaker'ın 1 Ocak 2027 itibarıyla PC, web ve mobil platformlarda ticari kullanım için ücretsiz hale geleceğini açıkladı. Konsol dağıtımları için ücretli lisans zorunluluğu sürecek.",
+      "why": "Bağımsız oyun ekosisteminde köklü bir yere sahip oyun motorunun ticari lisans bariyerini kaldırarak geliştiricilerin maliyet modellerini değiştirecektir.",
+      "event_key": "gamemaker-pc-ticari-kullanim-ucretsiz",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 2,
+        "evidence": 3,
+        "reason": "Geliştirici stüdyonun resmi açıklamasına dayanan, lisans modeli ve 1 Ocak 2027 takvimini net biçimde bildiren bir sektörel gelişmedir."
+      },
+      "brief": "Undertale ve Hotline Miami gibi oyunların geliştirildiği GameMaker oyun motoru, 1 Ocak 2027'den itibaren PC platformunda ticari oyun geliştirmek için tamamen ücretsiz olacak. Konsol sürümleri içinse lisans şartı devam edecek.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/the-gamemaker-engine-series-behind-undertale-hotline-miami-and-spelunky-is-going-free-for-commercial-use-on-pc",
+      "source_published_at": "2026-10-26T18:15:00+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/spelunky-2_iisNC2Y.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Undertale, Spelunky ve Hotline Miami gibi popüler bağımsız yapımların arkasındaki oyun geliştirme araç seti GameMaker, PC platformundaki ticari oyunlar için ücretsiz hale getiriliyor. Opera bünyesindeki geliştirici stüdyo YoYo Games tarafından yapılan duyuruya göre, yeni model 1 Ocak 2027 tarihinden itibaren geçerli olacak.",
+        "Mevcut sistemde geliştiricilerin GameMaker kullanarak ürettikleri oyunları PC platformunda satabilmeleri veya gelir elde edebilmeleri için Professional lisansına sahip olmaları gerekiyordu. 2027 başında devreye girecek düzenlemeyle birlikte geliştiriciler, son GameMaker araçlarıyla PC, web ve mobil platformlar için ücretsiz olarak ticari oyun yayınlayabilecek. Kasım 2023'te ticari olmayan PC kullanımları için ücretsiz hale getirilen motorun kapsamı böylece genişletilmiş olacak.",
+        "Topluluk geliştiricisi Ross Manthorpe, resmi internet sitesinde paylaştığı detaylarda konsol platformlarının bu uygulamanın dışında kaldığını açıkladı. Konsollara oyun ihraç etmek isteyen geliştiricilerin, çalışma motorundan bağımsız olarak onaylı geliştirici statüsüne ve Enterprise lisansına ihtiyaç duymayı sürdüreceği bildirildi. Halihazırda Professional lisansına sahip geliştiricilerin ise mevcut GMS2 altyapısındaki oyunlarını ticari olarak dağıtmaya devam edebileceği ve kaynak koduna erişim hakkı kazanacağı belirtildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "439549be5763c7cc026dc4af51f6f30390dc398bdf9b5ae2875d5036e4a661c1"
+    },
+    {
+      "id": "f3a8b4dec6c2fd6b",
+      "category": "DONANIM",
+      "title": "Phantom Blade Zero İçin 300 GB Ön Yükleme Alanı Gerekecek",
+      "summary": "S-Game tarafından geliştirilen Phantom Blade Zero'nun güncellenen sistem gereksinimleri ve depolama şartları duyuruldu. Oyun kurulduğunda 145 GB yer kaplarken, ön yükleme aşaması için en az 300 GB boş disk alanı isteniyor.",
+      "why": "Unreal Engine 5 tabanlı yapımın yüksek ön yükleme ve disk alanı ihtiyacı, oyunu oynamayı planlayan kullanıcıların donanım hazırlıklarını doğrudan etkiliyor.",
+      "event_key": "phantom-blade-zero-300gb-on-yukleme-alani",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Geliştiricinin resmi duyurusuna dayanan donanım gereksinimleri, depolama kotaları ve ön yükleme takvimi somut rakamlarla aktarılmıştır."
+      },
+      "brief": "Aksiyon rol yapma oyunu Phantom Blade Zero için güncel sistem gereksinimleri açıklandı. 28 Ekim'de çıkacak oyunun kurulumu 145 GB SSD alanı isterken, 26 Ekim'de başlayacak ön yükleme işlemi en az 300 GB boş alan gerektirecek.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/hardware/phantom-blade-zero-devs-say-the-game-needs-300-gb-of-free-space-for-the-pre-load-process-alongside-updated-system-requirements/",
+      "source_published_at": "2026-10-26T14:21:32+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bWxx5zX7KNQdQJjhwE8fYd-2560-80.jpg",
+      "body": [
+        "Çinli geliştirici S-Game, Unreal Engine 5 motoruyla geliştirilen aksiyon rol yapma oyunu Phantom Blade Zero için güncellenen sistem gereksinimlerini paylaştı. 28 Ekim'deki lansman öncesinde stüdyonun resmi X hesabından yapılan bilgilendirmeye göre, oyunun ön yükleme süreci 26 Ekim'de başlayacak.",
+        "Açıklanan verilere göre oyun kurulduğunda 145 GB depolama alanına ihtiyaç duyuyor ve çalışması için bir SSD zorunlu tutuluyor. Ancak ön yükleme esnasındaki dosya açma (dekompresyon) işlemi nedeniyle kullanıcıların disklerinde en az 300 GB boş alan bulundurması gerektiği bildirildi. Ayrıca oyunculardan çıkış öncesinde güncel grafik sürücülerini yüklemeleri istendi.",
+        "Minimum ayarlarda (ışın izleme kapalı, yükseltme ile 1080p 30 fps) Intel Core i7 8700K veya AMD Ryzen 5 3600 işlemci, 16 GB bellek ve Nvidia GeForce GTX 1660 ya da AMD Radeon RX 5500 XT ekran kartı aranıyor. Önerilen tarafta ise (1440p 60 fps) Intel Core i5 10600K veya AMD Ryzen 5 5600X işlemci ile Nvidia GeForce RTX 3060 Ti ya da AMD Radeon RX 6700 XT ekran kartı talep ediliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b54c427f2b15eaf63b39f706cb0e20517fb00ea06a245f582983ada9d0814379"
+    },
+    {
+      "id": "fee1fa931018a892",
+      "category": "RAPOR",
+      "title": "Steam Next Fest'in En Çok Oynanan 50 Demosu Açıklandı",
+      "summary": "Valve, 8 binden fazla demonun yer aldığı Steam Next Fest'te en çok oynanan 50 oyunu listeledi. Listede eşli oyunlar ve artımlı türler öne çıkarken sadece 4 oyunda yapay zeka kullanımı beyan edildi.",
+      "why": "Dijital oyun pazarında bağımsız geliştiricilerin ve oyuncu tercihlerinin güncel yönelimini ortaya koyan resmi festival verileri yayımlandı.",
+      "event_key": "steam-next-fest-en-cok-oynanan-50-demo",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Valve'ın açıkladığı resmi Steam Next Fest istatistiklerine ve en çok oynanan 50 oyunun tür dağılımına ilişkin teyitli veriler aktarılmıştır."
+      },
+      "brief": "Valve, son Steam Next Fest etkinliğinde en çok oynanan 50 demoyu paylaştı. Basit eğlenceli eşli oyunların hakim olduğu listede sadece dört oyunun yapay zeka beyanı yaptığı görüldü.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
+      "source_published_at": "2026-10-27T00:18:15+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/go39hWDEGCotfQFaMgkWDo-1920-80.png",
+      "body": [
+        "Valve, 8 binden fazla demonun sunulduğu son Steam Next Fest etkinliğinin ardından en çok oynanan 50 yapımı kamuoyuyla paylaştı. Zirvesinde 1 ila 6 oyunculu asimetrik parti oyunu Worst Class Ever'ın yer aldığı liste, oyuncuların tercih ettiği güncel türleri gözler önüne serdi.",
+        "Açıklanan verilere göre listede 15 adet eğlenceli ve mizahi eşli oyun yer aldı. Dude, Trust Me, Oar'Some Adventures ve Banana Airways bu yapımlar arasında gösterildi. Listede ayrıca 10 Million Pixels ve Unharvest dahil olmak üzere 7 artımlı oyun, 3 hayatta kalma oyunu, Loftia'nın aralarında bulunduğu 3 'cozy' oyun ve 1 MMO (ArchAge Chronicles) kendine yer buldu. Geleneksel büyük yayıncılar arasından listeye giren tek oyun Kalypso Media imzalı Tropico 7 oldu.",
+        "Festival sonuçları, üretken yapay zekanın geniş kitleler nezdinde sınırlı yer bulduğunu gösterdi. En çok oynanan 50 yapım arasında yalnızca dört geliştirici yapay zeka kullandığını beyan etti. Bu oyunlardan biri olan Teach My Little Sister How To Drive, büyük dil modeliyle çalışan bir NPC içeriyor ve geliştiricisinin aktardığına göre bu sistem günlük 1.000 doların üzerinde bir maliyet yaratıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e38ab2213e0330c5c051b99ac379d046d09ccf483d397c7f09dac300a3b32465"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 12,
+    "duration": 346.2,
+    "bytes": 2076912,
+    "sha256": "3490b9113a64c2d9f1c9a0be33650dbc0b8ae39bbb4119866b5f9da9a7f42e7f"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 12,
+    "duration": 739.1,
+    "bytes": 11826199,
+    "sha256": "38961d6f45194731ecc5f2c9ea3d1f8329170a54b314055aa88113678285b353"
+  },
+  "audio_revision": 5
+}
