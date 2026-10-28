@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "a03f6a16c66df8ea7e634805eba286cfc12660e0c2f42b661feb8dfe4ba8bfc5",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 18.2,
+      "title": "Rockstar Çalışanları Sendika Oylamasına Gidiyor"
+    },
+    {
+      "start": 90.02,
+      "title": "Don't Nod'da İflas Riski ve İşten Çıkarma İddiaları"
+    },
+    {
+      "start": 172.9,
+      "title": "Auroch Digital'da İşten Çıkarma Duyurusu Karmaşası"
+    },
+    {
+      "start": 246.38,
+      "title": "Microsoft'tan Gönüllü Ayrılık Teklifi ve Call of Duty Geliri"
+    },
+    {
+      "start": 343.56,
+      "title": "Warhorse Studios Siber Saldırıya Uğradı"
+    },
+    {
+      "start": 408.36,
+      "title": "Street Fighter V Güvenlik Açığı Nedeniyle Kaldırıldı"
+    },
+    {
+      "start": 489.46,
+      "title": "Pokémon Unite 2027 Yılında Kapanıyor"
+    },
+    {
+      "start": 567.74,
+      "title": "STALKER 2 İçin 2.1 Güncellemesi Yayınlandı"
+    },
+    {
+      "start": 645.78,
+      "title": "Resident Evil Hikayesi Önümüzdeki 10 Yılda Bitebilir"
+    },
+    {
+      "start": 732.82,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "c7f2fbeb29d32567",
+      "start": 22.34,
+      "end": 82.72
+    },
+    {
+      "story_id": "b6eba591994d2f67",
+      "start": 90.02,
+      "end": 166.04
+    },
+    {
+      "story_id": "9b27cd8db491ba65",
+      "start": 172.9,
+      "end": 241.64
+    },
+    {
+      "story_id": "9e5099f8ccc72d3f",
+      "start": 346.88,
+      "end": 407.96
+    },
+    {
+      "story_id": "d3bf434741f9e095",
+      "start": 408.36,
+      "end": 489.04
+    },
+    {
+      "story_id": "fe1632c2ccda00dc",
+      "start": 493.72,
+      "end": 567.12
+    },
+    {
+      "story_id": "b769020fcf137b9a",
+      "start": 573.46,
+      "end": 645.38
+    },
+    {
+      "story_id": "7713a5e2a45094c5",
+      "start": 650.44,
+      "end": 732.4
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "459242fe644b5d060b96878c86701c1d99a7c6bc552d5776005fa722fed951aa"
+}

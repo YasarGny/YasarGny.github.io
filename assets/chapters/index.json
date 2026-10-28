@@ -1,1 +1,231 @@
-{}
+{
+  "952f918b06af5e44697d1cc263c71f02312720a665882fa516fd64097807e2b0": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "952f918b06af5e44697d1cc263c71f02312720a665882fa516fd64097807e2b0",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 15.3,
+        "title": "OpenAI'a Açılan Epilepsi İlacı Davası"
+      },
+      {
+        "start": 91.04,
+        "title": "Delaware'in Yapay Zekalı Şirket Taslağı ve Kongre İncelemesi"
+      },
+      {
+        "start": 181.48,
+        "title": "TianoCore EDK-2 Belleniminde Kritik Bellek Taşması Açığı"
+      },
+      {
+        "start": 274.38,
+        "title": "CISA'nın PHP2Shell Uyarısı ve Tailscale Güvenlik Açıkları"
+      },
+      {
+        "start": 367.42,
+        "title": "GMO Internet'in Onamae Desktop Cloud İhlali ve Kriz Çağrısı"
+      },
+      {
+        "start": 442.0,
+        "title": "New Mexico Üniversitesi Sağlık Merkezine Fidye Saldırısı"
+      },
+      {
+        "start": 523.68,
+        "title": "Discord'un Açık Sunucu Sohbetlerini Arama Motorlarına Açması"
+      },
+      {
+        "start": 609.18,
+        "title": "ChatGPT'ye iCloud E-posta ve Takvim Entegrasyonu"
+      },
+      {
+        "start": 680.02,
+        "title": "Google DeepMind'ın Yeni Dünya Modeli Genie 4"
+      },
+      {
+        "start": 760.72,
+        "title": "Apple'ın M6 İşlemcili Yeni MacBook Pro ve iMac Modelleri"
+      },
+      {
+        "start": 843.38,
+        "title": "Çin'in Gizli Uzay Uçağının Yörüngeden Çekilen Görüntüsü"
+      },
+      {
+        "start": 923.88,
+        "title": "Ukraynalı Himera ve GomSpace'in İletişim Uydusu Testi"
+      },
+      {
+        "start": 1000.26,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "4c5627bb695205d1",
+        "start": 15.3,
+        "end": 90.72
+      },
+      {
+        "story_id": "f45c7980de26dbce",
+        "start": 91.04,
+        "end": 180.48
+      },
+      {
+        "story_id": "041404daf6ce6d0b",
+        "start": 181.48,
+        "end": 274.16
+      },
+      {
+        "story_id": "c79b9055e5fe5a0b",
+        "start": 274.38,
+        "end": 299.66
+      },
+      {
+        "story_id": "3fbb6d8c32783e47",
+        "start": 300.32,
+        "end": 367.42
+      },
+      {
+        "story_id": "ebe6130a3b49d0f8",
+        "start": 367.42,
+        "end": 441.66
+      },
+      {
+        "story_id": "7858f058b71eba12",
+        "start": 442.0,
+        "end": 523.06
+      },
+      {
+        "story_id": "11db2813396e4da3",
+        "start": 523.68,
+        "end": 608.98
+      },
+      {
+        "story_id": "892d165bf080bc80",
+        "start": 609.18,
+        "end": 680.02
+      },
+      {
+        "story_id": "18d6fa11580979b9",
+        "start": 680.02,
+        "end": 760.1
+      },
+      {
+        "story_id": "5df984d6f0d395de",
+        "start": 760.72,
+        "end": 843.38
+      },
+      {
+        "story_id": "ca4603f34f23831e",
+        "start": 843.38,
+        "end": 923.34
+      },
+      {
+        "story_id": "96d58ee4c4c32f32",
+        "start": 923.88,
+        "end": 999.74
+      }
+    ],
+    "section": "teknoloji",
+    "clips_reviewed": true,
+    "stories_sha256": "9505d8ca5768bae885a6e7174d760e30477516ebf48af9e8835e0f8cc7fb5017"
+  },
+  "a03f6a16c66df8ea7e634805eba286cfc12660e0c2f42b661feb8dfe4ba8bfc5": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "a03f6a16c66df8ea7e634805eba286cfc12660e0c2f42b661feb8dfe4ba8bfc5",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 18.2,
+        "title": "Rockstar Çalışanları Sendika Oylamasına Gidiyor"
+      },
+      {
+        "start": 90.02,
+        "title": "Don't Nod'da İflas Riski ve İşten Çıkarma İddiaları"
+      },
+      {
+        "start": 172.9,
+        "title": "Auroch Digital'da İşten Çıkarma Duyurusu Karmaşası"
+      },
+      {
+        "start": 246.38,
+        "title": "Microsoft'tan Gönüllü Ayrılık Teklifi ve Call of Duty Geliri"
+      },
+      {
+        "start": 343.56,
+        "title": "Warhorse Studios Siber Saldırıya Uğradı"
+      },
+      {
+        "start": 408.36,
+        "title": "Street Fighter V Güvenlik Açığı Nedeniyle Kaldırıldı"
+      },
+      {
+        "start": 489.46,
+        "title": "Pokémon Unite 2027 Yılında Kapanıyor"
+      },
+      {
+        "start": 567.74,
+        "title": "STALKER 2 İçin 2.1 Güncellemesi Yayınlandı"
+      },
+      {
+        "start": 645.78,
+        "title": "Resident Evil Hikayesi Önümüzdeki 10 Yılda Bitebilir"
+      },
+      {
+        "start": 732.82,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "c7f2fbeb29d32567",
+        "start": 22.34,
+        "end": 82.72
+      },
+      {
+        "story_id": "b6eba591994d2f67",
+        "start": 90.02,
+        "end": 166.04
+      },
+      {
+        "story_id": "9b27cd8db491ba65",
+        "start": 172.9,
+        "end": 241.64
+      },
+      {
+        "story_id": "9e5099f8ccc72d3f",
+        "start": 346.88,
+        "end": 407.96
+      },
+      {
+        "story_id": "d3bf434741f9e095",
+        "start": 408.36,
+        "end": 489.04
+      },
+      {
+        "story_id": "fe1632c2ccda00dc",
+        "start": 493.72,
+        "end": 567.12
+      },
+      {
+        "story_id": "b769020fcf137b9a",
+        "start": 573.46,
+        "end": 645.38
+      },
+      {
+        "story_id": "7713a5e2a45094c5",
+        "start": 650.44,
+        "end": 732.4
+      }
+    ],
+    "section": "oyun",
+    "clips_reviewed": true,
+    "stories_sha256": "459242fe644b5d060b96878c86701c1d99a7c6bc552d5776005fa722fed951aa"
+  }
+}
