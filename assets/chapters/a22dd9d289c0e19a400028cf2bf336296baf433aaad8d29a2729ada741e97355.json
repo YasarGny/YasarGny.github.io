@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "a22dd9d289c0e19a400028cf2bf336296baf433aaad8d29a2729ada741e97355",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 4.0,
+      "title": "Dokunmatik Ekranlı ve OLED Panelli MacBook Pro"
+    },
+    {
+      "start": 85.26,
+      "title": "Microsoft Azure Bulut Gelirlerini Açıkladı"
+    },
+    {
+      "start": 136.56,
+      "title": "ABD Enerji Bakanlığı'ndan Nükleer Kapasite Kredisi"
+    },
+    {
+      "start": 194.16,
+      "title": "ABD İç Güvenlik Bakanlığı Personel Verileri Sızdırıldı"
+    },
+    {
+      "start": 261.64,
+      "title": "Volt Typhoon'un Silent Train Altyapısı ve Siber Tehditler"
+    },
+    {
+      "start": 312.22,
+      "title": "Sony Network Communications Veri İhlali"
+    },
+    {
+      "start": 328.12,
+      "title": "Google'ın Yeni Modeli Gemini 4 Carbon"
+    },
+    {
+      "start": 385.66,
+      "title": "New York'ta Çocukları Yapay Zekâ Botlarından Koruyan Yasa"
+    },
+    {
+      "start": 450.8,
+      "title": "Amazon Leo'nun Globalstar'ı Satın Almasına Onay"
+    },
+    {
+      "start": 502.58,
+      "title": "ULA'nın Vulcan Roketi Uçuşlara Dönüyor"
+    },
+    {
+      "start": 557.72,
+      "title": "AB'den Grönland Üzerinden Pan-Arktik Denizaltı Kablo Projesi"
+    },
+    {
+      "start": 624.18,
+      "title": "Android XR Destekli Akıllı Gözlük Xreal Aura"
+    },
+    {
+      "start": 688.32,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "cabf6302d4194f10",
+      "start": 4.0,
+      "end": 84.96
+    },
+    {
+      "story_id": "0c8f9ce2d60c8e0d",
+      "start": 85.26,
+      "end": 136.24
+    },
+    {
+      "story_id": "b90659780b414dea",
+      "start": 136.56,
+      "end": 193.78
+    },
+    {
+      "story_id": "1cbacb75bb503dab",
+      "start": 194.16,
+      "end": 261.2
+    },
+    {
+      "story_id": "0b33a76a486a83fb",
+      "start": 261.64,
+      "end": 311.78
+    },
+    {
+      "story_id": "cfdef39189ea2bb2",
+      "start": 312.22,
+      "end": 328.12
+    },
+    {
+      "story_id": "6825ae5281ac7c3f",
+      "start": 328.12,
+      "end": 385.18
+    },
+    {
+      "story_id": "8eb6cbe33d2fff4e",
+      "start": 385.66,
+      "end": 450.8
+    },
+    {
+      "story_id": "fff4406e2ad7a881",
+      "start": 450.8,
+      "end": 502.58
+    },
+    {
+      "story_id": "9c5b37f8dc98b8bf",
+      "start": 502.58,
+      "end": 556.72
+    },
+    {
+      "story_id": "0c9c5da2c2166495",
+      "start": 557.72,
+      "end": 623.44
+    },
+    {
+      "story_id": "e054049a83e97f97",
+      "start": 624.18,
+      "end": 687.88
+    }
+  ],
+  "section": "teknoloji",
+  "clips_reviewed": true,
+  "stories_sha256": "7baea6a70b06fe0d6ef2252107c3af4b7084ce48435cc6ff61dcad64ff808059"
+}

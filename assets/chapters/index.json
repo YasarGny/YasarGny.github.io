@@ -1,1 +1,252 @@
-{}
+{
+  "a22dd9d289c0e19a400028cf2bf336296baf433aaad8d29a2729ada741e97355": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "a22dd9d289c0e19a400028cf2bf336296baf433aaad8d29a2729ada741e97355",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 4.0,
+        "title": "Dokunmatik Ekranlı ve OLED Panelli MacBook Pro"
+      },
+      {
+        "start": 85.26,
+        "title": "Microsoft Azure Bulut Gelirlerini Açıkladı"
+      },
+      {
+        "start": 136.56,
+        "title": "ABD Enerji Bakanlığı'ndan Nükleer Kapasite Kredisi"
+      },
+      {
+        "start": 194.16,
+        "title": "ABD İç Güvenlik Bakanlığı Personel Verileri Sızdırıldı"
+      },
+      {
+        "start": 261.64,
+        "title": "Volt Typhoon'un Silent Train Altyapısı ve Siber Tehditler"
+      },
+      {
+        "start": 312.22,
+        "title": "Sony Network Communications Veri İhlali"
+      },
+      {
+        "start": 328.12,
+        "title": "Google'ın Yeni Modeli Gemini 4 Carbon"
+      },
+      {
+        "start": 385.66,
+        "title": "New York'ta Çocukları Yapay Zekâ Botlarından Koruyan Yasa"
+      },
+      {
+        "start": 450.8,
+        "title": "Amazon Leo'nun Globalstar'ı Satın Almasına Onay"
+      },
+      {
+        "start": 502.58,
+        "title": "ULA'nın Vulcan Roketi Uçuşlara Dönüyor"
+      },
+      {
+        "start": 557.72,
+        "title": "AB'den Grönland Üzerinden Pan-Arktik Denizaltı Kablo Projesi"
+      },
+      {
+        "start": 624.18,
+        "title": "Android XR Destekli Akıllı Gözlük Xreal Aura"
+      },
+      {
+        "start": 688.32,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "cabf6302d4194f10",
+        "start": 4.0,
+        "end": 84.96
+      },
+      {
+        "story_id": "0c8f9ce2d60c8e0d",
+        "start": 85.26,
+        "end": 136.24
+      },
+      {
+        "story_id": "b90659780b414dea",
+        "start": 136.56,
+        "end": 193.78
+      },
+      {
+        "story_id": "1cbacb75bb503dab",
+        "start": 194.16,
+        "end": 261.2
+      },
+      {
+        "story_id": "0b33a76a486a83fb",
+        "start": 261.64,
+        "end": 311.78
+      },
+      {
+        "story_id": "cfdef39189ea2bb2",
+        "start": 312.22,
+        "end": 328.12
+      },
+      {
+        "story_id": "6825ae5281ac7c3f",
+        "start": 328.12,
+        "end": 385.18
+      },
+      {
+        "story_id": "8eb6cbe33d2fff4e",
+        "start": 385.66,
+        "end": 450.8
+      },
+      {
+        "story_id": "fff4406e2ad7a881",
+        "start": 450.8,
+        "end": 502.58
+      },
+      {
+        "story_id": "9c5b37f8dc98b8bf",
+        "start": 502.58,
+        "end": 556.72
+      },
+      {
+        "story_id": "0c9c5da2c2166495",
+        "start": 557.72,
+        "end": 623.44
+      },
+      {
+        "story_id": "e054049a83e97f97",
+        "start": 624.18,
+        "end": 687.88
+      }
+    ],
+    "section": "teknoloji",
+    "clips_reviewed": true,
+    "stories_sha256": "7baea6a70b06fe0d6ef2252107c3af4b7084ce48435cc6ff61dcad64ff808059"
+  },
+  "522af87640666cc217936009feafd8f2eadf6c0b60681198d4911b38f274576b": {
+    "schema_version": 1,
+    "reviewed": true,
+    "audio_sha256": "522af87640666cc217936009feafd8f2eadf6c0b60681198d4911b38f274576b",
+    "chapters": [
+      {
+        "start": 0.0,
+        "title": "Açılış"
+      },
+      {
+        "start": 22.44,
+        "title": "GTA 6'da Yapay Zekâ Karakterleri ve Animasyonlar"
+      },
+      {
+        "start": 44.56,
+        "title": "GTA 6'nın PS5 İndirme Boyutu"
+      },
+      {
+        "start": 110.52,
+        "title": "Epic Games ve Kod Geliştirmede Yapay Zekâ"
+      },
+      {
+        "start": 153.58,
+        "title": "Steam'deki Klon Oyunlar ve Valve'ın Tutumu"
+      },
+      {
+        "start": 202.22,
+        "title": "Tim Sweeney'nin Steamworks Eleştirisi"
+      },
+      {
+        "start": 230.78,
+        "title": "BioWare'in Kapanışı ve Greg Zeschuk'un Açıklamaları"
+      },
+      {
+        "start": 276.28,
+        "title": "Undead Labs ve State of Decay 3'ün Tasarım Değişikliği"
+      },
+      {
+        "start": 318.14,
+        "title": "Pocketpair'in Palworld ve Switch 2 Açıklaması"
+      },
+      {
+        "start": 369.92,
+        "title": "Capcom'un Yarıyıl Mali Raporu ve Satışlar"
+      },
+      {
+        "start": 434.9,
+        "title": "Alien: Isolation 2 Oynanış ve Mikrofon Mekaniği"
+      },
+      {
+        "start": 481.32,
+        "title": "Arc Raiders PvE Modu Testi"
+      },
+      {
+        "start": 535.48,
+        "title": "No Man's Sky Mobil Sürümü ve Forsaken Güncellemesi"
+      },
+      {
+        "start": 585.72,
+        "title": "Sektörel Değerlendirme"
+      },
+      {
+        "start": 621.62,
+        "title": "Kapanış"
+      }
+    ],
+    "story_ranges": [
+      {
+        "story_id": "c08b3799297d4d4f",
+        "start": 120.44,
+        "end": 152.94
+      },
+      {
+        "story_id": "0bdef1dae85a8b8f",
+        "start": 156.4,
+        "end": 201.62
+      },
+      {
+        "story_id": "e74ab2918869a336",
+        "start": 202.22,
+        "end": 223.94
+      },
+      {
+        "story_id": "a2ebd2f75c11718b",
+        "start": 236.76,
+        "end": 275.66
+      },
+      {
+        "story_id": "afc0a90b61369d02",
+        "start": 276.28,
+        "end": 293.6
+      },
+      {
+        "story_id": "41ad228fc4102451",
+        "start": 322.74,
+        "end": 369.1
+      },
+      {
+        "story_id": "498d04330ab30ed9",
+        "start": 369.92,
+        "end": 429.8
+      },
+      {
+        "story_id": "894e27ef899feae4",
+        "start": 434.9,
+        "end": 480.82
+      },
+      {
+        "story_id": "11b5137768a1e1f9",
+        "start": 481.32,
+        "end": 535.06
+      },
+      {
+        "story_id": "10029b53c81044e0",
+        "start": 535.48,
+        "end": 585.16
+      }
+    ],
+    "section": "oyun",
+    "clips_reviewed": true,
+    "stories_sha256": "8647d42c94faf7b3864b837805322b2f00c8e139de80099c857354a3e7423851"
+  }
+}

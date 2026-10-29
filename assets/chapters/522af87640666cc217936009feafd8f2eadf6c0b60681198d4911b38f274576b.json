@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "522af87640666cc217936009feafd8f2eadf6c0b60681198d4911b38f274576b",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 22.44,
+      "title": "GTA 6'da Yapay Zekâ Karakterleri ve Animasyonlar"
+    },
+    {
+      "start": 44.56,
+      "title": "GTA 6'nın PS5 İndirme Boyutu"
+    },
+    {
+      "start": 110.52,
+      "title": "Epic Games ve Kod Geliştirmede Yapay Zekâ"
+    },
+    {
+      "start": 153.58,
+      "title": "Steam'deki Klon Oyunlar ve Valve'ın Tutumu"
+    },
+    {
+      "start": 202.22,
+      "title": "Tim Sweeney'nin Steamworks Eleştirisi"
+    },
+    {
+      "start": 230.78,
+      "title": "BioWare'in Kapanışı ve Greg Zeschuk'un Açıklamaları"
+    },
+    {
+      "start": 276.28,
+      "title": "Undead Labs ve State of Decay 3'ün Tasarım Değişikliği"
+    },
+    {
+      "start": 318.14,
+      "title": "Pocketpair'in Palworld ve Switch 2 Açıklaması"
+    },
+    {
+      "start": 369.92,
+      "title": "Capcom'un Yarıyıl Mali Raporu ve Satışlar"
+    },
+    {
+      "start": 434.9,
+      "title": "Alien: Isolation 2 Oynanış ve Mikrofon Mekaniği"
+    },
+    {
+      "start": 481.32,
+      "title": "Arc Raiders PvE Modu Testi"
+    },
+    {
+      "start": 535.48,
+      "title": "No Man's Sky Mobil Sürümü ve Forsaken Güncellemesi"
+    },
+    {
+      "start": 585.72,
+      "title": "Sektörel Değerlendirme"
+    },
+    {
+      "start": 621.62,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "c08b3799297d4d4f",
+      "start": 120.44,
+      "end": 152.94
+    },
+    {
+      "story_id": "0bdef1dae85a8b8f",
+      "start": 156.4,
+      "end": 201.62
+    },
+    {
+      "story_id": "e74ab2918869a336",
+      "start": 202.22,
+      "end": 223.94
+    },
+    {
+      "story_id": "a2ebd2f75c11718b",
+      "start": 236.76,
+      "end": 275.66
+    },
+    {
+      "story_id": "afc0a90b61369d02",
+      "start": 276.28,
+      "end": 293.6
+    },
+    {
+      "story_id": "41ad228fc4102451",
+      "start": 322.74,
+      "end": 369.1
+    },
+    {
+      "story_id": "498d04330ab30ed9",
+      "start": 369.92,
+      "end": 429.8
+    },
+    {
+      "story_id": "894e27ef899feae4",
+      "start": 434.9,
+      "end": 480.82
+    },
+    {
+      "story_id": "11b5137768a1e1f9",
+      "start": 481.32,
+      "end": 535.06
+    },
+    {
+      "story_id": "10029b53c81044e0",
+      "start": 535.48,
+      "end": 585.16
+    }
+  ],
+  "section": "oyun",
+  "clips_reviewed": true,
+  "stories_sha256": "8647d42c94faf7b3864b837805322b2f00c8e139de80099c857354a3e7423851"
+}

@@ -1,0 +1,500 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "teknoloji",
+  "publish_date": "2026-10-29",
+  "date": "29 Ekim 2026",
+  "issue": 14,
+  "ready": true,
+  "stories": [
+    {
+      "id": "0c8f9ce2d60c8e0d",
+      "category": "YAZILIM",
+      "title": "Microsoft Azure Bulut Gelirini İlk Kez Dolar Olarak Açıkladı",
+      "summary": "Microsoft, bulut platformu Azure'un üç aylık gelirini ilk kez resmi olarak dolar cinsinden duyurarak 33,2 milyar dolara ulaştığını bildirdi. Şirketin en büyük iş kolu haline gelen Azure, bir önceki yılın aynı dönemine göre yüzde 48 büyüme kaydetti.",
+      "why": "Azure'un resmi dolar gelirinin ilk defa paylaşılması, bulut pazarındaki en büyük oyuncular olan Microsoft, Amazon Web Services ve Google Cloud arasındaki rekabetin doğrudan kıyaslanabilmesini sağlamaktadır.",
+      "event_key": "microsoft-q1-fy2027-gelir-azure-openai",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Microsoft'un Azure gelirini ilk kez doğrudan dolar cinsinden açıklaması ve beklentileri aşan 33,2 milyar dolarlık düzey bulut bilişim piyasasındaki dengeler açısından kritik bir gelişmedir."
+      },
+      "brief": "Microsoft, Azure bulut platformunun üç aylık gelirini ilk defa resmi dolar rakamıyla 33,2 milyar dolar olarak açıkladı. Yıllık yüzde 48 büyüme sergileyen Azure, Microsoft'un 92,3 milyar dolarlık toplam gelirinin yaklaşık yüzde 36'sını sağladı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source_published_at": "2026-10-28T21:58:32+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "body": [
+        "Microsoft, geçmiş dönemlerde yalnızca yüzde bazında büyüme veya genel tanımlarla paylaştığı Azure bulut platformu gelirini ilk kez doğrudan dolar cinsinden açıkladı. Şirketin paylaştığı verilere göre Azure, temmuz-eylül çeyreğinde bir önceki yılın aynı dönemine kıyasla yüzde 48 artış göstererek 33,2 milyar dolar gelir elde etti.",
+        "Bu rakam, Microsoft Finans Direktörü Amy Hood'un temmuz ayındaki kazanç çağrısında öngördüğü yüzde 44 ila 45 aralığındaki tahminin ve analistlerin 32,3 milyar dolarlık beklentisinin üzerinde gerçekleşti. Azure, bu çeyrekte Microsoft'un ulaştığı 92,3 milyar dolarlık toplam üç aylık gelirin yaklaşık yüzde 36'sını tek başına oluşturarak şirketin en büyük ve en hızlı büyüyen ürün grubu konumuna yerleşti.",
+        "Açıklanan resmi veriler, Azure'un Google Cloud ile doğrudan kıyaslanmasına zemin hazırladı. Aynı dönemde 30,7 milyar dolar gelir açıklayan Google Cloud, Workspace aboneliklerini de içerecek şekilde gelirini ikiye katlayarak Azure'a kıyasla iki kat daha hızlı bir büyüme sergiledi. Azure ise dolar bazında rakibinin biraz üzerinde kalmayı sürdürdü.",
+        "Microsoft ayrıca raporlama yapısında değişikliğe giderek Azure ve Microsoft 365 bulut faaliyetlerini 'Agents and Infra' adlı yeni faaliyet segmentinde topladı. Bu yeni iş segmentinin toplam geliri yıllık yüzde 25 artışla 76,8 milyar dolara ulaştı. Pazarın en büyük bulut sağlayıcısı olan Amazon Web Services ise mali sonuçlarını perşembe günü paylaşacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "c81514b12c16f8bbd0c42db5059b20ff39a249b63b537631ceef0ea5ad7feb8c"
+    },
+    {
+      "id": "1cbacb75bb503dab",
+      "category": "SİBER GÜVENLİK",
+      "title": "ABD İç Güvenlik Bakanlığı Çalışanlarının Bilgileri İnternete Sızdırıldı",
+      "summary": "ABD İç Güvenlik Bakanlığı bünyesinde çalışan 40 binden fazla personelin kimlik ve iş iletişim bilgileri siber saldırı sonucu internete sızdırıldı. Verilerin merkezi ağa erişim sağlayan bir tekil oturum açma sisteminden ele geçirildiği öne sürülürken bakanlık inceleme başlattı.",
+      "why": "Federal personelin kişisel iletişim bilgilerinin yanı sıra kurum içi gözetleme ve yazılım araçlarına dair erişim yetkilerinin açığa çıkması, ulusal güvenlik ve şeffaflık denetimleri açısından kritik sonuçlar doğurmaktadır.",
+      "event_key": "dhs-okta-veri-ihlali-personel-sizintisi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "40 binden fazla DHS personelinin iletişim bilgilerinin ve kurumun kullandığı gözetim teknolojilerine dair yetki gruplarının sızdırılması federal güvenlik açısından somut ve yüksek etkili bir olaydır."
+      },
+      "brief": "ABD İç Güvenlik Bakanlığı'nda görevli 40 binden fazla çalışanın kimlik ve iletişim verileri internete sızdırıldı. Gümrük, sınır koruma ve göçmenlik bürosu personelini kapsayan sızıntı sonrasında bakanlık durumu çözmek için çalışma yürütüldüğünü açıkladı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "source_published_at": "2026-10-28T20:01:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
+      "body": [
+        "ABD İç Güvenlik Bakanlığı (DHS) bünyesinde görev yapan 40 binden fazla çalışanın kişisel bilgileri, bu yılın başlarında gerçekleşen ve daha önce açıklanmayan bir veri ihlalinin ardından internette yayımlandı. Sızdırılan veriler arasında sınır ve göçmenlik görevlileri, siber güvenlik uzmanları ve üst düzey yetkililerin isimleri, unvanları, e-posta adresleri, cep telefonu numaraları ve ofis konumları bulunuyor.",
+        "Saldırıyı üstlenen ve \"Department of Peace\" adını kullanan bilgisayar korsanı, verileri bakanlık personelinin merkezi ağa bağlanmak için kullandığı Okta tekil oturum açma sisteminden temin ettiğini ileri sürdü. Okta sistemi çalışanların hangi şirket içi uygulamalara ve bilişim sistemlerine erişim izni olduğunu da içeriyor. Öte yandan Okta sözcüsü, sistemlerinin güvende olduğunu ve kendi ağlarının ele geçirildiğine dair bir kanıt bulunmadığını belirtti.",
+        "Sızdırılan listenin yarısından fazlasını, yaklaşık 21 bin kayıtla ABD Gümrük ve Sınır Muhafaza (CBP) çalışanları oluşturuyor. Veri setinde ayrıca Göçmenlik ve Gümrük Muhafaza (ICE) bünyesindeki 10 bin personelin ve siber savunma kurumu CISA'da çalışan yaklaşık 1.000 kişinin kayıtları yer alıyor. Kayıtların toplamı, bakanlığın yaklaşık 220 bin kişilik iş gücünün beşte birine karşılık geliyor.",
+        "Veriler, personelin kullandığı gözetim ve güvenlik teknolojilerini de ortaya koydu. Kayıtlarda yüz tanıma uygulaması Mobile Fortify, web izleme yazılımı Penlink ve ChatGPT erişim gruplarına dair detaylar bulundu. DHS sözcüsü potansiyel ihlalin farkında olduklarını ve durumu çözmek için çalıştıklarını açıklarken, verilerin DDoSecrets platformu üzerinden kamu yararı adına araştırmacılarla paylaşıldığı bildirildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "00fb292159ac2dbf8f8fa269e2b444052eb78578563087e259b613edbfe432e4"
+    },
+    {
+      "id": "6825ae5281ac7c3f",
+      "category": "YAPAY ZEKÂ",
+      "title": "Google Yeni Yapay Zekâ Modeli Gemini 4 Carbon'u Duyurdu",
+      "summary": "Google, siber güvenlik savunması ve uzun vadeli mühendislik görevleri için geliştirdiği yeni öncü yapay zekâ modeli Gemini 4 Carbon'u tanıttı. Modelin kademeli olarak önce siber savunma uzmanlarına, ardından geliştiricilere sunulacağı açıklandı.",
+      "why": "Yapay zekanın siber güvenlik açıklarını tespit etme, istismar analizleri yapma ve kod onarımı sağlama yeteneklerindeki bu sıçrama, kurumsal savunma yazılımlarının geleceği bakımından büyük önem taşımaktadır.",
+      "event_key": "google-gemini-4-carbon-model-duyurusu",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Google'ın yeni öncü modelinin siber savunma test sonuçlarıyla duyurulması ve kontrollü güvenlik protokolleri eşliğinde aşamalı erişime açılması teknik açıdan önemli bir duyurudur."
+      },
+      "brief": "Google, siber güvenlik odaklı yeni modeli Gemini 4 Carbon'u duyurdu. Güvenlik açığı tespiti ve yazılım onarımı yetenekleriyle öne çıkan model, ABD hükümetinin yayın öncesi test süreçleri doğrultusunda öncelikle belirli uzmanlara açılacak.",
+      "source_name": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source_published_at": "2026-10-28T17:00:00+00:00",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+      "body": [
+        "Google, siber güvenlik savunması ve uzun soluklu iş akışları için optimize ettiği en yeni öncü yapay zekâ modeli Gemini 4 Carbon'u kamuoyuna duyurdu. İki hafta önce tanıtılan Gemini 4 Argon modelinin üzerine inşa edilen yeni sürüm, yazılım ve mühendislik problemlerinde otonom süreçleri yürütmek üzere tasarlandı.",
+        "Model, Artificial Analysis Intelligence Index v5.0 listesinde 59 puanla birinci sıraya yerleşti. Siber güvenlik odaklı testlerde güvenlik açıklarını bulmada SEC-bench Pro'da yüzde 88,2, istismar analizinde ExploitGym'de yüzde 54,8 ve güvenlik yaması oluşturmada CWE-bench'te yüzde 71 başarı oranına ulaştı. Ayrıca Chrome ekibi, modelin yüksek kaliteli yama üretiminde başka bir laboratuvara ait öncü modelden on kattan daha iyi performans gösterdiğini kaydetti.",
+        "Google, Gemini 4 Carbon'un dağıtımında kontrollü bir takvim uygulayacağını belirtti. Model, ABD hükümetinin yayın öncesi gönüllü model test sürecine dahil edilerek bu hafta itibarıyla sınırlı bir siber savunmacı grubuna açıldı. Erişim daha sonra Fairwind Programı aracılığıyla güvenilir iş ortaklarına, ardından geliştiricilere ve işletmelere kademeli olarak genişletilecek.",
+        "Tanıtım döneminde Argon ile aynı fiyat tarifesinden sunulacak model için milyon girdi tokeni başına 2 dolar, milyon çıktı tokeni başına 10 dolar ücret talep edilecek. Tanıtım süresinin ardından ise fiyatlar girdi tokeni başına 4 dolara, çıktı tokeni başına 20 dolara yükselecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6a73f9b7a402773905bd8fba530bd5946e0683830dc93e2680479fa6b4a16437"
+    },
+    {
+      "id": "cabf6302d4194f10",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Apple Dokunmatik Ekranlı ve OLED Panelli Yeni MacBook Pro'yu Tanıttı",
+      "summary": "Apple, beş yılı aşkın bir sürenin ardından MacBook Pro serisinde köklü bir tasarım yeniliğine giderek macOS işletim sistemine ilk kez dokunmatik ekran özelliğini getirdi. OLED panele ve Dynamic Island tasarımına sahip cihazın ön siparişleri açıldı.",
+      "why": "Apple'ın yıllardır kaçındığı dokunmatik ekran desteğini macOS donanımına getirmesi ve OLED panele geçiş yapması şirketin dizüstü bilgisayar stratejisinde önemli bir dönüm noktasına işaret etmektedir.",
+      "event_key": "apple-dokunmatik-oled-macbook-pro-tanitimi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Apple'ın macOS ekosisteminde ilk kez dokunmatik ekran ve OLED panel barındıran dizüstü modelini fiyat ve dağıtım takvimiyle resmi olarak duyurması somut bir tüketici elektroniği gelişmesidir."
+      },
+      "brief": "Apple, macOS platformunda ilk kez dokunmatik ekran barındıran ve OLED panelle donatılan yeni MacBook Pro'yu tanıttı. M5 Pro ve M5 Max işlemcili yeni modeller 6 Kasım'da satışa çıkacak.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+      "source_published_at": "2026-10-28T17:25:04+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg",
+      "body": [
+        "Apple, Los Angeles'ta gerçekleştirdiği duyuruyla MacBook Pro serisinde son beş yıldan uzun süredir yaptığı ilk büyük tasarım değişikliğini sergiledi. Yeni model, macOS tarihinde ilk defa dokunmatik ekran desteği sunarken aynı zamanda PROLED XDR adı verilen bir OLED ekranla donatıldı. Cihazın ikisi bir arada dönüştürülebilir bir yapı yerine klasik dizüstü bilgisayar formunda tasarlandığı görüldü.",
+        "Yeni OLED ekran, 2.000 nit maksimum parlaklık seviyesine, 10.000.000:1 kontrast oranına ve 120 Hz değişken yenileme hızına sahip. Tasarım tarafında ise ekranın üst kısmındaki çentik kaldırılarak iPhone modellerinde kullanılan Dynamic Island bölmesine yer verildi. Ağırlığı yaklaşık yarım pound azaltılan 14 inçlik model 3 pound seviyesine inerken, kapağın arkasındaki parlak Apple logosu da geri getirildi.",
+        "Donanım tarafında M6 serisi atlanarak bir önceki yenilemede yer alan M5 Pro ve M5 Max çipleri korundu. Bellek seçenekleri en fazla 128 GB RAM düzeyinde kalırken, depolama kapasitesi azami 16 TB seviyesine çıkarıldı.",
+        "Bugün itibarıyla ön siparişe açılan yeni MacBook Pro modelleri, 6 Kasım'da tüketicilere ulaştırılmaya başlanacak. M5 Pro işlemcili 14 inç model 2.899 dolardan, 16 inç model ise 3.399 dolardan satışa sunuldu. M5 Max donanımlı konfigürasyonların başlangıç fiyatları ise 14 inç için 4.499 dolar, 16 inç için 4.799 dolar olarak açıklandı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4bbd8e4b5792e300c2b7eda187a11bb0aa36675a474afca704b58dafaaeb2b5d"
+    },
+    {
+      "id": "fff4406e2ad7a881",
+      "category": "UZAY",
+      "title": "FCC, Amazon Leo'nun Globalstar'ı 11,5 Milyar Dolara Satın Almasını Onayladı",
+      "summary": "ABD Federal İletişim Komisyonu (FCC), Amazon Leo'nun mobil uydu operatörü Globalstar'ı 11,5 milyar dolara satın alma anlaşmasını resmen onayladı. Anlaşmayla birlikte Amazon Leo, doğrudan cihazlara uydu bağlantısı sunma kapasitesini artırmayı hedefliyor.",
+      "why": "Onaylanan bu satın alma, Amazon Leo'nun doğrudan tüketici cihazlarına uydu bağlantısı sunmasına olanak tanırken Apple cihazlarının mevcut acil durum uydu altyapısının yönetimini de kapsıyor.",
+      "event_key": "fcc-amazon-leo-globalstar-satin-alma-onayi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "FCC'nin 11,5 milyar dolarlık Globalstar satın alımını onaylaması, Amazon Leo'nun doğrudan cihazlara uydu hizmeti vermesini ve Apple cihazlarının acil durum bağlantısını devralmasını kesinleştirmiştir."
+      },
+      "brief": "FCC, Amazon Leo'nun mobil uydu operatörü Globalstar'ı 11,5 milyar dolarlık satın alımını onayladı. Süreç, Leo'nun doğrudan cihaza bağlantı hizmetlerini genişletmesini ve desteklenen Apple cihazlarına uydu erişimi sağlamasını kapsıyor.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
+      "source_published_at": "2026-10-28T13:13:19+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg",
+      "body": [
+        "ABD Federal İletişim Komisyonu (FCC), Amazon Leo'nun mobil uydu operatörü Globalstar'ı 11,5 milyar dolara bünyesine katmasına onay verdi. Düzenleyici kurum, anlaşmanın iki şirketin birbirini tamamlayan varlıklarını birleştirerek Leo'nun doğrudan cihazlara hizmet sunma segmentine girişini güçlendireceğini ve yetersiz hizmet alan bölgelerde veri kapsamını artıracağını bildirdi.",
+        "Satın alma öncesinde Apple'ın yüzde 20 hissesine sahip olduğu Globalstar, uyumlu iPhone ve Apple Watch modelleri için acil durum uydu bağlantısı sağlıyordu. Varılan anlaşma kapsamında Amazon Leo, desteklenen iPhone ve Apple Watch modellerinin uydu hizmetlerini de üstlenecek.",
+        "Hâlihazırda yörüngede 400 uydusu bulunan Leo, kısa süre önce Özbekistan'da uydu interneti hizmeti başlatmış ve uçuşlarda internet sağlamak üzere Delta ile ortaklık kurmuştu. Şirket, altı yeni Arianespace fırlatması ekleyerek yakın gelecekte alçak Dünya yörüngesindeki uydu sayısını 3 binin üzerine çıkarmayı amaçlıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "d229dbb77eb79a7717011010350f8195cba9bee493bf890c550319d5469383be"
+    },
+    {
+      "id": "0b33a76a486a83fb",
+      "category": "SİBER GÜVENLİK",
+      "title": "Volt Typhoon'un 'Silent Train' Altyapısıyla Sıfır Gün Saldırıları Düzenlediği Belirlendi",
+      "summary": "Black Lotus Labs araştırmacıları, Çin bağlantılı hacker grubu Volt Typhoon'un yüksek profilli hedeflere yönelik sıfır gün açıklarını kullanmak için 'Silent Train' adlı bir aktarım altyapısı geliştirdiğini ortaya çıkardı. Altyapı, saldırı izlerini gizlemek amacıyla ele geçirilen yönlendiricileri kullanıyor.",
+      "why": "Kritik altyapılara ve kamu kurumlarına yönelik gelişmiş siber casusluk faaliyetlerinin tespit edilmesini engelleyen karmaşık saldırı ve gizlenme tekniklerini belgelemektedir.",
+      "event_key": "volt-typhoon-silent-train-cercevesi-lumen",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Black Lotus Labs araştırmacıları, Volt Typhoon'un kritik altyapıları hedef alan Silent Train çerçevesini ve kullandığı yönlendirici zincirlerini ayrıntılı teknik kanıtlarla açıklamıştır."
+      },
+      "brief": "Black Lotus Labs, Volt Typhoon grubunun kritik altyapılara yönelik sıfır gün saldırılarını gizlemek için 'Silent Train' adlı aktarım çerçevesini kullandığını açıkladı. Sistem ele geçirilmiş modem ve yönlendiricileri kullanıyor.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "source_published_at": "2026-10-28T12:00:00-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/28/silenttrain.jpg",
+      "body": [
+        "Lumen bünyesindeki Black Lotus Labs araştırmacıları, Çin devlet destekli Volt Typhoon grubunun yüksek değerli hedeflere yönelik saldırılarında \"Silent Train\" adını verdikleri bir altyapı kullandığını bildirdi. Üç yıldır takip edilen altyapı kapsamında aktörlerin uç ve yönetim sistemlerinde en az dört sıfır gün güvenlik açığını istismar ettiği saptandı.",
+        "Sistemin, FBI tarafından KV-Botnet ağının çökertilmesinin ardından saldırıların kaynağını gizlemek üzere devreye sokulduğu aktarıldı. Operatörler, trafiği önce ABD dışındaki sanal sunuculara, ardından Intelbras modemler ve ABD'deki Netgear Orbi cihazları gibi ele geçirilmiş yönlendiricilere aktararak hedef ağlara ulaşıyor.",
+        "Saldırılarda telekomünikasyon, savunma, havacılık, enerji, acil durum servisleri ve uydu sağlayıcılarının hedef alındığı, ABD genelinde özellikle Kaliforniya, Teksas ve Hawaii'ye odaklanıldığı kaydedildi. Operasyonların genellikle 8 saatten kısa sürdüğü, oturum tamamlandığında cihazlardaki geçici araçların silindiği, ancak 2025 başından itibaren bazı kurumsal sistemlerin bir ila üç ay boyunca elde tutulduğu tespit edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "099a1f06aa5ffe6aa21d873dbbccd25adf7aad320287a9bb714761723861541d"
+    },
+    {
+      "id": "0c9c5da2c2166495",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Avrupa Birliği Grönland Üzerinden Yeni Denizaltı İnternet Kablosu Planlıyor",
+      "summary": "Avrupa Birliği, Avrupa'yı doğrudan Grönland'a bağlayacak ve ABD'yi devre dışı bırakarak Asya'ya uzanabilecek Pan-Arktik Kablo projesini açıkladı. Projeye şu ana kadar 119 milyon dolar yatırım sağlandı.",
+      "why": "Kızıldeniz ve Baltık Denizi gibi noktalarda artan jeopolitik ve fiziksel güvenlik risklerine karşı, Avrupa ile Asya ve Kuzey Amerika arasındaki veri iletişimini güvence altına alacak alternatif bir Arktik rotası oluşturulmaktadır.",
+      "event_key": "ab-pan-arctic-denizalti-kablosu-gronland",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Avrupa Birliği'nin Grönland'a doğrudan uzanan ve Asya'ya alternatif rota sunmayı amaçlayan Pan-Arktik denizaltı kablo projesi resmî politika belgesiyle doğrulanmıştır."
+      },
+      "brief": "Avrupa Birliği, Avrupa'yı doğrudan Grönland'a bağlayacak Pan-Arktik denizaltı kablo projesini duyurdu. ABD'yi baypas ederek Kanada üzerinden Japonya ve Güney Kore'ye ulaşması hedeflenen hat için AB şimdiden 119 milyon dolarlık fon ayırdı.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+      "source_published_at": "2026-10-28T22:35:50+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg",
+      "body": [
+        "Avrupa Komisyonu, 20 Ekim 2026 tarihli ortak bildirisinde Avrupa Birliği'ni doğrudan Grönland'a bağlayacak ilk denizaltı internet kablosu girişimini duyurdu. Pan-Arktik Kablo olarak adlandırılan proje, Avrupa'nın Arktik stratejisinde amiral gemisi olarak nitelendiriliyor. Planın sonraki aşamalarında kablonun Kanada üzerinden uzatılarak Amerika Birleşik Devletleri'ni devre dışı bırakacak şekilde Japonya ve Güney Kore'ye ulaştırılması hedefleniyor.",
+        "TeleGeography verilerine göre Avrupa ile Asya arasındaki iletişimin yüzde 90'ından fazlası Kızıldeniz'deki denizaltı kablolarından geçiyor. Yemen hükümeti ile Husi güçleri arasındaki çatışmalar ve Babülmendep Boğazı'ndaki saldırılar bu hattın bakım ve güvenliğini riskli hale getirdi. Ayrıca Baltık Denizi'nde ticari gemilerin çapa sürükleyerek kabloları koparması ve Arktik bölgesindeki askeri hareketlilik gibi güvenlik tehditleri Avrupa'yı yeni alternatiflere yöneltti.",
+        "Temelleri 2025 yılında Avrupalı şirketler, araştırma kuruluşları ve Grönlandlı bir telekom operatörünün imzaladığı anlaşmayla atılan proje, Avrupa'yı Bağlama Aracı Dijital programı üzerinden fonlanıyor. Avrupa Komisyonu belgesine göre Grönland'ın güvenli bağlantısını geliştirmek ve kablo planını desteklemek amacıyla projeye şimdiden 119 milyon dolar (107 milyon avro) kaynak tahsis edildi.",
+        "Kablonun Kanada üzerinden Asya'ya uzatılması hedefine karşın, zorlu buzlu Arktik sularında kurulum ve bakım yapabilmek için daha fazla Avrupa buz kırıcı gemisine ihtiyaç duyulması gibi somut engeller bulunuyor. AB, bu güvenlik ve operasyonel riskleri yönetebilmek adına Kuzey Atlantik-Arktik bölgesinde kabloları izleyip onaracak bir Arktik Kablo Merkezi kurmayı ve erken uyarı sistemlerine yatırım yapmayı planlıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ce9b2b91493d2fcffbbc0c0d1927a83bea4c713ba545c5e81d2d772d220ddca9"
+    },
+    {
+      "id": "8eb6cbe33d2fff4e",
+      "category": "DİJİTAL DÜNYA",
+      "title": "New York'ta Çocukları Yapay Zekâ Sohbet Botlarından Koruyan Yasa İmzalandı",
+      "summary": "New York Valisi Kathy Hochul, yapay zekâ sohbet botlarının çocuklara verebileceği zararları önlemeyi hedefleyen yeni yasayı imzaladı. Düzenleme, şirketlere yaş doğrulama zorunluluğu getirirken ihlal durumunda vaka başına 25 bin dolara kadar para cezası öngörüyor.",
+      "why": "Yapay zekâ şirketlerine reşit olmayan kullanıcılar için bağlayıcı kısıtlamalar ve yaş doğrulama zorunluluğu getiren düzenleme, yasal ihlallerde 25 bin dolara kadar para cezası ve model silme yaptırımları öngörmektedir.",
+      "event_key": "new-york-yapay-zeka-sohbet-botu-cocuk-guvenligi-yasasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "New York eyaletinde yapay zekâ sohbet botlarına çocuk koruma sınırlamaları ve yaş doğrulama zorunluluğu getiren bağlayıcı yasa imzalanmıştır."
+      },
+      "brief": "New York Valisi Kathy Hochul, yapay zekâ şirketlerine yaş doğrulama şartı getiren ve sohbet botlarının çocuklarla insansı veya duygusal bağ kurmasını yasaklayan yasayı imzaladı. Altı ay sonra yürürlüğe girecek yasayı ihlal edenlere işlem başına 25 bin dolara kadar ceza verilebilecek.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
+      "source_published_at": "2026-10-28T16:33:01+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg",
+      "body": [
+        "New York Valisi Kathy Hochul, çocukları yapay zekâ sohbet botlarının potansiyel zararlarından korumaya yönelik yasa tasarısını onayladı. Yeni yasa kapsamında yapay zekâ şirketlerinin kullanıcıların yaşını doğrulaması zorunlu hale getirildi. Şirketler, yalnızca resmî kimlik belgelerine dayanmayan en az bir doğrulama yöntemi sunmak ve elde edilen yaş bilgilerini işlem sonrasında silmekle yükümlü tutuldu.",
+        "Kullanıcının 18 yaşın altında olması veya yetişkin olduğunun henüz doğrulanamaması halinde sohbet botlarına belirli sınırlamalar uygulanacak. Bu kapsamda botların gerçek bir insan, canlı ya da insani duygulara sahip gibi davranması yasaklandı. Botlar ayrıca çocuklarla kişisel, romantik, mesleki veya otorite ilişkisi kuramayacak; kendiliğinden duygusal sorular yöneltemeyecek ve önceki konuşmalarda edinilen özel sağlık ya da kişisel bilgileri kullanamayacak.",
+        "Düzenleme çerçevesinde sohbet botlarının intiharı, kendine zarar vermeyi, yeme bozukluklarını veya madde kullanımını teşvik etmesi ile cinsel içerik sunması tamamen yasaklandı. Çocukların yetişkinlerden yardım istemekten kaçınmasını ya da sır saklamasını teşvik eden işlevler de engellendi. Vatandaşların şikâyetlerini New York Başsavcılığına iletebilmesi için özel bir internet sitesi kurulacak.",
+        "Yasa altı ay içinde yürürlüğe girecek ve kurallara uymayan şirketler vaka başına 25 bin dolara kadar sivil para cezası, tazminat ve yasa dışı toplanan veriler ile bu verilerle eğitilen modellerin silinmesi yaptırımlarıyla karşılaşabilecek. Öte yandan Vali Hochul, eyalette satılan internet bağlantılı bebek telsizlerine yetkisiz erişimi engelleme ve güvenlik uyarı etiketleri taşıma şartı getiren 90 gün içinde geçerli olacak ayrı bir yasayı da imzaladı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f2ae2b411a463b18098dfbbc39f86036a8bb6d8a409eb6e316c65a53b7118cdc"
+    },
+    {
+      "id": "9c5b37f8dc98b8bf",
+      "category": "UZAY",
+      "title": "ULA'nın Vulcan Roketi 13 Kasım'da Uçuşlara Dönüyor",
+      "summary": "United Launch Alliance, şubat ayındaki fırlatma sırasında yaşanan katı yakıtlı itici arızasının ardından Vulcan roketini 13 Kasım'da yeniden fırlatmayı planlıyor. Görev kapsamında Amazon Leo ağına ait 40 geniş bant internet uydusu yörüngeye taşınacak. ABD Uzay Kuvvetleri ise ulusal güvenlik görevlerini onaylamadan önce ticari uçuş verilerini inceleyecek.",
+      "why": "ABD ulusal güvenlik fırlatmalarının yarısını üstlenen Vulcan roketinin teknik arızaların ardından yeniden operasyonel hale gelmesi ve Amazon'un uydu ağı takvimini doğrudan etkilemesi nedeniyle kritik öneme sahiptir.",
+      "event_key": "ula-vulcan-roketi-donus-ucus-takvimi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Pentagon'un ana fırlatma tedarikçilerinden ULA'nın dokuz aylık aradan sonra tarih belirlemesi ve ticari uydu dağıtımına başlaması doğrulanmış kurumsal verilerle açıklanmıştır."
+      },
+      "brief": "United Launch Alliance, dokuz aylık aranın ardından Vulcan roketini 13 Kasım'da Amazon Leo uydularıyla yeniden uçuracağını açıkladı. ABD Uzay Kuvvetleri, askeri görevlere izin vermeden önce roketin ticari uçuşlardaki performansını ve yenilenen nozül tasarımını denetleyecek.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "source_published_at": "2026-10-28T22:51:15+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
+      "body": [
+        "United Launch Alliance (ULA), şubat ayındaki fırlatmada katı yakıtlı roket iticisinde meydana gelen nozül arızasından dokuz ay sonra Vulcan roketini hizmete döndürmeyi planladığını duyurdu. Florida'daki Cape Canaveral Uzay Kuvvetleri İstasyonu'ndan yapılması hedeflenen ve fırlatma sahası onayına tabi olan uçuşun 13 Kasım'da gerçekleştirilmesi öngörülüyor.",
+        "Dönüş görevi, Amazon Leo geniş bant uydu ağı için planlanan 38 Vulcan fırlatmasının ilki olacak ve 40 uyduyu alçak Dünya yörüngesine taşıyacak. Bu görevde ilk kez altı katı yakıtlı iticinin tamamı kullanılacak, ayrıca uzatılmış faydalı yük koruyucusu ve kısaltılmış Centaur üst aşaması ilk kez denenecek. ULA ve üretici Northrop Grumman, nozül üzerinde tasarım ve süreç iyileştirmeleri yapıldığını açıkladı.",
+        "Roketin ilk dört görevinden ikisinde yaşanan nozül sorunları nedeniyle güven kaybı yaşayan ABD Uzay Kuvvetleri, gecikmeler üzerine altı askeri görevi SpaceX'in Falcon roketlerine kaydırmıştı. Uzay Sistemleri Komutanlığı yetkilileri, askeri fırlatmalara yeniden izin verilmeden önce Vulcan'ın ticari uçuşlardan elde edeceği verilerin inceleneceğini belirtti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "5821b15d4b4d8689b9e81671aee44bf98dd154744f6b4b6e8a80042b928b83fe"
+    },
+    {
+      "id": "cfdef39189ea2bb2",
+      "category": "SİBER GÜVENLİK",
+      "title": "Sony Network Communications'ta Veri İhlali: 2,5 Milyon Kayıt Sızdırıldı",
+      "summary": "Sony Group bağlı kuruluşu Sony Network Communications, internet servis sağlayıcısı veritabanına yetkisiz erişim sağlanması sonucu 2,5 milyondan fazla müşteri kaydının sızdırıldığını açıkladı. İhlalden NTT Docomo müşterileri de etkilendi.",
+      "why": "Japonya'daki kritik telekomünikasyon altyapılarında artan siber saldırıların bir parçası olarak milyonlarca kullanıcının kişisel verisinin ve e-posta şifrelerinin açığa çıktığını doğrulamaktadır.",
+      "event_key": "sony-network-communications-veri-ihlali",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Sony'nin internet sağlayıcı birimindeki 2,5 milyondan fazla müşteri kaydının sızdırıldığı şirket ve iş ortağı NTT Docomo açıklamalarıyla doğrulanmıştır."
+      },
+      "brief": "Sony Network Communications, sistemlerine yetkisiz erişim sağlanması sonucu yaklaşık 2,5 milyon müşteri kaydının sızdırıldığını duyurdu. Bankacılık verilerinin etkilenmediği olayda Docomo Hikari kullanıcıları da mağdur oldu.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "source_published_at": "2026-10-28T12:45:47-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/28/sony.jpg",
+      "body": [
+        "Japonya'da internet servis sağlayıcılığı yapan Sony Network Communications, So-net üye veritabanına yetkisiz erişim sağlandığını ve 2 milyon 585 bin 481 müşteri kaydının sızdırıldığını bildirdi. 19 Ekim'de gerçekleşen olay dört gün sonra tespit edilerek ilgili sunucular kapatıldı ve dış iletişim kesildi.",
+        "Şirket, sızdırılan veriler arasında bankacılık veya ödeme kartı bilgilerinin bulunmadığını, ancak farklı e-posta servislerine ait 54 bin 401 e-posta adresi ile şifrenin açığa çıktığını aktardı. Etkilenen kayıtların 2 milyon 141 bin 986'sının So-net, 443 bin 495'inin ise Sony'den altyapı hizmeti alan NTT Docomo'nun Docomo Hikari servisine ait olduğu belirtildi.",
+        "NTT Docomo, mevcut ve son altı ayda aboneliğini iptal eden müşterileri etkileyen durum sonrası kullanıcılara yönelik kimlik avı e-postaları ve sahte kampanya sitelerine karşı uyarıda bulundu. Olay Japonya Kişisel Bilgileri Koruma Komisyonu'na bildirilirken, 27 Ekim itibarıyla verilerin kötüye kullanıldığına dair somut bir bulguya rastlanmadı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "1285c2a8f5d5b66cb0364ee8fd593c838c37536ae17023920a4d31d33859ff70"
+    },
+    {
+      "id": "12f247c9e5fe0f87",
+      "category": "UZAY",
+      "title": "Virgin Galactic Yeni Delta Sınıfı Uzay Aracına 'Apeiron' Adını Verdi",
+      "summary": "Virgin Galactic, ilk Delta sınıfı uzay aracının adını halk oylaması sonucunda 'Apeiron' olarak belirlediğini açıkladı. Araç, yer ve uçuş testlerinin tamamlanması amacıyla Arizona'daki fabrikadan New Mexico'daki Spaceport America tesisine taşınıyor. İlk ticari uzay uçuşunun 2027'nin ikinci çeyreği başlarında yapılması planlanıyor.",
+      "why": "ABD'de yaklaşık on aydır uzay turizmi uçuşu yapılmadığı bir dönemde, yeni nesil yolcu taşıma aracının üretimden test sahasına geçerek ticari takvimini somutlaştırması bakımından önem taşımaktadır.",
+      "event_key": "virgin-galactic-delta-apeiron-tasima",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Şirketin ilk Delta sınıfı aracını resmen adlandırması, New Mexico'daki üsse sevk etmesi ve test aşamaları ile ticari takvimini açıklaması somut kurumsal duyurulara dayanmaktadır."
+      },
+      "brief": "Virgin Galactic, kamuoyu oylamasıyla 'Apeiron' adını verdiği yeni Delta sınıfı uzay aracını montaj ve testler için New Mexico'ya taşıyor. Şirket, yaklaşık on aydır duraksayan ticari uzay turizmi uçuşlarına 2027'nin ikinci çeyreğinde başlamayı hedefliyor.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+      "source_published_at": "2026-10-28T19:20:36+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-2560x1440.jpg",
+      "body": [
+        "Virgin Galactic, yeni nesil Delta sınıfı uzay araçlarının ilkine halk oylamasıyla Antik Yunanca 'sınırsız' kavramından esinlenen 'Apeiron' adının verildiğini duyurdu. Şirket, çarşamba günü yaptığı açıklamada aracın Arizona eyaletinin Mesa kentindeki fabrikadan New Mexico'daki Spaceport America üssüne sevk edileceğini bildirdi.",
+        "Apeiron, New Mexico'ya VMS Eve ana taşıyıcı uçağıyla taşındıktan sonra burada aviyonik donanım ve uçuş yazılımı çalışmaları tamamlanacak. Ardından yer testleri, ana araca bağlı taşıma testleri, serbest bırakma ve 80 kilometrenin üzerine çıkılacak motorlu test uçuşları gerçekleştirilecek.",
+        "Unity aracının son uçuşunun ardından ABD'de on aydır ticari uzay turizmi uçuşu gerçekleşmedi. Virgin Galactic, hisse değerindeki sert düşüş ve ticari uygulanabilirlik tartışmaları arasında Apeiron'un ilk ücretli ticari uçuşunu 2027 yılının ikinci çeyreğinin başlarında yapmayı hedefliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "80a6b1ede60ba76715eea8bd19ab5c13aca6d1fb59418b23e3e99ccd9b22d843"
+    },
+    {
+      "id": "b90659780b414dea",
+      "category": "BİLİM",
+      "title": "ABD Enerji Bakanlığı'ndan Nükleer Kapasite Artışı İçin 5 Milyar Dolarlık Kredi",
+      "summary": "ABD Enerji Bakanlığı, Constellation Energy şirketine sekiz nükleer santraldeki 11 reaktörün kapasitesini 1,1 gigavat artırması amacıyla 5 milyar dolarlık kredi tahsis etti. Üretilecek ek enerjinin büyük bölümü Google, Meta ve Amazon tarafından satın alındı.",
+      "why": "Büyük teknoloji şirketlerinin yapay zekâ veri merkezleri için ihtiyaç duyduğu yüksek elektrik ihtiyacı, kamu kredileri yoluyla mevcut nükleer santrallerin kapasite artırımıyla karşılanmaktadır.",
+      "event_key": "abd-doe-constellation-5-milyar-dolar-nukleer-kredi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "ABD Enerji Bakanlığı'nın Constellation Energy'ye sağladığı 5 milyar dolarlık kredi ve teknoloji devlerinin nükleer kapasite alımları enerji altyapısı ve veri merkezleri açısından somut verilerle açıklanmıştır."
+      },
+      "brief": "ABD Enerji Bakanlığı, sekiz nükleer santralin kapasitesini 1,1 gigavat artırması için Constellation Energy'ye 5 milyar dolar kredi sağladı. Ek nükleer enerjinin neredeyse tamamı Google, Amazon ve Meta veri merkezlerine ayrıldı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "source_published_at": "2026-10-28T15:53:21+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+      "body": [
+        "Trump yönetimi bünyesindeki ABD Enerji Bakanlığı, Constellation Energy şirketine sekiz nükleer santralin üretim kapasitesini 1,1 gigavat artırması için 5 milyar dolarlık kredi desteği sağladı. Şirket, henüz kesinleşmemiş olan bu kredi taahhüdünü 11 mevcut reaktörde kapasite artırımı gerçekleştirmek üzere kullanmayı planlıyor.",
+        "Kapasite artırımı yapılacak tesisler arasında Illinois'deki altı santral ile Maryland ve Pensilvanya'daki birer tesis bulunuyor. Constellation, Google, Amazon ve Meta'ya enerji sağlamak için 1.080 megavatlık kapasite eklemeyi taahhüt etmiş ve 7 milyar doların üzerinde harcama planı açıklamıştı.",
+        "Anlaşmalar doğrultusunda Google Pensilvanya'daki tesis ile Illinois'deki dört santralden ek güç alırken, Amazon Maryland'deki santralden enerji tedarik edecek. Meta ise Illinois'deki Clinton santralinin üretimini fiilen satın alıyor. Enerji Bakanlığı kredinin hanehalkı ve işletmeler için güvenilir enerji sunacağını öne sürse de, yeni kapasitenin konut tarifelerini düşüreceğine dair bir kanıt bulunmuyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "63cc96920876e95292ee391685efcbef0329547a6f8f6962ce2a898c107c8088"
+    },
+    {
+      "id": "c49f446e2fe7824b",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Reddit 'Sizin İçin' Akışını Kullanıma Sunuyor",
+      "summary": "Reddit, ana sayfasında kullanıcılara 'Sizin İçin' ve 'Takip Edilenler' olmak üzere iki ayrı akış seçeneği sunmaya başladı. Yeni sistem, katılım sağlanan topluluklar ile algoritma destekli önerileri bir araya getiriyor. Özellik önümüzdeki haftalarda küresel çapta yaygınlaştırılacak.",
+      "why": "Platformun ana sayfa yapısını değiştirerek algoritmik içerik önerilerine doğrudan bağımsız bir akış alanı açması ve içerik keşif modelini dönüştürmesi açısından önem taşımaktadır.",
+      "event_key": "reddit-for-you-ve-following-akis-ayrimi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Platformun ana sayfa deneyimini resmen iki ayrı akışa bölmesi ve algoritma tabanlı tavsiye akışını küresel ölçekte kullanıma sunması doğrulanmış bir ürün gelişmesidir."
+      },
+      "brief": "Reddit, ana sayfasında kullanıcıların karşısına 'Sizin İçin' ve 'Takip Edilenler' başlıklı iki sekme çıkaracağını duyurdu. Öneri odaklı yeni akış, katılım sağlanan topluluklar ile önerilen içerikleri harmanlayarak önümüzdeki haftalarda dünya genelinde erişime açılacak.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "source_published_at": "2026-10-28T16:00:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+      "body": [
+        "Reddit, diğer sosyal medya platformlarında yaygınlaşan içerik öneri sistemini bünyesine eklediğini açıkladı. Şirketin çarşamba günü yaptığı duyuruya göre, platformu açan kullanıcılar artık 'Sizin İçin' ve 'Takip Edilenler' olmak üzere iki ana seçenek görecek. 'Takip Edilenler' akışı yalnızca üye olunan toplulukların paylaşımlarını listelerken, 'Sizin İçin' akışı üye olunan topluluklarla birlikte ilgi alanlarına göre seçilmiş harici tavsiyeleri birleştirecek.",
+        "Şirket, bu değişikliğin yeni toplulukların ve sohbetlerin keşfedilmesini sağlamak, katılım ve aidiyet hissini artırmak amacıyla yapıldığını bildirdi. Kullanıcılar iki akış arasında geçiş yapabilecek ve platform bir sonraki açılışta en son görüntülenen akışı ekrana getirecek.",
+        "Test sürecinde bazı kullanıcıların tepkisini çeken ve tavsiye edilen içerikleri ana akıştan ayrı tutmak isteyenlerin eleştirdiği yeni düzenleme, önümüzdeki birkaç hafta içinde küresel çapta tüm kullanıcılara ulaştırılacak."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "2850c5323da447058d4be3b12fca310c7b2fd0287448a853e633c9e09e90f78b"
+    },
+    {
+      "id": "db1777bc52884b11",
+      "category": "YAPAY ZEKÂ",
+      "title": "Google, Singapur ile Sağlıkta Yapay Zekâ İş Birliğini Genişletiyor",
+      "summary": "Google, Singapur'da düzenlenen Google for Health Zirvesi'nde yeni bir araştırma merkezi kurduğunu ve sağlık alanında ortak projeler başlattığını duyurdu. Bu kapsamda bilimsel araştırmaları desteklemek amacıyla 7 milyon dolarlık katkı sağlanırken yerel sağlık kuruluşlarıyla yapay zekâ uygulamaları test edilecek.",
+      "why": "Google'ın kuracağı yeni merkez, klinik uygulamalarda yapay zekâ asistanlığı ve kronik hastalık risklerinin öngörülmesi gibi konularda doğrudan sağlık hizmeti sunucularıyla ortaklık yaparak kamu sağlığına yönelik teknolojileri sahaya taşımayı amaçlamaktadır.",
+      "event_key": "google-singapur-kamu-sagligi-arastirma-merkezi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Google, Singapur'da yeni bir araştırma merkezi açacağını, 7 milyon dolarlık fon sağlayacağını ve yerel sağlık kuruluşlarıyla yapay zekâ pilot uygulamaları yürüteceğini resmi olarak duyurmuştur."
+      },
+      "brief": "Google, Singapur'daki sağlık sisteminde yapay zekâyı yaygınlaştırmak için yerel bir araştırma merkezi kuruyor. Şirket, sağlık araştırmaları için 7 milyon dolar bağışlarken klinik bilgi sentezi ve nüfus sağlığı öngörüleri gibi alanlarda Singapurlu sağlık kurumlarıyla ortak projeler yürütecek.",
+      "source_name": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+      "source_published_at": "2026-10-29T03:30:00+00:00",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/singapore_health_summit_hero_.width-1300.png",
+      "body": [
+        "Singapur'da düzenlenen Google for Health Zirvesi'nde, Google'ın ülkedeki sağlık sisteminde öncü yapay zekâ teknolojilerini uygulamak üzere iş birliğini derinleştirdiği açıklandı. Duyurulan girişimler kapsamında, yerel araştırmacı ve yazılım mühendislerinden oluşan bir Google Research merkezi kuruluyor. Merkez; Singapur Ulusal Üniversitesi ve Nanyang Teknolojik Üniversitesi gibi kurumlarla ortaklık kurarak temel yapay zekâ modelleri geliştirmeyi hedefliyor.",
+        "Sağlık alanındaki bilimsel araştırmaları desteklemek üzere Google.org ve Google DeepMind, Philanthropy Asia Alliance bünyesindeki Health for Human Potential Koalisyonu'na 7 milyon dolar katkıda bulunuyor. Bu tutarın 1 milyon dolarlık kısmı, ülkelerin veri egemenliğini korurken hastalık tehditlerini daha hızlı tespit etmelerine yardımcı olan yapay zekâ platformu PathGen için ayrıldı. Ayrıca MedGemma gibi açık modellerin birinci basamak sağlık hizmetlerinde veri egemenliği korunarak güvenli ve özelleştirilmiş çözümler geliştirmek amacıyla yaygınlaştırılması planlanıyor.",
+        "Klinik süreçlerin desteklenmesi tarafında Google DeepMind, Ulusal Üniversite Sağlık Sistemi ile hekimlerin tıbbi kılavuzlardan ve literatürden hızlı bilgi derlemesini sağlayan yapay zekâ destekli klinik asistan aracını değerlendiriyor. Eş zamanlı olarak Google Cloud, NHG Health ile nüfus sağlığı programı yürüterek kronik rahatsızlık risklerini tahmin eden modeller geliştiriyor; bu veriler Gemini Enterprise altyapısını kullanan NHG HealthBot üzerinden halka kişiselleştirilmiş yaşam tarzı rehberliği ve önleyici bakım hatırlatmaları olarak iletiliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "24d70a0a69c72729ab07b7d2d5edd1798dd39360f678fabe19c371e59476165d"
+    },
+    {
+      "id": "e054049a83e97f97",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Android XR Destekli Akıllı Gözlük Xreal Aura Tanıtıldı",
+      "summary": "Google'ın iş ortağı Xreal, Android XR işletim sistemi ve Snapdragon Reality Elite platformuyla çalışan Xreal Aura akıllı gözlüğünü piyasaya sürdü. Kablolu harici işlem birimiyle çalışan cihaz dört ülkede siparişe açıldı.",
+      "why": "Google'ın Android XR platformunun bir donanım ortağı aracılığıyla ticari bir akıllı gözlükte kullanıma sunulması ve pazara çıkış fiyatlarının belirlenmesi tüketici elektroniği sektörü açısından somut bir adımdır.",
+      "event_key": "xreal-aura-android-xr-akilli-gozluk",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Google ve Xreal ortaklığında geliştirilen Android XR destekli Xreal Aura akıllı gözlüğü resmen tanıtılmış, donanım özellikleri ve satış fiyatları açıklanmıştır."
+      },
+      "brief": "Xreal, Android XR platformuyla çalışan yeni kablolu akıllı gözlüğü Aura'yı tanıttı. Sony Micro-OLED ekran ve Bose ses teknolojisi barındıran cihaz, Amerika Birleşik Devletleri, Kanada, Japonya ve Güney Kore'de ön siparişe sunuldu.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "source_published_at": "2026-10-28T17:00:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Xreal-Aura.jpg?resize=1200,675",
+      "body": [
+        "Google'ın akıllı gözlük iş ortağı Xreal, Android Dev Summit etkinliğinde Android XR işletim sistemi ve Qualcomm'un Snapdragon Reality Elite platformundan güç alan Xreal Aura modelini tanıttı. Cihaz tüm hesaplama işlemlerini kendi bünyesinde yürütmek yerine, kabloyla bağlanan akıllı telefon benzeri harici bir işlem birimine dayanıyor ve içerikleri kullanıcının görüş alanına yansıtıyor.",
+        "Xreal Aura, 1200p çözünürlük, 120 Hz yenileme hızı ve 95 derecelik görüş alanı sunan Sony Micro-OLED ekran kullanıyor. 95 gram ağırlığındaki gözlük, harici işlem birimiyle birlikte taşınmak durumunda kalıyor. Cihazın ses sistemi Bose teknolojisiyle desteklenirken, Android XR entegrasyonu sayesinde Gemini asistanı ekran bağlamını anlamada ve soru-cevap işlemlerinde kullanıcılara yardımcı oluyor.",
+        "Cihaz doğrudan USB-C üzerinden bilgisayarlara veya el oyun konsollarına bağlanarak artırılmış ekran ya da çoklu monitör kurulumu sağlayabiliyor. Aura, lansmanda popüler Google Play uygulamaları ve oyunlarının yanı sıra Android XR için NBA uygulaması, Nevatars ve Project Hail Mary: Journey Among the Stars gibi çeşitli deneyimleri destekliyor.",
+        "Gözlük Amerika Birleşik Devletleri, Kanada, Japonya ve Güney Kore'de siparişe sunuldu. 12 GB RAM ve 256 GB depolamaya sahip model 1.279 dolar (aralık sonuna kadar 1.099 dolar), 16 GB RAM ve 512 GB depolamaya sahip sürüm ise 1.499 dolar (aralık sonuna kadar 1.299 dolar) fiyat etiketiyle listelendi. Ürünün sevkiyatlarının kasım ortasında başlaması planlanıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "f7c404d8bb8d84ed99de7af3e772cd6d0da229a098b35cbcc83bf4b6e1a9cc00"
+    },
+    {
+      "id": "04fe104cafb4728a",
+      "category": "UZAY",
+      "title": "Vietnam Artemis Anlaşmaları'nı İmzalayan 78. Ülke Oldu",
+      "summary": "Vietnam, uzayın barışçıl ve sorumlu keşfini teşvik eden Artemis Anlaşmaları'nı imzalayarak topluluğa katılan 78. ülke oldu. İmza töreni Ha Long'da düzenlenen Vietnam Uluslararası Dijital Haftası kapsamında gerçekleştirildi. Anlaşma, ABD ile Vietnam arasındaki Kapsamlı Stratejik Ortaklığı uzay alanına genişletiyor.",
+      "why": "Ay ve uzay keşiflerinde uluslararası ilke ve kuralları belirleyen Artemis Anlaşmaları'nın yeni bir Asya-Pasifik ülkesinin katılımıyla genişlemesi ve iki ülke arasındaki stratejik ortaklığı uzay alanına taşıması açısından önemlidir.",
+      "event_key": "vietnam-artemis-anlasmalari-imza",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Vietnam'ın resmi törenle Artemis Anlaşmaları'nı imzalayarak 78. taraf ülke olması resmi hükümet ve NASA açıklamasıyla doğrulanmış diplomatik bir gelişmedir."
+      },
+      "brief": "Vietnam, uzayın barışçıl ve şeffaf keşfini öngören Artemis Anlaşmaları'na 78. ülke olarak imza attı. Ha Long'daki törenle resmiyet kazanan katılım, NASA ile Vietnam arasındaki mevcut uydu ve yer gözlemi iş birliğini genişletmeyi amaçlıyor.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "source_published_at": "2026-10-28T21:50:01+00:00",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg",
+      "body": [
+        "Vietnam Sosyalist Cumhuriyeti, uzayın barışçıl, şeffaf ve sorumlu bir şekilde keşfedilmesini taahhüt eden Artemis Anlaşmaları'na imza koyan 78. ülke oldu. Ha Long'da düzenlenen Vietnam Uluslararası Dijital Haftası sırasındaki imza töreninde anlaşmayı Vietnam Bilim ve Teknoloji Bakanı Vũ Hải Quân imzalarken, etkinliğe ABD'nin Vietnam Büyükelçisi Jennifer Wicks de katıldı.",
+        "NASA Yönetici Yardımcısı Matt Anderson, kaydedilmiş konuşmasında Vietnam Ulusal Uzay Merkezi ile uydu inovasyonu, arazi kullanımı araştırmaları ve radar tabanlı Yer gözlemi alanlarında ortak çalışmalar yürütüldüğünü belirterek, anlaşmanın bu iş birliğini yeni bir aşamaya taşıdığını ifade etti. Vietnam, Hanoi'de ulusal uzay merkezini kurmuş ve LOTUSat programı kapsamında yerli uydu yeteneklerini geliştirmeye başlamıştı.",
+        "NASA ve ABD Dışişleri Bakanlığı'nın yedi kurucu ortakla 2020 yılında başlattığı Artemis Anlaşmaları; uzayda barışçıl keşif, yardımlaşma, bilimsel verilere şeffaf erişim ve tarihi alanların korunması gibi prensipleri kapsıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "07d0c5613d5490a09e73ee58b159fa67a9149c1ac70310f571438d565030475b"
+    },
+    {
+      "id": "ee5e2424785d3c85",
+      "category": "SİBER GÜVENLİK",
+      "title": "Upwind, Datadog'un Satın Alma Teklifini Geri Çevirerek 400 Milyon Dolar Yatırım Aldı",
+      "summary": "Bulut güvenliği girişimi Upwind, yazılım izleme şirketi Datadog'un satın alma hamlesini geri çevirdikten sonra 400 milyon dolar C serisi yatırım aldı. Şirketin değerlemesi 3,8 milyar dolara ulaştı.",
+      "why": "Girişimin halka açık büyük bir yazılım firmasının satın alma teklifini reddederek bağımsız kalmayı seçmesi ve 3,8 milyar dolar değerlemeye ulaşması, yapay zekâ tabanlı siber güvenlik pazarına olan yatırım ilgisini göstermektedir.",
+      "event_key": "upwind-seri-c-400-milyon-dolar-yatirim",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Upwind'in Datadog'un satın alma teklifini geri çevirip 3,8 milyar dolar değerlemeyle 400 milyon dolar yatırım toplaması finansal açıdan somut ayrıntılar içermektedir."
+      },
+      "brief": "Bulut güvenliği girişimi Upwind, Datadog'un değerleme primi içermeyen satın alma teklifini geri çevirerek Bessemer Venture Partners liderliğinde 400 milyon dolar topladı. Şirketin piyasa değerlemesi bu turla 3,8 milyar dolara ulaştı.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source_published_at": "2026-10-28T23:15:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+      "body": [
+        "Bulut altyapısını güvence altına almak için yapay zekâ kullanan San Francisco merkezli girişim Upwind, Bessemer Venture Partners liderliğinde düzenlenen C serisi yatırım turunda 400 milyon dolar topladı. Tura mevcut yatırımcılardan Greylock Partners ve Craft Ventures da katıldı. Bu turla birlikte şirketin piyasa değerlemesi 3,8 milyar dolara çıktı.",
+        "Finansman süreci, yazılım gözlemlenebilirlik araçları sunan halka açık Datadog şirketinin Upwind'i satın alma girişiminde bulunması üzerine neredeyse kesintiye uğradı. Konuya yakın bir kaynağın aktardığına göre Datadog, risk sermayesi yatırımcılarının belirlediği 3,8 milyar dolarlık değerlemenin üzerinde bir prim teklif etmedi ve bunun sonucunda Upwind bağımsız kalma kararı alarak teklifi geri çevirdi.",
+        "Dört yıllık bir geçmişe sahip olan Upwind, aktif hizmetlerdeki saldırıları ve güvenlik açıklarını gerçek zamanlı olarak tespit edip gideren 'çalışma zamanı' (runtime) güvenlik yaklaşımı sunuyor. Her çeyrekte yıllık tekrarlayan gelirine 20 ila 30 milyon dolar ekleyen şirketin, yıl sonunu yaklaşık 90 milyon dolar gelirle kapatması bekleniyor. Bu rakam, şirketin beklenen gelirinin 40 katından fazla bir çarpanla değerlendiğini gösteriyor.",
+        "Daha önce kurduğu Spot.io girişimini NetApp'e 450 milyon dolara satan Amiram Shachar tarafından kurulan Upwind, son finansmanını dokuz ay önce 1,5 milyar dolar değerleme üzerinden aldığı 250 milyon dolarlık turla sağlamıştı. Şirketin hâlen satın alma teklifleri almaya devam ettiği belirtiliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6fb2ec6c09140ae67936ab8bfaddda295cdacc116d029956cd41302f91b927cb"
+    }
+  ],
+  "summary": {
+    "file": "teknoloji/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 14,
+    "duration": 307.7,
+    "bytes": 1846224,
+    "sha256": "2061ce46181285eebb7bcb8d799c4c6dbb34ef5535878f29cb92e49ec44727bc"
+  },
+  "podcast": {
+    "file": "teknoloji/podcast.mp3",
+    "title": "Yeni Sekme",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 14,
+    "duration": 719.3,
+    "bytes": 11509804,
+    "sha256": "a22dd9d289c0e19a400028cf2bf336296baf433aaad8d29a2729ada741e97355"
+  },
+  "audio_revision": 5
+}
