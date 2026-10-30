@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "audio_sha256": "e4a2f38e5bc640ef68f0d77700a1a9ea98977fa354ec13737ff4033641ba4a90",
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "Açılış"
+    },
+    {
+      "start": 13.84,
+      "title": "Alphabet'in Piyasa Değeri ve Yapay Zekâ Maliyetleri"
+    },
+    {
+      "start": 91.1,
+      "title": "Reddit Platformuna Giriş Yapma Zorunluluğu Planı"
+    },
+    {
+      "start": 148.98,
+      "title": "Binance'teki Güvenlik Olayı ve Kripto Varlıklar"
+    },
+    {
+      "start": 215.56,
+      "title": "ABD İç Güvenlik Bakanlığı Personel Verilerinin Sızdırılması"
+    },
+    {
+      "start": 286.5,
+      "title": "Mistral'in ML4 Modelini Siber Savunmaya Açması"
+    },
+    {
+      "start": 356.18,
+      "title": "General Motors Sürücü Verisi Uzlaşması"
+    },
+    {
+      "start": 427.32,
+      "title": "ABD'nin Yabancı Sanayi Robotlarına Yönelik Kararnamesi"
+    },
+    {
+      "start": 503.52,
+      "title": "Thrive Holdings'in Güvenlik Şirketi ADT'yi Satın Alması"
+    },
+    {
+      "start": 565.32,
+      "title": "OpenAI Paketlerinde Kullanım Limitlerinin Artırılması"
+    },
+    {
+      "start": 625.7,
+      "title": "Windows 11 Güncellemesi ve PC Pazarı Gelirleri"
+    },
+    {
+      "start": 694.66,
+      "title": "Kapanış"
+    }
+  ],
+  "story_ranges": [
+    {
+      "story_id": "2fa2c9ea33362800",
+      "start": 13.84,
+      "end": 90.44
+    },
+    {
+      "story_id": "ccef4b21c6474d37",
+      "start": 91.1,
+      "end": 148.64
+    },
+    {
+      "story_id": "8e8e4f8e579727c9",
+      "start": 148.98,
+      "end": 214.98
+    },
+    {
+      "story_id": "16c4d4b00ee0a754",
+      "start": 215.56,
+      "end": 285.84
+    },
+    {
+      "story_id": "b138df71b1659a33",
+      "start": 286.5,
+      "end": 355.42
+    },
+    {
+      "story_id": "e0ae3c716413ea8d",
+      "start": 356.18,
+      "end": 426.88
+    },
+    {
+      "story_id": "85248bd11eaa5ccd",
+      "start": 427.32,
+      "end": 503.14
+    },
+    {
+      "story_id": "c64d19fa0032f9ce",
+      "start": 503.52,
+      "end": 564.5
+    },
+    {
+      "story_id": "c3c936b327656db6",
+      "start": 565.32,
+      "end": 625.08
+    },
+    {
+      "story_id": "77d6bd61a607ad83",
+      "start": 625.7,
+      "end": 694.22
+    }
+  ],
+  "section": "teknoloji",
+  "clips_reviewed": true,
+  "stories_sha256": "a1c2428a6d0657f4ca4bab5c53c44a3b7ed703598857a53c232efa531cb6f2cc"
+}

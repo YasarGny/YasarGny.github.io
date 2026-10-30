@@ -1,0 +1,519 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "oyun",
+  "publish_date": "2026-10-30",
+  "date": "30 Ekim 2026",
+  "issue": 15,
+  "ready": true,
+  "stories": [
+    {
+      "id": "243d5e53fc1b97b1",
+      "category": "OYUN DUYURUSU",
+      "title": "FromSoftware'in Switch 2'ye Özel Oyunu The Duskbloods 2027 Yılına Ertelendi",
+      "summary": "FromSoftware, Nintendo Switch 2 konsoluna özel olarak geliştirdiği The Duskbloods oyununun çıkışını 2027 yılına ertelediğini duyurdu. Daha önce 2026 olarak planlanan takvim, ağ testlerinin ardından oyun kuralları ve dengelemeler üzerinde son ayarlamaların yapılması amacıyla değiştirildi.",
+      "why": "Oyun, Nintendo'nun yeni konsoluna özel olması ve ağ testlerinde Elden Ring Nightreign'den daha fazla başvuru alarak yoğun ilgi görmesi nedeniyle gecikmesi oyun dünyasını yakından ilgilendiriyor.",
+      "event_key": "fromsoft-the-duskbloods-2027ye-ertelendi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "FromSoftware'in Switch 2 konsoluna özel geliştirdiği The Duskbloods'ın 2026'dan 2027'ye ertelendiği resmi Twitter açıklamasıyla doğrulanmıştır."
+      },
+      "brief": "FromSoftware, Nintendo Switch 2'ye özel geliştirdiği The Duskbloods oyununun çıkışını 2026'dan 2027'ye erteledi. Stüdyo, ağ testlerinin ardından oyun mekaniklerinde ve dengede son düzenlemeleri tamamlamak için ek zamana ihtiyaç duyulduğunu açıkladı.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+      "source_published_at": "2026-10-29T14:14:25+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "FromSoftware tarafından geliştirilen ve Nintendo Switch 2 platformuna özel olarak sunulacak olan The Duskbloods'ın çıkış tarihi ertelendi. Yapımcı stüdyo, daha önce 2026 yılı olarak hedeflenen çıkış penceresinin, 2027 yılı içerisinde henüz netleşmeyen bir tarihe alındığını resmi olarak duyurdu.",
+        "Oyunun resmi Twitter hesabı üzerinden yapılan açıklamada, geliştirme sürecinin son düzenleme aşamasında olduğu ancak çıkış döneminin 2027'ye taşınmasına karar verildiği belirtildi. Yapılan ek bilgilendirmede, kapalı ağ testleri sırasında çatışma, stratejik derinlik ve oyuncu ifadesi gibi temel kavramlara yoğun ilgi gösterildiği aktarıldı. Bu unsurları geliştirmek, oyun kuralları ve dengelemeler üzerinde son ayarlamaları yapabilmek adına takvimin esnetildiği ifade edildi.",
+        "Kapalı ağ testleri ilk etapta bağlantı sorunları nedeniyle ani bir kesintiye uğrasa da sonraki oturumlarda sorunların giderildiği bildirildi. Switch 2 platformuna özel olmasına rağmen test başvuru sayısında Elden Ring Nightreign'i geride bırakan The Duskbloods için Nintendo ya da FromSoftware ağustos ayındaki testlerden bu yana sessizliğini koruyordu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "3009a2d54be64e4ba3be0a574d221a1fdc772c6531bb803606c5a7c27bdde05e"
+    },
+    {
+      "id": "9db52cb188b5ffae",
+      "category": "OYUN KÜLTÜRÜ VE SİNEMA",
+      "title": "Bağımsız Korku Oyunu Mouthwashing Sinemaya Uyarlanıyor",
+      "summary": "Wrong Organ tarafından geliştirilen bağımsız korku oyunu Mouthwashing'in uzun metrajlı canlı çekim sinema filmi yapılacağı duyuruldu. Sony Pictures bünyesindeki Screen Gems ortaklığıyla hazırlanan filmin yönetmenliğini Karyn Kusama üstlenecek.",
+      "why": "Büyük beğeni toplayan bağımsız bir video oyununun Sony çatısı altında tanınmış korku yönetmen ve yapımcılarıyla doğrudan sinemaya uyarlanması dikkat çekici bir sektörel gelişmedir.",
+      "event_key": "mouthwashing-film-uyarlamasi-ve-konsol-cikisi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Mouthwashing'in sinema uyarlaması Screen Gems ve geliştirici tarafından resmen duyurulmuş; yönetmen, yapımcı ve senarist isimleri netleşmiştir."
+      },
+      "brief": "Bağımsız korku oyunu Mouthwashing, canlı çekim sinema filmine uyarlanıyor. Screen Gems ve Wrong Organ ortaklığındaki yapımı Karyn Kusama yönetecek, senaryoyu ise Matt Manfredi ve Phil Hay kaleme alacak. Yapımcılığı Scott Derrickson üstlenecek.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
+      "source_published_at": "2026-10-29T21:18:43+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/mouthwashingthumb-1793305960020.png?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Wrong Organ tarafından geliştirilen ve Critical Reflex tarafından yayımlanan bağımsız korku oyunu Mouthwashing'in uzun metrajlı canlı çekim bir sinema filmine uyarlanacağı açıklandı. Yapımcı stüdyo ile Sony Pictures'a bağlı Screen Gems şirketinin yaptığı resmi duyuruyla, Tulpar mürettebatının hikayesinin beyaz perdeye aktarılacağı kesinleşti.",
+        "Projenin yönetmenlik koltuğuna Jennifer's Body ve Yellowjackets yapımlarıyla tanınan Karyn Kusama oturacak. Senaryo Matt Manfredi ve Phil Hay tarafından kaleme alınırken, yapımcı kadrosunda Scott Derrickson, C. Robert Cargill ve Vince Cheng yer alıyor. Henüz kesinleşmiş bir oyuncu kadrosu ya da detaylı olay örgüsü açıklanmadı.",
+        "Oyun, Pony Express kargo şirketine ait Tulpar isimli uzay gemisinde rotadan çıkan beş kişilik mürettebatın açlık, izolasyon, paranoya ve halüsinasyonlarla mücadelesini konu ediniyor. İlk olarak 2024 yılında PC için çıkan ve olumlu eleştiriler alan yapım, film duyurusunun yapıldığı 29 Ekim tarihi itibarıyla konsollarda da satışa sunuldu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8670a48394c47dd7625ffaa4622eb4d0104e971ce1b5e21c2b8a84674e12d470"
+    },
+    {
+      "id": "ad4c65d0ef4b03a1",
+      "category": "DİJİTAL MAĞAZALAR",
+      "title": "Celeste ve TowerFall Geliştiricisi Oyunlarını Xbox Mağazasından Çekti",
+      "summary": "Celeste ve TowerFall'un yaratıcısı Maddy Thorson, Microsoft'un İsrail hükümetiyle olan ilişkileri ve yatırımları nedeniyle oyunlarını Xbox mağazasından kaldırdığını duyurdu. Kararın Boykot, Tecrit ve Yaptırımlar (BDS) hareketine destek amacıyla alındığı belirtildi.",
+      "why": "Başarılı ve popüler bağımsız yapımların, küresel bir siyasi boykot hareketi doğrultusunda büyük bir konsol platformunun mağazasından geliştiricisi tarafından tamamen çekilmiş olması önemlidir.",
+      "event_key": "celeste-ve-towerfall-xbox-magazasindan-kaldirildi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Celeste ve TowerFall'un geliştirici Maddy Thorson'ın boykot kararıyla Xbox mağazasından çekildiği Bluesky açıklamasıyla doğrulanmıştır."
+      },
+      "brief": "Celeste ve TowerFall oyunları, geliştirici Maddy Thorson'ın Microsoft'u boykot etme kararıyla Xbox mağazasından kaldırıldı. BDS hareketini destekleyen bu adımla birlikte oyunlar yalnızca PlayStation, PC ve Switch platformlarında satışta kaldı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/celeste-and-towerfall-developer-explains-why-games-were-abruptly-delisted-from-xbox",
+      "source_published_at": "2026-10-29T19:14:17+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2023/07/18/celeste-1689688002539.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Celeste ve TowerFall yapımlarının geliştiricisi Maddy Thorson, söz konusu oyunların Xbox platformundaki satışını durdurduklarını açıkladı. Bluesky platformu üzerinden bir açıklama yapan Thorson, Microsoft'un İsrail hükümetiyle olan yatırımları ve ticari bağları nedeniyle bu boykot kararını aldıklarını doğruladı.",
+        "Thorson, kararın Filistin öncülüğündeki 'Boykot, Tecrit ve Yaptırımlar' (BDS) hareketine destek olmak amacıyla verildiğini ifade etti. Bu adımla birlikte oyuncuların Xbox üzerinden Celeste ve TowerFall'u satın alma imkanı son bulurken, her iki yapım da PlayStation, PC ve Nintendo Switch platformlarında satılmaya devam ediyor.",
+        "Celeste ve TowerFall, söz konusu boykot nedeniyle Xbox'tan çekilen ilk yapımlar değil. Daha önce de Big Walk oyununun geliştiricisi House House, Microsoft'un BDS hedefleri arasında yer alması gerekçesiyle oyunlarını Xbox'a çıkarmama kararı aldıklarını duyurmuştu. TowerFall 2013, Celeste ise 2018 yılında piyasaya sürülmüştü."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "92a7237570bb0eaac665488c1b469350b3a9f2c6361d2c8e92585f01adb09f99"
+    },
+    {
+      "id": "029155fcafb1439d",
+      "category": "OYUN VE DİZİ",
+      "title": "Donald Glover, PUBG Canlı Aksiyon Dizisinin Başına Geçiyor",
+      "summary": "Krafton'un popüler hayatta kalma oyunu PUBG, Netflix için canlı aksiyon dizisine uyarlanıyor. Projenin senaristliğini, yönetmenliğini ve başrolünü ödüllü sanatçı Donald Glover üstleniyor.",
+      "why": "Dünyanın en popüler çok oyunculu yapımlarından PUBG'nin küresel bir eğlence markasına dönüştürülmesi ve Hollywood'un tanınmış isimleriyle canlı aksiyon dizisi olarak uyarlanması açısından önem taşımaktadır.",
+      "event_key": "netflix-pubg-canli-cekim-dizisi-donald-glover",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Krafton'un paylaştığı basın bültenine dayanan haberde, PUBG'nin Donald Glover liderliğinde diziye uyarlanacağı bilgisi yer almaktadır."
+      },
+      "brief": "Donald Glover, popüler video oyunu PUBG'nin Netflix uyarlamasını yazacak, yönetecek ve başrolünde yer alacak. Projenin yapımında kardeşi Stephen Glover ve Krafton'un eğlence birimi LV3H de bulunuyor.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
+      "source_published_at": "2026-10-29T19:24:05+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/donald-glover-to-direct-star-in-pubg-series-netflix-1793301671634.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Krafton bünyesindeki popüler 'battle royale' oyunu PlayerUnknown's Battlegrounds (PUBG), Netflix platformunda yayımlanacak bir canlı aksiyon dizisine dönüştürülüyor. Projenin senaristliğini, yönetmenliğini ve başrol oyunculuğunu Grammy ödüllü sanatçı ve aktör Donald Glover üstlenecek. Sanatçının kardeşi Stephen Glover da dizide ortak yazar ve yönetici yapımcı olarak görev alacak.",
+        "Dizinin yapımcı kadrosunda NEON TV'den Michael Schaefer, Gilga'dan Fam Udeorji ile Krafton'un eğlence birimi LV3H'den Taeseok Jang ve Sujin Lee yer alıyor. Güney Koreli oyun devi Krafton, bu projeyle fikri mülkiyetini özgün eğlence içerikleriyle genişletmeyi hedefliyor.",
+        "Başlangıçta yalnızca çok oyunculu bir deneyim olarak geliştirilen PUBG, sonradan kurgulanan bir arka plan hikâyesine sahip. Resmi anlatıya göre ada mücadeleleri, 1965 yılında kurgusal Erangel adasındaki bir Sovyet saldırısından sağ kurtulan milyarder Sergei Kalimnik'in, çocukluk travmasını yüz kişiyi tek bir kişi kalana kadar savaştırarak yeniden canlandırmasına dayanıyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9c3719f3fa0ff6c0be6d4d4c82d63b26229beb2b617704c1e6311d7b8abc90e0"
+    },
+    {
+      "id": "22725df81ebe9ee7",
+      "category": "YENİ ÇIKIŞ VE GÜNCELLEME",
+      "title": "Phantom Blade Zero Steam Çıkışında Yüksek Oyuncu Sayısına Ulaştı",
+      "summary": "S-Game tarafından geliştirilen wuxia aksiyon oyunu Phantom Blade Zero, Steam'de 431 bini aşkın anlık oyuncuya ulaştı. Yapımın küresel satışlarının lansman öncesinde 1 milyonu aştığı tahmin ediliyor.",
+      "why": "Çin merkezli geliştiricilerin küresel oyun pazarındaki yükselişini ve yeni bir aksiyon yapımının platform listelerindeki anlık başarısını göstermesi bakımından dikkat çekmektedir.",
+      "event_key": "phantom-blade-zero-cikis-rekoru-ve-nvidia-uyarisi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Oyunun Steam çıkışı, eşzamanlı oyuncu verileri ve analistlerin satış tahminleri somut göstergelerle kaynakta sunulmuştur."
+      },
+      "brief": "S-Game'in yeni oyunu Phantom Blade Zero, Steam platformunda 431 bin eşzamanlı oyuncu zirvesi yakaladı. Oyun, küresel çok satanlar listesinde zirveye yerleşirken toplam satışların 1 milyonu geçtiği tahmin ediliyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+      "source_published_at": "2026-10-29T09:26:46+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/phantom-blade-zero-hammer-attack-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "S-Game stüdyosunun geliştirdiği wuxia türündeki aksiyon oyunu Phantom Blade Zero, resmi çıkışının ardından Steam platformunda 431 bin 541 eşzamanlı oyuncu zirvesine ulaştı. Yapım, platformun anlık oyuncu sıralamasında Counter-Strike 2'nin hemen ardından ikinci sıraya yerleşti.",
+        "Haftalık bazda 16 basamak yükselerek Steam'in küresel en çok satanlar listesinde ilk sıraya çıkan oyun, kullanıcılardan gelen ilk incelemelerde 'Çoğunlukla Olumlu' ortalaması yakaladı.",
+        "Geliştirici stüdyo resmi satış rakamlarını henüz duyurmasa da Alinea Analytics analisti Rhys Elliott, oyunun PC ve PlayStation 5 platformlarında lansman öncesi 850 bin adet sattığını, Çin'deki Tencent WeGame satışlarıyla birlikte bu sayının 1 milyon kopyayı aştığını öngörüyor. Elliott, 28 Ekim çıkış tarihinden iki gün önce yayımlanan incelemelerin ardından 80 bin kopya satıldığını belirtti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "a9eadb5dd6aef4733db05755b81bac83bceb614753a36b92149cfe179d7330b1"
+    },
+    {
+      "id": "75be2293cdad2f3c",
+      "category": "OYUN KÜLTÜRÜ VE TARTIŞMA",
+      "title": "Modern Warfare 4'te Gerçek İtaewon Faciası Görüntülerinin Kullanılması Tepki Çekti",
+      "summary": "Call of Duty: Modern Warfare 4'ün açılış sahnesinde Seul'deki İtaewon izdihamına ait gerçek haber görüntülerinin kullanılması tepkiye yol açtı. Mağdur aileleri görüntülerin kaldırılmasını istiyor.",
+      "why": "Eğlence sektöründeki yapımların yakın tarihte gerçekleşen kitlesel ölümlere dair gerçek arşiv görüntülerini kurgusal içeriklerde kullanmasının etik sınırları ve mağdur ailelerin tepkilerini gündeme getirmektedir.",
+      "event_key": "cod-mw4-itaewon-izdihami-goruntuleri-tepkisi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Güney Koreli derneklerin ortak açıklaması, olayın dördüncü yılındaki hassasiyet ve Activision'ın resmi savunması haberde doğrulanmaktadır."
+      },
+      "brief": "Modern Warfare 4'ün açılış sekansında İtaewon faciasına ait gerçek haber arşivlerinin kurgusal sivil kayıp olarak sunulması Güney Kore'de tepki topladı. Dernekler görüntülerin kaldırılmasını talep ederken Activision açıklama yaptı.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
+      "source_published_at": "2026-10-29T11:11:01+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Activision'ın geliştirdiği Call of Duty: Modern Warfare 4 oyununda, 160 kişinin hayatını kaybettiği Güney Kore'deki İtaewon izdihamına ait gerçek haber görüntülerinin yer alması tepkilere neden oldu. Kaza kurbanlarının ailelerini temsil eden dernek ve sivil toplum kuruluşları, görüntülerin derhal oyundan çıkarılmasını talep etti.",
+        "Oyunun açılış sekansında, kurgusal bir Kuzey Kore işgali sırasındaki sivil kayıpları tasvir etmek amacıyla sedyeyle taşınan bir kişi, kalp masajı uygulanan bir kurban ve yolda yatan cansız bedenlerin bulunduğu arşiv kayıtları kullanıldı. Aileler ortak bildiride, eğlence amacıyla üretilen bir oyunda böylesi bir trajedinin malzeme yapılmasını duyarsızlık olarak niteledi.",
+        "Kore Oyun Tüketicileri Derneği de bağlam dışı görüntüler için açıklama ve özür talep ederek içeriğin güncellemeyle değiştirilmesini istedi. Activision ise yaptığı açıklamada, konuya saygıyla yaklaştıklarını ve kurgusal anlatıyı desteklemek için kullanılan haber görüntülerinin İtaewon faciasını veya herhangi bir trajediyi önemsizleştirme amacı taşımadığını ifade etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "1c7dfeaba75734f09d86257a017c87a6ed63d0d7ece39c232936b7a4232045a5"
+    },
+    {
+      "id": "a0f4430022cea207",
+      "category": "STÜDYO VE SEKTÖR",
+      "title": "Don't Nod İflas Koruması Sürecine Girdi ve Kadrosunda Büyük Kesintiye Gitti",
+      "summary": "Life is Strange ve Vampyr gibi oyunların geliştiricisi Don't Nod, iflastan korunmak için koruma tedbiri sürecine başvurdu. Fransız oyun sendikasının raporuna göre, P14 kod adlı projeyi sürdürmek isteyen stüdyo şirket içi kritik pozisyonların çoğunu işten çıkararak dış kaynak kullanımına yöneldi.",
+      "why": "Köklü Fransız geliştirici Don't Nod'un finansal darboğaz nedeniyle iflas sürecine girmesi ve kapsamlı çalışan tasfiyeleriyle birlikte projelerini dış kaynaklara devretmesi sektör açısından kritik bir kriz tablosudur.",
+      "event_key": "dont-nod-iflas-koruma-sureci-ve-isten-cikarmalar",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Don't Nod'un iflas koruma sürecine girmesi ve STJV sendika raporundaki geniş çaplı tensikat ile dış kaynak planları somut bir kurumsal krizi belgeler."
+      },
+      "brief": "Life is Strange stüdyosu Don't Nod, iflastan korunmak amacıyla yasal koruma sürecine girdi. Şirket içi çalışan temsilcilerinin raporlarına göre stüdyo, P14 kod adlı projesini sürdürebilmek için geniş çaplı işten çıkarmalar yapıp dış kaynak yöntemine geçmeyi planlıyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
+      "source_published_at": "2026-10-28T17:10:24+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/lost-records-bloom-and-rage-a.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Life is Strange, Vampyr ve son olarak Aphelion'un yapımcısı olan Fransız oyun stüdyosu Don't Nod, iflas tehlikesine karşı 'safeguard' olarak bilinen yasal koruma sürecine girdi. Şirket yönetim kurulunun geçen ay 90 kişiye kadar işten çıkarmaya yol açabilecek bir yeniden yapılanma kararı almasının ardından, Fransız oyun çalışanları sendikası STJV tarafından yayımlanan rapor stüdyodaki krizi gözler önüne serdi.",
+        "Raporda aktarılan bilgilere göre, stüdyonun karakter sanatçıları, konsept sanatçıları, çevre tasarımcılarının büyük bölümü, ses tasarımcıları, oyun ve seviye tasarımcıları, programcılar, yapımcılar, test uzmanları ve dev-ops kadrolarının tamamına yakını işten çıkarıldı. Şirketin, P14 kod adlı oyun projesini kapsamını daraltmadan tamamlamak istediği ve yaklaşık 100 kişinin çalıştığı bu projedeki iş gücü açığını dış kaynak kullanımıyla kapatmayı planladığı ifade edildi.",
+        "Çalışan temsilciliği (CSE) müzakerelerinin 3 Kasım'da sona ereceği kaydedilirken raporda, yönetimin yasal asgari düzeyin üzerinde kıdem tazminatı ya da gönüllü ayrılma paketi sunmadığı öne sürüldü. Raporda ayrıca son iki yılda çalışanların yaşadığı belirsizlik ve kaygının sağlığı olumsuz etkilediği, 2026 yılında altı iş kazası kayda geçtiği ve ciddi bir tehlike soruşturması başlatıldığı bilgisine yer verildi. Stüdyonun nisan ayında çıkan son oyunu Aphelion'un hedeflenen ilgiyi görmediği kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "8f7bca20686e9d39b0863c7806a8b4f1fb27faa90cc05f8c131d2051182642c9"
+    },
+    {
+      "id": "127a22966bc83a45",
+      "category": "YAMA VE GÜNCELLEME",
+      "title": "Modern Warfare 4 DMZ Modundaki Possum Yeteneğine Kısıtlama Getirildi",
+      "summary": "Infinity Ward, Call of Duty: Modern Warfare 4'ün DMZ modundaki tartışmalı Possum yeteneğini güncelledi. Yeteneğin artık öldüren takım yakındayken ve ölümden sonra dört dakika geçmeden kullanılamayacağı bildirildi.",
+      "why": "DMZ modundaki rekabet dengesini bozan canlanma mekaniğinin kısıtlanması ve silah dengelerinin değiştirilmesi oyuncu deneyimini doğrudan etkilemektedir.",
+      "event_key": "cod-mw4-possum-yetenege-nerf-ve-milsim-uyarisi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Infinity Ward'ın yayımladığı resmi yama notlarıyla Possum yeteneğinin kullanım koşulları sınırlandırılmış ve silah dengelemeleri doğrulanmıştır."
+      },
+      "brief": "Infinity Ward, Call of Duty: Modern Warfare 4'ün DMZ modundaki Possum yeteneğini kısıtladı. Son güncellemeyle oyuncuların öldüren takım yakındayken veya ölümün üzerinden dört dakika geçmeden canlanması engellenerek, özelliğin bir çatışma mekaniği yerine hayatta kalma aracı olarak kullanılması hedeflendi.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf",
+      "source_published_at": "2026-10-29T11:33:05+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-season-1-shot-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Infinity Ward, Call of Duty: Modern Warfare 4 için yayımladığı son güncellemeyle DMZ modunda yer alan Possum özelliğinde önemli değişiklikler yaptı. Yapılan düzenlemeyle birlikte oyuncular, kendilerini öldüren takım yakındayken Possum yeteneğini etkinleştiremeyecek.",
+        "Ayrıca yeteneğin kullanılabilmesi için oyuncunun öldürülmesinin üzerinden en az dört dakika geçmesi şartı getirildi. Maç başına bir kez tamamen ölü durumdan canlanma sağlayan bu özellik, önceden öldürülen oyuncuların anında ayağa kalkarak intikam alması amacıyla kullanılıyordu. Stüdyo, yeteneğin bir çatışma mekaniği değil, operatör kurtarma odaklı bir hayatta kalma aracı olarak tasarlandığını belirtti.",
+        "28 Ekim tarihli yama kapsamında saldırı tüfekleri ve hafif makineli tüfeklere güçlendirmeler yapılırken APOC-338 ve FiNN LMG silahları zayıflatıldı. Çok oyunculu ve DMZ modlarındaki çeşitli hataların giderildiği güncellemede ayrıca Shipment haritası 24/7 çalma listesiyle birlikte oyuna eklendi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "0f37168fb129494ccf0ff7527291289f651bc952bea1664b5d4bd58951288825"
+    },
+    {
+      "id": "33d5000cbf4f86bd",
+      "category": "GÜNCELLEME VE YOL HARİTASI",
+      "title": "Bungie, Destiny 2'nin Kaldırılan İçeriklerinin Dönüşü İçin 2028'i İşaret Etti",
+      "summary": "Bungie, Destiny 2'den kaldırılan hikaye içeriklerini geri getirme planının takvimini paylaştı. Tam yapım sürecinin 2027 başında başlaması ve içeriklerin en erken 2028'de çıkması öngörülüyor.",
+      "why": "Uzun süredir erişilemeyen ana hikaye harekatları ve etkinliklerin dönüş takviminin ilk kez resmi olarak netleşmesi, Destiny 2 oyuncu topluluğu ve oyunun geleceği için önem taşıyor.",
+      "event_key": "destiny-2-unvaulting-takvimi-ve-legacy-plani",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Bungie ürün lideri Josh Deane'in açıklamalarıyla Destiny 2'nin kaldırılan hikaye içeriklerinin geri dönüş takvimi ve aşamaları resmi olarak duyurulmuştur."
+      },
+      "brief": "Bungie, Destiny 2 bünyesinden kaldırılan hikaye içeriklerinin en erken 2028 yılında geri dönebileceğini duyurdu. Red War, Forsaken, Curse of Osiris ve Warmind harekatlarını kapsayan ilk aşamanın tam yapım sürecinin Şubat 2027'de başlaması ve Menagerie etkinliğinin de bu süreçte oyuna dahil edilmesi planlanıyor.",
+      "source_name": "Rock Paper Shotgun",
+      "source_url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
+      "source_published_at": "2026-10-29T18:42:15+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-dread-enemies.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Bungie, Destiny 2'den daha önce kaldırılan hikaye harekatlarını ve etkinliklerini geri getirme planlarına ilişkin ayrıntılı bir yol haritası yayımladı. Geliştirici ekip, haziran ayında fizibilite çalışmalarıyla başlayan sürecin şu anda ön yapım aşamasında olduğunu bildirdi. Tam yapım sürecinin en geç Şubat 2027'de başlaması ve bu çalışmanın yaklaşık 12 ay sürmesi planlanıyor. Bu durum, oyuncuların söz konusu içeriklere en erken 2028 yılında kavuşabileceğini gösteriyor.",
+        "Ürün lideri Josh Deane tarafından blog yazısında paylaşılan bilgilere göre, ilk geri getirme aşaması tüm oyunculara açık olacak. Bu kapsamda Red War, Forsaken, Curse of Osiris ve Warmind harekatları ile bu genişlemelerdeki Strike ve Raid etkinlikleri oyuna geri dönecek. Ayrıca topluluk tarafından uzun süredir talep edilen Menagerie etkinliği de güncellenmiş ödüllerle sisteme dahil edilecek.",
+        "Geliştirici ekip, ilk çıkış dönemi veya sonrasındaki süreç için serbest dolaşım alanları, 9 ile 32. sezonlar arasındaki sezonluk etkinlikler, akın silahı güncellemeleri ve PvP haritaları gibi hedefleri de incelediklerini açıkladı. Destiny Legacy ifadesiyle geçmiş deneyimlerin aktarılmasına ve Destiny markasının geleceğine dair yeni duyuruların şubat ayında paylaşılacağı kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4d722980198144154bc696d1d863b49f2cd588c41c71a2751e19de93e9617453"
+    },
+    {
+      "id": "54919589ac5e6772",
+      "category": "GENİŞLEME PAKETİ",
+      "title": "Crimson Desert İçin 'Charting the Unknown' Genişlemesi Xbox Konsollarında Çıktı",
+      "summary": "Crimson Desert evrenini genişleten Charting the Unknown indirilebilir içeriği Xbox Series X|S için yayımlandı. Paket; deniz keşfi, yeni hikaye bölümleri, konut yapımı ve kale yönetimi gibi oynanış mekanikleri sunuyor.",
+      "why": "Oyunun Mart ayındaki çıkışı ve Ağustos'taki 2.00 yamasının ardından gelen bu genişleme, deniz keşfi ve yeni yönetim mekanikleri ekleyerek ana yapımı genişletiyor.",
+      "event_key": "crimson-desert-charting-the-unknown-dlc",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Resmi Xbox duyurusuna dayanan içerikte Charting the Unknown paketinin çıkış tarihi, oynanış mekanikleri ve Xbox deneme sürümü takvimi somut olgularla yer almaktadır."
+      },
+      "brief": "Crimson Desert'ın Charting the Unknown genişleme paketi Xbox Series X|S konsollarında çıktı. Güncelleme okyanus keşfi, gemi inşası, konut yapımı ve üç yeni hikaye sunuyor. Xbox oyuncuları için ana oyuna yönelik 5 saatlik ücretsiz deneme süresi de başladı.",
+      "source_name": "Xbox Wire",
+      "source_url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/",
+      "source_published_at": "2026-10-29T22:00:00+00:00",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image_Crimson-Desert_DLC_KeyArtLayer_1920x1080-05f91c8520d05d01d228.jpg",
+      "body": [
+        "Mart ayındaki lansmanının ve Ağustos ayında yayımlanan Version 2.00 güncellemesinin ardından Crimson Desert, yeni genişleme paketi Charting the Unknown ile Pywel dünyasını büyütmeyi sürdürüyor. 29 Ekim itibarıyla Xbox Series X|S platformunda erişime açılan indirilebilir içerik, oyunculara ilk kez denizlere açılma imkanı tanıyor. Genişleme kapsamında gemi inşası, okyanus keşfi, su altı harabeleri, hazineler ve yeni binek türleri oyuna dahil ediliyor.",
+        "Paket, hikaye tarafında Kliff, Oongka ve Damiane karakterlerine odaklanan üç ayrı macera sunuyor. Oyuncular Pywel sakinleriyle bağlarını güçlendirerek romantizm ve evlilik aşamasına geçebiliyor. Ayrıca sıfırdan konut inşa etme sistemi, fethedilen kalelerin iç mekanlarını dekore etme ve buralardaki restoran ya da demirci gibi tesisleri kiralayıp işletme özellikleri ekleniyor.",
+        "Savaş odaklı yenilikler arasında ise Pywel'daki boss dövüşlerini art arda sunan Garden of Trials meydan okuma modu bulunuyor. Genişlemenin çıkışıyla birlikte, Xbox oyuncuları için 29 Ekim ile 6 Ocak tarihleri arasında geçerli olan 5 saatlik ücretsiz temel oyun deneme sürümü de başlatıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "b7275885192ca629b50b8c798e80d490e729548fca0dc0220fb1a6f803a6feb9"
+    },
+    {
+      "id": "bc197cdb45d360f0",
+      "category": "GÜNCELLEME VE DUYURU",
+      "title": "Assassin's Creed Valhalla'ya Çıkışından Yıllar Sonra New Game+ Modu Geliyor",
+      "summary": "Ubisoft, Assassin's Creed Valhalla için New Game+ modunun 5 Kasım'da yayımlanacağını duyurdu. Güncellemeyle yeni ilerleme sistemi, Mithril materyali ve konsol iyileştirmeleri sunulacak.",
+      "why": "Valhalla'nın çıkışından uzun süre sonra ana mekanik güncellemeleri ve yeni bir ilerleme modu alması serinin güncel durumu açısından önem arz ediyor.",
+      "event_key": "ac-valhalla-6-yil-sonra-new-game-plus",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Ubisoft'un resmi blog duyurusunda Valhalla için New Game+ modu, Mithril materyali ve konsol güncellemelerine dair takvim ve içerik bilgileri sunulmuştur."
+      },
+      "brief": "Ubisoft, Assassin's Creed Valhalla için New Game+ modunun 5 Kasım tarihinde yayımlanacağını duyurdu. Güncelleme paketi; isteğe bağlı yeni bir ilerleme modunu, Mithril üretim materyalini, yeni rünleri, başarımları, zula sistemini ve mevcut nesil konsollara yönelik teknik geliştirmeleri oyuncularla buluşturacak.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/assassins-creed-valhalla-is-getting-new-game-six-years-after-release",
+      "source_published_at": "2026-10-29T18:40:23+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2021/05/25/assassins-creed-valhalla-1621913022247.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Ubisoft, yayımladığı blog yazısında Kasım 2020'de piyasaya sürülen Assassin's Creed Valhalla için New Game+ modunun geleceğini açıkladı. Uzun süredir beklenen bu mod, 5 Kasım tarihinde oyuncuların erişimine açılacak.",
+        "Gelecek olan güncellemeyle birlikte oyuna isteğe bağlı yeni bir ilerleme modu, yeni rünler, başarımlar ve bir zula sistemi eklenecek. Ayrıca ilahi seviyedeki teçhizatları geliştirmek amacıyla kullanılabilecek Mithril adlı yeni bir üretim materyali de tanıtılacak.",
+        "Ubisoft, New Game+ modunun yanı sıra mevcut nesil konsollar için planlanan güncellemelerle ilgili ayrıntıların ve tam yama notlarının önümüzdeki günlerde paylaşılacağını bildirdi. Blog yazısında ayrıca Assassin's Creed: Codename Hexe projesine dair kısa bir güncellemeye de yer verildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "5a5bd47a3724a14db829321b6f8e1876cd3229f6918a3299285eb640203a51cf"
+    },
+    {
+      "id": "fc68826ef1f8fafd",
+      "category": "OYUN SEKTÖRÜ VE SATIŞLAR",
+      "title": "Gears of War: E-Day Satışlarının 400 Binde Kaldığı İddia Edildi",
+      "summary": "Gears of War: E-Day'in konsol ve PC satışlarının 400 bin civarında kaldığı öne sürüldü. Düşük satış rakamının, yapımın ilk günden Game Pass kütüphanesine eklenmesinden kaynaklandığı değerlendiriliyor.",
+      "why": "Büyük bütçeli oyunların ilk günden abonelik sistemlerine eklenmesinin geleneksel oyun satışlarına olan doğrudan etkisini ve platform dinamiklerini somut verilerle ortaya koymaktadır.",
+      "event_key": "gears-of-war-e-day-400-bin-satis-game-pass-etkisi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "The Verge ve Alinea Analytics analisti Rhys Elliott'ın sağladığı satış ve Game Pass kullanım verilerine dayanmaktadır."
+      },
+      "brief": "Gears of War: E-Day'in konsol ve PC'de 400 bin adet sattığı bildirildi. Analizlere göre 1,7 milyon oyuncu oyuna Game Pass üzerinden erişirken, 722 bini erken erişim için yükseltme paketi satın aldı.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
+      "source_published_at": "2026-10-29T23:13:44+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/07/gears-of-war-e-day-xbox-console-exclusive-1780874341784.png?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "The Verge'ün haberine göre, Gears serisinin yeni oyunu Gears of War: E-Day, konsol ve PC genelinde yaklaşık 400 bin adetlik satış rakamına ulaştı. Eleştirmenlerden yüksek puanlar almasına rağmen oyunun doğrudan satışlarının düşük seyretmesi, servise ilk günden dahil olduğu Game Pass politikasına bağlanıyor.",
+        "Alinea Analytics pazar analizi verileri, yaklaşık 1,7 milyon oyuncunun oyunu satın almak yerine Game Pass aboneliği üzerinden oynamayı tercih ettiğini gösteriyor. Bu kitlenin yaklaşık 722 bininin, resmi çıkıştan beş gün önce erken erişim imkânı sunan 30 dolarlık Premium Edition Yükseltmesini satın aldığı tahmin ediliyor.",
+        "Pazar analisti Rhys Elliott, Xbox'ta satılan her bir kopyaya karşılık yaklaşık 12 Game Pass yükseltme paketinin satıldığını ifade etti. Öte yandan E-Day'in performans verileri, 3 bin 200 çalışanın işine son vermeyi planlayan ve stüdyo elden çıkarma süreçleri yürüten Xbox'ın yeniden yapılanma döneminde gündeme geldi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "571f203a5eeba346b4bcfed385f8b0f5f1de9439247fad54954172a565ab34d0"
+    },
+    {
+      "id": "18cf9d55515086ac",
+      "category": "OYUN DUYURUSU",
+      "title": "Titan Quest II Xbox Series X|S İçin Ön Siparişe Açıldı: Çıkış Tarihi 19 Ocak 2027",
+      "summary": "Aksiyon rol yapma oyunu Titan Quest II, Xbox Series X|S konsolları için ön siparişe sunuldu. Geliştirici ekip, oyunun tam sürümünün 19 Ocak 2027 tarihinde çıkış yapacağını açıkladı.",
+      "why": "Klasik aksiyon RYO serisinin devam oyununun konsol çıkış tarihi, ön sipariş koşulları ve temel oynanış sistemleri resmi duyuruyla netleşmiştir.",
+      "event_key": "titan-quest-2-xbox-on-siparis-ve-cikis-tarihi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Geliştirici ve yayıncı duyurusuna dayalı olarak oyunun Xbox Series X|S çıkış tarihi, ön sipariş başlangıcı ve oynanış mekanikleri eksiksiz biçimde aktarılmıştır."
+      },
+      "brief": "THQ Nordic ve Grimlore Games, Titan Quest II'nin 19 Ocak 2027'de Xbox Series X|S için çıkacağını duyurdu. Ön siparişleri başlayan oyun, altı ustalık sınıfı, 15 hibrit kombinasyon ve 96 saatlik erken erişim seçeneği sunuyor.",
+      "source_name": "Xbox Wire",
+      "source_url": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order/",
+      "source_published_at": "2026-10-29T16:00:00+00:00",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image-0226cdae208fec3eaa6c.jpg",
+      "body": [
+        "THQ Nordic ve Grimlore Games, antik Yunan mitolojisini temel alan aksiyon rol yapma oyunu Titan Quest II'nin 19 Ocak 2027 tarihinde Xbox Series X|S platformunda piyasaya sürüleceğini duyurdu. Ağustos 2025'te PC üzerinde Erken Erişim sürecine başlayan yapım, 28 Ekim itibarıyla konsol oyuncuları için ön siparişe açıldı. Oyun, kader ipliklerini bozan İntikam Tanrıçası Nemesis'i durdurma mücadelesini konu alıyor.",
+        "Oyunda serinin temel mekaniği olan Ustalık (Mastery) sistemi korunuyor. Oyuncular; Earth, Storm, Warfare, Rogue, Forge ve Spirit olmak üzere toplam altı ustalık arasından iki tanesini seçerek 15 farklı hibrit sınıftan birini oluşturabiliyor. Zırh ve silah kısıtlamasının bulunmadığı yapımda, beceri modifikasyonları ve nitelik puanları ile karakterler özelleştirilebiliyor.",
+        "Titan Quest II, düşmanların gruplar halinde taktiksel savaştığı temkinli bir dövüş yapısı içeriyor ve verilen hasara göre dolan sağlık iksirleri barındırıyor. Eşli çok oyunculu desteğe sahip olan oyun için sunulan sürümlerden Ultimate Edition'ı tercih edenler, yapıma 96 saat erken erişim sağlayarak 15 Ocak 2027'de oyuna başlayabilecek ve orijinal Titan Quest ile iki ek paketine anında erişebilecek."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "a9017bc5280aa302cfc155b0cfeb137793239355acff43c98f4d42db60c42a30"
+    },
+    {
+      "id": "228c5fb5e8c321d0",
+      "category": "YENİ NESİL YAMA",
+      "title": "Metro Redux Yeni Nesil Güncellemesi Xbox Series X|S Konsolları İçin Yayımlandı",
+      "summary": "4A Games imzalı Metro 2033 ve Last Light Redux, Xbox Series X|S için hazırlanan yeni nesil güncellemesine kavuştu. Ücretsiz güncelleme 4K çözünürlük, 120 fps seçeneği ve haptik tetik desteği getiriyor.",
+      "why": "Metro serisinin modern donanımlara optimize edilmesi, teknik geliştirmelerin detayları ve serinin gelecek oyunu Metro 2039 öncesindeki takvimi duyurulmuştur.",
+      "event_key": "metro-redux-xbox-series-yeni-nesil-guncellemesi",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Resmi teknik bültene dayanan içerik; kare hızı, çözünürlük, yeni nesil kontrolcü entegrasyonu ve Metro 2039'un çıkış tarihini doğrulanmış bilgilerle sunmaktadır."
+      },
+      "brief": "Metro 2033 ve Last Light Redux için Xbox Series X|S yeni nesil güncellemesi ücretsiz yayımlandı. Güncelleme, 60 fps gerçek 4K veya 120 fps yükseltilmiş 4K desteğinin yanı sıra kontrolcü tetik geliştirmeleri sunuyor.",
+      "source_name": "Xbox Wire",
+      "source_url": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update/",
+      "source_published_at": "2026-10-29T16:30:00+00:00",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/METRO-Redux-1-81be11dfea4d5d8f97e7.jpg",
+      "body": [
+        "4A Games tarafından geliştirilen Metro 2033 Redux ve Metro: Last Light Redux, Xbox Series X|S konsolları için yayımlanan ücretsiz yeni nesil güncellemesiyle modernize edildi. Konsol donanımını tam olarak kullanacak şekilde tasarlanan güncelleme, görsel ve teknik tarafta önemli geliştirmeler sunuyor.",
+        "Güncellemeyi indiren kullanıcılar, her iki yapımı da gerçek 4K çözünürlükte 60 fps veya ölçeklendirilmiş 4K çözünürlükte 120 fps performansıyla oynayabiliyor. 4A TSR ölçeklendirme ve kenar yumuşatma teknolojileriyle desteklenen yapımlara; daha ayrıntılı kaplamalar, yenilenmiş ışık ve gölge sistemleri, zenginleştirilmiş çevre detayları ile geliştirilmiş animasyon kalitesi eşlik ediyor. Ayrıca Xbox Ally ve Ally X taşınabilir cihazları için optimizasyon ile Xbox Play Anywhere desteği de pakete dahil edildi.",
+        "Oynanış tarafında ise Xbox kablosuz kontrolcüsünün Impulse Triggers donanımına tam destek verildi; böylece çatışma ve keşif anlarındaki dokunsal geri bildirimler artırıldı. 2010'dan bu yana 50 milyondan fazla oyuncuya ulaşan serinin bu yeni nesil sürümü, 4 Şubat 2027 tarihinde çıkacağı açıklanan Metro 2039 öncesinde seriye dönüş fırsatı sunuyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "1c08395c52c5b212ad87ae3a0771f67198b3ef28806612c99f73851b71091a80"
+    },
+    {
+      "id": "a7f9eb57648f8c6a",
+      "category": "SEKTÖR VE ÇALIŞMA YAŞAMI",
+      "title": "İşten Çıkarmalar Sonrası EA Çalışanları Şirket İçi Belirsizlik ve Düşük Moralden Şikayetçi",
+      "summary": "Electronic Arts'ın 400 kişiyi işten çıkarma ve BioWare stüdyosunu kapatma kararının ardından çalışanlar tepkilerini dile getirdi. Şirket personeli, işten çıkarma süreçlerindeki gizlilik politikasının ve iletişim eksikliğinin moralleri bozduğunu ifade ediyor.",
+      "why": "Oyun dünyasının en büyük yayıncılarından biri olan EA bünyesindeki stüdyo kapanışları, borç yükü ve işten çıkarma politikalarının çalışanlar üzerindeki operasyonel etkilerini açığa çıkarmaktadır.",
+      "event_key": "ea-calisan-morali-ve-yapay-zeka-baskisi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "İçeriden çalışanların tanıklıklarına dayanan haber; işten çıkarma sayılarını, BioWare'in durumunu ve şirketin borç yapısını kaynak metindeki ifadelerle aktarmaktadır."
+      },
+      "brief": "EA'in 400 çalışanını işten çıkarması ve BioWare'i kapatmasının ardından kurum içi belirsizlik tepki çekti. Çalışanlar, Zoom aramaları üzerinden yapılan ve iletişime kapalı işten çıkarma süreçlerinin moralleri ciddi şekilde bozduğunu dile getiriyor.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
+      "source_published_at": "2026-10-29T14:08:30+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Geçtiğimiz hafta çeşitli stüdyolarında 400 çalışanın işine son veren ve BioWare stüdyosunu kapatarak bünyesindeki yaklaşık 50 kişiyi çıkaran Electronic Arts (EA), çalışanların tepkisiyle karşılaştı. Vertical Slice'a konuşan mevcut ve eski şirket çalışanları, işten çıkarmaların ardından kurum içerisinde gizlilik kültürünün hakim olduğunu ve kalan personelin projeleri nasıl sürdüreceği konusunda ciddi bir belirsizlik yaşandığını aktardı.",
+        "Kaynaklar, işten çıkarma bildirimlerinin katılımcı listesi gizlenen ve sohbet özelliği kapatılan Zoom görüşmeleri aracılığıyla yapıldığını belirtti. Bu görüşmelerde çalışanlara soru sorma veya meslektaşlarıyla vedalaşma fırsatı verilmediği ifade edildi. Bir eski çalışan, doğrudan birlikte çalıştığı iş arkadaşlarının kendisinin işten çıkarıldığını ancak LinkedIn üzerinden öğrenebildiğini söylerken, bu durumun şirket tarafından gizlilik politikası olarak savunulduğu ancak çalışanlar arasında tecrit hissi yarattığı bildirildi.",
+        "Şirket içi moralin son derece düşük olduğunu vurgulayan çalışanlar, yönetimin azalan iş gücüne rağmen aynı miktarda iş talep ettiğini ve üretken yapay zeka araçlarına yöneldiğini aktardı. Ayrıca EA'in, Suudi Arabistan Kamu Yatırım Fonu öncülüğündeki bir konsorsiyum tarafından 55 milyar dolara satın alınmasının ardından oluşan 20 milyar dolarlık borcu kapatmak için çalışan refahı yerine kâr odaklı kararlara öncelik verdiği iddia ediliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9d33e7920b5b764dd4632d02238e4e5525494697912c4cadca5a2a3d89764d9a"
+    },
+    {
+      "id": "c90444fd7d104aab",
+      "category": "OYUN KÜLTÜRÜ VE ANMA",
+      "title": "Bethesda ve Oyun Dünyası Patrick Stewart'ı Andı",
+      "summary": "Ünlü aktör Patrick Stewart'ın 86 yaşında hayatını kaybetmesinin ardından Bethesda ve oyun dünyasından isimler taziye mesajları yayımladı. Stewart, The Elder Scrolls IV: Oblivion oyunundaki İmparator Uriel Septim VII rolüyle oyuncuların hafızasında yer etmişti.",
+      "why": "Dünyaca ünlü aktör Patrick Stewart'ın vefatı sonrası oyun sektöründe iz bırakan The Elder Scrolls IV: Oblivion ve Castlevania gibi yapımlardaki katkılarının hatırlanması ve yapımcı stüdyonun resmi açıklaması önem taşımaktadır.",
+      "event_key": "patrick-stewart-vefati-ve-oyun-dunyasinin-anmasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Usta oyuncu Patrick Stewart'ın 86 yaşındaki vefatı ile Bethesda'nın Oblivion oyunundaki rolüne yönelik resmi anma açıklaması ve oyun dünyasındaki yankıları kaynakta yer almaktadır."
+      },
+      "brief": "Aktör Patrick Stewart'ın 86 yaşında yaşamını yitirmesi üzerine Bethesda bir anma mesajı paylaştı. Şirket, The Elder Scrolls IV: Oblivion yapımında İmparator Uriel Septim VII'yi seslendiren Stewart'ı herkes için bir ilham kaynağı olarak nitelendirdi.",
+      "source_name": "IGN",
+      "source_url": "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
+      "source_published_at": "2026-10-29T21:57:00+00:00",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/hv06502wmaayufx-1793310464924.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "body": [
+        "Star Trek ve X-Men serilerindeki rolleriyle tanınan usta aktör Sir Patrick Stewart, 86 yaşında yaşamını yitirdi. Vefat haberinin ardından William Shatner, Kevin Feige ve Hugh Jackman gibi uzun süreli çalışma arkadaşları üzüntülerini paylaşırken oyun dünyasından da taziye mesajları geldi.",
+        "Oyun şirketi Bethesda, The Elder Scrolls IV: Oblivion yapımında İmparator Uriel Septim VII karakterini seslendiren aktör için anma mesajı yayımlayarak kendisini bir imparator, bir kaptan ve herkes için ilham kaynağı olarak tanımladı. Oyunda on dakikadan az bir ekran süresi bulunmasına rağmen geliştirici ekibin karakter için yaklaşık 90 sayfalık ayrıntılı bir arka plan metni hazırladığı, baş yapımcı Todd Howard'ın aktörün bu derinlikten memnun kaldığını ifade ettiği aktarıldı.",
+        "Oblivion dışında Star Trek ve X-Men oyunlarında karakterlerini yeniden seslendiren Stewart, Castlevania: Lords of Shadow yapımında da anlatıcı olarak yer almıştı. Aktörün ailesi, anısına Johns Hopkins Alzheimer Hastalığı Araştırma Merkezi Fonu ile Amerika Alzheimer Vakfı Bakıcı Kaynakları'na bağış yapılmasını tavsiye etti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "6d4ddd3e309b8d29b9c8afe1703cf54db44b83c093014a218d79f4082c70eb0b"
+    },
+    {
+      "id": "e32d7fd7fef86f4d",
+      "category": "SEKTÖR VE PLATFORM",
+      "title": "Valve'dan Steam'deki Yapay Zeka Klon Oyunlarına Karşı Geliştiricilere Tavsiye",
+      "summary": "Valve, Steam platformunda üretken yapay zeka kullanılarak kopyalanan oyunlar karşısında araç kullanımına kısıtlama getiren bir kapı bekçisi olmak istemediğini açıkladı. Şirket temsilcileri, geliştiricilere oyunlarını daha karmaşık ve özgün hale getirerek taklitlere karşı korunmalarını önerdi.",
+      "why": "Steam'de üretken yapay zeka ile üretilen klon oyunlara karşı platformun doğrudan müdahale etmeme tutumunu sergilemesi, bağımsız oyun geliştiricilerini doğrudan ilgilendiriyor.",
+      "event_key": "valve-steam-ai-klon-oyun-yaniti",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Valve iş geliştirme ekibinin Kore'deki konferansta yapay zeka klonları ve platformun araç kısıtlamama yaklaşımına ilişkin açıklamaları aktarılmıştır."
+      },
+      "brief": "Valve yetkilileri, Steam'deki üretken yapay zeka klon oyunlarına yönelik şikayetlere karşı platformun araç kullanımında kapı bekçisi olmak istemediğini açıkladı. Geliştiricilere, topluluk güveni inşa ederek ve yapımlarına kopyalanması zor özgün özellikler ekleyerek kendilerini korumaları tavsiye edildi.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+      "source_published_at": "2026-10-28T14:43:53+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/needle-in-a-haystack-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Kore'de düzenlenen Steam Indie Connect etkinliğinde Valve'ın iş geliştirme ekibinden Tom Giardino ve Marc Wilkinson, üretken yapay zeka kullanılarak hızla kopyalanan oyunlar hakkında değerlendirmelerde bulundu. Bir geliştiricinin yapay zeka ile oyun kopyalama şantajlarına yönelik sorusunu yanıtlayan Giardino, platformun araç kullanımında kapı bekçisi olmak istemediğini dile getirdi.",
+        "Giardino, geliştiricilerin klon oyunlara karşı korunmak için güvenilir ve etkin topluluklar inşa etmeleri gerektiğini aktardı. Resmi sürümün piyasadaki en iyi versiyon olmasının önemine değinen yönetici, geliştiricilere tek bir mekaniğe yaslanmak yerine kendi bakış açılarını, kişiliklerini ve yaratıcılıklarını ekleyerek kopyalanması daha zor, karmaşık yapımlar üretmelerini tavsiye etti.",
+        "Söz konusu açıklamalar, henüz yayımlanmamış Needle in a Haystack Simulator adlı bağımsız oyunun çok sayıda kopyasının Steam'de türemesi tartışmalarının ardından geldi. Valve, platformda yasa dışı unsurlar ve doğrudan suistimaller haricindeki içeriklere geniş serbestlik tanıma politikasını sürdürüyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "ddd5be16614ecb9ff673da30a75c9a0f88b8e5d6b3f145caf8bd89e8790b4d3a"
+    },
+    {
+      "id": "e5f86f8467a3ca5c",
+      "category": "STÜDYO VE ÇALIŞMA YAŞAMI",
+      "title": "Skydance Şirketinde 5 Gün Ofis Zorunluluğu ve Gönüllü Ayrılık Paketi",
+      "summary": "Paramount ve Warner Bros. birleşimiyle oluşan Skydance, çalışanlarına haftada beş gün ofise dönüş zorunluluğu getirdi. Şirket yönetimi ayrıca personele tek seferlik gönüllü ayrılık paketi sundu.",
+      "why": "Paramount'un 110 milyar dolarlık Warner Bros. satın alımının ardından kurulan Skydance'in bünyesindeki oyun stüdyolarını da kapsayan geniş çaplı ofise dönüş ve gönüllü işten çıkış politikası kurumsal çalışma koşullarını doğrudan etkilemektedir.",
+      "event_key": "skydance-warner-bros-paramount-birlestirme-ofis-ve-ayrilik",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 2,
+        "timeliness": 3,
+        "evidence": 3,
+        "reason": "Paramount'un Warner Bros.'u satın almasıyla kurulan Skydance'in şirket içi e-postayla 5 gün ofise dönüş politikasını ve gönüllü ayrılık teklifini duyurduğu kaynakta belgelenmiştir."
+      },
+      "brief": "Paramount ve Warner Bros. birleşimiyle kurulan Skydance, çalışanlarına beş gün ofisten çalışma zorunluluğu getirdi. Şirket içi e-postayla duyurulan kararın yanında personele tek seferlik kıdem tazminatlı gönüllü ayrılık teklif edildi.",
+      "source_name": "Eurogamer",
+      "source_url": "https://www.eurogamer.net/skydance-return-to-office-voluntary-buyouts",
+      "source_published_at": "2026-10-28T13:22:47+00:00",
+      "image_url": "https://assetsio.gnwcdn.com/batman-arkham-spin-offs-gotham-knights.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": [
+        "Paramount'un 110 milyar dolarlık Warner Bros. satın alımıyla bu ayın başlarında kurulan Skydance, çalışanları için haftada beş gün ofisten çalışma zorunluluğu getirdi. Şirket yönetimi bu kararla birlikte personele kıdem tazminatı içeren tek seferlik gönüllü ayrılık paketi sunduğunu açıkladı.",
+        "CEO David Ellison ve eş CEO Ynon Kreiz tarafından gönderilen şirket içi e-postada, yaratıcı fikirlerin yüz yüze iletişimden doğduğu ve fiziksel birlikteliğin şirket için hayati önem taşıdığı belirtildi. Yöneticiler, Paramount'ta gözlemledikleri faydaları tüm Skydance bünyesinde uygulamak istediklerini kaydetti.",
+        "Yeni yapılanma, aralarında NetherRealm, Portkey Games, Avalanche Software ve Paramount Games Studios'un da bulunduğu oyun geliştiricilerini çatısı altına topladı. Ancak hangi departmanların gönüllü ayrılık paketinden yararlanabileceği ve oyun stüdyolarındaki personelin ofise tam olarak ne zaman döneceği henüz netlik kazanmadı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9f2745cab7ab0ef6eebaa7eb5c5dd3b5363f9b8c1827fe6e7f3f3da4b8c9339f"
+    }
+  ],
+  "summary": {
+    "file": "oyun/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 15,
+    "duration": 328.0,
+    "bytes": 1967904,
+    "sha256": "417ce6a3ed3c33d9e75a2ea94a86ba92823b6b1dffda6cb15edad3258e01e04a"
+  },
+  "podcast": {
+    "file": "oyun/podcast.mp3",
+    "title": "Moradon FM",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 15,
+    "duration": 1038.4,
+    "bytes": 16614757,
+    "sha256": "71ef5dc9705eeb37468c3070a86e09adf87da67b0742f247295a7b80af07d3f8"
+  },
+  "audio_revision": 5
+}

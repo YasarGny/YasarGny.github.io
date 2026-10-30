@@ -1,0 +1,442 @@
+{
+  "schema_version": 1,
+  "content_revision": 4,
+  "publication_profile": "daily-v2",
+  "section": "teknoloji",
+  "publish_date": "2026-10-30",
+  "date": "30 Ekim 2026",
+  "issue": 15,
+  "ready": true,
+  "stories": [
+    {
+      "id": "16c4d4b00ee0a754",
+      "category": "SİBER GÜVENLİK",
+      "title": "ABD İç Güvenlik Bakanlığı'na Ait 41 Binden Fazla Çalışanın Bilgileri Sızdırıldı",
+      "summary": "ABD İç Güvenlik Bakanlığı (DHS) ve bağlı kuruluşlarında görev yapan 41 binden fazla çalışan ile yüklenicinin verileri sızdırıldı. Yayımlanan kayıtlarda gizli operasyonlar, dinleme programları ve iç sistem erişim gruplarına ilişkin hassas ayrıntılar yer alıyor.",
+      "why": "Sızıntı, ABD'nin en büyük federal güvenlik kurumlarından birinin gizli operasyonlarını, gözetleme programlarını ve personel yapısını doğrudan ifşa ederek ciddi ulusal güvenlik riskleri yaratıyor.",
+      "event_key": "abd-dhs-ice-personel-verileri-sizintisi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Federal kolluk birimlerine ve gizli operasyon personeline ait 41 binden fazla kaydın ifşa olması, kurumun yapısını ve dinleme programlarını açığa çıkarması bakımından yüksek önem taşır."
+      },
+      "brief": "ABD İç Güvenlik Bakanlığı bünyesindeki 41 binden fazla çalışan ve yükleniciye ait kayıtlar internete sızdırıldı. Veri tabanında gizli operasyonlar, gözetim araçları ve üst düzey yetkililerin erişim yetkileri yer alıyor. Bakanlık, olası ihlali gidermek için çalışma başlattığını bildirdi.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "source_published_at": "2026-10-29T12:58:34+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg",
+      "body": [
+        "Şeffaflık örgütü Distributed Denial of Secrets (DDoSecrets), ABD İç Güvenlik Bakanlığı (DHS) ve yedi bağlı kurumuna ait verileri içeren \"Icepick\" adlı arşivi yayımladı. 19 Ağustos 2026 tarihinde güncellendiği belirtilen kayıtların, kendisini \"Department of Peace\" olarak adlandıran bir gruptan temin edildiği bildirildi.",
+        "WIRED tarafından yapılan analiz, 41 binden fazla çalışan ve yükleniciyi kapsayan verilerin DHS toplam iş gücünün yaklaşık yedide birine denk geldiğini gösterdi. Verilerin yarısından fazlasını Gümrük ve Sınır Muhafaza (CBP) çalışanları oluştururken, Göçmenlik ve Gümrük Muhafaza (ICE) biriminden yaklaşık 10 bin, Vatandaşlık ve Göçmenlik Hizmetleri'nden ise 6 bin 200 personelin bilgisi yer alıyor.",
+        "Sızdırılan belgelerde 55 binden fazla iç erişim grubunun adı geçiyor. Bunlar arasında göçmenlik mahkemesi kayıtları, ele geçirilen telefonlardan veri çekme araçları, Palantir Falcon platformu ve telefon dinleme programları bulunuyor. Ayrıca Minneapolis protestolarının izlenmesini finanse eden gizli operasyon kayıtları ile onaylı gizli operasyon (\"CUC\") birimlerine bağlı ajanların bilgileri yer alıyor. Belgelerde aralarında eski bakan Kristi Noem ve üst düzey yetkililerin yer aldığı listeler de bulunuyor.",
+        "Okta sözcüsü, kendi sistemlerinde herhangi bir güvenlik ihlali tespit edilmediğini açıklarken DHS sözcüsü bakanlığın olası ihlalin farkında olduğunu ve durumu etkili şekilde çözmek için çalışma yürüttüğünü duyurdu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "cab1d52507df7c6a63c5ab771c1f1e00ec08babc54c18cc75621ebb1cfb061a5"
+    },
+    {
+      "id": "2fa2c9ea33362800",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Alphabet'in Piyasa Değeri Yapay Zekâ Maliyetleri Nedeniyle 500 Milyar Dolar Eridi",
+      "summary": "Google'ın ana şirketi Alphabet'in piyasa değeri, arama motorundaki yapay zekâ özetlerinin reklam gelirlerini olumsuz etkilemesi ve harcamaların artması sonucu 500 milyar dolardan fazla geriledi. Şirketin kârı geçen çeyrekte yüzde 25 düşerken serbest nakit akışı eksi 9 milyar doları aştı.",
+      "why": "Arama motoru reklam gelirlerinin yapay zekâ yanıtları nedeniyle daralması ve teknoloji devlerinin rekor düzeydeki nakit harcamalarının finansal sonuçlara baskısı piyasalarda sert yankı buldu.",
+      "event_key": "alphabet-hisseleri-yapay-zeka-arama-reklam-geliri-kaybi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Yapay zekâ dönüşümünün Google arama reklamları üzerindeki doğrudan olumsuz etkisi ve şirketin tek günde 500 milyar dolar değer kaybetmesi piyasalar açısından kritik bir veridir."
+      },
+      "brief": "Google'ın çatı şirketi Alphabet, yapay zekâ harcamalarının kârlılığı baskılaması ve arama reklamı gelirlerini etkilemesi nedeniyle bir günde 500 milyar dolar değer kaybetti. Şirketin hisseleri yüzde 13'e yakın gerilerken benzer harcama baskıları Amazon tarafında da görüldü.",
+      "source_name": "BBC Technology",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "source_published_at": "2026-10-29T22:17:52+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+      "body": [
+        "Google'ın çatı şirketi Alphabet, yılın son faaliyet güncellemesinin ardından Wall Street'te sert bir satış dalgasıyla karşılaştı. Şirketin piyasa değeri perşembe günü 3,97 trilyon dolardan 3,46 trilyon dolara gerileyerek 500 milyar doların üzerinde eridi ve hisseleri yaklaşık yüzde 13 değer kaybetti.",
+        "Alphabet'in üç aylık toplam geliri Google Cloud'un desteğiyle yüzde 25 artarak 127,6 milyar dolara ulaşsa da net kârı yüzde 25 oranında geriledi. Arama motorunda varsayılan hale getirilen yapay zekâ özetlerinin reklam satışlarını etkilediği açıklandı. Şirket, halka açık tarihindeki ikinci negatif serbest nakit akışını kaydederek 9 milyar doların üzerinde nakit açığı verdi.",
+        "Yapay zekâ yatırımlarına ayrılan yüksek sermaye diğer teknoloji devlerini de etkiledi. Amazon, üç aylık satışlarının yüzde 11 artışla 201 milyar dolara çıktığını ancak negatif serbest nakit akışının 42 milyar dolara ulaştığını bildirdi. Şirket hisseleri borsa kapanışı sonrasındaki işlemlerde yüzde 6 düştü.",
+        "Microsoft ise OpenAI yatırımları ve Copilot kullanımındaki artışa karşın yapay zekâ yatırımlarını yaklaşık 5 milyar dolar kıstığını ve işten çıkarmalar planladığını duyurdu. Microsoft hisselerindeki düşüş yüzde 1'in altında sınırlı kaldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "44cb56414730a98d855ff97306f955147919b162e1e88ad9d6ff9fe89195add3"
+    },
+    {
+      "id": "8e8e4f8e579727c9",
+      "category": "SİBER GÜVENLİK",
+      "title": "Binance'te 6,3 Milyar Dolarlık Güvenlik Olayı: Varlıkların Yarısı Donduruldu",
+      "summary": "Kripto para borsası Binance, platformundaki bir güvenlik ihlalinin yaklaşık 6,3 milyar dolarlık varlığı etkilediğini açıkladı. Şirket, diğer platformların desteğiyle etkilenen varlıkların yaklaşık yarısının dondurulduğunu ve tüm zararların karşılanacağını bildirdi.",
+      "why": "Olay, potansiyel olarak kripto para sektöründeki en büyük soygun niteliğini taşıyor ve Bitcoin başta olmak üzere piyasa genelinde doğrudan sert düşüşlere yol açtı.",
+      "event_key": "binance-guvenlik-ihlali-kripto-para-saldirisi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "6,3 milyar dolarlık kripto varlığın etkilenmesi, varlıkların dondurulması için küresel çapta platformlar arası koordinasyon kurulması ve piyasa fiyatlarının sert düşmesi gelişmeyi kritik kılmaktadır."
+      },
+      "brief": "Kripto para borsası Binance, 6,3 milyar dolarlık varlığı etkileyen bir siber olay yaşandığını duyurdu. Şirket, fonların yaklaşık yarısının dondurulduğunu ve tüm zararların karşılanacağını belirtti. Olayın ardından para çekme işlemleri askıya alınırken kripto para piyasalarında sert değer kayıpları görüldü.",
+      "source_name": "BBC Technology",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source_published_at": "2026-10-30T03:34:55+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+      "body": [
+        "Dünyanın en büyük kripto para alım satım platformu Binance, platformunda yaşanan bir güvenlik olayının yaklaşık 6,3 milyar dolarlık varlığı etkilediğini duyurdu. Şirket, ilk incelemelerin bir mühendisin ele geçirilen dizüstü bilgisayarına işaret ettiğini ve bu durumun saldırganın yetkisiz çekimler yapmasına izin verdiğini açıkladı.",
+        "Olayın ardından platformdaki para çekme işlemleri geçici olarak durduruldu. Binance kurucu ortağı ve eş CEO'su Yi He, ortamın güvenli olduğu teyit edilene kadar çekimlerin kapalı kalacağını kaydetti. Şirket, diğer sektör platformlarının yardımıyla söz konusu fonların yaklaşık yarısının dondurulduğunu belirterek tüm kullanıcı kayıplarının karşılanacağını ve soruşturma tamamlandığında kapsamlı bir rapor yayımlanacağını bildirdi.",
+        "Sektör ortakları da güvenlik tedbirlerine destek verdi. Tether yaklaşık 1,6 milyar dolarlık, Circle ise 800 milyon doları aşkın varlığı dondurduğunu duyurdu. ABD Başkanı Donald Trump ve ailesiyle bağlantılı World Liberty Financial firması da çalınan fonların dondurulması için çalıştığını açıkladı. Öte yandan Binance.US ve Coinbase platformları bu olaydan etkilenmediklerini bildirdi.",
+        "Gelişmelerin ardından kripto para piyasasında sert dalgalanmalar yaşandı; Bitcoin fiyatı yüzde 4'ün üzerinde düşerken Ethereum ve Solana gibi diğer büyük kripto varlıklar da belirgin kayıplar kaydetti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e2709a43839a9cb14bd328b0b8e30f621ce4f4437e57e5317fffcec185a6d350"
+    },
+    {
+      "id": "b138df71b1659a33",
+      "category": "YAPAY ZEKÂ",
+      "title": "Mistral Bir Trilyon Parametreli ML4 Modelinin Ağırlıklarını Yayımladı",
+      "summary": "Fransız yapay zeka şirketi Mistral, bir trilyon parametreli açık ağırlıklı yapay zeka modeli Mistral Large 4'ü kullanıma sundu. \"Le Chonk\" lakaplı model, şirketlerin ve kamu kurumlarının siber savunma yeteneklerini kendi altyapılarında çalıştırmasını hedefliyor. Modelin ağırlıkları Hugging Face ve resmi API üzerinden paylaşıldı.",
+      "why": "Açık ağırlıklı amiral gemisi bir modelin bağımsız yerel kurulum imkanı sunması, siber güvenlikte dış platformlara olan bağımlılığı azaltma seçeneği sağlıyor.",
+      "event_key": "mistral-large-4-acik-agirlik-yayinlama",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Mistral'ın bir trilyon parametreli ML4 modelinin açık ağırlıklarını siber güvenlik savunması odağıyla Hugging Face ve API üzerinden yayımlaması."
+      },
+      "brief": "Fransız yapay zeka şirketi Mistral, bir trilyon parametreli Mistral Large 4 modelinin ağırlıklarını Hugging Face ve API üzerinden yayımladı. Siber güvenlik alanını hedefleyen açık ağırlıklı model, şirketlerin ve hükümetlerin tehditlere karşı yerel altyapılarında bağımsız savunma sistemleri kurabilmesine imkan tanıyor.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source_published_at": "2026-10-29T17:00:00+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
+      "body": [
+        "Fransız yapay zeka şirketi Mistral, bir trilyon parametreli Mistral Large 4 (ML4) modelinin ağırlıklarını genel indirmeye açtı. \"Le Chonk\" adıyla anılan model; kamu kurumlarının ve işletmelerin dış servis sağlayıcılara bağımlı kalmadan, sınır düzeydeki yapay zeka kabiliyetlerini kendi sunucularında çalıştırmasını amaçlıyor.",
+        "Mistral, modelin performans açısından açık ağırlıklı Çin menşeli rakibi GLM-5.3 ile benzer düzeyde olduğunu, ancak görev başına yüzde 47 daha az token tüketerek daha ekonomik çalıştığını açıkladı. Şirket ayrıca ML4'ün yapay zeka kıyaslama platformu Artificial Analysis'in Kodlama Ajanı Endeksi'nde tüm açık modelleri geride bıraktığını ifade etti.",
+        "Mistral Bilim Başkan Yardımcısı Pierre Stock, açık ağırlıkların paylaşılmasının kurumların siber saldırılara karşı savunma erişiminin kesilmesini önleyeceğini belirtti. Modelin kod ve bilgi teknolojileri altyapılarındaki tehditleri gerçek zamanlı tespit ve koordine etme amacıyla yerel ortamlarda kullanılabileceği kaydedildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9b01fb0371ec900e259d735a0ec06fd44c81205be88f0a69be840e159e9f83e9"
+    },
+    {
+      "id": "c3c936b327656db6",
+      "category": "YAPAY ZEKÂ",
+      "title": "OpenAI Geri Adım Attı: ChatGPT Pro ve Business Paketlerinde Kullanım Limitleri İki Katına Çıktı",
+      "summary": "OpenAI, kullanıcılardan gelen tepkilerin ardından Pro 200 aboneliğindeki kota indirim planını iptal etti. Şirket, Pro 100, 200, 500 ve Business Premium paketlerindeki kullanım limitlerini iki katına çıkardığını duyurdu.",
+      "why": "Yüksek ücretli abonelikleri kullanan geliştiriciler ve profesyoneller için planlanan kota kesintisinin geri çekilmesi ve limitlerin artırılması, çalışma alanındaki verimliliği doğrudan etkilemektedir.",
+      "event_key": "openai-chatgpt-pro-kullanim-limitleri-iki-katina-cikarma",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 4,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "OpenAI'ın planlanan kota kısıtlamasından kullanıcı tepkileriyle vazgeçmesi ve Pro ile Business Premium katmanlarında limitleri iki katına çıkarması kaynakla tam olarak doğrulanmaktadır."
+      },
+      "brief": "OpenAI, kullanıcılardan gelen tepkilerin ardından ChatGPT Pro 200 paketindeki kotaları düşürmekten vazgeçti. Şirket, Pro ve Business Premium aboneliklerinin kullanım limitlerini iki katına çıkardı; Dots limitleri ise ayrı tutulmaya devam edecek.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "source_published_at": "2026-10-29T19:35:52-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg",
+      "body": [
+        "OpenAI, kullanıcıların tepkileri sonrasında ChatGPT Pro abonelik paketlerinde yapmayı planladığı kota kısıtlamasından vazgeçtiğini bildirdi. Şirket, aylık 200 dolarlık Pro 200 aboneliğinin ücretini sabit tutmasına rağmen, 29 Ekim'den sonra geçerli olmak üzere kullanım kotasını düşürmeyi planlamıştı. Gelen geri bildirimlerin ardından bu karar tamamen geri çekildi.",
+        "X platformunda ChatGPT ve Codex temsilcisi Tibo tarafından yapılan açıklamaya göre, Pro 100, Pro 200, Pro 500 ve Business Premium paketlerinin tüm kullanım limitleri iki katına çıkarıldı. Derhal yürürlüğe giren bu değişiklik, uygun abonelikler altında ortak kullanım kotasını paylaşan ChatGPT Work ve Codex servislerini kapsıyor. Değişiklik sonrasında kullanıcıların Work ve Codex kullanım hakları korunmuş oldu.",
+        "Öte yandan OpenAI, sürekli aktif yapay zeka asistanı olan Dots için sunulan genişletilmiş limitleri şimdilik devam ettireceğini belirtti. Açıklamada, Dots kullanımının standart varsayılan kullanımdan ayrı tutulacağı kaydedildi. Her katman için net sayısal limitler paylaşılmasa da düzenleme, abonelere daha pahalı paketlere geçmeden daha geniş bir çalışma alanı sunuyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9b4425b1ac6d4361ef414c1e0f919af04241ff3c90853b397326a342fb5602df"
+    },
+    {
+      "id": "ccef4b21c6474d37",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Reddit Platforma Giriş Yapma Zorunluluğu Getirmeyi Planlıyor",
+      "summary": "Reddit CEO'su Steve Huffman, platformun gelecekte yalnızca oturum açılarak kullanılabileceğini açıkladı. Karar, arama motorlarından gelen yönlendirme trafiğinde yaşanan belirgin düşüşün ardından alındı. Uygulamanın testlerine dördüncü çeyrekte ABD dışındaki seçili pazarlarda başlanacak.",
+      "why": "Platformun açık web üzerinden anonim ve serbest erişim modelini kısıtlayarak oturum açma zorunluluğu getirmesi, kullanıcı alışkanlıklarını ve reklam gelir stratejisini doğrudan etkiliyor.",
+      "event_key": "reddit-zorunlu-giris-politikasi-logged-in",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Reddit'in arama trafiğindeki düşüş ortamında platformu küresel olarak oturum açma zorunluluğuna taşımayı planlaması ve bu doğrultuda testlere başlaması."
+      },
+      "brief": "Reddit, platformu yalnızca oturum açan kullanıcıların erişebileceği bir yapıya dönüştüreceğini duyurdu. CEO Steve Huffman, arama trafiğinde haftalık bir milyonu aşan düşüş yaşandığını belirtirken, dördüncü çeyrekte seçili pazarlarda zorunlu giriş testlerinin başlayacağını ve bunun reklam hedeflemesine katkı sunacağını açıkladı.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+      "source_published_at": "2026-10-29T21:47:57+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
+      "body": [
+        "Reddit İcra Kurulu Başkanı Steve Huffman, hissedarlara yönelik üçüncü çeyrek değerlendirme mektubunda platformun yalnızca oturum açılarak kullanılabilen bir modele geçeceğini duyurdu. Huffman, bu zorunluluğun kullanıcıların ilgili içeriklere ulaşmasını kolaylaştıracağını, reklam hedeflemeleri için daha fazla veri sinyali sağlayacağını ve Reddit'in veri tabanını korumaya yardımcı olacağını belirtti.",
+        "Bu dönüşüm hamlesi, Reddit'in arama yönlendirme trafiğinde yaşanan düşüşün ardından geldi. Huffman, üçüncü çeyrekte arama kaynaklı trafikte ciddi kayıp yaşandığını, ekim ayında ise bu trafiğin haftada ortalama 1 milyondan fazla azaldığını ifade etti. Bu eğilimin sürmesi halinde şirketin 130 milyonluk günlük aktif tekil kullanıcı sayısının dördüncü çeyrekte çift haneli düşük bir oranda gerileyebileceği öngörülüyor.",
+        "Reddit, zorunlu giriş testlerine dördüncü çeyrekte ABD dışındaki belirli pazarlarda başlayacak ve sonuçlara göre küresel uygulamaya geçecek. Platform daha önce masaüstü sürümünde testler yürütmüş, temmuz ayında ise eski arayüzü olan Old Reddit'e erişim için giriş yapma şartı getirmişti."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "cb49ab26af968a7029e1388ad0659ac5f468f52e73f4f32de2ea2dae8ee85577"
+    },
+    {
+      "id": "e0ae3c716413ea8d",
+      "category": "DİJİTAL DÜNYA",
+      "title": "General Motors Sürücü Verisi İddiaları İçin 220 Milyon Dolar Ödeyecek",
+      "summary": "General Motors, sürücülerin konum ve sürüş davranışı verilerini aracı kurumlara sattığı gerekçesiyle 36 eyaletle 220 milyon dolarlık uzlaşmaya vardı. Şirket veri toplama süreçlerinde açık rıza alacak ve gizlilik uyumunu bağımsız denetime tabi tutacak. Anlaşma, 2024 yılında sonlandırılan Smart Driver programından kaynaklanan yasal süreçleri kapsıyor.",
+      "why": "Bağlantılı araçlardan toplanan hassas sürüş verilerinin üçüncü taraflara ve sigorta şirketlerine aktarılmasına karşı getirilen yasal sınırlamaları ve yaptırımları gösteriyor.",
+      "event_key": "general-motors-surucu-verileri-220-milyon-dolar-uzlasma",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 4,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "GM'nin sürücü verilerini izinsiz satma suçlamaları sebebiyle 36 eyaletle 220 milyon dolarlık uzlaşmaya varması ve veri süreçlerine açık rıza ile üçüncü taraf denetimi şartı getirilmesi."
+      },
+      "brief": "General Motors, sürücülerin konum ve sürüş bilgilerini izinsiz satma iddiaları nedeniyle 36 ABD eyaletine 220 milyon dolar ödemeyi kabul etti. Uzlaşma gereğince şirket veri toplamak için açık rıza alacak, bağımsız denetimden geçecek ve kişisel verilerin satışına son verecek.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "source_published_at": "2026-10-29T21:01:04+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1200,800",
+      "body": [
+        "General Motors (GM), sürücülerin özel sürüş davranışlarını ve konum bilgilerini veri komisyoncularına yasa dışı biçimde sattığı iddialarını çözmek amacıyla 36 ABD eyaletine 220 milyon dolar ödemeyi kabul etti. 36 eyaletin başsavcılar koalisyonu tarafından açılan davada, toplanan bu verilerin LexisNexis ve Verisk gibi veri komisyoncularına, oradan da sigorta primlerini etkileyecek biçimde sigorta şirketlerine satıldığı belirtiliyordu.",
+        "Varılan uzlaşma uyarınca GM, sürücülerin konum ve sürüş verilerini toplamadan ya da paylaşmadan önce kullanıcıların açık rızasını almak zorunda olacak. Anlaşma ayrıca otomobil üreticisinin uyguladığı gizlilik programına uyumunun bağımsız bir üçüncü tarafça değerlendirilmesi şartını getiriyor. Şirket, söz konusu iddialara kaynaklık eden ve araç içi uygulamalarla emniyet kemeri kullanımı ile sürüş biçimini izleyen Smart Driver ürününü 2024 yılında sonlandırmıştı.",
+        "GM yetkilileri, bir bireye, araç konumuna veya sürüş şekline bağlanabilecek araç verilerini artık satmayacaklarını, ancak belirli ortaklarla kişisel bilgi içermeyen anonim verileri paylaşmayı sürdürebileceklerini bildirdi. Şirket ayrıca gizlilik politikasını güncelleyerek tüketicilere yönelik bir Gizlilik Merkezi oluşturdu."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9e7fcdacec601cc3c036de0c8b48f606d88ef57530a3578067c2d99b89632d58"
+    },
+    {
+      "id": "85248bd11eaa5ccd",
+      "category": "DİJİTAL DÜNYA",
+      "title": "ABD Yabancı Sanayi Robotlarını Ulusal Güvenlik Tehdidi İlan Etti",
+      "summary": "ABD Başkanı Donald Trump, yabancı yapay sanayi robotlarının ithalatını ulusal güvenlik tehdidi olarak nitelendiren bir başkanlık kararnamesi imzaladı. Kararname kapsamında ticaret ortaklarıyla 180 gün içinde müzakereler yürütülmesi talimatı verildi. Süreç içinde anlaşma sağlanamazsa gümrük vergileri ve kotalar uygulanabilecek.",
+      "why": "ABD'nin yerli robot üretiminin ulusal güvenlik ihtiyaçlarını karşılamadığı bir ortamda, yabancı sanayi robotlarına gelebilecek tarifelerin kritik imalat sektörlerine getireceği maliyet riskini yansıtıyor.",
+      "event_key": "abd-baskanlik-endustriyel-robot-ithalati-ulusal-guvenlik-tehdidi",
+      "editorial_priority": {
+        "impact": 4,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Başkanlık kararnamesiyle yabancı sanayi robotlarının ulusal güvenlik tehdidi ilan edilmesi ve 180 günlük müzakere sürecinin ardından olası gümrük vergilerinin öngörülmesi."
+      },
+      "brief": "ABD Başkanı Donald Trump, yabancı sanayi robotlarının ithalatını ulusal güvenlik tehdidi ilan etti. Yayımlanan kararname, ticaret ortaklarıyla 180 gün içinde müzakere yapılmasını emrederken; uzlaşma sağlanamaması halinde otomotiv ve savunma gibi kritik sektörleri etkileyebilecek yeni gümrük vergileri ve kotalar uygulanabileceğini bildiriyor.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "source_published_at": "2026-10-29T19:07:53+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
+      "body": [
+        "ABD Başkanı Donald Trump, 28 Ekim tarihinde yayımladığı başkanlık kararnamesiyle yabancı üretim fabrika robotlarının ithalatını ulusal güvenlik tehdidi ilan etti. Ticaret Bakanı Howard Lutnick yönetimindeki bir soruşturmaya dayandırılan kararnamede, sanayi robotlarının askeri silah sistemleri üretimi ve kritik altyapılar için temel bir güç olduğu, ithalatın ise ABD sanayi tabanına ve rekabet gücüne risk oluşturduğu öne sürüldü.",
+        "Kararnamede ayrıca ithal robotların ciddi siber güvenlik açıkları barındırabileceği kaydedildi. Trump, ticaret ortaklarıyla robot, endüstriyel makine ve bileşenlerin ithalatını düzenlemek üzere 180 gün içinde yeni anlaşmalar yapılmasını emretti. Bu süre zarfında anlaşmaya varılamaması halinde gümrük vergileri, ek harçlar ve kotaların devreye sokulabileceği uyarısında bulunuldu.",
+        "Uluslararası Robotik Federasyonu verilerine göre ABD, 2025'te kurulan yaklaşık 38 bin 500 yeni sanayi robotuyla dünyanın en büyük ikinci pazarı konumunda bulunuyor. Kararnamede, ABD'li yerli robot üreticilerinin ulusal güvenlik ihtiyaçlarını karşılayacak düzeyde üretim yapamadığı ve ülkenin ağır sanayi robotlarında Japonya, İsviçre ve Almanya merkezli yabancı üreticilere bağımlı olduğu da kabul edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "18addc3da25bea904cd4e47d7b5c2c665c106dffbf7bd2b3a501978658db945f"
+    },
+    {
+      "id": "d9e57218237adad6",
+      "category": "YAPAY ZEKÂ",
+      "title": "Google Gemini Uygulamasına Doğrudan Belge ve Dosya Düzenleme Özelliği Eklendi",
+      "summary": "Google, Gemini uygulamasında doğrudan belge, sunum, kod ve PDF oluşturma, önizleme ve düzenleme imkanı sundu. Yeni özellikler tüm kullanıcılara ve dillerde erişime açıldı.",
+      "why": "Yapay zeka asistanının harici ofis uygulamalarına yönlendirmeden doğrudan sohbet ekranında dosya üretip düzenleyebilmesi, içerik oluşturma süreçlerini hızlandırıyor.",
+      "event_key": "google-gemini-sohbet-ici-dosya-duzenleme-araci",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 4,
+        "evidence": 4,
+        "reason": "Gemini uygulamasına eklenen doğrudan belge ve PDF düzenleme özelliklerinin kapsamı, platform destekleri ve dil kullanılabilirliği kaynaktaki duyuruya tam olarak dayanmaktadır."
+      },
+      "brief": "Google Gemini, sohbet ekranından çıkmadan metin, hesap tablosu, kod ve PDF dosyalarını doğrudan düzenleme ve önizleme desteği kazandı. PDF düzenleme mobil ve webde sunulurken diğer biçimler yalnızca webde destekleniyor.",
+      "source_name": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+      "source_published_at": "2026-10-29T16:15:00+00:00",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-1440x810.png",
+      "body": [
+        "Google, Gemini yapay zeka uygulamasında belgeler, sunumlar, hesap tabloları ve kod dosyalarının doğrudan sohbet penceresi içinden oluşturulup düzenlenebilmesine olanak tanıyan yeni araçları tanıttı.",
+        "Kullanıcılar artık oluşturulan dosyaları tam ekrana genişleterek doğrudan üzerinde yazılı değişiklik yapabiliyor, belirli metinleri vurgulayarak Gemini'a sorular yöneltebiliyor veya dosyayı yapay zekaya yeniden düzenletebiliyor. Örneğin el yazısı ders notlarından bir PDF çalışma kılavuzu hazırlatılıp ardından içeriği manuel olarak düzenlemek mümkün hale geldi.",
+        "Platform desteğinde dosya türlerine göre ayrım bulunuyor; PDF dosyalarını önizleme ve düzenleme yeteneği hem web hem de mobil cihazlarda kullanılabiliyor. Google Dokümanlar, Google E-Tablolar, slaytlar, Markdown, düz metin ve kod biçimlerindeki diğer dosyaların doğrudan düzenlenmesi ise yalnızca web sürümünde destekleniyor. Özellikler, Gemini uygulamasının sunulduğu tüm dillerde ve tüm kullanıcılar için yayına alındı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "e14f3ead8e31a5ee0439786c61b5fb4bc60d92dbd87eed3c05102104070bd9c7"
+    },
+    {
+      "id": "4b2c059bd94e7ed8",
+      "category": "BİLİM",
+      "title": "Sahra Çölü'nde Bulunan 4,1 Milyar Yıllık Mars Göktaşı İncelendi",
+      "summary": "2022 yılında Sahra Çölü'nde keşfedilen Teghaza 001 adlı göktaşının 4,1 milyar yılı aşkın bir süre önce Mars'ta oluştuğu belirlendi. Science dergisinde yayımlanan çalışma, meteoritin kızıl gezegenin antik kabuğu ve su etkileşimlerine ışık tuttuğunu gösterdi.",
+      "why": "Mars'tan gelen yaklaşık 435 göktaşı arasında en eskilerden biri olan Teghaza 001, gezegenin erken evresindeki kabuk oluşumu ve su döngüsü hakkında doğrudan jeokimyasal kanıt sunmaktadır.",
+      "event_key": "mars-goktasi-teghaza-001-krater-eslesmesi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Science dergisinde yayımlanan hakemli çalışma, yaklaşık 800 gramlık Mars göktaşının 4,1 milyar yıllık geçmişini ve gezegenin erken su döngüsünü doğrulamıştır."
+      },
+      "brief": "Sahra Çölü'nde 2022 yılında bulunan Teghaza 001 adlı göktaşının 4,1 milyar yılı aşkın yaşıyla Mars'tan gelen en eski meteoritlerden biri olduğu kanıtlandı. Mineral analizi, erken Mars dönemindeki su ve magmatik kabuk etkileşimine dair kritik veriler sağlıyor.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "source_published_at": "2026-10-29T18:18:09+00:00",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
+      "body": [
+        "Mali'deki bir tuz düzlüğünde 2022 yılında bulunan ve Teghaza 001 adı verilen yaklaşık 800 gramlık göktaşının, 4,1 milyar yılı aşkın bir süre önce Mars'ta oluştuğu tespit edildi. NASA destekli bilim insanlarının Science dergisinde yayımladığı çalışma, Teghaza 001'in Dünya'da keşfedilen yaklaşık 435 Mars meteoriti arasında en eski örneklerden biri olduğunu ortaya koydu. Araştırmacılar, bulguların erken Mars'ta su ve kayaçların nasıl etkileşime girdiğine yönelik sorulara ışık tuttuğunu açıkladı.",
+        "NASA'nın Güney Kaliforniya'daki Jet İtki Laboratuvarı'ndan (JPL) Yang Liu liderliğinde yürütülen çalışmada, göktaşının magmatik mineral çeşitliliği ve dokusu incelendi. Teghaza 001'in ALH84001 ve yaklaşık 2,1 milyar yaşındaki 'Black Beauty' ile birlikte yeryüzündeki en eski üç Mars göktaşından biri olduğu kaydedildi. Meteoritin mineral yapısının, Mars Reconnaissance Orbiter uydusunun gezegenin kraterli güney yaylalarında gözlemlediği verilerle uyumlu olduğu belirlendi.",
+        "Araştırma sürecinde Caltech'ten Francois Tissot tarafından geliştirilen ve numuneyi tamamen eritmek yerine yüzeydeki tekil mineral tanelerini analiz eden yerinde rubidyum-stronsiyum yaş tayini yöntemi kullanıldı. Zirkon kristalleri ve oksijen izotopları üzerinden yapılan incelemeler, kayacın yaklaşık 4,1 milyar yıl önce Mars suyu tarafından başkalaşıma uğradığını ve ilk oluşumunun daha da eskiye dayandığını gösterdi. Bilim insanları, bu verilerin erken Mars'ta sanılandan daha dinamik bir su döngüsüne işaret ettiğini bildirdi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "98a0a7426df7cbe45ac86961be35cc3a21f064e7958683206d760b6c7b462b7b"
+    },
+    {
+      "id": "77d6bd61a607ad83",
+      "category": "YAZILIM",
+      "title": "Windows 11 Sağ Tık Menüsü Özelleştirilebilir Hale Geliyor: Buluttan Kurtarma Özelliği Yolda",
+      "summary": "Microsoft, Windows 11 için yayımladığı önizleme güncellemesinde sağ tık menüsünü özelleştirilebilir hale getirdi ve önyükleme yapmayan cihazlar için buluttan kurtarma aracını tanıttı. Güncelleme, Windows OEM gelirlerindeki sert düşüşün yaşandığı bir döneme denk geldi.",
+      "why": "Windows 11 kullanıcılarının menü düzenine yönelik uzun süredir devam eden şikayetlerinin çözülmesi ve harici belleğe ihtiyaç duymadan buluttan kurulum yapılabilmesi sistem yönetimi açısından önem taşıyor.",
+      "event_key": "windows-11-kb5127936-sag-tik-ve-cloud-rebuild",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "Windows 11 için KB5127936 güncellemesiyle gelen sağ tık menüsü özelleştirmesi ve buluttan kurtarma özelliği, şirketin mali verileriyle birlikte somut detaylarla kaynakta yer almaktadır."
+      },
+      "brief": "Microsoft, Windows 11 önizleme güncellemesiyle sağ tık menüsünü kullanıcıların düzenlemesine izin veren bir seçenek ve önyükleme yapmayan bilgisayarlar için buluttan kurtarma özelliği getirdi. Şirketin Windows OEM gelirlerinde ise düşüş sürüyor.",
+      "source_name": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "source_published_at": "2026-10-29T20:18:49+00:00",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
+      "body": [
+        "Microsoft, Windows 11 kullanıcılarının sağ tık menüsüne yönelik uzun süredir dile getirdiği şikayetleri hedefleyen yeni bir önizleme güncellemesi başlattı. KB5127936 kodlu toplu güncelleme, Windows 11'in 25H2 ve 26H2 sürümleri için kademeli olarak dağıtıma açıldı ve genel kullanıma ulaştığında tüm uyumlu cihazlara sunulacak.",
+        "Güncelleme ile birlikte kullanıcılar sağ tıkladıklarında bir menü özelleştirme düğmesiyle karşılaşacak. Bu panel üzerinden 'Gönder' veya 'Kısayol Oluştur' gibi yerleşik komutlar açılıp kapatılabilecek, ana menüdeki komutların sırası değiştirilebilecek ve üçüncü taraf yazılım eklentilerinin ana menüde mi yoksa alt menüde mi gösterileceği seçilebilecek.",
+        "Yeni sürüm ayrıca, açılmayan bilgisayarlar için 'Cloud Rebuild' adlı buluttan kurtarma seçeneğini içeriyor. Bu araç, harici bir kurtarma medyasına ihtiyaç duymadan Windows Update üzerinden gerekli sistem imajını ve sürücüleri indirerek doğrudan yükleme yapıyor. Ancak bu işlem bir onarımdan ziyade temiz kurulum gibi çalışıyor ve mevcut dosya ile uygulamaları korumuyor.",
+        "Güncelleme duyurusu, Microsoft'un Windows OEM gelirlerinde yıllık yüzde 27 ila 28 düşüş açıkladığı çeyrek dönem raporunun hemen ardından geldi. Şirketin Surface serisini de kapsayan donanım ve OEM birimi yüzde 22 gerilerken, Azure platformundaki yüzde 48'lik büyüme toplam geliri dengeledi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "9986d841afa2515cf02428a0535d8792cf5d8976b33c744d2c5dce8d2291111d"
+    },
+    {
+      "id": "c64d19fa0032f9ce",
+      "category": "DİJİTAL DÜNYA",
+      "title": "OpenAI Destekli Thrive Holdings Güvenlik Şirketi ADT'yi Satın Aldı",
+      "summary": "Thrive Capital'in holding kuruluşu Thrive Holdings, fiziksel güvenlik sağlayıcısı ADT'yi hisse başına 10 dolar bedelle yaklaşık 7,6 milyar dolarlık özkaynak değeri üzerinden satın aldı. Borçlar dahil toplam kurumsal değerin 15,3 milyar dolar olduğu açıklandı.",
+      "why": "Geleneksel ev güvenliği pazarının liderlerinden birinin yapay zekâ modelleri ve uzmanlığıyla dönüştürülmesini amaçlayan 15,3 milyar dolarlık dev bir kurumsal birleşmedir.",
+      "event_key": "thrive-holdings-adt-satin-almasi-openai",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "ADT ve Thrive Holdings tarafından resmen duyurulan anlaşma, 7,6 milyar dolarlık hisse ve 15,3 milyar dolarlık toplam kurumsal değer verilerini içermektedir."
+      },
+      "brief": "OpenAI destekli Thrive Holdings, fiziksel güvenlik firması ADT'yi 7,6 milyar dolarlık hisse bedeli ve 15,3 milyar dolarlık toplam kurumsal değerle bünyesine kattı. Anlaşma kapsamında OpenAI, ADT'nin akıllı ev sistemlerine yapay zekâ teknolojisi ve mühendislik desteği sunacak.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source_published_at": "2026-10-29T19:56:19+00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/ADT-logo.jpg?resize=1200,800",
+      "body": [
+        "Thrive Capital'den ayrılan bir holding yapılanması olan Thrive Holdings, fiziksel güvenlik şirketi ADT'yi hisse başına 10 dolar ödeyerek yaklaşık 7,6 milyar dolarlık özkaynak değeri karşılığında satın aldığını duyurdu. Şirketler tarafından yapılan açıklamada, borçlar da dahil edildiğinde anlaşmanın toplam kurumsal değerinin 15,3 milyar dolara ulaştığı bildirildi.",
+        "Bünyesinde 75'ten fazla şirket barındıran ve bunları yapay zekâ ile dönüştürmeyi hedefleyen Thrive Holdings'in ortağı ve yatırımcısı konumunda OpenAI bulunuyor. Yapılan ortaklık kapsamında OpenAI, Thrive bünyesindeki şirketlere yapay zekâ modelleri ve teknolojisinin yanı sıra sahada görev yapan mühendis desteği sağlıyor. Satın almanın ardından ADT'nin, Thrive Holdings'in akıllı ev güvenliği faaliyetlerinin temelini oluşturacağı kaydedildi.",
+        "Taraflar hangi yeni yapay zekâ tabanlı güvenlik ürünlerinin sunulacağına ilişkin detay vermezken, yeni yatırımlar yapılarak ürünlerin piyasaya sürüleceği bilgisini paylaştı. Halihazırda Apple ve Google ile ortaklıkları bulunan ADT'nin bu işbirliklerini sürdürmesi beklenirken, Apple'ın LG ve Schneider Electric işbirlikleriyle akıllı ev sektörüne girmesi ve Amazon'un yapay zekâlı kameralarını güncellemesi gibi gelişmelerle birlikte sektördeki rekabetin arttığı ifade edildi."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "add0b5abf572669cac9f8c3551ebdb3252f1e39787e2612656e32657d32710b3"
+    },
+    {
+      "id": "e1215293558dcf35",
+      "category": "SİBER GÜVENLİK",
+      "title": "Chrome Mağazasında 13 Milyondan Fazla Yüklenen Uzantılar Arama Yönlendirmesi Yaparken Yakalandı",
+      "summary": "Socket araştırmacısı John Tuckner, 13,4 milyondan fazla yükleme sayısına ulaşan 319 Chrome uzantısının kullanıcı aramalarını ele geçirdiğini ortaya çıkardı. Sahte işlevler sunan bu uzantılar, aramaları şüpheli proxy sunucuları üzerinden Bing ve Yahoo'ya yönlendirerek reklam geliri elde ediyor.",
+      "why": "Geniş bir kullanıcı kitlesini etkileyen bu siber faaliyet, tarayıcı ayarlarını suistimal ederek kullanıcı trafiğini denetimsiz sunuculara yönlendiriyor ve gelecekte kimlik avı ile kötü amaçlı yazılım riskleri barındırıyor.",
+      "event_key": "chrome-uzantilari-arama-yonlendirme-manipulasyonu",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "13,4 milyon kuruluma ulaşan 319 uzantının arama motoru ayarlarını ele geçirdiğini ortaya koyan teknik araştırma raporu belgelenmiştir."
+      },
+      "brief": "Socket araştırmacısı, toplam 13,4 milyon kuruluma sahip 319 Chrome uzantısının kullanıcı aramalarını gizlice şüpheli proxy sunucuları üzerinden Bing ve Yahoo'ya yönlendirdiğini belirledi. Şüpheli reklamlarla yayılan uzantıların çoğu resmi mağazadan kaldırıldı ancak yeni varyantların eklenmeye devam ettiği aktarılıyor.",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "source_published_at": "2026-10-29T12:10:31-04:00",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Chrome.jpg",
+      "body": [
+        "Socket araştırmacısı John Tuckner tarafından yayımlanan rapor, toplamda 13,4 milyon kez yüklendiği bildirilen 319 Chrome uzantısının kullanıcı aramalarını yönlendirdiğini ortaya koydu. Nisan 2025'te 6 milyon kullanıcıya sahip 57 uzantının bulunmasının ardından genişletilen incelemede, 8,7 milyon kullanıcısı olan 264 yeni eklenti daha saptandı. Uzantıların organize gruplar tarafından varsayılan arama motorunu ele geçirip sorguları proxy sunucuları üzerinden geçirerek Yahoo veya Bing ortaklık kimlikleri üzerinden gelir sağlamak amacıyla kullanıldığı belirtildi.",
+        "PDF dönüştürücü, kılavuz bulucu, güvenli arama ve yapay zekâ arama araçları gibi tanıtılan bu yazılımların, Chrome Web Mağazası'nda yer almasına rağmen arama sonuçlarında gizlendiği (unlisted) ve web sitelerindeki şüpheli reklamlarla dağıtıldığı açıklandı. Birçok eklentinin neredeyse hiç kod barındırmadığı, yalnızca Chrome'un 'chrome_settings_overrides' ayarını kullanarak varsayılan arama sağlayıcısını değiştirdiği kaydedildi. İncelenen bazı örneklerde arka plan veya içerik betiklerinin dahi bulunmadığı görüldü.",
+        "Araştırmacı Tuckner, mevcut sistemin reklam geliri üretmeye odaklanmasına karşın nihai hedefin uzantı güncellenmeden kimlik avı sitelerine veya zararlı indirmelere dönüştürülebileceği uyarısında bulundu. Örneğin 'Predator Search' uzantısıyla yapılan altı aramada dört farklı adrese yönlendirme yapıldığı tespit edildi. Rapor yayımlandığında bahsi geçen eklentilerin büyük bölümünün Chrome Web Mağazası'ndan kaldırıldığı, ancak yeni uzantıların eklenmeye devam ettiği ve kullanıcıların şüpheli eklentileri kaldırıp antivirüs taraması yapması gerektiği aktarıldı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "66d5a817b8dcf459ba4c6e8017d416748adc7c8a9d18e7b820281da6d9497f8d"
+    },
+    {
+      "id": "e8ef3e560ba0ed56",
+      "category": "DİJİTAL DÜNYA",
+      "title": "DoorDash, Rakibi Instacart'ı 17 Milyar Dolara Satın Alıyor",
+      "summary": "Teslimat devi DoorDash, market teslimat platformu Instacart'ı 17 milyar dolarlık anlaşmayla bünyesine katacağını açıkladı. Satın almanın tamamlanması halinde ABD'nin en büyük iki market teslimat şirketi birleşmiş olacak.",
+      "why": "ABD'nin en büyük iki çevrim içi market teslimat platformunu tek çatı altında toplayan dev bir kurumsal birleşme niteliği taşımaktadır.",
+      "event_key": "doordash-instacart-satin-alma-anlasmasi",
+      "editorial_priority": {
+        "impact": 3,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "ABD pazarındaki iki büyük market teslimat devinin 17 milyar dolara birleşmesi önemli bir ticari gelişmedir; süreç antitröst incelemesi şartına bağlıdır."
+      },
+      "brief": "DoorDash, market siparişi platformu Instacart'ı 17 milyar dolar değerinde bir anlaşmayla satın almak üzere anlaştı. İki büyük platformun birleşmesi antitröst denetimine tabi olacak. DoorDash bu adımla market alışverişi ağını genişletmeyi hedefliyor.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger/",
+      "source_published_at": "2026-10-29T12:24:06+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/doordash-acquires-instacart-in-17-billion-delivery-service-merger/l-intro-1793276637.jpg",
+      "body": [
+        "ABD merkezli çevrim içi teslimat platformu DoorDash, rakibi Instacart'ı satın almak üzere 17 milyar dolar değerinde bir anlaşmaya vardığını duyurdu. Bu işlem, antitröst engeline takılmaması durumunda ABD'deki en büyük iki market teslimat hizmetini tek çatı altında birleştirecek.",
+        "Restoran siparişleriyle büyüme kaydeden DoorDash, bir süredir sunduğu market teslimatı operasyonlarını Instacart'ın ağıyla güçlendirmeyi hedefliyor. Şirket, genişleme stratejisi doğrultusunda bu yılın başlarında dronla teslimat programını da test etmeye başlamıştı.",
+        "İki şirket 2021 yılında da daha yüksek bir şirket değerlemesi üzerinden görüşmeler yürütmüş ancak fiyat anlaşmazlığı ve antitröst düzenlemeleri konusundaki endişeler nedeniyle masadan kalkmıştı. Instacart'ın satış seçeneklerini değerlendirdiğine ve Uber'in de potansiyel alıcılar arasında yer aldığına dair iddialar daha önce basına yansımıştı."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "4da8a4baec95a4651566f58ead4a10d9a02cf4c71332ea23b6e2dfbeefdd8fb6"
+    },
+    {
+      "id": "c27eba7c6b5ea611",
+      "category": "DİJİTAL DÜNYA",
+      "title": "Hayran Kurgu Sitesi AO3 Bakıma Alındı: Kesinti Haftalarca Sürebilir",
+      "summary": "Dünyanın en popüler fan kurgu platformlarından Archive of Our Own (AO3), bakım çalışmaları gerekçesiyle çevrim dışı bırakıldı. Başlangıçta 12 saat sürmesi beklenen kesintinin 4 haftaya kadar uzayabileceği açıklandı.",
+      "why": "Milyonlarca esere ve geniş bir küresel okuyucu kitlesine ev sahipliği yapan bağımsız bir platformun beklenmedik şekilde haftalarca kapalı kalacak olması hayran kurgu topluluğunu etkiliyor.",
+      "event_key": "ao3-guvenlik-ihlali-ve-kapali-kalma-sureci",
+      "editorial_priority": {
+        "impact": 2,
+        "development": 3,
+        "timeliness": 3,
+        "evidence": 4,
+        "reason": "AO3'ün çevrim dışı kalma süresi, OTW'nin resmi açıklamaları ve veri güvenliğine dair doğrulanmış detaylar kaynakla uyumludur; kesinleşmemiş ihlal iddiaları gerekçeden arındırılmıştır."
+      },
+      "brief": "Archive of Our Own platformu bakım çalışmaları nedeniyle erişime kapatıldı. Sitedeki verilerin güvende olduğu belirtilirken, hizmetin tamamen geri dönmesinin iki ila dört hafta sürebileceği açıklandı.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
+      "source_published_at": "2026-10-29T21:18:22+00:00",
+      "image_url": "https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg",
+      "body": [
+        "Dünya çapında milyonlarca hayran kurgusuna ev sahipliği yapan Archive of Our Own (AO3), planlı bakım gerekçesiyle çevrim dışı bırakıldı. Platformun kurucusu olan kâr amacı gütmeyen Organization for Transformative Works (OTW), Doğu Zaman Dilimi ile sabah 03.00'ten hemen sonra siteyi kapattı.",
+        "Başlangıç durum sayfasında bakımın yalnızca 12 saat süreceği belirtilmişti; ancak yetkililer daha sonra bu sürenin iki ila dört haftayı bulabileceğini duyurdu. Yapılan açıklamada, tam çözüm sağlanana kadar sitenin daha erken bir tarihte kısıtlı işlevlerle açılabileceği, ancak bu süreçte geçici kesintilerin yaşanabileceği ifade edildi.",
+        "Mevcut duruma yol açan teknik neden tam olarak açıklanmazken, r/AO3 moderatörlüğünü yürüten eski bir gönüllü sitenin verilerinin bozulmadığını ve içeriklerin güvende olduğunu aktardı. OTW, 23-24 Ekim tarihleri arasında e-posta bildirimleri, arama, geçmiş ve listelemelerde sorunlar kaydetmişti. Bakım ve altyapı işlerinin gönüllü mühendisler tarafından yürütülmesinin onarım sürecini uzatabileceği belirtiliyor."
+      ],
+      "body_reviewed": true,
+      "body_sha256": "683188a8e5cf20d75f1c60dd7035b1535e927fcba7bf40ed40474ec409d9a38b"
+    }
+  ],
+  "summary": {
+    "file": "teknoloji/summary.mp3",
+    "title": "Günün Özeti",
+    "episode": 15,
+    "duration": 298.4,
+    "bytes": 1790208,
+    "sha256": "606c844bfb98538b24f3c65aa5c4b06e7fa3d6f41d7dea0897e6089bb799f8e6"
+  },
+  "podcast": {
+    "file": "teknoloji/podcast.mp3",
+    "title": "Yeni Sekme",
+    "hosts": [
+      "Yaşar",
+      "Necdet"
+    ],
+    "episode": 15,
+    "duration": 721.9,
+    "bytes": 11550764,
+    "sha256": "e4a2f38e5bc640ef68f0d77700a1a9ea98977fa354ec13737ff4033641ba4a90"
+  },
+  "audio_revision": 5
+}
