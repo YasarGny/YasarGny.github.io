@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
   "enabled": true,
+  "automation_enabled": true,
   "podcasts": {
     "teknoloji": true,
     "oyun": true
