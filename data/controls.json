@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
   "enabled": true,
-  "automation_enabled": true,
+  "automation_enabled": false,
   "podcasts": {
     "teknoloji": true,
     "oyun": true
-  }
+  },
+  "retained_release_id": "2026-10-30-d36053465e057015"
 }
